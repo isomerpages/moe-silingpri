@@ -19,3 +19,22 @@ links:
         url: /about-us/privacy-map
       - title: Sitemap
         url: /about-us/sitemap
+  - title: Signature Programmes
+    url: /signature-programmes
+    sublinks:
+      - title: "G.R.I.T.@SLPS "
+        url: /signature-programmes/grit-slps
+      - title: E.L. Monthly Odyssey
+        url: /signature-programmes/elmonthlyodyssey
+      - title: Learning for Life Programme
+        url: /signature-programmes/lflp
+      - title: Play and Learn Math
+        url: /signature-programmes/palm
+      - title: P1 Transitional Programme
+        url: /signature-programmes/p1transitionalprogramme
+      - title: ALP (Environmental Science)
+        url: /signature-programmes/alp-environmentalscience
+      - title: A.C.E. Programme
+        url: /signature-programmes/ace
+      - title: Lead Our Lives with Purpose
+        url: /signature-programmes/lolwithpurpose
