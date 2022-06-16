@@ -1,13 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Rules and Attire
+        url: /about-us/our-rules-and-attire
+      - title: Our School
+        url: /about-us/our-school
+      - title: Our People
+        url: /about-us/our-people
+      - title: Our School Advisory Committee
+        url: /about-us/our-school-advisory-committee
+      - title: Privacy Statement
+        url: /about-us/privacy-statement
+      - title: Location Map
+        url: /about-us/privacy-map
+      - title: Sitemap
+        url: /about-us/sitemap
