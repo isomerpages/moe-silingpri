@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Malay/Program and Aktiviti.md
       - Malay/.keep
       - Chinese/.keep
       - Chinese/Activities and Programme.md
