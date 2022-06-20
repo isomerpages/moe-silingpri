@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Physical Education/Physical Education Curriculum.md
       - Physical Education/Overview.md
       - Physical Education/.keep
       - Student Development/.keep
