@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - HBL and SLS.md
       - Recognition Day 2021/.keep
       - Recognition Day 2021/Primary 3.md
       - Recognition Day 2021/Primary 4.md
