@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Student Development/.keep
       - InfoComm Technology/.keep
       - InfoComm Technology/Overview.md
       - InfoComm Technology/Our Unique Programmes.md
