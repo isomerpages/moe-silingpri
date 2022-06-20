@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese/Resources for Parents.md
       - Chinese/Competitions and Awards.md
       - Chinese/Cultural Programme.md
       - Chinese/Activities and Programme.md
