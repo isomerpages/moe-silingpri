@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - English/Reading.md
       - English/Programmes.md
       - English/.keep
       - Mathematics/Overview.md
