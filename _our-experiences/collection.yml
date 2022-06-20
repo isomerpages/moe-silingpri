@@ -2,10 +2,10 @@ collections:
   our-experiences:
     output: true
     order:
-      - Co Curricular Activities/Sports.md
-      - Co Curricular Activities/Clubs.md
-      - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Clubs.md
+      - Co Curricular Activities/Sports.md
       - Alumni Testimonial/Overview.md
       - Alumni Testimonial/2021.md
       - Alumni Testimonial/2020.md
