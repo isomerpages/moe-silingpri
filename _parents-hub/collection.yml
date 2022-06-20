@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Cyber Wellness/Helping your child manage excessive internet use.md
       - Cyber Wellness/.keep
       - Parents Gateway App/.keep
       - Parents Gateway App/Overview.md
