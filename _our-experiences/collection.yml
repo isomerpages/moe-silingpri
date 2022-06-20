@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Programme for Active Learning/.keep
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs.md
