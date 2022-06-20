@@ -2,5 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese/Cultural Programme.md
       - Chinese/Activities and Programme.md
       - Chinese/.keep
