@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Science/Our Programmes.md
       - Science/Our Curriculum Approach.md
       - Science/Overview.md
       - Science/.keep
