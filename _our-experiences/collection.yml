@@ -2,10 +2,10 @@ collections:
   our-experiences:
     output: true
     order:
-      - Aesthetics/Our Programmes.md
-      - Aesthetics/Our Curriculum.md
-      - Aesthetics/Overview.md
       - Aesthetics/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Our Curriculum.md
+      - Aesthetics/Our Programmes.md
       - Character Education/Overview.md
       - Character Education/.keep
       - Character Education/School Core Values.md
