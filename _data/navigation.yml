@@ -38,3 +38,63 @@ links:
         url: /signature-programmes/ace
       - title: Lead Our Lives with Purpose
         url: /signature-programmes/lolwithpurpose
+  - title: Our Experiences
+    url: /our-experiences
+    sublinks:
+      - title: English
+        url: /our-experiences/english
+      - title: Mathematics
+        url: /our-experiences/mathematics
+      - title: Science
+        url: /our-experiences/science
+      - title: Mother Tongue
+        url: /our-experiences/mothertongue
+      - title: Physical Education
+        url: /our-experiences/physicaleducation
+      - title: Student Development
+        url: /our-experiences/student-development
+      - title: InfoComm Technology
+        url: /our-experiences/infocomm-technology
+      - title: Aesthetics
+        url: /our-experiences/aesthetics
+      - title: Character Education
+        url: /our-experiences/character-education
+      - title: Programme for Active Learning
+        url: /our-experiences/programme-for-active-learning
+      - title: CCA (Co-curricular Activities)
+        url: /our-experiences/co-curricular-activities
+      - title: Alumni Testimonial
+        url: /our-experiences/alumni-testimonial
+      - title: Submenu Title
+        url: /permalink
+  - title: Parents' Hub
+    url: /parents-hub
+    sublinks:
+      - title: Sexuality Education
+        url: /parents-hub/sexuality-education
+      - title: Homework Policy
+        url: /parents-hub/homework-policy
+      - title: Parent Resource
+        url: /parents-hub/parent-resource
+      - title: Parents in Partnership
+        url: /parents-hub/parents-in-partnership
+      - title: Cyber Wellness
+        url: /parents-hub/cyber-wellness
+      - title: Parents Gateway App
+        url: /parents-hub/parents-gateway-app
+      - title: Calendar
+        url: /parents-hub/calendar
+      - title: School Services
+        url: /parents-hub/school-services
+      - title: School Hours
+        url: /parents-hub/school-hours
+      - title: Student Care Centre
+        url: /parents-hub/student-care-centre
+      - title: Financial assistance Scheme
+        url: /parents-hub/financial-assistance-scheme
+      - title: Travel Declaration
+        url: /parents-hub/travel-declaration
+      - title: HBL and SLS
+        url: /parents-hub/hblandsls
+      - title: Recognition Day 2021
+        url: /parents-hub/recognition-day-2021
