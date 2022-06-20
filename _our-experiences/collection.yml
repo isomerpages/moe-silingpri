@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Physical Education/.keep
       - Student Development/.keep
       - Student Development/Overview.md
       - Student Development/Student Leadership.md
