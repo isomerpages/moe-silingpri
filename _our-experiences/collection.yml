@@ -2,11 +2,11 @@ collections:
   our-experiences:
     output: true
     order:
-      - Science/Environmental Science.md
-      - Science/Our Programmes.md
-      - Science/Our Curriculum Approach.md
-      - Science/Overview.md
       - Science/.keep
+      - Science/Overview.md
+      - Science/Our Curriculum Approach.md
+      - Science/Our Programmes.md
+      - Science/Environmental Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
       - Mother Tongue/Chinese.md
