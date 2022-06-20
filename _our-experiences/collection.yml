@@ -2,10 +2,10 @@ collections:
   our-experiences:
     output: true
     order:
-      - Physical Education/Our Programmes.md
-      - Physical Education/Physical Education Curriculum.md
-      - Physical Education/Overview.md
       - Physical Education/.keep
+      - Physical Education/Overview.md
+      - Physical Education/Physical Education Curriculum.md
+      - Physical Education/Our Programmes.md
       - Student Development/.keep
       - Student Development/Overview.md
       - Student Development/Student Leadership.md
