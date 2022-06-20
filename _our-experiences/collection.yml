@@ -2,5 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
+      - Mother Tongue/Malay.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/.keep
