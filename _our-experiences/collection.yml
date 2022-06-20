@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - CCA (Co Curricular Activities).md
       - Alumni Testimonial/Overview.md
       - Alumni Testimonial/2021.md
       - Alumni Testimonial/2020.md
