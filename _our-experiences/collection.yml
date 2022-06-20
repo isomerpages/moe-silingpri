@@ -2,12 +2,12 @@ collections:
   our-experiences:
     output: true
     order:
-      - Character Education/Values in Action.md
-      - Character Education/Social Studies.md
-      - Character Education/Education Career Guidance (ECG).md
-      - Character Education/National Education.md
-      - Character Education/School Core Values.md
       - Character Education/.keep
+      - Character Education/School Core Values.md
+      - Character Education/National Education.md
+      - Character Education/Education Career Guidance (ECG).md
+      - Character Education/Social Studies.md
+      - Character Education/Values in Action.md
       - Programme for Active Learning.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Performing Arts.md
