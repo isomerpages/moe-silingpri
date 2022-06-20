@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Character Education/Overview.md
       - Character Education/.keep
       - Character Education/School Core Values.md
       - Character Education/National Education.md
