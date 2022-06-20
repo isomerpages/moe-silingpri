@@ -2,9 +2,9 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Malay/Pautan Bahasa Melayu.md
-      - Malay/Program and Aktiviti.md
       - Malay/.keep
+      - Malay/Program and Aktiviti.md
+      - Malay/Pautan Bahasa Melayu.md
       - Chinese/.keep
       - Chinese/Activities and Programme.md
       - Chinese/Cultural Programme.md
