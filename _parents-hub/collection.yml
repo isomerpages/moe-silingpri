@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Hours.md
       - Student Care Centre.md
       - Financial assistance Scheme.md
       - Travel Declaration.md
