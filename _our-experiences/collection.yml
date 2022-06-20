@@ -2,11 +2,11 @@ collections:
   our-experiences:
     output: true
     order:
-      - Student Development/Discipline.md
-      - Student Development/Community and Student Leadership.md
-      - Student Development/Student Leadership.md
-      - Student Development/Overview.md
       - Student Development/.keep
+      - Student Development/Overview.md
+      - Student Development/Student Leadership.md
+      - Student Development/Community and Student Leadership.md
+      - Student Development/Discipline.md
       - InfoComm Technology/.keep
       - InfoComm Technology/Overview.md
       - InfoComm Technology/Our Unique Programmes.md
