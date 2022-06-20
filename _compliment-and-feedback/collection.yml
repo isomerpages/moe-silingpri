@@ -1,5 +1,4 @@
 collections:
   compliment-and-feedback:
     output: true
-    order:
-      - test.md
+    order: []
