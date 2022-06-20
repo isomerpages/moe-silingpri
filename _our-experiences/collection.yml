@@ -2,9 +2,9 @@ collections:
   our-experiences:
     output: true
     order:
-      - InfoComm Technology/Our Unique Programmes.md
-      - InfoComm Technology/Overview.md
       - InfoComm Technology/.keep
+      - InfoComm Technology/Overview.md
+      - InfoComm Technology/Our Unique Programmes.md
       - Aesthetics/.keep
       - Aesthetics/Overview.md
       - Aesthetics/Our Curriculum.md
