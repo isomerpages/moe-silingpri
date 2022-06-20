@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Parents Gateway App.md
       - Calendar.md
       - School Services.md
       - School Hours.md
