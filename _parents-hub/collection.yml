@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Student Care Centre.md
       - Financial assistance Scheme.md
       - Travel Declaration.md
       - HBL and SLS.md
