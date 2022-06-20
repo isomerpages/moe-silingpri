@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil/Overview.md
       - Tamil/Curriculum Approach.md
       - Tamil/.keep
       - Malay/.keep
