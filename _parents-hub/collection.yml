@@ -2,5 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
+      - Recognition Day 2021/Primary 4.md
       - Recognition Day 2021/Primary 3.md
       - Recognition Day 2021/.keep
