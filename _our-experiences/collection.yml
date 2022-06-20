@@ -2,6 +2,11 @@ collections:
   our-experiences:
     output: true
     order:
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
       - Physical Education/.keep
       - Physical Education/Overview.md
       - Physical Education/Physical Education Curriculum.md
@@ -18,8 +23,8 @@ collections:
       - Aesthetics/Overview.md
       - Aesthetics/Our Curriculum.md
       - Aesthetics/Our Programmes.md
-      - Character Education/Overview.md
       - Character Education/.keep
+      - Character Education/Overview.md
       - Character Education/School Core Values.md
       - Character Education/National Education.md
       - Character Education/Education Career Guidance (ECG).md
@@ -30,6 +35,7 @@ collections:
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs.md
       - Co Curricular Activities/Sports.md
+      - Alumni Testimonial/.keep
       - Alumni Testimonial/Overview.md
       - Alumni Testimonial/2021.md
       - Alumni Testimonial/2020.md
@@ -37,9 +43,3 @@ collections:
       - Alumni Testimonial/2018.md
       - Alumni Testimonial/2017.md
       - Alumni Testimonial/2016.md
-      - Alumni Testimonial/.keep
-      - Mother Tongue/Overview.md
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
