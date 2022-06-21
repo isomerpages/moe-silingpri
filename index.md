@@ -17,7 +17,7 @@ sections:
           url: /alumni-testimonial
         - title: Compliment and Feedback
           description: ""
-          url: /compliment-and-feedback
+          url: /compliments-and-feedback
   - infopic:
       title: Quick links
       description: Please click here (insert URL below)
