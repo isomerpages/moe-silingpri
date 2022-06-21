@@ -1,7 +1,7 @@
 logo: /images/slplogo.png
 links:
   - title: About Us
-    url: /about-us
+    url: /about-us/principals-message
     sublinks:
       - title: Principal's Message
         url: /about-us/principals-message
@@ -16,7 +16,7 @@ links:
       - title: Privacy Statement
         url: /about-us/privacy-statement
       - title: Location Map
-        url: /about-us/privacy-map
+        url: /about-us/location-map
   - title: Signature Programmes
     url: /signature-programmes
     sublinks:
