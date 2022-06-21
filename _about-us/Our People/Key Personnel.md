@@ -7,9 +7,9 @@ third_nav_title: Our People
 ### Key Personnel
 
 <img src="/images/keyp1.png" 
-     style="width:25%">
+     style="width:23%">
 <img src="/images/keyp2.png" 
-     style="width:45%">
+     style="width:40%">
 <img src="/images/keyp3.png" 
      style="width:60%">		
 <img src="/images/keyp4.png" 
@@ -19,4 +19,4 @@ third_nav_title: Our People
 <img src="/images/keyp7.png" 
      style="width:60%">
 <img src="/images/keyp8.png" 
-     style="width:20%">
+     style="width:18%">
