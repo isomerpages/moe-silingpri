@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Compliments and Feedback.md
       - Sitemap.md
