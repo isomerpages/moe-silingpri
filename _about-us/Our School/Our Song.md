@@ -6,4 +6,5 @@ third_nav_title: Our School
 ---
 ### Our Song
 
-![](/images/schoolsong.png)
+<img src="/images/schoolsong.png" 
+     style="width:75%">
