@@ -2,4 +2,5 @@ collections:
   all-teachers:
     output: true
     order:
+      - Primary Three and Primary Four.md
       - Primary One and Primary Two.md
