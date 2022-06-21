@@ -10,7 +10,7 @@ Si Ling Primary School stood at the junction of Admiralty Road and Marsiling Lan
 
 Si Ling Primary School started a new chapter in its history when it was relocated to its current site, 61 Woodlands Ave 1, on 8 December 2001. The move was in line with MOE’s PRIME Project. The new building which boasts of better facilities and more space, is now home to about 1004 pupils. With these new and better facilities, the school is better able to cope with the rapid chang es in education today and meet the many challenges ahead.
 
- <img src="/images/history.png" style="width:230px;height:150px;margin-right:15px;" align = "left">
+ <img src="/images/history.png" style="width:280px;height:200px;margin-right:15px;" align = "left">
 
 Over the years, the school has been led by six Principals, Mr Tan How Thye, Mr Stephen Goh, Miss Rosalind Chia Peck Lan, Mdm Teo Woo Mee, Mr A Sivam Reddy and Mr Lim Chew Hiong Richard. Mr Koe Ee Tiong, the present Principal, was posted to the school in December 2018. Mr Koe is assisted by our Vice-Principals, Mdm Nurazian Bajuri and Ms Jasmine Tan.
 
