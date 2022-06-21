@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - ALP (Environmental Science)/ESP Activities.md
       - ALP (Environmental Science)/.keep
       - ACE Programme.md
       - Lead Our Lives with Purpose.md
