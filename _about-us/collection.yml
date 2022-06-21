@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/.keep
       - Location Map.md
       - Our People/Key Personnel.md
       - Our People/All Teachers.md
