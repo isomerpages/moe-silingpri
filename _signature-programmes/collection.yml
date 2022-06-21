@@ -2,6 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
-      - ALP (Environmental Science).md
       - ACE Programme.md
       - Lead Our Lives with Purpose.md
