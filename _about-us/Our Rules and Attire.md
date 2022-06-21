@@ -25,18 +25,21 @@ description: ""
 *School rules extracted from Student Handbook. Further details to some of the rules can be found in the student handbook.
 
 **School Uniform**
-![](/images/attire1.png)
+<img src="/images/attire1.png" 
+     style="width:70%">
 
 Name tag to be sewn/iron-on 2cm above the school logo. Black shoes with white socks (No track shoes allowed)
 
 **Approved Hairstyles**
 Pupils must keep their hair neat and the fringe must be above the eyebrows. Pupils are not allowed to highlight or colour their hair.
-![](/images/attire2.png)
+<img src="/images/attire2.png" 
+     style="width:70%">
 
 **Boys**  
 Boys must keep their hair short, neat and clean. Hair must be evenly cropped all around, not touching the ears, eyebrows or their collar. Sideburns must be trimmed and should not extend beyond the middle level of the ear.
 
-![](/images/attire3.png)
+<img src="/images/attire3.png" 
+     style="width:70%">
 
 **Girls**  
 Girls with hair length beyond the collar must tie their hair up neatly. Hair fringe touching the eyebrow should be held back with hair band or pinned up. Only black or dark brown hair bands and hair clips are allowed.  
