@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parent resource/P2 Parent.md
       - Parent resource/P3 Parent.md
       - Parent resource/P4 Parent.md
       - Parent resource/P5 Parent.md
