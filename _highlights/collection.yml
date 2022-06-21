@@ -2,6 +2,9 @@ collections:
   highlights:
     output: true
     order:
+      - Sitemap.md
+      - Compliments and Feedback.md
+      - Alumni Testimonial/.keep
       - Alumni Testimonial/2016.md
       - Alumni Testimonial/2017.md
       - Alumni Testimonial/2018.md
@@ -9,6 +12,3 @@ collections:
       - Alumni Testimonial/2020.md
       - Alumni Testimonial/2021.md
       - Alumni Testimonial/Overview.md
-      - Alumni Testimonial/.keep
-      - Compliments and Feedback.md
-      - Sitemap.md
