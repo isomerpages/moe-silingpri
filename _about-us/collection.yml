@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Our Crest.md
       - Our School/Our Song.md
       - Our School/Our Vision, Mission and Values.md
       - Our School/.keep
