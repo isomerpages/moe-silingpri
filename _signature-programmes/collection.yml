@@ -1,4 +1,5 @@
 collections:
   signature-programmes:
     output: true
-    order: []
+    order:
+      - Lead Our Lives with Purpose.md
