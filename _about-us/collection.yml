@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - Our School Advisory Committee.md
       - Privacy Statement.md
       - Sitemap.md
