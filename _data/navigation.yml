@@ -41,37 +41,25 @@ links:
     sublinks:
       - title: Sexuality Education
         url: /parents-hub/sexuality-education
-      - title: Homework Policy
-        url: /parents-hub/homework-policy
       - title: Parent Resource
         url: /parents-hub/parent-resource
       - title: Parents in Partnership
         url: /parents-hub/parents-in-partnership
-      - title: Cyber Wellness
-        url: /parents-hub/cyber-wellness
       - title: Parents Gateway App
         url: /parents-hub/parents-gateway-app
+      - title: Cyber Wellness
+        url: /parents-hub/cyber-wellness
       - title: Calendar
         url: /parents-hub/calendar
-      - title: School Services
-        url: /parents-hub/school-services
-      - title: School Hours
-        url: /parents-hub/school-hours
-      - title: Student Care Centre
-        url: /parents-hub/student-care-centre
-      - title: Financial assistance Scheme
-        url: /parents-hub/financial-assistance-scheme
-      - title: Travel Declaration
-        url: /parents-hub/travel-declaration
       - title: HBL and SLS
         url: /parents-hub/hblandsls
       - title: Recognition Day 2021
         url: /parents-hub/recognition-day-2021
-  - title: Contact Us
-    url: /contact-us
   - title: useful information
-    url: /useful-information/school-services
+    url: /useful-information/homework-policy
     sublinks:
+      - title: Homework Policy
+        url: /useful-information/homework-policy
       - title: School Services
         url: /useful-information/school-services
       - title: School Hours
@@ -82,3 +70,5 @@ links:
         url: /useful-information/financial-assistance-scheme
       - title: Travel Declaration
         url: /useful-information/travel-declaration
+  - title: Contact Us
+    url: /contact-us
