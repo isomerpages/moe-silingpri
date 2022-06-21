@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Location Map.md
       - Our People/Key Personnel.md
       - Our People/All Teachers.md
       - Our People/Education Partner.md
