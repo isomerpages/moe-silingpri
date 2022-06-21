@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Alumni Testimonial/Overview.md
       - Alumni Testimonial/.keep
       - Compliments and Feedback.md
       - Sitemap.md
