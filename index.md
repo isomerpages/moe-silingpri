@@ -22,4 +22,5 @@ sections:
       title: Quick links
       description: Please click here (insert URL below)
       image: /images/slpsjunehols.png
+      alt: Happy June Holidays poster
 ---
