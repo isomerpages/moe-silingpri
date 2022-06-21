@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/siling.gif
+      key_highlights:
+        - title: Sitemap
+          description: ""
+          url: /sitemap
+        - title: Alumni Testimonial
+          description: ""
+          url: /alumni-testimonial
+        - title: Compliment and Feedback
+          description: ""
+          url: /compliment-and-feedback
   - infopic:
       title: Quick links
       description: Please click here (insert URL below)
