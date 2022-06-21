@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Alumni Testimonial/2020.md
       - Alumni Testimonial/2021.md
       - Alumni Testimonial/Overview.md
       - Alumni Testimonial/.keep
