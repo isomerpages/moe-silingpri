@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's message.md
+      - Principal's Message.md
       - Our Rules and Attire.md
       - Our School/History.md
       - Our School/Our Crest.md
