@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - ACE Programme.md
       - Lead Our Lives with Purpose.md
