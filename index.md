@@ -18,4 +18,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - infopic:
+      title: Quick links
+      description: Please click here (insert URL below)
+      image: /images/slpsjunehols.png
 ---
