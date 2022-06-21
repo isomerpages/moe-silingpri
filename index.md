@@ -15,7 +15,7 @@ sections:
         - title: Alumni Testimonial
           description: ""
           url: /alumni-testimonial
-        - title: Compliment and Feedback
+        - title: Compliments and Feedback
           description: ""
           url: /compliments-and-feedback
   - infopic:
