@@ -17,8 +17,6 @@ links:
         url: /about-us/privacy-statement
       - title: Location Map
         url: /about-us/privacy-map
-      - title: Sitemap
-        url: /about-us/sitemap
   - title: Signature Programmes
     url: /signature-programmes
     sublinks:
@@ -38,35 +36,6 @@ links:
         url: /signature-programmes/ace
       - title: Lead Our Lives with Purpose
         url: /signature-programmes/lolwithpurpose
-  - title: Our Experiences
-    url: /our-experiences
-    sublinks:
-      - title: English
-        url: /our-experiences/english
-      - title: Mathematics
-        url: /our-experiences/mathematics
-      - title: Science
-        url: /our-experiences/science
-      - title: Mother Tongue
-        url: /our-experiences/mothertongue
-      - title: Physical Education
-        url: /our-experiences/physicaleducation
-      - title: Student Development
-        url: /our-experiences/student-development
-      - title: InfoComm Technology
-        url: /our-experiences/infocomm-technology
-      - title: Aesthetics
-        url: /our-experiences/aesthetics
-      - title: Character Education
-        url: /our-experiences/character-education
-      - title: Programme for Active Learning
-        url: /our-experiences/programme-for-active-learning
-      - title: CCA (Co-curricular Activities)
-        url: /our-experiences/co-curricular-activities
-      - title: Alumni Testimonial
-        url: /our-experiences/alumni-testimonial
-      - title: Submenu Title
-        url: /permalink
   - title: Parents' Hub
     url: /parents-hub
     sublinks:
@@ -98,5 +67,5 @@ links:
         url: /parents-hub/hblandsls
       - title: Recognition Day 2021
         url: /parents-hub/recognition-day-2021
-  - title: Compliments and Feedback
-    url: /parents-hub/complimentsandfeedback
+  - title: Contact Us
+    url: /contact-us
