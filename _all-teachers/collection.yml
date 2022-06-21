@@ -1,4 +1,5 @@
 collections:
   all-teachers:
     output: true
-    order: []
+    order:
+      - Primary One and Primary Two.md
