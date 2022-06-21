@@ -69,3 +69,16 @@ links:
         url: /parents-hub/recognition-day-2021
   - title: Contact Us
     url: /contact-us
+  - title: useful information
+    url: /useful-information/school-services
+    sublinks:
+      - title: School Services
+        url: /useful-information/school-services
+      - title: School Hours
+        url: /useful-information/school-hours
+      - title: Student Care Centre
+        url: /useful-information/student-care-centre
+      - title: Financial Assistance Scheme
+        url: /useful-information/financial-assistance-scheme
+      - title: Travel Declaration
+        url: /useful-information/travel-declaration
