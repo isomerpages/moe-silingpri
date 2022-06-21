@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parent resource/P5 Parent.md
       - Parent resource/P6 Parent.md
       - Parent resource/.keep
       - Parents in Partnership.md
