@@ -3,8 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-Privacy
-=======
+### Si Ling Primary School Privacy Statement
 
 1\. This is a Si Ling Primary School website. Thank you for examining our privacy statement.  
   
