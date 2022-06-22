@@ -6,7 +6,7 @@ description: ""
 ### Primary Three and Primary Four
 
 <img src="/images/1p3.png" 
-     style="width:25%"> <br>
+     style="width:20%"> <br>
 		 
 <img src="/images/2p3.png" 
      style="width:60%"> <br>
