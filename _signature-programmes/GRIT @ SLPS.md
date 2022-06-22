@@ -11,7 +11,7 @@ description: ""
 *   To strengthen resilience in students
 *   To develop students’ support system which consists of home (family) and school (school leaders, teachers and peers)
 
-<img src="/images/grit1.png" style="width:300px;height:230px;margin-right:15px;" align = "left">
+<img src="/images/grit1.png" style="width:320px;height:230px;margin-right:15px;" align = "left">
 
 **P5 SKILLs Programme**
 
@@ -24,7 +24,7 @@ The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The o
 
 To learn more, click (PS INSERT PERMALINK)
 
-<img src="/images/grit2.png" style="width:320px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/grit2.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 **P5 Snack with Principal**
 *   Interaction between school leaders, form teachers and students
 *   Q&A with school leaders
