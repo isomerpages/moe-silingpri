@@ -19,20 +19,17 @@ third_nav_title: Chinese
 一年级《儿歌》
 <img src="/images/chi16.png" style="width:70%">
 
+二年级《演演说说》
 <img src="/images/chi10.png" style="width:70%">
 
+ 三年级 《认识中草药》
 <img src="/images/chi11.png" style="width:70%">
 
-
+四年级《文化营》
 <img src="/images/chi12.png" style="width:70%">
 
+五年级《风筝文化与制作》
 <img src="/images/chi13.png" style="width:70%">
 
+六年级《扇子文化与制作》
 <img src="/images/chi15.png" style="width:70%">
-
-
-
-
-
-
-
