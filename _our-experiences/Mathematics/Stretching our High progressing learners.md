@@ -42,12 +42,3 @@ Pupils are encouraged to participate in the following mathematics competitions. 
 
 <img src="/images/mathematics9.png" 
      style="width:80%">
-
-
-
-
-
-
-
-
-
