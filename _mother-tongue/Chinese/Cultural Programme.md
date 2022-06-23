@@ -36,4 +36,12 @@ third_nav_title: Chinese
 
 ![](/images/updatedgif.gif)
 
-STILL GOT SOME MORE THINGS TO PUT HERE
+**文化随意门**
+
+“文化随意门”计划为学校提供资金，让老师带学生走出校园，在正式的表演场所观赏以华语为媒介的文艺作品。此计划让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的魅力，并鼓励他们从年幼或青年时期种下“乐学”华文的种子。
+
+<img src="/images/chi19.png" style="width:70%">
+
+
+
+
