@@ -33,3 +33,7 @@ third_nav_title: Chinese
 
 六年级《扇子文化与制作》
 <img src="/images/chi15.png" style="width:70%">
+
+![](/images/updatedgif.gif)
+
+STILL GOT SOME MORE THINGS TO PUT HERE
