@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ### Our Curriculum Approach
 
-<img src="/images/scii2.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/scii2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
 
 **Our Lessons**
 We adopt the inquiry-based learning to promote deeper learning and nurture self-directed learners in the classroom. Guided by the Primary Science Syllabus, we develop lessons to provide opportunities for students to work individually or collaboratively to explain scientific concepts, using evidence to support their claim.
@@ -17,7 +17,7 @@ The process of inquiry is facilitated by teachers who help students make connect
 
 and build their understanding of concepts. The process includes five phases: Engage, Explore, Explain, Elaborate and Evaluate. Teachers use questions to facilitate the development of new understanding.
 
-<img src="/images/sci3.png" style="width:200px;height:180px;margin-left:15px;" align = "right">
+<img src="/images/sci3.png" style="width:320px;height:280px;margin-left:15px;" align = "right">
 
 Our teachers further enhance their pedagogy as they leverage Information and Communications Technology (ICT) to conduct lessons and encourage participation. ICT helps to develop our students to be independent learners and allows them to collaborate by sharing information and providing feedback.
 
@@ -26,7 +26,7 @@ Our teachers further enhance their pedagogy as they leverage Information and Com
 The Primary Science Syllabus is based on the Science Curriculum Framework. The Science Curriculum Framework encapsulates the thrust of science education in Singapore to prepare our students to be sufficiently adept as effective citizens, able to function in and contribute to an increasingly technologically-driven world. It seeks to nurture the student as an inquirer while the teacher is the leader of inquiry in the science classroom.
 
 <img src="/images/sci4.png" 
-     style="width:80%">
+     style="width:70%">
 Source: 2014 Primary Science Syllabus
 
 **Our Strategy - SLPS**
@@ -37,9 +37,3 @@ During the planning of their answers, our students use the **CER** framework (
 
 <img src="/images/sci5.png" 
      style="width:70%">
-
-
-
-
-
-
