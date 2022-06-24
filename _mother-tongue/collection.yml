@@ -2,8 +2,8 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Chinese/Competitions and Awards.md
       - Chinese/.keep
       - Chinese/Overview.md
       - Chinese/Activities and Programme.md
       - Chinese/Cultural Programme.md
+      - Chinese/Competitions and Awards.md
