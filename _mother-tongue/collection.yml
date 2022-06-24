@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Malay/Overview.md
       - Malay/.keep
       - Chinese/.keep
       - Chinese/Overview.md
