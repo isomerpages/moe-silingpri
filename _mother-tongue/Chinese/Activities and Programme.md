@@ -26,7 +26,7 @@ third_nav_title: Chinese
 <img src="/images/chi7.png" 
      style="width:80%">
 		 
-**IPAD辅助学习  **
+**IPAD辅助学习**
 
 为了激发学生的学习积极性，我们在三、四年级采用了平板电脑学习计划。学生有机会一对一配比使用科技辅助学习，大大调动了他们的学习积极性，让它们在学习华文的课堂上神采飞扬
 
@@ -39,6 +39,3 @@ third_nav_title: Chinese
 
 <img src="/images/chi8.png" 
      style="width:80%">
-
-
-
