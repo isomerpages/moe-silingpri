@@ -30,16 +30,9 @@ The programme aims to build resilience and motivation in these students by devel
 **Programme Approach:**
 
 **√** Interactive games and activities  
-
- **√** Motivational talks & videos   
-
- **√** Experiential learning  
-
- **√** Using ICT   
-
- **√** Reflections – Journal Writing, Exit Slips  
-
- **√** Pre and Post Surveys  
-    
-
+**√** Motivational talks & videos   
+**√** Experiential learning  
+**√** Using ICT   
+**√** Reflections – Journal Writing, Exit Slips  
+**√** Pre and Post Surveys  
 **√** SNACK time
