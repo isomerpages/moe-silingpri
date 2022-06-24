@@ -29,7 +29,7 @@ From the class writing in MLEA 1, students progress to doing group writing in ML
 Finally, having gone through the class and group writings in MLEA 1 and 2, students are better equipped to embark on their individual writing in MLEA 3, where they will be tasked to write on a related theme.
 
 <img src="/images/ell3.png" 
-     style="width:90%">
+     style="width:80%">
 
 **Primary 3 to 6**
 
@@ -41,9 +41,3 @@ Next, to aid students in organizing their writing, they are trained to complete 
 Following that, to help them to produce a piece of writing of sufficient length, students are coached to use the “Transition-Action-Detail” template, where they conceptualize the story in 4-5 simple sentences in the ‘Action’ column before elaborating on the actions in the ‘Detail’ column and inserting adverbs of time or time clauses in the ‘Transition’ column. With reference to the TAD, students will then proceed to write their actual piece.  
   
 Through the use of these approaches, we hope to reduce students’ resistance to writing and help them develop their confidence and rediscover the joy in writing.
-
-
-
-
-
-
