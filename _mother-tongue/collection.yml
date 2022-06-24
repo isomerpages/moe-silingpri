@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
-      - Malay/Overview.md
-      - Malay/.keep
       - Chinese/.keep
       - Chinese/Overview.md
       - Chinese/Activities and Programme.md
       - Chinese/Cultural Programme.md
       - Chinese/Competitions and Awards.md
       - Chinese/Resources for Parents.md
+      - Malay/.keep
+      - Malay/Overview.md
