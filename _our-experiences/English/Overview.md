@@ -6,7 +6,7 @@ third_nav_title: English
 ---
 ### Overview
 
-<img src="/images/el1.png" style="width:220px;height:180px;margin-right:15px;" align = "left">
+<img src="/images/el1.png" style="width:320px;height:270px;margin-right:15px;" align = "left">
 
 **Our Vision**
 
@@ -15,5 +15,3 @@ Every Si Ling Pupil a Confident, Effective and Ethical Communicator with a Love 
 **Our Mission Statement**
 
 To equip our pupils with the communicative skills of the English
-
-
