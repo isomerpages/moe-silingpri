@@ -2,12 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Chinese/Overview.md
-      - Chinese/.keep
-      - Chinese/Activities and Programme.md
-      - Chinese/Cultural Programme.md
-      - Chinese/Competitions and Awards.md
-      - Chinese/Resources for Parents.md
       - Malay/Overview.md
       - Malay/.keep
       - Malay/Program and Aktiviti.md
