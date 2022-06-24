@@ -1,5 +1,4 @@
 collections:
   mother-tongue:
     output: true
-    order:
-      - Tamil.md
+    order: []
