@@ -5,7 +5,7 @@ description: ""
 ---
 ### P1 Transitional Programme
 
-<img src="/images/transitionalprogramme1.png" style="width:240px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme1.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 **Rationale**
@@ -20,7 +20,7 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<img src="/images/transitionalprogramme2.png" style="width:200px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme2.png" style="width:300px;height:250px;margin-left:15px;" align = "right">
 
 **The 3Cs Approach**
 **Care**
@@ -49,7 +49,7 @@ Positive collaboration with the different stakeholders help to increase students
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
-<img src="/images/transitionalprogramme3.png" style="width:240px;height:150px;margin-left:15px;" align = "right"> 
+<img src="/images/transitionalprogramme3.png" style="width:340px;height:250px;margin-left:15px;" align = "right"> 
 
 **Day 0 (last week of Dec)**
 
@@ -75,7 +75,7 @@ P1 Form Teachers Engagement
 
 \- Books will be collected only from the second week onwards
 
-<img src="/images/transitionalprogramme4.png" style="width:240px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
 **Day 1**
 
@@ -89,7 +89,7 @@ Classroom Circle Time
 
 \- Icebreaker Games with classmates
 
-<img src="/images/transitionalprogramme5.png" style="width:240px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
 **Day 2**
 
@@ -107,7 +107,7 @@ Classroom Circle Time
 
 \- Sing and Dance
 
-<img src="/images/transitionalprogramme6.png" style="width:240px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme6.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
 **Day 3**
 
@@ -124,12 +124,3 @@ Classroom Circle Time
 Highlights include bonding games, familiarization tours and setting of routines. We build in our children a sense of belonging and community so that they remain positive and feel secure about their new environment.  
 
 With the above framework in place, we seek to ensure that each child that comes to Si Ling Primary School has a smooth transition in Primary One.
-
-
-
-
-
-
-
-
-
