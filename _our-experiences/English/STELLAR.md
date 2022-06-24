@@ -6,7 +6,7 @@ third_nav_title: English
 ---
 ### STELLAR
 
-<img src="/images/ell2.png" style="width:183px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/ell2.png" style="width:283px;height:340px;margin-right:15px;" align = "left">
 
 **STELLAR** stands for     
   
