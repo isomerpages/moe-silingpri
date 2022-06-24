@@ -63,7 +63,7 @@ The model method is used for effective mathematics learning and problem solving.
 
 In Si Ling, we embarked on the ICAN programme by the Ministry of Education (Curriculum Planning and Development Division) to enhance the teaching and learning of mathematics. ICAN uses intervention strategies guided by research to address 4 key issues namely learning gaps, language, motivation and memory.
 
-<img src="/images/mathematics6.png" style="width:240px;height:180px;margin-left:15px;" align = "right">
+<img src="/images/mathematics6.png" style="width:340px;height:280px;margin-left:15px;" align = "right">
 
 **The ICAN principles**
 
@@ -75,18 +75,3 @@ In Si Ling, we embarked on the ICAN programme by the Ministry of Education (Curr
 6.  Key Ideas and their Connections
 7.  Communication and Reasoning
 8.  Confidence and Motivation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
