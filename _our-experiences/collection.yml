@@ -2,26 +2,26 @@ collections:
   our-experiences:
     output: true
     order:
-      - Mother Tongue.md
       - Overview.md
+      - English/.keep
       - English/Overview.md
       - English/English Language Monthly Odyssey.md
       - English/STELLAR.md
       - English/Writing.md
       - English/Reading.md
       - English/Learning Support Programme.md
-      - English/.keep
+      - Mathematics/.keep
       - Mathematics/Overview.md
       - Mathematics/Curriculum and Approach.md
       - Mathematics/PALM (Play and Learn Math).md
       - Mathematics/Support for Mathematics Learning.md
       - Mathematics/Stretching our High progressing learners.md
-      - Mathematics/.keep
       - Science/.keep
       - Science/Overview.md
       - Science/Our Curriculum Approach.md
       - Science/Our Programmes.md
       - Science/Environmental Science.md
+      - Mother Tongue.md
       - Physical Education/.keep
       - Physical Education/Overview.md
       - Physical Education/Physical Education Curriculum.md
