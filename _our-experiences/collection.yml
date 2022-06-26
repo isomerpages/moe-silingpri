@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Mother Tongue.md
       - Overview.md
       - English/.keep
       - English/Overview.md
@@ -22,6 +21,7 @@ collections:
       - Science/Our Curriculum Approach.md
       - Science/Our Programmes.md
       - Science/Environmental Science.md
+      - Mother Tongue.md
       - Physical Education/.keep
       - Physical Education/Overview.md
       - Physical Education/Physical Education Curriculum.md
