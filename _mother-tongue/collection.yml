@@ -2,12 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Tamil/Overview.md
-      - Tamil/Curriculum Approach.md
-      - Tamil/Department Programmes.md
-      - Tamil/Cultural Programmes.md
-      - Tamil/Mother Tongue Fortnight.md
-      - Tamil/.keep
       - Overview.md
       - Chinese/.keep
       - Chinese/Overview.md
@@ -19,3 +13,9 @@ collections:
       - Malay/Overview.md
       - Malay/Program & Aktiviti.md
       - Malay/Pautan Bahasa Melayu.md
+      - Tamil/.keep
+      - Tamil/Overview.md
+      - Tamil/Curriculum Approach.md
+      - Tamil/Department Programmes.md
+      - Tamil/Cultural Programmes.md
+      - Tamil/Mother Tongue Fortnight.md
