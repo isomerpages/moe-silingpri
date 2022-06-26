@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil/Cultural Programmes.md
       - Tamil/Mother Tongue Fortnight.md
       - Tamil/.keep
       - Overview.md
