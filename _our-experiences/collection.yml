@@ -2,11 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Mother Tongue/Overview.md
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
-      - Mother Tongue/.keep
       - Overview.md
       - English/.keep
       - English/Overview.md
@@ -26,6 +21,11 @@ collections:
       - Science/Our Curriculum Approach.md
       - Science/Our Programmes.md
       - Science/Environmental Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
       - Mother Tongue.md
       - Physical Education/.keep
       - Physical Education/Overview.md
