@@ -16,7 +16,7 @@ third_nav_title: Chinese
 我们的学生参加了新加坡中学华文教师会、联合早报《逗号》和南华中学联办的2021年第47届 “全国学生中英文互译比赛”。比赛的目的是鼓励学生学好中英两种语文，并培养双文化与翻译人才。最后，来自士林小学的徐天爱同学脱颖而出，获得**冠军**！
 
 <img src="/images/chi20.png" 
-     style="width:65%">
+     style="width:55%">
 
 #### **《2021年中小学课文朗诵比赛》**
 
@@ -43,7 +43,7 @@ third_nav_title: Chinese
 在疫情中，为了让莘莘学子有机会与各校精英互相切磋，提升华语演讲水平，我校学生通过视频会议方式参加了北区演讲比赛。最后，来自3 Solidarity的张瑄婷同学获得比赛的优胜奖。
 
 <img src="/images/chi22.png" 
-     style="width:99%">
+     style="width:80%">
 
 **2021****年华文最佳进步奖**
 
@@ -60,7 +60,7 @@ third_nav_title: Chinese
 
 
 <img src="/images/chi23.png" 
-     style="width:99%">
+     style="width:90%">
 
 **《国际小学生电脑创意写作比赛》**  
 
