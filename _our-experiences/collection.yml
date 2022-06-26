@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Mother Tongue/Tamil.md
       - Mother Tongue/.keep
       - Overview.md
       - English/.keep
