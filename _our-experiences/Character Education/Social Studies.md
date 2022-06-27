@@ -52,3 +52,22 @@ Our Primary Four pupils visited the National Gallery of Singapore as part of of 
 
 <img src="/images/cce18.png" 
      style="width:80%">
+
+**FBL to** **to interactive Heritage Trail – Primary Five**  
+  
+
+Our Primary Five pupils went on an interactive Heritage Trail as part of their Social Studies field-based learning. Using ‘Jigsaw Strategy’, each class was split into three teams to explore and experience Kampong Glam, Little India and Chinatown simultaneously. Pupils were given the opportunity to make explicit meaningful connections between classroom experiences and the environment, using the affordances of wireless and mobile technologies. 
+
+At the end of the trail, the pupils returned to their class to share with their peers on the cultural and practices that they have learnt at each site. By engaging their senses of sight, touch and hearing through the trail, we hope the pupils can foster a greater sense of pride and belonging to our rich Singapore heritage.
+
+<img src="/images/cce19.png" 
+     style="width:80%">
+
+**FBL to Singapore Botanical Gardens – Primary Six**
+
+Our Primary Six pupils went for an experiential learning journey to Singapore Botanic Gardens (SBG) as part of their Social Studies field-based learning. Pupils are able to learn more about crops grown in Southeast Asia and how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens.
+
+There are also opportunities to interact with the exhibits in the Heritage Museum and find out the origins of key economic crops grown for food and commercial purposes in Southeast Asia. Pupils will learn that the growing of these economic crops, an important economic activity has helped to contribute to a strong and prosperous Southeast Asia. Pupils will also be encouraged to observe, reflect and deepen their own personal understanding as they immerse themselves in the multi-sensory environment.
+
+<img src="/images/cce20.png" 
+     style="width:80%">
