@@ -38,3 +38,19 @@ Various exciting recess activities like camouflage face painting and live first 
 
 <img src="/images/cce6.png" 
      style="width:80%">
+		 
+**Racial Harmony Day**  
+
+The theme for this year’s RHD was Diversity, Our Strength. Since the founding of Singapore in 1819, we have always been a community that has tapped on the strengths of our differences in the pursuit of a common goal to make Singapore our home.
+
+Racial Harmony Day serves to remind our pupils that social division can cost us dearly and that race and religion are potential fault lines in Singapore society. It is a day for us to reflect on, and celebrate our success as a harmonious nation and a society which is built on a rich diversity of cultures and heritages.
+
+<img src="/images/cce7.png" 
+     style="width:80%">
+
+**National Day**
+
+The school celebrated National Day with a dance workout and classroom activities. The classroom activities comprised of building of Singapore landmarks through LEGO, writing a kindness mail on things that made the pupils’ feel proud living in Singapore and what they are grateful for. In the hall, the pupils and staff participated in the dance workout, watched snippets of the NE show that the Primary 5 pupils have attended. A group of Primary 5 and Primary 4 pupils performed a skit named; ‘Attack of The Swordfish’. In addition, pupils and teachers dedicated their birthday wishes for the Nation through video montage too. The concert ended with a sing-along session that got the pupils and staffs singing to the tune of some National Day songs.
+
+<img src="/images/cce8.png" 
+     style="width:80%">
