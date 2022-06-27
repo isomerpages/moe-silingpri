@@ -44,9 +44,13 @@ Our Student Leadership Programme is anchored on **The Leadership Challenge®**�
 <img src="/images/sd2.png" 
      style="width:80%">
 
+**Our key Student Leadership Trainings and Programmes:**
+
 |  |  |
 |---|---|
 | **Level 1:<br>Self-Leadership** | ‘Leaders of Self’ Series |
 | **Level 2:<br>Basic Leadership** | Class Leaders’ Trainings and Projects |
 | **Level 3:<br>Advanced Leadership** | Prefects’ and CCA Leaders’ Meetings<br>Student Leaders’ Engagement<br>Student Leadership Workshop<br>Leaders’-led Sessions: CCA Leaders’ Sessions, Students’ Voice Online Forum<br>Student Leaders’ Production: SLPS News and Happenings |
 | **Level 4:<br>Outstanding Leadership** | EXCO Meetings<br>Mentoring Sessions |
+
+To learn more about our LLP: Community and Student Leadership, click [here](https://silingpri.moe.edu.sg/signature-programmes/learning-for-life-programme-llp).
