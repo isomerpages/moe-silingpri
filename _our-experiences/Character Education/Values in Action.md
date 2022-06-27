@@ -66,3 +66,23 @@ Opportunity to **GIVE** and **SHARE** with the **less privileged** amongst
 
 <img src="/images/cce25.png" 
      style="width:80%">
+
+How do we share a meal?  
+
+Put a small sum equivalent to what we would spend on one meal into the Share-A-Meal donation tins
+
+<img src="/images/cce26.png" 
+     style="width:80%">
+
+Let's encourage one another to “share a meal” with the friends who need help.
+
+**Classroom Cleanliness**  
+  
+Keeping our classrooms clean is a very important routine in our school. Just before school dismissal, our pupils work in groups and spend five minutes doing some light cleaning, such as picking up litter, sweeping the floor and arranging the furniture.  
+  
+Termly classroom cleanliness checks are conducted and Gold, Silver and Bronze certificates are awarded to the classes, which display clean and tidy classrooms.
+
+This move aims to help our pupils build character and learn a little about self-reliance and looking after themselves.
+
+<img src="/images/cce27.png" 
+     style="width:80%">
