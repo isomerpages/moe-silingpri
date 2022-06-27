@@ -31,3 +31,24 @@ Our Primary 2 pupils went to the Singapore Philatelic Museum (SPM) as part of th
 
 <img src="/images/cce15.png" 
      style="width:80%">
+
+The pupils had the opportunity to go into various rooms to learn more about the origins of stamps, the representation of stamps from different countries as well as the continents of the world on the 3D World Map.
+
+Pupils also went through a heritage trail where they learned about the customs and cultures of different races through the exhibits and artefacts that were displayed. At the end of the learning journey, students learned to appreciate the customs and traditions practised by the diverse communities in Singapore.
+
+<img src="/images/cce16.png" 
+     style="width:80%">
+
+**FBL to Singapore Zoo – Primary Three**
+
+Our Primary Three pupils visited the Singapore Zoo as part of their Field-based learning experience, in collaboration with Science Department. ICT tools like IPads are used during the learning journey to capture picturesque moments.
+
+<img src="/images/cce17.png" 
+     style="width:80%">
+		 
+**FBL to** **National Gallery of Singapore** **– Primary Four**
+
+Our Primary Four pupils visited the National Gallery of Singapore as part of of their Field-based learning experience, in collaboration with Arts Department. They are assigned a theme and did a diorama based on their research and experiences visiting the museum.
+
+<img src="/images/cce18.png" 
+     style="width:80%">
