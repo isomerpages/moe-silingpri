@@ -35,6 +35,34 @@ SLPS Primary 5 students and staff embarked on a Values-In-Action (VIA) project t
 
 Together with halal snacks procured by the school, these were delivered to NUH for the doctors, nurses and other healthcare workers.
 
+<img src="/images/cce23.png" 
+     style="width:80%">
 
+**Primary 6 VIA –** **I am a Young Entrepreneur**  
+  
+As part of our Values in Action, Primary 6 pupils are prepared to be young entrepreneur through “occupational experience” for the real world. They are encouraged to lead themselves via self-directed learning. By developing their leadership traits also enable them to enact on our school values in the activities and platforms provided. All these will lead the pupils to be active contributors in creating value for the community around them.  
 
+**VIA – Share A Meal (SAM)**
 
+<img src="/images/cce24.png" 
+     style="width:80%">
+
+What is share a meal?  
+  
+
+Crisis response fund to support families facing:
+
+*   Death
+*   Major illness or
+*   Accident of the breadwinner
+
+Proceeds raised: 
+
+*   **Help vulnerable** students and their families    
+    
+Why share a meal?  
+
+Opportunity to **GIVE** and **SHARE** with the **less privileged** amongst us,
+
+<img src="/images/cce25.png" 
+     style="width:80%">
