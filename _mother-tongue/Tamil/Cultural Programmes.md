@@ -14,7 +14,5 @@ third_nav_title: Tamil
 <img src="/images/tamiltext11.png" 
      style="width:99%">
 
-<img src="/images/tamil1.png" 
+<img src="/images/tamil10.png" 
      style="width:99%">
-
-
