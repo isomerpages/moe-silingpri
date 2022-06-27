@@ -22,3 +22,12 @@ Next, they went to explore JBCG. The pupils were particularly excited about how 
 		 
 Our pupils had fun doing tree bark rubbing, exploring a maze, walking on suspension bridge, hearing echos in a man-made cave and visited a Treehouse too! This is one memorable interactive learning experience for our young ones!
 
+<img src="/images/cce14.png" 
+     style="width:80%">
+
+**FBL to Singapore Philatelic Museum – Primary Two**
+
+Our Primary 2 pupils went to the Singapore Philatelic Museum (SPM) as part of their Social Studies field based trip. The objectives are to recognise that common Identity, shared experiences and values unite different races in Singapore; and appreciate different customs and traditions that are practiced by the diverse communities in Singapore.
+
+<img src="/images/cce15.png" 
+     style="width:80%">
