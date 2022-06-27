@@ -4,3 +4,49 @@ permalink: /our-experiences/Student-Development/student-leadership
 description: ""
 third_nav_title: Student Development
 ---
+### Student Leadership
+
+In line with our school’s vision – **Every Si Ling Pupil a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
+
+<img src="/images/sd1.png" 
+     style="width:80%">
+
+**Level 1: Self Leadership**
+
+All Si Ling pupils learn self-leadership skills through our ‘Leaders of Self’ (LoS) Series during Assembly to be equipped as Level 1 ‘Leaders of Self and Values’ and Peer Supporters.
+
+**Level 2: Basic Leadership**
+
+Our Level 2 task-specific Student Leaders are selected and trained on their task-specific roles by the respective teachers-in-charge to build on their basic leadership skills. For instance, the Class Monitors and ICT monitors are trained by the Student Leadership Committee and ICT department respectively. All other class operations monitors are trained by their subject teachers with the use of the school’s ‘Guide for Classroom Leadership’. To encourage more opportunities for all pupils, these Level 2 leadership roles are rotated either termly or semestrally.
+
+**Level 3: Advanced Leadership**
+
+All Level 3 Student leaders are trained by the Student Leadership Committee to hone their advanced leadership skills. A selected group of these Student Leaders form the ‘Special-Projects Committee’ where they take charge of the planning and execution of student-led activities like the Students’ Voice Online Forum and Students’ Suggestion Scheme (SSS). They also assist in school-level programmes like the planning of Teachers’ Day.
+
+**Level 4: Outstanding Leadership**
+
+Besides undergoing the same training sessions as the Level 3 Student Leaders, our Level 4 Student Leaders also go through basic mentoring sessions to further hone their outstanding leadership skills. This also guides them to be positive influence and mentors to other students and Student Leaders under their charge.
+
+**2022 Level 4 Student Leaders**
+
+|  |  |
+|---|---|
+| **Head Prefect** | Thivyana Shre Vikashini Gunaselan |
+| **Deputy Head Prefect** | Dondeti Sai Srikar Reddy |
+| **Assistant Head Prefect 1** | Arun Rajesh Lekhashree |
+| **Assistant Head Prefect 2** | Lim Si Tong |
+| **CCA Head (Performing Arts)** | Huang Jing Han<br>Nur Nazirah Asyura Binte Mohamed Asrin |
+| **CCA Head (Clubs and Uniformed Group)** | Lim Jia Xuan<br>Travis Chen Rui Zhe |
+| **CCA Head (Sports)** | Eldho Elvin<br>Maria Dabus Davinsa Danggus |
+
+Our Student Leadership Programme is anchored on **The Leadership Challenge®** that is adopted from **“The Five Practices of Exemplary Leadership"** by Kouzes and Posner.
+
+<img src="/images/sd2.png" 
+     style="width:80%">
+
+|  |  |
+|---|---|
+| **Level 1:<br>Self-Leadership** | ‘Leaders of Self’ Series |
+| **Level 2:<br>Basic Leadership** | Class Leaders’ Trainings and Projects |
+| **Level 3:<br>Advanced Leadership** | Prefects’ and CCA Leaders’ Meetings<br>Student Leaders’ Engagement<br>Student Leadership Workshop<br>Leaders’-led Sessions: CCA Leaders’ Sessions, Students’ Voice Online Forum<br>Student Leaders’ Production: SLPS News and Happenings |
+| **Level 4:<br>Outstanding Leadership** | EXCO Meetings<br>Mentoring Sessions |
