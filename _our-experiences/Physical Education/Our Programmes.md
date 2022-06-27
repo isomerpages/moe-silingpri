@@ -60,3 +60,15 @@ Unlike the traditional practice for students to sit in a circle and present thei
 Every year, as one of the Post-PSLE activities, our Primary 6 students get to modify an existing target game, be it frisbee, basketball or softball, and compete in an intra-class competition on throwing for accuracy.   
    
 P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education Programme that integrates innovation, creativity and conservation of materials through active participation.
+
+<img src="/images/pe10.png" 
+     style="width:80%">
+
+**_Active Kids Programme_**
+
+With the objective to get students moving, the Active Kids Programme aims to equip these group of students to get active through a wide range of different sports and games, help them cultivate healthy eating habits and build a stronger foundation in developing an overall active and healthy lifestyle.   
+
+With the support from Active SG, Sports SG, SEP-certified vendors and our dedicated PE teachers, Active Kids Programme runs every Friday, 2.00 – 4.00pm.
+
+<img src="/images/pe11.png" 
+     style="width:80%">
