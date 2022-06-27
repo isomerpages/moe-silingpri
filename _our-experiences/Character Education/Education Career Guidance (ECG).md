@@ -16,7 +16,7 @@ The Programmes are listed as follows :
 |:---:|:---:|
 | Primary 1 &amp; 2 | Introduction to 4 jobs per year based on pupils’ interest Introduce uniform jobs to pupils |
 | Primary 3 | Using ICT Game to introduce jobs  |
-|  Primary 4 |  Booklet <i><br>Smart Booklet |
+|  Primary 4 |  Booklet <br>Smart Booklet |
 |  Primary 5 | Basic writing resume skills<br> Introduction to My SkillsFuture Portal |
 |  Primary 6 | My SkillsFuture Portal <br> “I am a Young Entrepreneur” |
 	
