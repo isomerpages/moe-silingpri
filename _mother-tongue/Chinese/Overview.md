@@ -4,16 +4,13 @@ permalink: /mothertongue/chinese/overview
 description: ""
 third_nav_title: Chinese
 ---
-
-
-
 ### Chinese
 
 **远景**
 
  培养学生自信熟练地使用母语进行沟通，并展现优良品格。
  
-** 华文部教学规划**
+**华文部教学规划**
 
 <img src="/images/chi1.png" 
      style="width:80%">
@@ -42,8 +39,3 @@ third_nav_title: Chinese
 
 <img src="/images/chi5.png" 
      style="width:80%">
-
-
-
-
-
