@@ -54,3 +54,14 @@ The school celebrated National Day with a dance workout and classroom activities
 
 <img src="/images/cce8.png" 
      style="width:80%">
+
+**International Friendship Day**  
+
+Our school commemorated International Friendship Day (IFD) to emphasize the importance for Singapore to maintain good relations with our neighbouring ASEAN countries and the theme for this year is “**Connected Communities**”. The ASEAN country, which we focused on, was Vietnam. Our talented pupil emcees shared pictures and videos about Vietnam, such as the demographics, places of interest, festivals, food and culture. The assembly ended beautifully with three of our parent volunteers performing a traditional Vietnamese dance for our pupils.
+
+In order to encourage our pupils to celebrate the diversity and vibrancy of the different cultures of people from different backgrounds, particularly Vietnam, we create opportunities for our pupils to be immersed in Vietnamese culture through various activities during recess. Our pupils had the opportunity to try Vietnamese food such as glass noodle, spring rolls and mango sticky rice, prepared by our canteen vendors. They also had fun creating paper fans and took photos of themselves donning the Vietnamese costumes and accessories at the photo booth. There was also an online quiz through the use of iPad to test their knowledge about Vietnam. CCE lessons were also carried out to enable pupils to build their knowledge and understanding on ASEAN.
+
+It was indeed an enjoyable and memorable week for our pupils!
+
+<img src="/images/cce9.png" 
+     style="width:80%">
