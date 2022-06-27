@@ -10,7 +10,7 @@ third_nav_title: Tamil
      style="width:90%">
 
 <img src="/images/tamil2.png" 
-     style="width:80%">
+     style="width:90%">
 
 <img src="/images/tamiltext3.png" 
      style="width:90%">
