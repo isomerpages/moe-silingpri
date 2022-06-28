@@ -2,10 +2,10 @@ collections:
   useful-information:
     output: true
     order:
-      - Calendar.md
       - Homework Policy.md
-      - Travel Declaration.md
-      - Financial assistance Scheme.md
-      - Student Care Centre.md
-      - School Hours.md
+      - Calendar.md
       - School Services.md
+      - School Hours.md
+      - Student Care Centre.md
+      - Financial assistance Scheme.md
+      - Travel Declaration.md
