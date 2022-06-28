@@ -9,7 +9,7 @@ third_nav_title: Student Development
 In line with our school’s vision – **Every Si Ling Pupil a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
 
 <img src="/images/sd2.png" 
-     style="width:80%">
+     style="width:60%">
 
 **Level 1: Self Leadership**
 
@@ -42,7 +42,7 @@ Besides undergoing the same training sessions as the Level 3 Student Leaders, ou
 Our Student Leadership Programme is anchored on **The Leadership Challenge®** that is adopted from **“The Five Practices of Exemplary Leadership"** by Kouzes and Posner.
 
 <img src="/images/sd3.png" 
-     style="width:80%">
+     style="width:8=60%">
 
 **Our key Student Leadership Trainings and Programmes:**
 
