@@ -9,7 +9,7 @@ third_nav_title: Mathematics
 **Our Mission Statement**
 
 <img src="/images/mathematics1.png" 
-     style="width:80%">
+     style="width:70%">
 		 
 <img src="/images/mathematics2.png" 
-     style="width:80%">
+     style="width:70%">
