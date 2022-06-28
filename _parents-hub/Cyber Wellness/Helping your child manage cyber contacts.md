@@ -7,4 +7,4 @@ third_nav_title: Cyber Wellness
 ### Helping Your Child Manage Cyber Contacts
 
 <img src="/images/cw2.png" 
-     style="width:80%">
+     style="width:70%">
