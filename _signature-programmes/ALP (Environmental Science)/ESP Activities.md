@@ -28,7 +28,7 @@ She aims to spark innovative ideas amongst students when they brainstorm for ide
 Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
 
 <img src="/images/alp4.png" 
-     style="width:80%">
+     style="width:70%">
 		 
 **iCARE Week**
 
@@ -39,7 +39,7 @@ The event starts with an assembly programme that highlights the environmental th
 Meanwhile, students are kept busy partaking in recess activities such as energy conservation trails, sorting trash into the right categories, finger puppets making using recycled materials, solar car challenge and windmill-making. Through these activities, we seek to convince others to appreciate the environment and inspire them to do their part in conserving the environment.
 
 <img src="/images/alp5.png" 
-     style="width:80%">
+     style="width:70%">
 
 **Whizz Kid**
 
@@ -78,6 +78,6 @@ The Environment Ambassadors also receive trainings that equip them with leadersh
 
 
 **SciEinsteins Club**
-<img src="/images/alp7.png" style="width:300px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/alp7.png" style="width:320px;height:250px;margin-left:15px;" align = "right">
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
