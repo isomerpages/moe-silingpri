@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sexuality Education.md
-      - Homework Policy.md
       - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
       - Parent Resource/P2 Parent.md
