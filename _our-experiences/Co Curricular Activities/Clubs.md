@@ -10,6 +10,7 @@ third_nav_title: Co Curricular Activities
 
 ### Art Club
 
+<img src="/images/cca6.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 **Through Art, we hope to:** 
 
@@ -21,6 +22,8 @@ third_nav_title: Co Curricular Activities
 
 ### Brownies
 
+<img src="/images/cca7.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
+
 **What do Brownies do?**  
 
 *   We learn new skills
@@ -30,6 +33,7 @@ third_nav_title: Co Curricular Activities
 
 ### Infocomm Club
 
+<img src="/images/cca8.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 **Infocomm Club:**  
 
@@ -45,6 +49,7 @@ third_nav_title: Co Curricular Activities
 
 ### SciEinsteins Club
 
+<img src="/images/cca9.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 We aim to inspire joy in the learning of science through experimentation and exploration. We uncover mysteries behind how everyday things work and discover new facts about the environment around us. We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another. 
 
