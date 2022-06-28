@@ -45,7 +45,7 @@ This orienteering activity is an extension of the Outdoor Education that student
 
 Students learnt to process and make meaning of all the activities and working experiences they had for the day. They were encouraged to grow through personal reflections as this helped to deepen thinking and enhance learning of values. They were more aware of their own strengths and weaknesses, and learnt to work with others in a better manner.
 
-<img src="/images/pe8.png" 
+<img src="/images/pe20.png" 
      style="width:60%">
 
 **‘Campfire’**
