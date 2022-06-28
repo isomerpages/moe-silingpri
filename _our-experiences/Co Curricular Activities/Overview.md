@@ -8,4 +8,4 @@ third_nav_title: Co Curricular Activities
 |:---:|:---:|
 | Visual Arts | Drama |
 | Dance | Outdoor Education |
-| Sports and Games | <iframe width="560" height="315" src="https://www.youtube.com/embed/bJn3J_PPFGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+| Sports and Games | <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/bJn3J_PPFGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> |
