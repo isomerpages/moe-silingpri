@@ -8,7 +8,7 @@ third_nav_title: Character Education
 
 Education Career Guidance (ECG) is a 6-year progressive programme that aims to develop an awareness and interest in occupations among the pupils, develop curiosity and fantasize about occupations, and to introduce pupils to the wide array of occupations, helping them to understand themselves, in particular, their skills and interests in relation to the world of work.
 
-<img style="width:80%" src="/images/cce10.png">
+<img style="width:65%" src="/images/cce10.png">
 
 The Programmes are listed as follows :
 
@@ -20,4 +20,4 @@ The Programmes are listed as follows :
 |  Primary 5 | Basic writing resume skills<br> Introduction to My SkillsFuture Portal |
 |  Primary 6 | My SkillsFuture Portal <br> “I am a Young Entrepreneur” |
 	
-<img style="width:80%" src="/images/cce11.png"></i>
+<img style="width:65%" src="/images/cce11.png"></i>
