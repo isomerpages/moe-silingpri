@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - English/English Language Monthly Odyssey.md
       - English/.keep
       - English/Overview.md
       - English/STELLAR.md
