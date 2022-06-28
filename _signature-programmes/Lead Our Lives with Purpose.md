@@ -12,10 +12,10 @@ The programme aims to build resilience and motivation in these students by devel
 **Pupils will develop social emotional competencies:**
 
 **√** Self-Awareness  
-    **√** Social Awareness  
-    **√** Self-Management  
-    **√** Relationship Management  
-    **√** Responsible Decision Making
+**√** Social Awareness  
+**√** Self-Management  
+**√** Relationship Management  
+**√** Responsible Decision Making
 
 <img src="/images/lolwp2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
 
