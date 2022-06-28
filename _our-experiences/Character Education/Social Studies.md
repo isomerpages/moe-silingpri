@@ -37,7 +37,7 @@ The pupils had the opportunity to go into various rooms to learn more about the 
 Pupils also went through a heritage trail where they learned about the customs and cultures of different races through the exhibits and artefacts that were displayed. At the end of the learning journey, students learned to appreciate the customs and traditions practised by the diverse communities in Singapore.
 
 <img src="/images/cce16.png" 
-     style="width:80%">
+     style="width:60%">
 
 **FBL to Singapore Zoo – Primary Three**
 
