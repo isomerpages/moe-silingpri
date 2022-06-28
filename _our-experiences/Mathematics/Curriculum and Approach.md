@@ -46,7 +46,7 @@ The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathem
 **Abstract** is the “symbolic” stage, where children use abstract symbols to model problems.
 
 <img src="/images/mathematics4.png" 
-     style="width:70%">
+     style="width:60%">
 
 **2. BEST Approach to Problem Solving**
 
@@ -57,7 +57,7 @@ The Polya’s 4-step problem solving process was adapted and we called it the BE
 The model method is used for effective mathematics learning and problem solving. The drawing of model helps our pupils understand complex mathematical word problems. It helps pupils to develop and enhance pupils’ mathematical thinking and problem solving in the early years of mathematical education.
 
 <img src="/images/mathematics5.png" 
-     style="width:70%">
+     style="width:60%">
 
 **4. Improving Confidence and Achievement in Numeracy (ICAN)**
 
