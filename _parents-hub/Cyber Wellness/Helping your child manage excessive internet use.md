@@ -4,3 +4,7 @@ permalink: /parents-hub/Cyber-Wellness/helping-your-child-manage-excessive-inter
 description: ""
 third_nav_title: Cyber Wellness
 ---
+### Helping Your Child Manage Excessive Internet Use
+
+<img src="/images/cw4.png" 
+     style="width:80%">
