@@ -7,4 +7,4 @@ third_nav_title: Cyber Wellness
 ### Helping Your Child Manage Excessive Internet Use
 
 <img src="/images/cw4.png" 
-     style="width:80%">
+     style="width:70%">
