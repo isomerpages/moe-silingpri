@@ -7,7 +7,7 @@ third_nav_title: ALP (Environmental Science)
 ### ALP (Environmental Science)
 
 <img src="/images/alp1.png" 
-     style="width:80%">
+     style="width:70%">
 		 
 **Environmental Science**
 
@@ -27,5 +27,3 @@ The Environment Science Programme (ESP) aims to:
 *   Equip students with knowledge of general concepts in environmental science 
 *   Instill values and foster appreciation of the environment in students so that they have a strong conviction in bettering the environment 
 *   Allow students to apply knowledge, processes and skills, and attitudes from across disciplines/subjects to real-life environmental issues, making their learning to be relevant, meaningful and enjoyable
-
-
