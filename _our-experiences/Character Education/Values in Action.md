@@ -45,7 +45,7 @@ As part of our Values in Action, Primary 6 pupils are prepared to be young entre
 **VIA – Share A Meal (SAM)**
 
 <img src="/images/cce24.png" 
-     style="width:80%">
+     style="width:65%">
 
 What is share a meal?  
   
@@ -65,14 +65,14 @@ Why share a meal?
 Opportunity to **GIVE** and **SHARE** with the **less privileged** amongst us,
 
 <img src="/images/cce25.png" 
-     style="width:80%">
+     style="width:65%">
 
 How do we share a meal?  
 
 Put a small sum equivalent to what we would spend on one meal into the Share-A-Meal donation tins
 
 <img src="/images/cce26.png" 
-     style="width:80%">
+     style="width:65%">
 
 Let's encourage one another to “share a meal” with the friends who need help.
 
@@ -85,4 +85,4 @@ Termly classroom cleanliness checks are conducted and Gold, Silver and Bronze ce
 This move aims to help our pupils build character and learn a little about self-reliance and looking after themselves.
 
 <img src="/images/cce27.png" 
-     style="width:80%">
+     style="width:65%">
