@@ -7,7 +7,7 @@ third_nav_title: ALP (Environmental Science)
 ### 3H Approach
 
 <img src="/images/alp2.png" 
-     style="width:80%">
+     style="width:70%">
 
 ESP adopts the 3H approach which covers 3 key developmental domains – HEAD (knowledge & skills), HEART (values & emotions) and HANDS (participation & contribution) to develop students who continuously use concepts and integrate skills and processes in inquiring phenomena related to the environment, think creatively and critically in solving environmental problems, communicate and work effectively in teams and have strong conviction in bettering the environment.
 
@@ -25,8 +25,3 @@ ESP focuses on five themes. The themes will provide the knowledge to study the e
 | Primary 4 | Green environment | Students learn how to “go green” by pursuing knowledge and practices that can lead to more environmentally friendly and ecologically responsible decisions and lifestyles, which can help protect the environment and sustain its natural resources for current and future generation. |
 | Primary 5 | Water management | Students learn how water is managed and the need to conserve water.  |
 | Primary 6 | Renewable Energy and Climate Change | Students learn the different types of renewable energy and learn about the activities that contribute to climate change and find out ways to reduce their carbon footprint that will eventually go to reducing the negative impact of climate change. |
-
-
-
-
-
