@@ -4,25 +4,25 @@ collections:
     order:
       - Sexuality Education.md
       - Homework Policy.md
+      - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
       - Parent Resource/P2 Parent.md
       - Parent Resource/P3 Parent.md
       - Parent Resource/P4 Parent.md
       - Parent Resource/P5 Parent.md
       - Parent Resource/P6 Parent.md
-      - Parent Resource/.keep
       - Parents in Partnership.md
-      - Cyber Wellness/Overview.md
-      - Cyber Wellness/Helping your child manage online scam.md
-      - Cyber Wellness/Helping your child manage cyber contacts.md
-      - Cyber Wellness/Helping your child manage cyber bullying.md
-      - Cyber Wellness/Helping your child manage excessive internet use.md
-      - Cyber Wellness/.keep
       - Parents Gateway App/.keep
       - Parents Gateway App/Overview.md
       - Parents Gateway App/Onetime onboarding (For Parents).md
       - Parents Gateway App/User Guide for Parents.md
       - Parents Gateway App/FAQs.md
+      - Cyber Wellness/.keep
+      - Cyber Wellness/Overview.md
+      - Cyber Wellness/Helping your child manage online scam.md
+      - Cyber Wellness/Helping your child manage cyber contacts.md
+      - Cyber Wellness/Helping your child manage cyber bullying.md
+      - Cyber Wellness/Helping your child manage excessive internet use.md
       - Calendar.md
       - School Services.md
       - School Hours.md
