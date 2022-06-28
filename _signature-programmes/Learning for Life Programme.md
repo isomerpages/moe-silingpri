@@ -24,18 +24,19 @@ It provides the opportunity for different groups of students to reach out to the
 
 Students learn to take self-responsibility and to serve others – especially their elders, at home.
 
-![](/images/lflp2.png)
+<img src="/images/lflp2.png" 
+     style="width:70%">
 
 **Primary 3 and 4 - School**
 
 Students learn to look out for opportunities to serve the school community by providing suggestions or helping out in the school improvement projects.
 
 <img src="/images/lflp3.png" 
-     style="width:80%">
+     style="width:70%">
 **Appreciation Projects for Non-teaching (Admin) and Cleaning Staff.**
 
 <img src="/images/lflp4.png" 
-     style="width:80%">
+     style="width:70%">
 **Students' Suggestions**
 
 **Primary 5 and 6 - External Community**
@@ -43,10 +44,4 @@ Students learn to look out for opportunities to serve the school community by pr
 Students serve the external community by being a part of our school’s outreach efforts like the kindergarten outreach programme where they teach or impart basic skills sets to kindergarteners.
 
 <img src="/images/lflp5.png" 
-     style="width:99%">
-
-
-
-
-
-
+     style="width:80%">
