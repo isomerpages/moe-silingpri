@@ -14,7 +14,7 @@ sections:
           url: /sitemap
         - title: Alumni Testimonial
           description: ""
-          url: /alumni-testimonial
+          url: /our-experiences/Alumni-Testimonial/overview
         - title: Compliments and Feedback
           description: ""
           url: /compliments-and-feedback
