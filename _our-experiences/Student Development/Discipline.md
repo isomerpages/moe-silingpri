@@ -14,4 +14,4 @@ Through promoting a safe and supportive environment and a culture of care, chall
 Adhering closely to MOE’s philosophy on discipline, the school has distilled and formulated an intertwined 3 ringed approach to discipline, with each ring representing the approaches and partnership which the school takes towards building discipline in students.
 
 <img src="/images/sd4.png" 
-     style="width:80%">
+     style="width:60%">
