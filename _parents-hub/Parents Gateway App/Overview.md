@@ -13,3 +13,5 @@ third_nav_title: Parents Gateway App
 If you have children in different schools, you will be able to receive notifications on the same PG App. Parents can download the PG App individually to receive notices.
 
 You will need to download the PG app onto your mobile phone (available on iOS and Andriod platforms) and do a one-time registration (refer to Instructional Guide for the step-by-step guide). Please note that the login is via SingPass. If you are unable to access the PG App, please inform your child’s Form Teacher and he/she will assist you.
+
+Click to access to the [User Guide for Parents](/files/pga5.pdf)
