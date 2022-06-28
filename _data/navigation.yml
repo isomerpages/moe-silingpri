@@ -74,8 +74,6 @@ links:
         url: /parents-hub/parents-gateway-app
       - title: Cyber Wellness
         url: /parents-hub/Cyber-Wellness/overview
-      - title: Calendar
-        url: /parents-hub/calendar
       - title: HBL and SLS
         url: /parents-hub/hblandsls
       - title: Recognition Day 2021
@@ -85,6 +83,8 @@ links:
     sublinks:
       - title: Homework Policy
         url: /useful-information/homework-policy
+      - title: Calendar
+        url: /useful-information/calendar
       - title: School Services
         url: /useful-information/school-services
       - title: School Hours
