@@ -2,5 +2,6 @@ collections:
   useful-information:
     output: true
     order:
+      - Student Care Centre.md
       - School Hours.md
       - School Services.md
