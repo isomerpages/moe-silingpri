@@ -41,15 +41,40 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 #### Floorball (Boys)
 
+We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions. Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
+
+**Teachers-in-charge:** Soh Siew Cheng, Katijah Beevi D/O Auwlia M, Xu Yonghua
+
 <img src="/images/cca13.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 #### Floorball (Girls)
+
+Floorball is a fast paced game that requires skills, stamina and strategies. In this CCA, we provide the space to explore, learn and experience the game in a safe environment. Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
+
+**Achievements:** 
+
+*   National School Games Tier 2 Champions 2019   
+
+**Teachers-in-charge:** Chua Lynn Anthea, Huang Yihui Terrenz, Woon Bee Eng, Chong Wen Shan Rosamund
 
 <img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 #### Football Boys
 
+Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game. The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience. The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
+
+**Teachers-in-charge:** Jeffrey Low Kok Wah, Saiful Bin Sapari, Ong Soo Hoon Cecilia, Wong Kai Teng
 
 #### Sepak Takraw
 
 Missing image on school website.
+
+A traditional South-East Asian recreation game turned competitive, Sepak Takraw derived its name from two languages. Sepak is 'kick' in Malay, and Takraw is the 'ball' in Thai.
+
+Sepak Takraw aims to cultivate sportsmanship in many values including flexibility, agility, strength and teamwork. With at least two annual competitions at the National Level, school team players will have a  chance to experience sports at a competitive level, preparing them psychologically for future sporting endeavors.
+
+**Achievements:** 
+
+*   NSG Junior Regu Champions in Silver Tier 2
+
+**Teachers-in-charge:** Mdm Aw Jie Shi, Hafizah Mahmud
