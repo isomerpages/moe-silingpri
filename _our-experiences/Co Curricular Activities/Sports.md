@@ -12,9 +12,9 @@ third_nav_title: Co Curricular Activities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EnTPUv5asxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/images/cca10.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
-
 #### Basketball (Boys)
+
+<img src="/images/cca10.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 **Achievements:** National School Games 2019 
 
@@ -23,9 +23,9 @@ third_nav_title: Co Curricular Activities
 
 **Teachers-in-charge:** Tan Si Chin Janice, Chew Suet San, Nur Hazura Bte Hamdan, Ms Yu Sheau Huey, Ms Marie Teo
 
-<img src="/images/cca11.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
-
 #### Basketball (Girls)
+
+<img src="/images/cca11.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 Basketball Girls CCA trains female pupils in basketball skills such as dribbling, passing, shooting, lay up, etc. These skills are more in depth than similar skills they learn in their PE lessons. Strategies for games such as attacking and defending are taught to the pupils as well. Pupils who are good could be chosen as school team to represent the school in National School Games Competitions.
 
@@ -37,17 +37,17 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 **Teachers-in-charge:** Dennis Tuan, Emilia Bte Razali, Goh Lee Teng
 
-<img src="/images/cca12.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
-
 #### Floorball (Boys)
+
+<img src="/images/cca12.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions. Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 
 **Teachers-in-charge:** Soh Siew Cheng, Katijah Beevi D/O Auwlia M, Xu Yonghua
 
-<img src="/images/cca13.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
-
 #### Floorball (Girls)
+
+<img src="/images/cca13.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 Floorball is a fast paced game that requires skills, stamina and strategies. In this CCA, we provide the space to explore, learn and experience the game in a safe environment. Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
 
@@ -57,9 +57,9 @@ Floorball is a fast paced game that requires skills, stamina and strategies. In
 
 **Teachers-in-charge:** Chua Lynn Anthea, Huang Yihui Terrenz, Woon Bee Eng, Chong Wen Shan Rosamund
 
-<img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
-
 #### Football Boys
+
+<img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align = "left"> 
 
 Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game. The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience. The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
