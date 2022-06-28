@@ -6,7 +6,7 @@ third_nav_title: English
 ---
 ### Reading
 
-<img src="/images/ell4.png" style="width:340px;height:300px;margin-right:15px;" align = "left">
+<img src="/images/ell4.png" style="width:370px;height:300px;margin-right:15px;" align = "left">
 
 Reading is one of the cornerstones of language acquisition. In our school, other than the reading lessons and activities in the STELLAR curriculum, we have our own level-wide reading programmes. Through these programmes, we aim to inculcate in our students a love for reading by exposing them to a variety of genres and text types.  
   
