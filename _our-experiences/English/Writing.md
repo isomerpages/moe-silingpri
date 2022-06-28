@@ -29,7 +29,7 @@ From the class writing in MLEA 1, students progress to doing group writing in ML
 Finally, having gone through the class and group writings in MLEA 1 and 2, students are better equipped to embark on their individual writing in MLEA 3, where they will be tasked to write on a related theme.
 
 <img src="/images/ell3.png" 
-     style="width:80%">
+     style="width:70%">
 
 **Primary 3 to 6**
 
