@@ -23,4 +23,4 @@ Every term, teachers nominate pupils for displaying the school values and for be
 A panel of teachers and student leaders then choose one pupil from each level and these pupils’ details will be put up on our school’s Value Mural Wall. Certificates are also given to these pupils during assembly.
 
 <img src="/images/cce3.png" 
-     style="width:80%">
+     style="width:60%">
