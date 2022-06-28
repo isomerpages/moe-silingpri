@@ -80,8 +80,6 @@ o    spread rumours and say mean things online
 
 **Talk with your child about his/her internet use**
 
- .
-
 o    Get your child to share with you his/her favourite online websites, things he/she do online and what is cool amongst his/her friends.
 
 o    Talk to him/her about his/her online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
