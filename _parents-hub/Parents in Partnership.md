@@ -16,12 +16,12 @@ Feedback from parents shows that parents were deeply appreciative of these paren
 **P1 PARENTS ENGAGEMENT**
 
 <img src="/images/pip1.png" 
-     style="width:80%">
+     style="width:60%">
 
 **PARENT - CHILD BONDING**
 
 <img src="/images/pip2.png" 
-     style="width:80%">
+     style="width:60%">
 
 **SUPPORT FROM PARENT VOLUNTEERS**  
 
@@ -32,4 +32,4 @@ It takes a village to raise a child. Parents, if you are interested to join us a
 **MATHS FUN WEEK**
 
 <img src="/images/pip3.png" 
-     style="width:80%">
+     style="width:60%">
