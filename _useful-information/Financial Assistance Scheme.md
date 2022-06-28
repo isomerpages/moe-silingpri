@@ -3,7 +3,7 @@ title: Financial Assistance Scheme
 permalink: /useful-information/financial-assistance-scheme
 description: ""
 ---
-### Financial assistance Scheme
+### Financial Assistance Scheme
 
 **MOE Financial assistance Scheme (MOE FAS) for Year 2022**  
 
