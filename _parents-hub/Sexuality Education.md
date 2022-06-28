@@ -55,6 +55,22 @@ c. Character and Citizenship Education (CCE)
 
 7. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety. 
 
+**INFORMATION FOR PARENTS**
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/slpssed.pdf). The completed opt-out form is to be submitted by 28/02/2022.
+
+10. Parents can contact the school at 62698832 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+
 **At Si Ling Primary School, the following** **Sexuality Education lessons will be taught in 2022:**
 
-Primary 5
+**Primary 5**
+
+![](/images/p5sed.png)
+
+**Primary 6**
+
+![](/images/p6sed.png)
