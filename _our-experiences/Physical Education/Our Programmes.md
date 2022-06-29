@@ -27,7 +27,7 @@ Students took part in team-building activities that promotes bonding and underst
 Tying knots looks like the simplest activity but it requires repeated trials that trains ones’ ability to persevere and focus. Students showed care and patience when they demonstrated the steps to their peers who needed help.
 
 <img src="/images/pe5.png" 
-     style="width:60%">
+     style="width:45%">
 
 Tent-pitching is one of the activities that students enjoy doing. It encourages collaboration rather than competition. Students helped each other during the process of pitching tents. They co-operated and learnt to work as a team in harmony. They developed a sense of responsibility when they built and kept the tent together. They achieved a sense of belonging when they felt proud to own a tent even though it was just a temporary shelter for them.
 
@@ -46,7 +46,7 @@ This orienteering activity is an extension of the Outdoor Education that student
 Students learnt to process and make meaning of all the activities and working experiences they had for the day. They were encouraged to grow through personal reflections as this helped to deepen thinking and enhance learning of values. They were more aware of their own strengths and weaknesses, and learnt to work with others in a better manner.
 
 <img src="/images/pe20.png" 
-     style="width:60%">
+     style="width:45%">
 
 **‘Campfire’**
 
