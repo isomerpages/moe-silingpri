@@ -6,6 +6,8 @@ third_nav_title: Our People
 ---
 ### Education Partner
 
+#### EAS
+
 <img src="/images/ep1.png" 
      style="width:70%">
 		 
@@ -17,6 +19,13 @@ third_nav_title: Our People
 		 
 <img src="/images/ep4.png" 
      style="width:70%">
-		 
+		
 <img src="/images/ep5.png" 
      style="width:70%">
+		 
+#### Allied Educators
+	
+	
+	
+	
+	
