@@ -62,7 +62,7 @@ Every year, as one of the Post-PSLE activities, our Primary 6 students get to mo
 P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education Programme that integrates innovation, creativity and conservation of materials through active participation.
 
 <img src="/images/pe10.png" 
-     style="width:60%">
+     style="width:45%">
 
 **_Active Kids Programme_**
 
