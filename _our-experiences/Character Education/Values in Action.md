@@ -11,10 +11,10 @@ third_nav_title: Character Education
 Pupils  learn to appreciate our school cleaners’ contributions and thank them for always being there to take care of our school and well being. They design design a Thank You card or a 3D model to show our appreciation to our school cleaners.
 
 <img src="/images/cce21.png" 
-     style="width:80%">
+     style="width:65%">
 
 <img src="/images/cce22.png" 
-     style="width:80%">
+     style="width:65%">
 
 **Primary 4 VIA – Showing our Appreciation to Non- Teaching Staff**   
   
