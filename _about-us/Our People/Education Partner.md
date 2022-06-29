@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 #### EAS
 
-<img src="/images/ep1.png" 
+<img src="/images/ep6.png" 
      style="width:70%">
 		 
 <img src="/images/ep2.png" 
@@ -24,8 +24,3 @@ third_nav_title: Our People
      style="width:70%">
 		 
 #### Allied Educators
-	
-	
-	
-	
-	
