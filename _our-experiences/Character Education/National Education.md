@@ -11,7 +11,7 @@ third_nav_title: Character Education
 In Si Ling Primary School, we believe in active citizenship among our students. As such, National Education (NE) allow our students to explore and examine their identity as citizens in relation to society and the world, and arrive at a common set of ideals and values. In 2017, NE is anchored on the following citizenship dispositions;
 
 <img src="/images/cce4.png" 
-     style="width:80%">
+     style="width:60%">
 
 There will be four NE Commemorative Days that we commemorate in Si Ling Primary School; Total Defence Day (TDD), International Friendship Day (IFD), Racial Harmony Day (RHD) and National Day. For each commemorative day, there will be customize learning activities and follow up programmes. 
 
@@ -32,12 +32,12 @@ With this integration, the learning of CCE are infused across our different exis
 Si Ling Primary School commemorated Total Defence Day (TDD) to renew our commitment to keep Singapore safe and strong. The theme for TDD is **Together We Keep Singapore Strong**. The TDD’s special assembly programme showcased our very own teachers, Mr Johan and Mr Hilmi, sharing their National Service (NS) experiences while wearing their respective NS uniforms.
 
 <img src="/images/cce5.png" 
-     style="width:80%">
+     style="width:60%">
 
 Various exciting recess activities like camouflage face painting and live first aid demonstration were carried by our teachers and parent volunteers. It was definitely a fun and enriching experience for our students.
 
 <img src="/images/cce6.png" 
-     style="width:80%">
+     style="width:55%">
 		 
 **Racial Harmony Day**  
 
@@ -46,14 +46,14 @@ The theme for this year’s RHD was Diversity, Our Strength. Since the founding 
 Racial Harmony Day serves to remind our pupils that social division can cost us dearly and that race and religion are potential fault lines in Singapore society. It is a day for us to reflect on, and celebrate our success as a harmonious nation and a society which is built on a rich diversity of cultures and heritages.
 
 <img src="/images/cce7.png" 
-     style="width:80%">
+     style="width:70%">
 
 **National Day**
 
 The school celebrated National Day with a dance workout and classroom activities. The classroom activities comprised of building of Singapore landmarks through LEGO, writing a kindness mail on things that made the pupils’ feel proud living in Singapore and what they are grateful for. In the hall, the pupils and staff participated in the dance workout, watched snippets of the NE show that the Primary 5 pupils have attended. A group of Primary 5 and Primary 4 pupils performed a skit named; ‘Attack of The Swordfish’. In addition, pupils and teachers dedicated their birthday wishes for the Nation through video montage too. The concert ended with a sing-along session that got the pupils and staffs singing to the tune of some National Day songs.
 
 <img src="/images/cce8.png" 
-     style="width:80%">
+     style="width:60%">
 
 **International Friendship Day**  
 
@@ -64,4 +64,4 @@ In order to encourage our pupils to celebrate the diversity and vibrancy of the 
 It was indeed an enjoyable and memorable week for our pupils!
 
 <img src="/images/cce9.png" 
-     style="width:80%">
+     style="width:60%">
