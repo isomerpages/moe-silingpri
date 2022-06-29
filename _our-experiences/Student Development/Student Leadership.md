@@ -42,7 +42,7 @@ Besides undergoing the same training sessions as the Level 3 Student Leaders, ou
 Our Student Leadership Programme is anchored on **The Leadership Challenge®** that is adopted from **“The Five Practices of Exemplary Leadership"** by Kouzes and Posner.
 
 <img src="/images/sd3.png" 
-     style="width:8=60%">
+     style="width:8=45%">
 
 **Our key Student Leadership Trainings and Programmes:**
 
