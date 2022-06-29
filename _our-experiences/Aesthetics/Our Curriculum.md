@@ -11,7 +11,7 @@ third_nav_title: Aesthetics
 Through the learning and appreciation of art and music, students develop inquiry skills which enables them to observe and perceive their world with increased awareness and aesthetic sensitivity which lays the foundation for students’ lifelong appreciation and interest in the arts.
 
 <img src="/images/aes3.png" 
-     style="width:80%">
+     style="width:65%">
 		 
 **\[ Experience:** Art Curriculum Overview **\]**
 
