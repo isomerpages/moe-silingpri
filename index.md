@@ -9,18 +9,13 @@ sections:
   - hero:
       background: /images/siling.gif
       key_highlights:
-        - title: Sitemap
+        - title: Announcement
           description: ""
-          url: /sitemap
+          url: /announcement
         - title: Alumni Testimonial
           description: ""
           url: /our-experiences/Alumni-Testimonial/overview
         - title: Compliments and Feedback
           description: Contact Us
           url: /compliments-and-feedback
-  - infopic:
-      title: Quick links
-      description: Please click here (insert URL below)
-      image: /images/resizedholiday.png
-      alt: Happy June Holidays poster
 ---
