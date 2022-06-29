@@ -11,7 +11,7 @@ In our Art and Music Programmes, students learn, appreciate and experience vario
 This Term 1, our students immerse themselves in the Chinese Culture during Art and Music Periods.
 
 <img src="/images/aes5.png" 
-     style="width:80%">
+     style="width:70%">
 
 | Level | Chinese Culture Lesson (Art) | Chinese Culture Lesson<br>(Music) |
 |---|---|---|
