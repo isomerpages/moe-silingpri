@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /our-experiences/Alumni-Testimonial/overview
         - title: Compliments and Feedback
-          description: ""
+          description: Contact Us
           url: /compliments-and-feedback
   - infopic:
       title: Quick links
