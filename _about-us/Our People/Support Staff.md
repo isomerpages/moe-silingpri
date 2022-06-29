@@ -6,4 +6,5 @@ third_nav_title: Our People
 ---
 ### Support Staff
 
-![](/images/support.png)
+<img src="/images/support.png" 
+     style="width:70%">
