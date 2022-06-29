@@ -20,4 +20,4 @@ The Programmes are listed as follows :
 |  Primary 5 | Basic writing resume skills<br> Introduction to My SkillsFuture Portal |
 |  Primary 6 | My SkillsFuture Portal <br> “I am a Young Entrepreneur” |
 	
-<img style="width:65%" src="/images/cce11.png"></i>
+<img style="width:65%" src="/images/cce11.png">
