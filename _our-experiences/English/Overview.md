@@ -5,8 +5,8 @@ description: ""
 third_nav_title: English
 ---
 ### Overview
-
-<img src="/images/el1.png" style="width:350px;height:270px;margin-right:15px;" align = "left">
+<img src="/images/el1.png" 
+     style="width:65%">
 
 **Our Vision**
 
