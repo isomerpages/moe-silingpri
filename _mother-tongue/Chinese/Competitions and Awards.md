@@ -1,6 +1,6 @@
 ---
 title: Competitions and Awards
-permalink: /mother-tongue/Chinese/competitions-and-awards
+permalink: /mother-tongue/Chinese/competitions-and-awards/
 description: ""
 third_nav_title: Chinese
 ---
@@ -62,8 +62,3 @@ third_nav_title: Chinese
 <img src="/images/chi23.png" 
      style="width:90%">
 
-**《国际小学生电脑创意写作比赛》**  
-
-士林学生通过此赛，让自己的创意思维与写作能力得到了升华。最后，在众多参赛中脱颖而出，获得国际银及铜奖和国内银奖。
-
-Missing image from the school website
