@@ -52,6 +52,6 @@ To view the login guide, click [here](/files/gd2.pdf).
 
 Students can access Google Classroom through their student iCON account in Google Workspace.  
   
-To find out how to login to Google Workspace, click [here](https://silingpri.moe.edu.sg/parents-hub/online-learning-resources/google-workspace).  
+To find out how to login to Google Workspace, click [here](https://moe-silingpri-staging.netlify.app/parents-hub/online-learning-resources/).  
   
 To view the guide to joining your Google Classroom, click [here](/files/gc1.pdf).
