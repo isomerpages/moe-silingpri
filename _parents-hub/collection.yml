@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Online Learning Resources/Google Classroom.md
       - Online Learning Resources/.keep
       - Sexuality Education.md
       - Parent Resource/.keep
