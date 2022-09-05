@@ -2,11 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Online Learning Resources/Home based Learning.md
-      - Online Learning Resources/Student Learning Space.md
-      - Online Learning Resources/Google Workspace.md
-      - Online Learning Resources/Google Classroom.md
-      - Online Learning Resources/.keep
       - Sexuality Education.md
       - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
@@ -27,6 +22,11 @@ collections:
       - Cyber Wellness/Helping your child manage cyber bullying.md
       - Cyber Wellness/Helping your child manage excessive internet use.md
       - Online Learning Resources.md
+      - Online Learning Resources/.keep
+      - Online Learning Resources/Home based Learning.md
+      - Online Learning Resources/Student Learning Space.md
+      - Online Learning Resources/Google Workspace.md
+      - Online Learning Resources/Google Classroom.md
       - Recognition Day 2021/.keep
       - Recognition Day 2021/Primary 3.md
       - Recognition Day 2021/Primary 4.md
