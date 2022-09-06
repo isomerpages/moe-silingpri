@@ -1,6 +1,6 @@
 ---
 title: Sports
-permalink: /our-experiences/Co-Curricular-Activities/sports
+permalink: /our-experiences/Co-Curricular-Activities/sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -67,7 +67,7 @@ Football (Boys) is made up of Primary 3 to 6 boys who are interested and passion
 
 #### Sepak Takraw
 
-Missing image on school website.
+<img src="/images/sepak.png" style="width:300px;height:200px;margin-right:15px;" align = "left"> 
 
 A traditional South-East Asian recreation game turned competitive, Sepak Takraw derived its name from two languages. Sepak is 'kick' in Malay, and Takraw is the 'ball' in Thai.
 
