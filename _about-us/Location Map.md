@@ -1,6 +1,6 @@
 ---
 title: Location Map
-permalink: /about-us/location-map
+permalink: /about-us/location-map/
 description: ""
 ---
 ### Location Map

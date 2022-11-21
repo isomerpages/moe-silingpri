@@ -1,6 +1,6 @@
 ---
 title: Parents in Partnership
-permalink: /parents-hub/parents-in-partnership
+permalink: /parents-hub/parents-in-partnership/
 description: ""
 ---
 ### Parents in Partnership

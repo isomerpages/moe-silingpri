@@ -1,6 +1,6 @@
 ---
 title: Compliments and Feedback
-permalink: /moe-silingpri/contact-us
+permalink: /moe-silingpri/contact-us/
 description: ""
 ---
 

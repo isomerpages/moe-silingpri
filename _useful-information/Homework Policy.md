@@ -1,6 +1,6 @@
 ---
 title: Homework Policy
-permalink: /useful-information/homework-policy
+permalink: /useful-information/homework-policy/
 description: ""
 ---
 

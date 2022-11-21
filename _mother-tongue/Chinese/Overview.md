@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /mothertongue/chinese/overview
+permalink: /mothertongue/chinese/overview/
 description: ""
 third_nav_title: Chinese
 ---

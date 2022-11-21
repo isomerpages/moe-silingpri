@@ -1,6 +1,6 @@
 ---
 title: English Language Monthly Odyssey
-permalink: /signature-programmes/elmonthlyodyssey
+permalink: /signature-programmes/elmonthlyodyssey/
 description: ""
 ---
 ### English Language Monthly Odyssey E.L.M.O.

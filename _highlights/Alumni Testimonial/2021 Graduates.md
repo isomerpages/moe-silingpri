@@ -1,6 +1,6 @@
 ---
 title: 2021 Graduates
-permalink: /our-experiences/Alumni-Testimonial/2021
+permalink: /our-experiences/Alumni-Testimonial/2021/
 description: ""
 third_nav_title: Alumni Testimonial
 ---

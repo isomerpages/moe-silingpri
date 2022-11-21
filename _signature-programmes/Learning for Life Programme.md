@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /signature-programmes/lflp
+permalink: /signature-programmes/lflp/
 description: ""
 ---
 ### Learning for Life Programme

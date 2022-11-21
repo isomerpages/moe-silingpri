@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /mothertongue/overview
+permalink: /mothertongue/overview/
 description: ""
 ---
 
