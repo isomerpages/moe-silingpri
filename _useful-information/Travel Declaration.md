@@ -1,6 +1,6 @@
 ---
 title: Travel Declaration
-permalink: /useful-information/travel-declaration
+permalink: /useful-information/travel-declaration/
 description: ""
 ---
 ### Travel Declaration

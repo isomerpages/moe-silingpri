@@ -1,6 +1,6 @@
 ---
 title: Play and Learn Math
-permalink: /signature-programmes/palm
+permalink: /signature-programmes/palm/
 description: ""
 ---
 ### P.A.L.M. Play and Learn Math

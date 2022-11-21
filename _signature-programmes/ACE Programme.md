@@ -1,6 +1,6 @@
 ---
 title: ACE Programme
-permalink: /signature-programmes/ace-programme
+permalink: /signature-programmes/ace-programme/
 description: ""
 ---
 ### A.C.E. Programme

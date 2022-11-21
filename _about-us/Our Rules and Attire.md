@@ -1,6 +1,6 @@
 ---
 title: Our Rules and Attire
-permalink: /about-us/our-rules-and-attire
+permalink: /about-us/our-rules-and-attire/
 description: ""
 ---
 ### Our Rules and Attire

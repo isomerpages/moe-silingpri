@@ -1,6 +1,6 @@
 ---
 title: GRIT @ SLPS
-permalink: /signature-programmes/grit-slps
+permalink: /signature-programmes/grit-slps/
 description: ""
 ---
 ### G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)

@@ -1,6 +1,6 @@
 ---
 title: Lead Our Lives with Purpose
-permalink: /signature-programmes/Lead-Our-Lives-with-Purpose
+permalink: /signature-programmes/Lead-Our-Lives-with-Purpose/
 description: ""
 ---
 ### Lead Our Lives (L.O.L.) with Purpose

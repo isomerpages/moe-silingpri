@@ -1,6 +1,6 @@
 ---
 title: Announcement
-permalink: /announcement
+permalink: /announcement/
 description: ""
 ---
 ### Announcement

@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /useful-information/school-hours
+permalink: /useful-information/school-hours/
 description: ""
 ---
 ### School Hours

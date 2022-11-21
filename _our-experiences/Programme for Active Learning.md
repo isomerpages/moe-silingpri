@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning
-permalink: /our-experiences/programme-for-active-learning
+permalink: /our-experiences/programme-for-active-learning/
 description: ""
 ---
 ### PAL (Programme for Active Learning)

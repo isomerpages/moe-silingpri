@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /useful-information/school-services
+permalink: /useful-information/school-services/
 description: ""
 ---
 ### School Services

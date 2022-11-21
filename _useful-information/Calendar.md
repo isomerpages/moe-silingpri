@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: /useful-information/calendar
+permalink: /useful-information/calendar/
 description: ""
 ---
 
