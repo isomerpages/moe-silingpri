@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-silingpri-staging.netlify.app
-prod: https://moe-silingpri-prod.netlify.app
+staging: https://staging.d3c09g7w9xgrkv.amplifyapp.com
+prod: https://master.d3c09g7w9xgrkv.amplifyapp.com
