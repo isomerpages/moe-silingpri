@@ -3,7 +3,7 @@ url: https://silingpri.moe.edu.sg
 favicon: /images/resizedslpsfav.png
 colors:
   primary-color: "#822b2d"
-  secondary-color: "#4372d6"
+  secondary-color: "#0c159c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
