@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/siling.gif
       key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcement
         - title: Alumni Testimonial
           description: ""
           url: /our-experiences/Alumni-Testimonial/overview
