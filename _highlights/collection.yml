@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Announcement.md
       - Alumni Testimonial/.keep
       - Alumni Testimonial/Overview.md
       - Alumni Testimonial/2021 Graduates.md
