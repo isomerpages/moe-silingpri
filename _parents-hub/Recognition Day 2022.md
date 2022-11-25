@@ -21,6 +21,8 @@ description: ""
 ![4 Innovation Prize Winners](/images/Recognition%20Day%202022/4%20Innovation.jpg)
 
 ![4 Respect Prize Winners](/images/Recognition%20Day%202022/4%20Respect.jpg)
+
+![4 Integrity Prize Winners](/images/Recognition%20Day%202022/4%20Integrity.jpg)
 ## Primary 5
 ![5 Solidarity Prize Winners](/images/Recognition%20Day%202022/5%20Solidarity.jpg)
 
@@ -29,6 +31,7 @@ description: ""
 ![5 Innovation Prize Winners](/images/Recognition%20Day%202022/5%20Innovation.jpg)
 
 ![5 Respect Prize Winners](/images/Recognition%20Day%202022/5%20Respect.jpg)
+
 ## Primary 6
 ![6 Solidarity Prize Winners](/images/Recognition%20Day%202022/6%20Solidarity.jpg)
 
@@ -37,3 +40,7 @@ description: ""
 ![6 Innovation Prize Winners](/images/Recognition%20Day%202022/6%20Innovation.jpg)
 
 ![6 Respect Prize Winners](/images/Recognition%20Day%202022/6%20Respect.jpg)
+
+![6 Integrity Prize Winners](/images/Recognition%20Day%202022/6%20Integrity.jpg)
+
+![6 Teamwork Prize Winners](/images/Recognition%20Day%202022/6%20Teamwork.jpg)
