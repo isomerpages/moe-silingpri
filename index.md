@@ -25,8 +25,6 @@ sections:
         webpage to download your pictures
       button: Recognition Day 2022 Photos
       url: /parents-hub/recognition-day-2022/
-      image: /images/Highlights/Recognition Day 2022 Post (288 × 288px).gif
+      image: /images/Highlight Posts/Recognition Day 2022 Post (288 × 288px).gif
       alt: Recognition Day 2022 link
 ---
-
-
