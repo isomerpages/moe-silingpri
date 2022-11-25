@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Si Ling Primary School
+description: Si Ling Primary School's official website
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -28,3 +28,4 @@ sections:
       image: /images/Highlights/Recognition Day 2022 Post (288 × 288px).gif
       alt: Recognition Day 2022 link
 ---
+
