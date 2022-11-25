@@ -12,7 +12,7 @@ Si Ling Primary School started a new chapter in its history when it was relocate
 
  <img src="/images/history.png" style="width:280px;height:200px;margin-right:15px;" align = "left">
 
-Over the years, the school has been led by six Principals, Mr Tan How Thye, Mr Stephen Goh, Miss Rosalind Chia Peck Lan, Mdm Teo Woo Mee, Mr A Sivam Reddy and Mr Lim Chew Hiong Richard. Mr Koe Ee Tiong, the present Principal, was posted to the school in December 2018. Mr Koe is assisted by our Vice-Principals, Mdm Nurazian Bajuri and Ms Jasmine Tan.
+Over the years, the school has been led by six Principals, Mr Tan How Thye, Mr Stephen Goh, Miss Rosalind Chia Peck Lan, Mdm Teo Woo Mee, Mr A Sivam Reddy and Mr Lim Chew Hiong Richard. Mr Koe Ee Tiong, the present Principal, was posted to the school in December 2018. Mr Koe is assisted by our Vice-Principals, Mdm Nurazian Bajuri and Ms Chee Yeung Wai.
 
 Si Ling Primary School seeks to educate every pupil to work hard and give his/her best at work and play. It seeks to instill in every student the school's core values of **R**esilience, **I**ntegrity, **S**olidarity and **E**mpathy (**R.I.S.E**). The school policy reflects the ideals in the Desired Outcomes of Education and translates them into practical steps that each child may apply in his/her quest for excellence.
 
