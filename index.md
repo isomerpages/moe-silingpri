@@ -2,7 +2,7 @@
 layout: homepage
 title: Si Ling Primary School
 description: Si Ling Primary School's official website
-image: /images/isomer-logo.svg
+image: /images/slplogo.png
 permalink: /
 notification: ""
 sections:
@@ -28,4 +28,5 @@ sections:
       image: /images/Highlights/Recognition Day 2022 Post (288 × 288px).gif
       alt: Recognition Day 2022 link
 ---
+
 
