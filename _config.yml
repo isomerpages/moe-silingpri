@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: Si Ling Primary School
+url: https://silingpri.moe.edu.sg
 favicon: /images/resizedslpsfav.png
 colors:
   primary-color: "#822b2d"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: ""
+description: Si Ling Primary School's official website
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3c09g7w9xgrkv.amplifyapp.com
 prod: https://master.d3c09g7w9xgrkv.amplifyapp.com
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
