@@ -34,4 +34,10 @@ sections:
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
+  - infobar:
+      title: SLS
+      subtitle: Students
+      description: Singapore Student Learning Space
+      button: Click here
+      url: https://vle.learning.moe.edu.sg/login
 ---
