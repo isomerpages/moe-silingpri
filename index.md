@@ -17,7 +17,7 @@ sections:
           url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
         - title: Calendar
           description: of Events
-          url: /useful-information/calendar/
+          url: /parents-hub/calendar/
         - title: Compliments and Feedback
           description: Contact Us
           url: /compliments-and-feedback
