@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - School Services.md
       - Student Care Centre.md
       - Financial Assistance Scheme.md
       - Travel Declaration.md
