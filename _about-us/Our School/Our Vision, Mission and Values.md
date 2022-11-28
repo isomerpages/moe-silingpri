@@ -21,19 +21,19 @@ Resilience, Integrity, Solidarity, Empathy
   
 ##### Strategic Thrust 1
 
-Quality Education
+Academic Excellence
 
 ##### Strategic Thrust 2
 
-Quality Staff
+Active and Healthy Lifestyle
 
 ##### Strategic Thrust 3
 
-Quality Administration Support
+Creative and Expressiveness in the Arts
 
 ##### Strategic Thrust 4
 
-Quality Partnership with Stakeholders
+Character and Citizenship Development
 
 <img src="/images/VMV.png" 
      style="width:80%">
