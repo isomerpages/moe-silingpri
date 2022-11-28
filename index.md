@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/siling.gif
       key_highlights:
-        - title: Parents Gateway
-          description: ""
-          url: /parents-hub/parents-gateway-app/
         - title: Alumni Testimonial
           description: ""
           url: /our-experiences/Alumni-Testimonial/overview
@@ -31,7 +28,7 @@ sections:
       button: Parent Resource
   - infopic:
       title: Parents Gateway
-      subtitle: Infopic Subtitle
+      subtitle: New Parents
       description: How to get onboard
       button: Click here for instructions
       alt: Parents Gateway App info
