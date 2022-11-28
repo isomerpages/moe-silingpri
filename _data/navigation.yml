@@ -72,19 +72,19 @@ links:
         url: /parents-hub/Parent-resource/p1parent
       - title: Parents in Partnership
         url: /parents-hub/parents-in-partnership
-      - title: Parents Gateway App
-        url: /parents-hub/parents-gateway-app
       - title: Cyber Wellness
         url: /parents-hub/Cyber-Wellness/overview
+      - title: Parents Gateway App
+        url: /parents-hub/parents-gateway-app
       - title: Online Learning Resources
         url: /parents-hub/Online-Learning-Resources/HBL
       - title: Recognition Day 2021
         url: /parents-hub/Recognition-Day-2021/primary3
+      - title: Calendar
+        url: /parents-hub/calendar
   - title: Useful Information
     url: /useful-information
     sublinks:
-      - title: Calendar
-        url: /useful-information/calendar
       - title: School Services
         url: /useful-information/school-services
       - title: School Hours
