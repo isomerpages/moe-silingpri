@@ -40,7 +40,7 @@ links:
     url: /our-experiences/overview
     sublinks:
       - title: English
-        url: /our-experiences/english/overview
+        url: /our-experiences/English/overview
       - title: Mathematics
         url: /our-experiences/mathematics/overview
       - title: Science
@@ -55,12 +55,12 @@ links:
         url: /our-experiences/infocomm-technology/overview
       - title: Aesthetics
         url: /our-experiences/aesthetics/overview
-      - title: Character Education
-        url: /our-experiences/character-education/overview
+      - title: CCE
+        url: /our-experiences/CCE/overview
       - title: Programme for Active Learning
-        url: /our-experiences/pal
-      - title: Co-Curricular Activities
-        url: /our-experiences/Co-Curricular-Activities/overview
+        url: /our-experiences/PAL
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/CCA/overview
   - title: Parents' Hub
     url: /parents-hub
     sublinks:
