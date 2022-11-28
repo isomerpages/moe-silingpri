@@ -13,4 +13,4 @@ Singapore 739067
 Nearest MRT: Woodlands MRT  
 Bus from Woodlands bus interchange: 912 from berth 6 (3 stops and alight opposite school)
 
-*Insert Google Map here*
+[VIEW MAP](https://www.google.com/maps?q=61+Woodlands+Avenue+1+Singapore+739067+)
