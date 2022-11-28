@@ -12,7 +12,7 @@ Every Si Ling Student a Scholar who Leads and Serves
 
 ##### MISSION
 
-We, in partnership with all stakeholders, are committed to nurture our pupils to be thinking learners and gracious citizens
+We, in partnership with all stakeholders, are committed to nurture our students to be thinking learners and gracious citizens
 
 ##### VALUES
 
