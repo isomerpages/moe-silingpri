@@ -44,7 +44,7 @@ permalink: /terms-of-use/
   
 (b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.  
   
-10. Si Ling Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.  
+10\. Si Ling Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.  
   
 
 #### Links from This Web Site to Other Web Sites
