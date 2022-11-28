@@ -33,4 +33,5 @@ sections:
       button: Click here for instructions
       alt: Parents Gateway App info
       url: /parents-hub/parents-gateway-app/
+      image: /images/Parents' Hub/Parents' Gateway App/pga1.png
 ---
