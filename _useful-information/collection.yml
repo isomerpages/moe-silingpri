@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - Homework Policy.md
       - School Services.md
       - Student Care Centre.md
       - Financial Assistance Scheme.md
