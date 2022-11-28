@@ -20,7 +20,7 @@ sections:
           url: /parents-hub/calendar/
         - title: Compliments and Feedback
           description: Contact Us
-          url: /compliments-and-feedback
+          url: /contact-us/
   - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
