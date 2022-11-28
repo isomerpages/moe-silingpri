@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/siling.gif
       key_highlights:
+        - title: Parent Resource
+          description: ""
+          url: /parents-hub/Parent-resource/
+        - title: Parents Gateway
+          description: ""
+          url: /parents-hub/parents-gateway-app/
         - title: Alumni Testimonial
           description: ""
           url: /our-experiences/Alumni-Testimonial/overview
