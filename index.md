@@ -32,7 +32,8 @@ sections:
   - infopic:
       title: Parents Gateway
       subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: How to get onboard
+      button: Click here for instructions
+      alt: Parents Gateway App info
+      url: /parents-hub/parents-gateway-app/
 ---
