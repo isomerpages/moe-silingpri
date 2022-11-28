@@ -29,4 +29,10 @@ sections:
       alt: Recognition Day 2022 link
   - resources:
       button: Parent Resource
+  - infopic:
+      title: Parents Gateway
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
