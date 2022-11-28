@@ -30,8 +30,6 @@ sections:
       url: /parents-hub/recognition-day-2022/
       image: /images/Highlight Posts/Recognition Day 2022 Post.gif
       alt: Recognition Day 2022 link
-  - resources:
-      button: Parent Resource
   - infopic:
       title: Parents Gateway
       subtitle: Parents
@@ -40,4 +38,6 @@ sections:
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
+  - resources:
+      button: Parent Resource
 ---
