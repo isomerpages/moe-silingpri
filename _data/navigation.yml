@@ -82,16 +82,16 @@ links:
         url: /parents-hub/school-services
       - title: School Hours
         url: /parents-hub/school-hours
+      - title: Student Care Centre
+        url: /parents-hub/student-care-centre
+      - title: Financial Assistance Scheme
+        url: /parents-hub/financial-assistance-scheme
       - title: Online Learning Resources
         url: /parents-hub/Online-Learning-Resources/HBL
       - title: Recognition Day 2021
         url: /parents-hub/Recognition-Day-2021/primary3
-      - title: Student Care Centre
-        url: /parents-hub/student-care-centre
   - title: Useful Information
     url: /useful-information
     sublinks:
-      - title: Financial Assistance Scheme
-        url: /useful-information/financial-assistance-scheme
       - title: Travel Declaration
         url: /useful-information/travel-declaration
