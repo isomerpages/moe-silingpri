@@ -86,12 +86,9 @@ links:
         url: /parents-hub/student-care-centre
       - title: Financial Assistance Scheme
         url: /parents-hub/financial-assistance-scheme
+      - title: Travel Declaration
+        url: /parents-hub/travel-declaration
       - title: Online Learning Resources
         url: /parents-hub/Online-Learning-Resources/HBL
       - title: Recognition Day 2021
         url: /parents-hub/Recognition-Day-2021/primary3
-  - title: Useful Information
-    url: /useful-information
-    sublinks:
-      - title: Travel Declaration
-        url: /useful-information/travel-declaration
