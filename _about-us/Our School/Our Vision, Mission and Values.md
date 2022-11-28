@@ -6,40 +6,32 @@ third_nav_title: Our School
 ---
 ### Our Vision, Mission and Values
 
-**VISION**
+##### VISION
 
-Every Si Ling Pupil a Scholar who Leads and Serves
+Every Si Ling Student a Scholar who Leads and Serves
 
-**MISSION**
+##### MISSION
 
 We, in partnership with all stakeholders, are committed to nurture our pupils to be thinking learners and gracious citizens
 
-  
-
-**VALUES**
+##### VALUES
 
 Resilience, Integrity, Solidarity, Empathy
 
   
-**Strategic Thrust 1**
+##### Strategic Thrust 1
 
 Quality Education
 
-  
-
-**Strategic Thrust 2** 
+##### Strategic Thrust 2
 
 Quality Staff
 
-  
-
-**Strategic Thrust 3** 
+##### Strategic Thrust 3
 
 Quality Administration Support
 
-  
-
-**Strategic Thrust 4**
+##### Strategic Thrust 4
 
 Quality Partnership with Stakeholders
 
