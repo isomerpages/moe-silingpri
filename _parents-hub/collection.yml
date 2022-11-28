@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Hours.md
       - Sexuality Education.md
       - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
