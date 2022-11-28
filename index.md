@@ -15,6 +15,9 @@ sections:
         - title: Compliments and Feedback
           description: Contact Us
           url: /compliments-and-feedback
+        - title: SLS
+          description: Student Learning Space
+          url: https://vle.learning.moe.edu.sg/login
   - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
