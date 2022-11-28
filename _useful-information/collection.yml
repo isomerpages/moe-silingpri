@@ -1,5 +1,4 @@
 collections:
   useful-information:
     output: true
-    order:
-      - Travel Declaration.md
+    order: []
