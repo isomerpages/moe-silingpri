@@ -10,11 +10,8 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 7.00am - 6.00pm
+        description: For School Hours, click here
     maps_link: ""
     title: Location
 contacts:
