@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - Student Care Centre.md
       - School Services.md
       - Homework Policy.md
