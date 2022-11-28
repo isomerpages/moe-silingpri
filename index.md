@@ -9,15 +9,18 @@ sections:
   - hero:
       background: /images/siling.gif
       key_highlights:
-        - title: Alumni Registration
-          description: Join Us!
-          url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
-        - title: Compliments and Feedback
-          description: Contact Us
-          url: /compliments-and-feedback
         - title: SLS
           description: Student Learning Space
           url: https://vle.learning.moe.edu.sg/login
+        - title: Alumni Registration
+          description: Join Us!
+          url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
+        - title: Calendar
+          description: Term 4
+          url: ""
+        - title: Compliments and Feedback
+          description: Contact Us
+          url: /compliments-and-feedback
   - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
@@ -37,10 +40,4 @@ sections:
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
-  - infobar:
-      title: SLS
-      subtitle: Students
-      description: Singapore Student Learning Space
-      button: Click here
-      url: https://vle.learning.moe.edu.sg/login
 ---
