@@ -78,17 +78,17 @@ links:
         url: /parents-hub/parents-gateway-app
       - title: Calendar
         url: /parents-hub/calendar
+      - title: School Services
+        url: /parents-hub/school-services
       - title: Online Learning Resources
         url: /parents-hub/Online-Learning-Resources/HBL
       - title: Recognition Day 2021
         url: /parents-hub/Recognition-Day-2021/primary3
-      - title: School Services
-        url: /parents-hub/school-services
+      - title: School Hours
+        url: /parents-hub/school-hours
   - title: Useful Information
     url: /useful-information
     sublinks:
-      - title: School Hours
-        url: /useful-information/school-hours
       - title: Student Care Centre
         url: /useful-information/student-care-centre
       - title: Financial Assistance Scheme
