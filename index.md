@@ -28,10 +28,10 @@ sections:
       button: Parent Resource
   - infopic:
       title: Parents Gateway
-      subtitle: New Parents
-      description: How to get onboard
-      button: Click here for instructions
+      subtitle: Parents
+      description: App Guide and How to get onboard
+      button: Click here for more
       alt: Parents Gateway App info
-      url: /parents-hub/parents-gateway-app/
+      url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
 ---
