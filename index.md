@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Parents Gateway
       subtitle: Parents
-      description: App Guide and How to get onboard
+      description: App Guide and how to get onboard
       button: Click here for more
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
