@@ -35,5 +35,4 @@ Creative and Expressiveness in the Arts
 
 Character and Citizenship Development
 
-<img src="/images/VMV.png" 
-     style="width:80%">
+![School building inverted colours](/images/About%20Us/VMV.png)
