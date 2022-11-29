@@ -27,9 +27,7 @@ In MLEA 1, students think about a shared experience, which can be a class activi
 From the class writing in MLEA 1, students progress to doing group writing in MLEA 2, where they write as a group on a similar theme. Group members are encouraged to contribute ideas and as a group, the students edit and revise their group writing.  
   
 Finally, having gone through the class and group writings in MLEA 1 and 2, students are better equipped to embark on their individual writing in MLEA 3, where they will be tasked to write on a related theme.
-
-<img src="/images/ell3.png" 
-     style="width:70%">
+![Students writing in English](/images/ell3.png)
 
 ##### Primary 3 to 6
   
