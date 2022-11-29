@@ -4,15 +4,14 @@ permalink: /our-experiences/English/
 description: ""
 third_nav_title: English
 ---
-
-### Overview
+### **English**
 <img src="/images/el1.png" 
-     style="width:65%">
+     style="width:65%" >
 
-**Our Vision**
+##### Our Vision
 
 Every Si Ling Pupil a Confident, Effective and Ethical Communicator with a Love for the Language
 
-**Our Mission Statement**
+##### Our Mission Statement
 
 To equip our pupils with the communicative skills of the English
