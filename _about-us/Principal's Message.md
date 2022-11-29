@@ -6,6 +6,7 @@ description: ""
 ### Principal's Message
 
 <img src="/images/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  Dear Parents/Guardians,
+
 ###### Principal’s Message 2022
 
 A very warm welcome to Si Ling Primary School. 
