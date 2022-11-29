@@ -4,18 +4,12 @@ permalink: /signature-programmes/ALP-environmentalscience/espactivities/
 description: ""
 third_nav_title: ALP (Environmental Science)
 ---
-
-### ESP Activities
+### **ESP Activities**
 
   
 ESP includes experiential learning activities that seek to enrich students’ learning experience. The activities are mostly planned to align to the respective themes or the science topics, and they are either catered to students from a level or the whole school.
 
-**iCare@Assembly**
-
-ESP includes experiential learning activities that seek to enrich students’ learning experience. The activities are mostly planned to align to the respective themes or the science topics, and they are either catered to students from a level or the whole school.  
-  
-
-### iCARE@Assembly
+#### iCARE@Assembly
 
   
 Everyone knows Professor Planet (affectionately known as Miss P)! She ignites a curiosity about the environment that goes beyond the classroom. In a light-hearted manner, she introduces today’s environmental issues and the role of technology in resolving them.  
@@ -24,14 +18,14 @@ She aims to spark innovative ideas amongst students when they brainstorm for ide
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-**Let's Recycle**
+#### Let's Recycle
 
 Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
 
 <img src="/images/alp4.png" 
      style="width:70%">
 		 
-**iCARE Week**
+#### iCARE Week
 
 In conjunction with Earth Day, an annual event celebrated around the world to demonstrate support for environmental protection, our students from the SciEinsteins Club (SEC) organises iCARE Week yearly. Held in Term 2, this is the time when everyone in school learns more about environmental conservation through play.  
   
@@ -42,7 +36,7 @@ Meanwhile, students are kept busy partaking in recess activities such as energy 
 <img src="/images/alp5.png" 
      style="width:70%">
 
-**Whizz Kid**
+#### Whizz Kid
 
 Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity. We use case studies as active learning tools to develop students who think creatively and critically in solving environmental problems, and communicate and work effectively in teams as they apply science concepts to propose and test their solutions to real environmental problems. Whizz Kid aims to arouse students’ interest in learning beyond the classroom, equip students with 21st century skills and highlight to students real environmental issues.
 
@@ -52,11 +46,11 @@ Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity.
 | Primary 4 | Design a green building |
 | Primary 5 | Build a device to obtain potable water |
 
-**Leadership in ESP**
+#### Leadership in ESP
 
 <img src="/images/alp6.png" style="width:283px;height:340px;margin-right:15px;" align = "left">
 
-**Environment Ambassador**
+###### **Environment Ambassador**
 
 ESP provides opportunities for students to hone their leadership skills, igniting their desire to serve the school. Selected students will go through rounds of interview before being appointed as Environment Ambassadors. Duties of Environment Ambassadors include:  
   
