@@ -47,8 +47,7 @@ Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity.
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-
-<img src="/images/alp6.png" style="width:283px;height:340px;margin-right:15px;" align = "left">
+<img src="/images/alp6.png" style="width:40%;margin-right:15px;" align = "left">
 
 ###### **Environment Ambassador**
 
@@ -72,7 +71,7 @@ The Environment Ambassadors also receive trainings that equip them with leadersh
 *   Biodiversity Workshop
 
 
-**SciEinsteins Club**
+###### **SciEinsteins Club**
 <img src="/images/alp7.png" style="width:320px;height:250px;margin-left:15px;" align = "right">
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
