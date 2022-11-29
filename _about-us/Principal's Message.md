@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message
 
-<img src="/images/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  Dear Parents/Guardians,
+<img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  Dear Parents/Guardians,
 
 ###### Principal’s Message 2022
 
