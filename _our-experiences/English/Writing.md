@@ -4,7 +4,7 @@ permalink: /our-experiences/English/writing/
 description: ""
 third_nav_title: English
 ---
-### Writing
+### **Writing**
 
 Writing is meant to be a fun and enjoyable activity in which students can exercise their imagination and let their creative juices flow. However, students sometimes dread writing as they find it challenging due to these reasons:  
   
@@ -15,7 +15,7 @@ Writing is meant to be a fun and enjoyable activity in which students can exerci
 
 In our school, we have various approaches to help students overcome these challenges.
 
-**Primary 1 and 2**
+##### Primary 1 and 2
 
 For the Primary 1 and 2 levels, the writing process is carried out as Guided Writing or Modified Language Experience Approach (MLEA).  
   
@@ -31,7 +31,7 @@ Finally, having gone through the class and group writings in MLEA 1 and 2, stude
 <img src="/images/ell3.png" 
      style="width:70%">
 
-**Primary 3 to 6**
+##### Primary 3 to 6
 
   
 Firstly, to address the issue of a lack of ideas, students are taught to do “Free Writing”, in which they brainstorm and write freely the ideas that come to mind as they study the pictures and theme. After “Free Writing”, students select the idea(s) which they want to develop based on what they deem to be most interesting and which they feel most confident of developing.  
