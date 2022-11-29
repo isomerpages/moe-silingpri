@@ -4,7 +4,7 @@ permalink: /signature-programmes/alp-environmentalscience/
 description: ""
 third_nav_title: ALP (Environmental Science)
 ---
-### ALP (Environmental Science)
+### **ALP (Environmental Science**)
 
 <img src="/images/alp1.png" 
      style="width:70%">
