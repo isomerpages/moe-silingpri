@@ -2,21 +2,8 @@ collections:
   parents-hub:
     output: true
     order:
-      - Our Alumni Our Pride/Overview.md
-      - Our Alumni Our Pride/2021 Graduates.md
-      - Our Alumni Our Pride/2020 Graduates.md
-      - Our Alumni Our Pride/2016 Graduates.md
-      - Our Alumni Our Pride/2017 Graduates.md
-      - Our Alumni Our Pride/2018 Graduates.md
-      - Our Alumni Our Pride/2019 Graduates.md
-      - Our Alumni Our Pride/.keep
-      - Travel Declaration.md
-      - Financial Assistance Scheme.md
-      - Student Care Centre.md
-      - School Services.md
-      - Homework Policy.md
-      - School Hours.md
       - Sexuality Education.md
+      - Homework Policy.md
       - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
       - Parent Resource/P2 Parent.md
@@ -25,21 +12,34 @@ collections:
       - Parent Resource/P5 Parent.md
       - Parent Resource/P6 Parent.md
       - Parents in Partnership.md
-      - Parents Gateway App/.keep
-      - Parents Gateway App/Overview.md
-      - Parents Gateway App/Onetime onboarding (For Parents).md
-      - Parents Gateway App/FAQs.md
-      - Calendar.md
       - Cyber Wellness/.keep
       - Cyber Wellness/Overview.md
       - Cyber Wellness/Helping your child manage online scam.md
       - Cyber Wellness/Helping your child manage cyber contacts.md
       - Cyber Wellness/Helping your child manage cyber bullying.md
       - Cyber Wellness/Helping your child manage excessive internet use.md
-      - Online Learning Resources.md
+      - Parents Gateway App/.keep
+      - Parents Gateway App/Overview.md
+      - Parents Gateway App/Onetime onboarding (For Parents).md
+      - Parents Gateway App/FAQs.md
+      - Calendar.md
+      - School Services.md
+      - School Hours.md
+      - Student Care Centre.md
+      - Financial Assistance Scheme.md
+      - Travel Declaration.md
       - Online Learning Resources/.keep
       - Online Learning Resources/Home based Learning.md
       - Online Learning Resources/Student Learning Space.md
       - Online Learning Resources/Google Workspace.md
       - Online Learning Resources/Google Classroom.md
+      - Online Learning Resources.md
       - Recognition Day 2022.md
+      - Our Alumni Our Pride/.keep
+      - Our Alumni Our Pride/Overview.md
+      - Our Alumni Our Pride/2021 Graduates.md
+      - Our Alumni Our Pride/2020 Graduates.md
+      - Our Alumni Our Pride/2016 Graduates.md
+      - Our Alumni Our Pride/2017 Graduates.md
+      - Our Alumni Our Pride/2018 Graduates.md
+      - Our Alumni Our Pride/2019 Graduates.md
