@@ -24,11 +24,11 @@ To instill skills that they can adapt to a new environment.
 <img src="/images/transitionalprogramme2.png" style="width:60%;margin-left:15px;" align = "right">
 
 ##### **The 3Cs Approach**
-###### **C**are
-###### **C**ommunication
-###### **C**ollaboration
+##### **C**are
+##### **C**ommunication
+##### **C**ollaboration
 
-**1. Care**
+##### **1. Care**
 Social & Emotional Readiness
 
 When children go through the transition from preschool to primary school, they will experience many changes at several levels:   
