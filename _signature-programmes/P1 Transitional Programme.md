@@ -29,7 +29,7 @@ To instill skills that they can adapt to a new environment.
 ##### **C**ollaboration
 
 ##### **1. Care**
-Social & Emotional Readiness
+###### **Social & Emotional Readiness**
 
 When children go through the transition from preschool to primary school, they will experience many changes at several levels:   
 • change in the school structure – size of school, subjects, school rules, etc.  
@@ -38,21 +38,17 @@ When children go through the transition from preschool to primary school, they w
 • change in relationships – teachers, peers, greater competition, etc  
 Good mental wellbeing is a key factor in supporting children in their transition process. Children with good mental wellbeing are likely to be able to navigate their new surroundings with greater ease, and hence adjust better and faster to the new school setting.
 
-**2. Communication**
+##### **2. Communication**
 Effective communication skills build a positive school environment built upon self-awareness. It involves active listening and clear respectful speaking. Effective communication is also key to positive partnership with parents. When teachers and parents share knowledge and experience, it has a positive on the child’s well-being and development.
 
-**3. Collaboration**
+##### **3. Collaboration**
 Positive collaboration with the different stakeholders help to increase students’ wellbeing and academic achievements. When teachers collaborate with parents and the community, they help to develop the student holistically.  
-
-  
-
-  
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 <img src="/images/transitionalprogramme3.png" style="width:340px;height:250px;margin-left:15px;" align = "right"> 
 
-**Day 0 (last week of Dec)**
+##### Day 0 (last week of Dec)
 
 P1 Form Teachers Engagement
 
