@@ -8,8 +8,7 @@ third_nav_title: Our School
 
 <img src="/images/crest.png" 
      style="width:30%">
-		 
-**Strive for Progress**
+##### **Strive for Progress**
 
 **Flame**\- Our pupils and staff aspire to excel in academic performances as well as sports and games.
 
