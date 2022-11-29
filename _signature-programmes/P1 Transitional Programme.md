@@ -116,7 +116,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 **Apple Star Story**
 
-- Teacher to share the Apple Star Story. Each pupil brings home an apple and narrate the story to their parents. Sets the tone for the new academic year: Work hard and you will succeed (get a star).
+\- Teacher to share the Apple Star Story. Each pupil brings home an apple and narrate the story to their parents. Sets the tone for the new academic year: Work hard and you will succeed (get a star).
 
 Highlights include bonding games, familiarization tours and setting of routines. We build in our children a sense of belonging and community so that they remain positive and feel secure about their new environment.  
 
