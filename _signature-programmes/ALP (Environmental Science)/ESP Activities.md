@@ -47,7 +47,7 @@ Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity.
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-<img src="/images/alp6.png" style="width:60%;margin-right:15px;" align = "left">
+<img src="/images/alp6.png" style="width:70%;margin-right:15px;" align = "left">
 
 ###### **Environment Ambassador**
 
