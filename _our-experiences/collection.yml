@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Our Alumni Our Pride/Overview.md
       - Our Alumni Our Pride/2021 Graduates.md
       - Our Alumni Our Pride/.keep
       - Overview.md
