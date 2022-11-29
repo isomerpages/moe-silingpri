@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Alumni Our Pride/.keep
-      - 2021 Graduates.md
       - Overview.md
       - English/.keep
       - English/Overview.md
