@@ -6,7 +6,7 @@ third_nav_title: Our School
 ---
 ### Our Crest
 
-<img src="/images/crest.png" 
+<img src="/images/About%20Us/crest.png" 
      style="width:30%">
 ##### **Strive for Progress**
 
