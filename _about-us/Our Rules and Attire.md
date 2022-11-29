@@ -25,8 +25,12 @@ description: ""
 *School rules extracted from Student Handbook. Further details to some of the rules can be found in the student handbook.
 
 **School Uniform**
-<img src="/images/attire1.png" 
+<img src="/images/About%20Us/Our%20Rules%20and%20Attire/attire1.png" 
      style="width:70%">
+
+| **Boy's School Attire** | **Girl's School Attire** |
+| ------------------------- | ------------------------- |
+| <img src="/images/About%20Us/Our%20Rules%20and%20Attire/boyattire1.png)" style="width:70%"> | <img src="/images/About%20Us/Our%20Rules%20and%20Attire/girlattire1.png)" style="width:70%"> |
 
 Name tag to be sewn/iron-on 2cm above the school logo. Black shoes with white socks (No track shoes allowed)
 
