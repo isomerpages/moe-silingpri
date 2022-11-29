@@ -3,9 +3,9 @@ title: GRIT @ SLPS
 permalink: /signature-programmes/grit-slps/
 description: ""
 ---
-### G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)
+### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
-**Purpose**
+#### Purpose
 *     
     To improve student’s motivation
 *   To strengthen resilience in students
@@ -13,7 +13,7 @@ description: ""
 
 <img src="/images/grit1.png" style="width:320px;height:230px;margin-right:15px;" align = "left">
 
-**P5 SKILLs Programme**
+##### P5 SKILLs Programme
 
 *   Strengthen peer to peer relationships as well as rapport between teachers and students  
     
@@ -22,17 +22,18 @@ description: ""
   
 The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The objectives of the camp are to develop the students’ own self-resilience, strengthen friendships and show care and respect towards their teachers and peers through fun and exciting activities in an outdoor environment.
 
-To learn more, click (PS INSERT PERMALINK)
+To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 
 <img src="/images/grit2.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
-**P5 Snack with Principal**
+
+##### P5 Snack with Principal
 *   Interaction between school leaders, form teachers and students
 *   Q&A with school leaders
 *   Form teachers share personal motivational stories
 
 Snack with Principal for the Primary 5 students is a platform for the school leaders to interact with the Primary 5 students at a personal level. Sessions are relaxed, allowing students to share their experiences and ask questions in an informal setting. Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
 
-**P6 Chillax**
+##### P6 Chillax
 *   In the midst of the preparation for PSLE, during the June school holidays, to end off the 3-day supplementary lessons, students will participate in games and sports activities together with teachers, school leaders and parents
 *   Opportunity to celebrate and recognise students who have displayed tenacity, grit and resilience
 
@@ -41,7 +42,7 @@ P6 Chillax is an event that the Primary 6 students will look forward to every ye
 <img src="/images/grit3.png" 
      style="width:90%">
 		 
-**P6 Breakfast with Principal**
+##### P6 Breakfast with Principal
 *   Interaction between school leaders, form teachers and students
 *   Q&A with school leaders
 *   Form teachers share personal motivational stories
@@ -50,7 +51,7 @@ Breakfast with Principal for the Primary 6 students is a spinoff from the Primar
 <img src="/images/grit4.png" 
      style="width:90%">
 
-**P6 Intra-Class Games**
+##### P6 Intra-Class Games
 
 July and August can be a stressful period for P6 students
 
