@@ -8,7 +8,7 @@ third_nav_title: Our School
 
 ##### VISION
 
-Every Si Ling Student a Scholar who Leads and Serves
+Every Si Ling Pupil a Scholar who Leads and Serves
 
 ##### MISSION
 
