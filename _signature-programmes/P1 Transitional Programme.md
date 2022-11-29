@@ -50,7 +50,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 ##### Day 0 (last week of Dec)
 
-P1 Form Teachers Engagement
+**P1 Form Teachers Engagement**
 
 \- Sharing of Good Practices for Lower Primary Classroom
 
@@ -74,7 +74,7 @@ P1 Form Teachers Engagement
 
 <img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
-**Day 1**
+##### Day 1
 
 Classroom Circle Time
 
@@ -88,7 +88,7 @@ Classroom Circle Time
 
 <img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
-**Day 2**
+##### Day 2
 
 **Classroom Circle Time**
 
@@ -106,7 +106,7 @@ Classroom Circle Time
 
 <img src="/images/transitionalprogramme6.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
 
-**Day 3**
+##### Day 3
 
 **Classroom Circle  Time**
 
