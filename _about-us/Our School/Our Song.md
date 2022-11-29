@@ -5,6 +5,4 @@ description: ""
 third_nav_title: Our School
 ---
 ### Our Song
-
-<img src="/images/schoolsong.png" 
-     style="width:75%">
+![School song sheet](/images/About%20Us/schoolsong.png)
