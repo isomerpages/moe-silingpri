@@ -9,11 +9,11 @@ description: ""
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
-**Rationale**
+#### Rationale
 
 Having a good transition plan from Kindergarten to Primary One is very important for young children.  When they move from a preschool environment to a primary school, the change is huge.  The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.  To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
 
-**Objectives**
+#### Objectives
 
 To help our Primary One cohort transit seamlessly from the Preschool to the Primary School settings.
 
@@ -21,12 +21,12 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<img src="/images/transitionalprogramme2.png" style="width:300px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme2.png" style="width:60%;margin-left:15px;" align = "right">
 
-**The 3Cs Approach**
-**Care**
-**Communication**
-**Collaboration**
+##### **The 3Cs Approach**
+###### **C**are
+###### **C**ommunication
+###### **C**ollaboration
 
 **1. Care**
 Social & Emotional Readiness
