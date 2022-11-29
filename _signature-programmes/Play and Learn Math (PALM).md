@@ -3,8 +3,7 @@ title: Play and Learn Math (PALM)
 permalink: /signature-programmes/PALM/
 description: ""
 ---
-
-### P.A.L.M. Play and Learn Math
+### **P.A.L.M. Play and Learn Math**
 
 When am I ever going to use Math?
 
