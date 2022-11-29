@@ -32,7 +32,8 @@ Finally, having gone through the class and group writings in MLEA 1 and 2, stude
      style="width:70%">
 
 ##### Primary 3 to 6
-
+  
+For Primary 3 to 6 students, we have a Writing Package which provides a structure that guides them through the writing process for continuous writing.  
   
 Firstly, to address the issue of a lack of ideas, students are taught to do “Free Writing”, in which they brainstorm and write freely the ideas that come to mind as they study the pictures and theme. After “Free Writing”, students select the idea(s) which they want to develop based on what they deem to be most interesting and which they feel most confident of developing.  
   
