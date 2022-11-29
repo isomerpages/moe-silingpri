@@ -3,7 +3,6 @@ title: Lead Our Lives with Purpose
 permalink: /signature-programmes/LOL/
 description: ""
 ---
-
 ### Lead Our Lives (L.O.L.) with Purpose
 
 <img src="/images/lolwp1.png" style="width:50%;margin-right:15px;" align = "left">
