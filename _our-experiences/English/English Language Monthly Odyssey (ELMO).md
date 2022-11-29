@@ -4,8 +4,7 @@ permalink: /signature-programmes/ELMO/
 description: ""
 third_nav_title: English
 ---
-
-### English Language Monthly Odyssey E.L.M.O.
+### **English Language Monthly Odyssey E.L.M.O.**
 
 English Language Monthly Odyssey (ELMO) is an array of literacy-based activities that aims to make language learning more enjoyable, engaging and rewarding. Literacy is important for the 21st Century native since it will determine not only the acquisition of knowledge and skills but also in learning social behaviour, and in their ability to connect with others. By making EL learning exciting, students are more willing to participate and often find the lesson fun and memorable.
 
