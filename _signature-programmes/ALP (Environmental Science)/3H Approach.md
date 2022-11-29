@@ -4,7 +4,7 @@ permalink: /signature-programmes/ALP-Environmental-Science/3Happroach/
 description: ""
 third_nav_title: ALP (Environmental Science)
 ---
-### 3H Approach
+### **3H Approach**
 
 <img src="/images/alp2.png" 
      style="width:70%">
@@ -14,7 +14,7 @@ ESP adopts the 3H approach which covers 3 key developmental domains – HEAD (kn
 <img src="/images/alp3.png" 
      style="width:80%">
 
-**Themes in ESP**
+#### Themes in ESP
 
 ESP focuses on five themes. The themes will provide the knowledge to study the environment and the solution of environmental problems.
 
