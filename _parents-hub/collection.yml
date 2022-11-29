@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - 2021 Graduates.md
       - Overview.md
       - Our Alumni Our Pride/.keep
       - Travel Declaration.md
