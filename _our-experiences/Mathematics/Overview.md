@@ -6,7 +6,7 @@ third_nav_title: Mathematics
 ---
 ### **Mathematics**
 
-**Our Mission Statement**
+##### Our Mission Statement
 
 <img src="/images/mathematics1.png" 
      style="width:70%">
