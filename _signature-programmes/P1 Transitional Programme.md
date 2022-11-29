@@ -76,7 +76,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 ##### Day 1
 
-Classroom Circle Time
+**Classroom Circle Time**
 
 \- Getting to know your Form Teachers and Classmates
 
