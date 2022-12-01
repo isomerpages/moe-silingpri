@@ -39,7 +39,7 @@ The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathem
 
 **Abstract** is the “symbolic” stage, where children use abstract symbols to model problems.
 
-<img src="/images/mathematics4.png" 
+<img src="/images/Our%20Experiences/Mathematics/Curriculum%20approach%20collage%20(compressed).png" 
      style="width:60%">
 
 ###### **2. BEST Approach to Problem Solving**
