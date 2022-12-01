@@ -22,7 +22,7 @@ We achieve this by designing our math programme into 3 phases, with a focus on b
 ##### Si Ling Mathematics 6 year Programme
 
 | Phase | Level | Objectives |
-|:---:|:-----:|:---:|
+|:------:|:------:|:-----------:|
 | **PHASE 1: Laying the Foundation** | P1 and P2 | Develop interest and enjoyment in learning mathematics.<br>Develop a deep understanding of concepts. |
 | **PHASE 2: Building up the Skills and Processes** | P3 and P4 | Build confidence in using mathematics. Develop reasoning, communication and problem solving skills. |
 | **PHASE 3: Sharpening the Mathematical Skills and Processes** | P5 and P6 | Apply reasoning, communication and problem solving skills.<br>Prepare for PSLE. |
