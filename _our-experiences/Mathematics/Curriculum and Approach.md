@@ -27,9 +27,9 @@ We achieve this by designing our math programme into 3 phases, with a focus on b
 | **PHASE 2: Building up the Skills and Processes** | P3 and P4 | Build confidence in using mathematics. Develop reasoning, communication and problem solving skills. |
 | **PHASE 3: Sharpening the Mathematical Skills and Processes** | P5 and P6 | Apply reasoning, communication and problem solving skills.<br>Prepare for PSLE. |
 
-**Some of our common approach**
+##### **Some of our common approaches:**
 
-1. Concrete-Pictorial-Abstract (CPA) Approach
+###### **1. Concrete-Pictorial-Abstract (CPA) Approach**
 
 The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathematics. lessons are designed using the CPA sequence to foster deeper understanding of mathematical concepts.
 
@@ -48,18 +48,18 @@ The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathem
 <img src="/images/mathematics4.png" 
      style="width:60%">
 
-**2. BEST Approach to Problem Solving**
+###### **2. BEST Approach to Problem Solving**
 
 The Polya’s 4-step problem solving process was adapted and we called it the BEST approach to problem solving. This approach focus on metacognition which is thinking about thinking, refers to the awareness of, and the ability to control one’s thinking processes. This approach provides a structured development to pupils’ thinking process as they solve the word problem.
 
-**3. Model Method**
+###### **3. Model Method**
 
 The model method is used for effective mathematics learning and problem solving. The drawing of model helps our pupils understand complex mathematical word problems. It helps pupils to develop and enhance pupils’ mathematical thinking and problem solving in the early years of mathematical education.
 
 <img src="/images/mathematics5.png" 
      style="width:60%">
 
-**4. Improving Confidence and Achievement in Numeracy (ICAN)**
+###### **4. Improving Confidence and Achievement in Numeracy (ICAN)**
 
 In Si Ling, we embarked on the ICAN programme by the Ministry of Education (Curriculum Planning and Development Division) to enhance the teaching and learning of mathematics. ICAN uses intervention strategies guided by research to address 4 key issues namely learning gaps, language, motivation and memory.
 
