@@ -4,18 +4,17 @@ permalink: /our-experiences/Mathematics/high-progressing-learners/
 description: ""
 third_nav_title: Mathematics
 ---
-### Stretching our High-Progressing Learners
+### **Stretching our High-Progressing Learners**
 
 In Si Ling, high-progressing learners can participate in enrichment programmes and activities that ignite their interests in Mathematics and develop their reasoning and communication skills.
 
-**Excellence 2000 (E2K) Mathematics Programme**
+#### Excellence 2000 (E2K) Mathematics Programme
 
 The E2K Mathematics Programme, developed by the Israel Centre for Excellence through Education (ICEE), aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
 
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through Mathematical puzzles and games. These rich learning experiences will develop the habits, attitudes and dispositions that mathematicians possess as well as 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
-<img src="/images/mathematics8.png" 
-     style="width:55%">
+<img src="/images/Our%20Experiences/Mathematics/E2K%20collage%202022%20(compressed).png" style="width:55%">
 		 
 **Math H.O.T Programme**
 
