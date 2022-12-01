@@ -19,7 +19,7 @@ Our school aligns our mathematics curricular approach with the broad aims of mat
 
 We achieve this by designing our math programme into 3 phases, with a focus on building strong foundation in the subject right from the start.
 
-**Si Ling Mathematics 6 year Programme**
+##### Si Ling Mathematics 6 year Programme
 
 | Phase | Level | Objectives |
 |:---:|:---:|:---:|
