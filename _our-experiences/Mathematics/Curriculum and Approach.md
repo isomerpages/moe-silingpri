@@ -4,7 +4,7 @@ permalink: /our-experiences/Mathematics/curriculum-and-approach/
 description: ""
 third_nav_title: Mathematics
 ---
-### Curriculum and Approach
+### **Curriculum and Approach**
 
 Our school aligns our mathematics curricular approach with the broad aims of mathematics education in Singapore to enable students to: 
 
@@ -12,7 +12,7 @@ Our school aligns our mathematics curricular approach with the broad aims of mat
 *   develop cognitive and metacognitive skills through a mathematical approach to problem solving; and 
 *   develop positive attitudes towards mathematics.
 
-**Singapore Mathematics Framework**
+##### Singapore Mathematics Framework
 
 <img src="/images/mathematics3.png" 
      style="width:70%">
