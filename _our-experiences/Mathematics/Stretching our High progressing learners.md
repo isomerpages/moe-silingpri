@@ -14,7 +14,7 @@ The E2K Mathematics Programme, developed by the Israel Centre for Excellence th
 
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through Mathematical puzzles and games. These rich learning experiences will develop the habits, attitudes and dispositions that mathematicians possess as well as 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
-<img src="/images/Our%20Experiences/Mathematics/E2K%20collage%202022%20(compressed).png" style="width:55%">
+<img src="/images/Our%20Experiences/Mathematics/E2K%20collage%202022%20(compressed).png" style="width:80%">
 		 
 **Math H.O.T Programme**
 
