@@ -46,3 +46,20 @@ Mathematics Trail is an interactive way to learn mathematics beyond the classroo
 #### Math Fun Week
 Math fun week is held annually to engage pupils with fun-filled mathematics activities.  Pupils get to investigate and apply mathematics concepts through the problems created for them to develop their reasoning and critical thinking skills! Pupils were given opportunities to explain to their classmates how they derived their answers.
 
+![Students playing board games](/images/Signature%20Programmes/PALM/math1.png)
+
+In addition to the activity in the classroom, there were activities in Student Learning Space (SLS) for the different level to demonstrate their creativity. Learning Math is fun!   
+
+Here are some of the works of the students.
+
+*Primary 1: Making patterns using shapes/ pictures.*
+![Primary 1: Making patterns using shapes/ pictures.](/images/Our%20Experiences/Mathematics/p1%20sls%20ee.png)
+
+*Primary 2: Creating animal using shapes.*
+![Primary 2: Creating animal using shapes.](/images/Our%20Experiences/Mathematics/p2%20sls%20ee.png)
+
+*Primary 3 and 4: Creating symmetric figures.*
+![Primary 3 and 4: Creating symmetric figures.](/images/Our%20Experiences/Mathematics/P3%20P4%20sls%20e.png)
+
+*Primary 5 and 6: Creating Zentangles.*
+![Primary 5 and 6: Creating Zentangles.](/images/Our%20Experiences/Mathematics/P5%20P6%20sls%20e.png)
