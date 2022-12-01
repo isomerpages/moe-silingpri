@@ -31,17 +31,11 @@ We achieve this by designing our math programme into 3 phases, with a focus on b
 
 ###### **1. Concrete-Pictorial-Abstract (CPA) Approach**
 
-The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathematics. lessons are designed using the CPA sequence to foster deeper understanding of mathematical concepts.
+The Concrete-Pictorial-Abstract Approach (CPA) is used in the teaching of mathematics. Lessons are designed using the CPA sequence to foster deeper understanding of mathematical concepts.
 
-  
-
-**Concrete** is the “doing” stage. During this stage, students use concrete objects to model problems.  
-
-  
+**Concrete** is the “doing” stage. During this stage, students use concrete objects to model problems.
 
 **Pictorial** is the “seeing” stage. Here, visual representations of concrete objects are used to model problems. 
-
-  
 
 **Abstract** is the “symbolic” stage, where children use abstract symbols to model problems.
 
