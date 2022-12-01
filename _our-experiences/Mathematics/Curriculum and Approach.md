@@ -61,11 +61,11 @@ In Si Ling, we embarked on the ICAN programme by the Ministry of Education (Curr
 
 **The ICAN principles**
 
-1.  Routines and Norms
-2.  Diagnosis and Feedback
-3.  Practice and Review
-4.  Explicit and Direct Instructions
-5.  Scaffolding and Progression
-6.  Key Ideas and their Connections
-7.  Communication and Reasoning
-8.  Confidence and Motivation
+1.   Routines and Norms
+2.   Diagnosis and Feedback
+3.   Practice and Review
+4.   Explicit and Direct Instructions
+5.   Scaffolding and Progression
+6.   Key Ideas and their Connections
+7.   Communication and Reasoning
+8.   Confidence and Motivation
