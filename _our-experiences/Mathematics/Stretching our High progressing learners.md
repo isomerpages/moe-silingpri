@@ -16,11 +16,9 @@ Students will have opportunities to work independently or collaborate with their
 
 <img src="/images/Our%20Experiences/Mathematics/E2K%20collage%202022%20(compressed).png" style="width:80%">
 		 
-**Math H.O.T Programme**
+#### Math H.O.T Programme
 
 The mathematical olympiad workshop is organized for our Primary 3 to 6 pupils. This workshop exposes pupils to higher order thinking (HOT) questions and equip them with strategies on how to solve challenging problems.
-
-  
 
 Through the workshop, pupils will:
 
