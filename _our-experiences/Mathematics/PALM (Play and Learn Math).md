@@ -39,10 +39,10 @@ Mathematics Trail is an interactive way to learn mathematics beyond the classroo
 *Students estimating the perimeter of the garden plot.*
 <img src="/images/Our%20Experiences/Mathematics/MATH%20TRAIL%206%20brush.png" 
      style="width:65%" align="left"> <img src="/images/Our%20Experiences/Mathematics/MATH%20TRAIL%201%20brush.png" 
-     style="width:35%" align="left">
+     style="width:35%" align="right">
 		 
 																					Students using a metric ruler to measure the height of a desk. 
+
 #### Math Fun Week
 Math fun week is held annually to engage pupils with fun-filled mathematics activities.  Pupils get to investigate and apply mathematics concepts through the problems created for them to develop their reasoning and critical thinking skills! Pupils were given opportunities to explain to their classmates how they derived their answers.
-
 
