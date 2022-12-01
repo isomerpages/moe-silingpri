@@ -20,3 +20,5 @@ To find out more, click [here](/signature-programmes/PALM/)
 | P4     | Pupils design and create a mathematics game using any mathematical concepts they have learnt.     |
 | P5     | Pupils create a video to teach a mathematical concept to their friends.     |
 | P6     | Pupils design and create a mathematics trail in school for their primary 5 peers.     |
+
+![Pupils applying Math to making pizza](/images/Our%20Experiences/Mathematics/PALM%20collage.png)
