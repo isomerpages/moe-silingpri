@@ -14,7 +14,7 @@ Our school aligns our mathematics curricular approach with the broad aims of mat
 
 ##### Singapore Mathematics Framework
 
-<img src="/images/mathematics3.png" 
+<img src="/images/Our%20Experiences/Mathematics/mathematics3.png" 
      style="width:70%">
 
 We achieve this by designing our math programme into 3 phases, with a focus on building strong foundation in the subject right from the start.
@@ -50,14 +50,14 @@ The Polya’s 4-step problem solving process was adapted and we called it the BE
 
 The model method is used for effective mathematics learning and problem solving. The drawing of model helps our pupils understand complex mathematical word problems. It helps pupils to develop and enhance pupils’ mathematical thinking and problem solving in the early years of mathematical education.
 
-<img src="/images/mathematics5.png" 
+<img src="/images/Our%20Experiences/Mathematics/mathematics5.png" 
      style="width:60%">
 
 ##### 4. Improving Confidence and Achievement in Numeracy (ICAN)
 
 In Si Ling, we embarked on the ICAN programme by the Ministry of Education (Curriculum Planning and Development Division) to enhance the teaching and learning of mathematics. ICAN uses intervention strategies guided by research to address 4 key issues namely learning gaps, language, motivation and memory.
 
-<img src="/images/mathematics6.png" style="width:360px;height:280px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Experiences/Mathematics/mathematics6.png" style="width:360px;height:280px;margin-left:15px;" align = "right">
 
 **The ICAN principles**
 
