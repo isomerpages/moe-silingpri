@@ -26,16 +26,19 @@ Through the workshop, pupils will:
 *   solve different types of primary mathematical olympiad questions
 *   apply the best techniques on a given problem with more confidence
 
-**Math Competitions**
+<img src="/images/Our%20Experiences/Mathematics/HOT%20collage%20(compressed).png" style="width:80%">
+
+#### Math Competitions
 
 Pupils are encouraged to participate in the following mathematics competitions. These competitions provide a platform for pupils to demonstrate their mathematics skills learnt and also motivate them to strive for excellence in the learning of mathematics.
 
   
 
-| NMOS: | National Mathematical Olympiad of Singapore ( NMO∑ ) is  an annual national competition organized by the NUS High School of Mathematics and Science |
+|  |  |
 | --- | --- |
+| **NMOS:** | National Mathematical Olympiad of Singapore ( NMO∑ ) is  an annual national competition organized by the NUS High School of Mathematics and Science |
 | **SMOPS:** | Singapore Mathematical Olympiad for Primary School organised by Hwa Chong Institution |
 | **RIPMWC:** | Raffles Institution Primary Mathematics World Contest |
 
-<img src="/images/mathematics9.png" 
+<img src="/images/Our%20Experiences/Mathematics/mathematics9.png" 
      style="width:80%">
