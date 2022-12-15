@@ -32,5 +32,5 @@ We developed the **SLPS** strategy (**S**tudy question, **L**ink concepts, *
   
 During the planning of their answers, our students use the **CER** framework (**C**laim, **E**vidence, **R**easoning) to construct scientific explanations. This framework helps students see how to justify claims in science.
 
-<img src="/images/sci5.png" 
+<img src="/images/Our%20Experiences/Science/sci5.png" 
      style="width:70%">
