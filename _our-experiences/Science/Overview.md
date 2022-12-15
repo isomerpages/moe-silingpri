@@ -4,12 +4,10 @@ permalink: /our-experiences/Science/overview/
 description: ""
 third_nav_title: Science
 ---
-### Science
+### **Science**
 
-<img src="/images/sci1.png" 
-     style="width:65%">
+![Students enjoying the garden with toy butterflies](/images/Our%20Experiences/Science/sci1.png)
 		 
-**Our Vision**
+##### Our Vision
 
 Confident inquirers who enjoy science and value science as a tool to explore and better the world.
-
