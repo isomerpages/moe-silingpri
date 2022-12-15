@@ -4,9 +4,9 @@ permalink: /our-experiences/Science/our-curriculum-approach/
 description: ""
 third_nav_title: Science
 ---
-### Our Curriculum Approach
+### **Our Curriculum Approach**
 
-<img src="/images/scii2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Experiences/Science/sci2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
 
 **Our Lessons**
 We adopt the inquiry-based learning to promote deeper learning and nurture self-directed learners in the classroom. Guided by the Primary Science Syllabus, we develop lessons to provide opportunities for students to work individually or collaboratively to explain scientific concepts, using evidence to support their claim.
