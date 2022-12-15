@@ -8,14 +8,11 @@ third_nav_title: Science
 
 <img src="/images/Our%20Experiences/Science/sci2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
 
-**Our Lessons**
+##### Our Lessons
+
 We adopt the inquiry-based learning to promote deeper learning and nurture self-directed learners in the classroom. Guided by the Primary Science Syllabus, we develop lessons to provide opportunities for students to work individually or collaboratively to explain scientific concepts, using evidence to support their claim.
 
-  
-
-The process of inquiry is facilitated by teachers who help students make connections
-
-and build their understanding of concepts. The process includes five phases: Engage, Explore, Explain, Elaborate and Evaluate. Teachers use questions to facilitate the development of new understanding.
+The process of inquiry is facilitated by teachers who help students make connections and build their understanding of concepts. The process includes five phases: Engage, Explore, Explain, Elaborate and Evaluate. Teachers use questions to facilitate the development of new understanding.
 
 <img src="/images/sci3.png" style="width:350px;height:260px;margin-left:15px;" align = "right">
 
