@@ -8,7 +8,7 @@ third_nav_title: Science
 
 We believe in designing a rich experience of learning that fosters joy of learning in students, providing them with opportunities to acquire knowledge and skills, while having fun and with the necessary rigor.
 
-<img src="/images/scii4.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Experiences/Science/scii4.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
 
 **Grow me**
 
@@ -23,7 +23,7 @@ Our learning trails provide our students the opportunity to be out of the classr
 | Primary 4 | Healing Garden | Students are able to appreciate the importance of medicinal plants and the need to conserve this resource as they discover the medicinal properties of plants through self-exploration and apply knowledge in human systems to treat medical conditions given in tasks. |
 | Primary 6 | Renewable Source of Energy | Students explore an investigative trail to learn about renewable sources of energy.  Their aim is to find the best location to install a solar panel and a wind turbine. |
 
-<img src="/images/sci7.png" 
+<img src="/images/Our%20Experiences/Science/sci7.png" 
      style="width:70%">
 		 
 **Let's Investigate!**
@@ -41,15 +41,3 @@ This activity requires students to demonstrate mastery of knowledge and skills t
 
 To promote better learning of Science, we introduce the Young Scientist Magazine to students.  
 This encourages them to read beyond their textbooks. Students can pick up these magazines in the comfort of their own classes and explore the wonders of science through reading.  We aim to arouse students’ interest in science as they read how science influences most aspects of everyday life.
-
-
-
-
-
-
-
-
-
-
-
-
