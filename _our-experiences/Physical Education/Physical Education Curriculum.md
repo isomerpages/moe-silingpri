@@ -8,11 +8,9 @@ third_nav_title: Physical Education
 
 <img src="/images/pe2.png" style="width:300px;height:440px;margin-right:15px;" align = "left">
 
-**PE Curriculum**
+##### PE Curriculum
 
 The Physical Education (PE) programme is an integral component of Singapore’s school curriculum. It provides students with learning opportunities that make use of movement to develop the whole child. Furthermore, it provides students with skills to be responsible adults and contributing members of the society, the nation and the world.
-
-  
 
 In Si Ling Primary, the PE programme aims to develop our students into Competent Movers who demonstrate efficiency, effectiveness and versatility in movement competencies.
 
@@ -32,7 +30,7 @@ There are seven learning areas that facilitate learning in every student:
     
 *   Swimming (by the end of Primary 6)
 
-**PE Assessment**
+##### PE Assessment
 
 PE Assessment is done for selected components throughout the year on the following:
 
