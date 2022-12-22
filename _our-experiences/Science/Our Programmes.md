@@ -4,17 +4,17 @@ permalink: /our-experiences/Science/our-programmes/
 description: ""
 third_nav_title: Science
 ---
-### Our Programmes
+### **Our Programmes**
 
 We believe in designing a rich experience of learning that fosters joy of learning in students, providing them with opportunities to acquire knowledge and skills, while having fun and with the necessary rigor.
 
 <img src="/images/Our%20Experiences/Science/_MG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align = "right">
 
-**Grow me**
+##### Grow me
 
 Students have the opportunity to demonstrate the school’s values – perseverance and respect, as they patiently and lovingly wait for their seeds or caterpillar to reach the adult stage.  They hone their observation and communication skills as they record and present the growth of their ‘pets’.  They are also able to see the water cycle in action as they build their terrarium.
 
-**Learning Trails**
+##### Learning Trails
 Our learning trails provide our students the opportunity to be out of the classroom to see the facts they read about in their textbooks. They are also able to apply concepts and skills to authentic contexts, and learn and think independently through self-exploration and observation, deepening their learning.
 
 | Level | Topics | Objective |
@@ -26,7 +26,7 @@ Our learning trails provide our students the opportunity to be out of the classr
 <img src="/images/Our%20Experiences/Science/sci7.png" 
      style="width:70%">
 		 
-**Let's Investigate!**
+##### Let's Investigate!
 
 This activity requires students to demonstrate mastery of knowledge and skills through the application within the task.
 
@@ -37,7 +37,7 @@ This activity requires students to demonstrate mastery of knowledge and skills t
 | Primary 4 | <br>Classify objects according to their transparency and build a shadow puppet<br>Measure volume of marbles<br> |
 | Primary 5 | <br>Build and test a device that is able to obtain potable water<br>Design an electrical circuit to fulfil a set of conditions |
 
-**Young Scientist Magazine**
+##### Young Scientist Magazine
 
 To promote better learning of Science, we introduce the Young Scientist Magazine to students.  
 This encourages them to read beyond their textbooks. Students can pick up these magazines in the comfort of their own classes and explore the wonders of science through reading.  We aim to arouse students’ interest in science as they read how science influences most aspects of everyday life.
