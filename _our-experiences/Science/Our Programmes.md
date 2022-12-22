@@ -340,5 +340,6 @@ This activity requires students to demonstrate mastery of knowledge and skills t
 
 ##### Young Scientist Magazine
 
-To promote better learning of Science, we introduce the Young Scientist Magazine to students.  
-This encourages them to read beyond their textbooks. Students can pick up these magazines in the comfort of their own classes and explore the wonders of science through reading.  We aim to arouse students’ interest in science as they read how science influences most aspects of everyday life.
+To promote better learning of Science, we introduce the Young Scientist Magazine to students.
+
+This encourages them to read beyond their textbooks. Students can pick up these magazines in the comfort of their own classes and explore the wonders of science through reading.  We aim to arouse students’ interest in science as they read how science influences most aspects of everyday life.
