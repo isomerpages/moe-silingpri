@@ -11,8 +11,7 @@ We believe in designing a rich experience of learning that fosters joy of learni
 <img src="/images/Our%20Experiences/Science/_MG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align = "right">
 
 ##### Grow me
-
-Students have the opportunity to demonstrate the school’s values – perseverance and respect, as they patiently and lovingly wait for their seeds or caterpillar to reach the adult stage.  They hone their observation and communication skills as they record and present the growth of their ‘pets’.  They are also able to see the water cycle in action as they build their terrarium.
+Students have the opportunity to demonstrate the school’s values – perseverance and respect, as they patiently and lovingly wait for their seeds or caterpillar to reach the adult stage.  They hone their observation and communication skills as they record and present the growth of their ‘pets’.  They are also able to see the water cycle in action as they build their terrarium.
 
 ##### Learning Trails
 Our learning trails provide our students the opportunity to be out of the classroom to see the facts they read about in their textbooks. They are also able to apply concepts and skills to authentic contexts, and learn and think independently through self-exploration and observation, deepening their learning.
