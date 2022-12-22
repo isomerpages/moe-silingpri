@@ -20,7 +20,7 @@ Our learning trails provide our students the opportunity to be out of the classr
 |---|---|---|
 | Primary 3 | Endangered Animals | Students embark on an interdisciplinary trail at the Singapore Zoo to discover endangered animals and learn about the threats to the animals’ survival in the wild. Students will also get a chance to see tropical crops and learn about their uses and benefits. |
 | Primary 4 | Healing Garden | Students are able to appreciate the importance of medicinal plants and the need to conserve this resource as they discover the medicinal properties of plants through self-exploration and apply knowledge in human systems to treat medical conditions given in tasks. |
-| Primary 6 | Renewable Source of Energy | Students explore an investigative trail to learn about renewable sources of energy.  Their aim is to find the best location to install a solar panel and a wind turbine. |
+| Primary 6 | Renewable Source of Energy | Students explore an investigative trail to learn about renewable sources of energy. Their aim is to find the best location to install a solar panel and a wind turbine. |
 
 <img src="/images/Our%20Experiences/Science/sci7.png" 
      style="width:70%">
