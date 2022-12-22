@@ -8,7 +8,7 @@ third_nav_title: Science
 
 We believe in designing a rich experience of learning that fosters joy of learning in students, providing them with opportunities to acquire knowledge and skills, while having fun and with the necessary rigor.
 
-<img src="/images/Our%20Experiences/Science/_MG_2411.jpeg" style="width:283px;height:340px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Experiences/Science/_MG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align = "right">
 
 **Grow me**
 
