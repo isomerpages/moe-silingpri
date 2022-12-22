@@ -16,11 +16,161 @@ Students have the opportunity to demonstrate the school’s values – persevera
 ##### Learning Trails
 Our learning trails provide our students the opportunity to be out of the classroom to see the facts they read about in their textbooks. They are also able to apply concepts and skills to authentic contexts, and learn and think independently through self-exploration and observation, deepening their learning.
 
-| Level | Topics | Objective |
-|---|---|---|
-| Primary 3 | Endangered Animals | Students embark on an interdisciplinary trail at the Singapore Zoo to discover endangered animals and learn about the threats to the animals’ survival in the wild. Students will also get a chance to see tropical crops and learn about their uses and benefits. |
-| Primary 4 | Healing Garden | Students are able to appreciate the importance of medicinal plants and the need to conserve this resource as they discover the medicinal properties of plants through self-exploration and apply knowledge in human systems to treat medical conditions given in tasks. |
-| Primary 6 | Renewable Source of Energy | Students explore an investigative trail to learn about renewable sources of energy. Their aim is to find the best location to install a solar panel and a wind turbine. |
+<table class="iveo_table ives_tab_1" width="0">
+    
+<tbody class="">
+      
+<tr class="">
+        
+<td width="103" class="" valign="middle">
+          <p class="" align="center">
+            <b class="">
+              <span lang="EN-SG" class="">Level
+              </span>
+            </b>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="151" class="" valign="middle">
+          <p class="" align="center">
+            <b class="">
+              <span lang="EN-SG" class="">Topics
+              </span>
+            </b>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="364" class="" valign="middle">
+          <p class="" align="center">
+            <b class="">
+              <span lang="EN-SG" class="">Objective
+              </span>
+            </b>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="103" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 3
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="151" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Endangered Animals
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="364" class="">
+          <p class="" style="text-align: center;">
+            <span class="">Students embark on an interdisciplinary trail at the Singapore Zoo to discover endangered animals and learn about the threats to the animals’ survival in the wild. Students will also get a chance
+              to see tropical crops and learn about their uses and benefits.
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="103" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 4
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="151" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Healing Garden
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="364" class="">
+          <p class="" style="text-align: center;">
+            <span lang="EN-SG" class="">Students are able to appreciate the importance of
+              medicinal plants and the need to conserve this resource as they discover the
+              medicinal properties of plants through self-exploration and apply knowledge
+              in human systems to treat medical conditions given in tasks.
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="103" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 6
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="151" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Renewable Source of Energy
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="364" class="">
+          <p class="" style="text-align: center;">
+            <span lang="EN-SG" class="">Students explore an investigative trail to learn
+              about renewable sources of energy.&nbsp;
+              Their aim is to find the best location to install a solar panel and a
+              wind turbine.
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+    
+</tbody>
+  
+</table>
+
 
 <img src="/images/Our%20Experiences/Science/sci7.png" 
      style="width:70%">
@@ -29,12 +179,164 @@ Our learning trails provide our students the opportunity to be out of the classr
 
 This activity requires students to demonstrate mastery of knowledge and skills through the application within the task.
 
-
-| Level | Task |
-|---|---|
-| Primary 3 | <br>Classify objects into living and non-living things<br>Classify waterproof and non-waterproof materials<br>Build a boat that is able to float and provide reasoning to the choice of materials used<br> |
-| Primary 4 | <br>Classify objects according to their transparency and build a shadow puppet<br>Measure volume of marbles<br> |
-| Primary 5 | <br>Build and test a device that is able to obtain potable water<br>Design an electrical circuit to fulfil a set of conditions |
+<table class="iveo_table ives_tab_1" width="0">
+    
+<tbody class="">
+      
+<tr class="">
+        
+<td width="121" class="" valign="middle">
+          <p class="" align="center">
+            <b class="">
+              <span lang="EN-SG" class="">Level
+              </span>
+            </b>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="496" class="" valign="middle">
+          <p class="" align="center">
+            <b class="">
+              <span lang="EN-SG" class="">Task
+              </span>
+            </b>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="121" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 3
+            </span>
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+        
+<td width="496" class="" valign="top">
+          <p class="">
+          </p>
+          
+<ul>
+            
+<li style="text-align: left;">
+              <span class="">Classify
+                objects into living and non-living things
+              </span>
+            
+</li>
+            
+<li style="text-align: left;">Classify waterproof and non-waterproof materials
+            
+</li>
+            
+<li style="text-align: left;">Build a boat that is able to float and provide
+              reasoning to the choice of materials used
+            
+</li>
+          
+</ul>
+          <p>
+          </p>
+          <p class="">
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="121" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 4
+            </span>
+          </p>
+        
+</td>
+        
+<td width="496" class="" valign="top">
+          <p class="">
+          </p>
+          
+<ul>
+            
+<li style="text-align: left;">Classify
+              objects according to their transparency and build a shadow puppet
+            
+</li>
+            
+<li style="text-align: left;">Measure volume of marbles
+            
+</li>
+          
+</ul>
+          <p>
+          </p>
+          <p class="">
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+      
+<tr class="">
+        
+<td width="121" class="" valign="top">
+          <p class="" align="center">
+            <span lang="EN-SG" class="">Primary 5
+            </span>
+          </p>
+        
+</td>
+        
+<td width="496" class="" valign="top">
+          <p class="">
+          </p>
+          
+<ul>
+            
+<li style="text-align: left;">
+              <span lang="EN-SG" class="">Build and test a device that is able to obtain
+                potable water
+              </span>
+            
+</li>
+            
+<li style="text-align: left;">Design an electrical circuit to fulfil a set of
+              conditions
+            
+</li>
+          
+</ul>
+          <p>
+          </p>
+          <p class="">
+            <span class="">
+            </span>
+          </p>
+        
+</td>
+      
+</tr>
+    
+</tbody>
+  
+</table>
 
 ##### Young Scientist Magazine
 
