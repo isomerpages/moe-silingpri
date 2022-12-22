@@ -40,7 +40,3 @@ PE Assessment is done for selected components throughout the year on the followi
 2.  Performance Levels for Physical Fitness 
 3.  Performance Levels for Participation in Physical Education 
 4.  Reporting on Values
-
-
-
-
