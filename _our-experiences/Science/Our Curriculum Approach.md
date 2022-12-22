@@ -22,7 +22,7 @@ Our teachers further enhance their pedagogy as they leverage Information and Com
 
 The Primary Science Syllabus is based on the Science Curriculum Framework. The Science Curriculum Framework encapsulates the thrust of science education in Singapore to prepare our students to be sufficiently adept as effective citizens, able to function in and contribute to an increasingly technologically-driven world. It seeks to nurture the student as an inquirer while the teacher is the leader of inquiry in the science classroom.
 
-<img src="/images/Our%20Experiences/Science/sci4.png" 
+<img src="/images/Our%20Experiences/Science/2014 Primary Science Syllabus.png" 
      style="width:55%">
 Source: 2014 Primary Science Syllabus
 
