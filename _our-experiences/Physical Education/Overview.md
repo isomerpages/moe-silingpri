@@ -6,9 +6,7 @@ third_nav_title: Physical Education
 ---
 ### Physical Education
 
-<img src="/images/pe1.png" 
-     style="width:80%">
-		 
+![Students throwing frisbees](/images/Our%20Experiences/Physical%20Education/pe1.png) 
 ##### Vision
 
 Students to be active and enjoy a lifetime of active, healthy living
