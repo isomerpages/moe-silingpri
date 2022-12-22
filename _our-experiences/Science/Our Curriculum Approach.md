@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ### **Our Curriculum Approach**
 
-<img src="/images/Our%20Experiences/Science/sci2.png" style="width:283px;height:340px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Experiences/Science/IMG_1285.png" style="width:320px;height:340px;margin-left:15px;" align = "right">
 
 ##### Our Lessons
 
