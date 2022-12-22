@@ -29,8 +29,11 @@ Source: 2014 Primary Science Syllabus
 ##### Our Strategy - SLPS
 
 We developed the **SLPS** strategy (**S**tudy question, **L**ink concepts, **P**lan answer, **S**tudy answer) to guide students in making sense of a question before attempting to answer it. This strategy helps students to articulate their thoughts systematically and refine their responses to be more accurate and precise.  
-  
+
+<img src="/images/Our%20Experiences/Science/SLPS Science strategy.png" 
+     style="width:70%">
+
 During the planning of their answers, our students use the **CER** framework (**C**laim, **E**vidence, **R**easoning) to construct scientific explanations. This framework helps students see how to justify claims in science.
 
-<img src="/images/Our%20Experiences/Science/sci5.png" 
+<img src="/images/Our%20Experiences/Science/thinking icon.png" 
      style="width:70%">
