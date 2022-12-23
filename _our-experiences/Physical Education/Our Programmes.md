@@ -55,7 +55,7 @@ Unlike the traditional practice for students to sit in a circle and present thei
 <img src="/images/Our%20Experiences/Physical%20Education/pe9.png" 
      style="width:60%">
 
-**_P6 Innovative Games_**
+##### P6 Innovative Games
 
 Every year, as one of the Post-PSLE activities, our Primary 6 students get to modify an existing target game, be it frisbee, basketball or softball, and compete in an intra-class competition on throwing for accuracy.
    
@@ -64,7 +64,7 @@ P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education
 <img src="/images/Our%20Experiences/Physical%20Education/_MG_4036.png" 
      style="width:45%">
 
-**_Active Kids Programme_**
+##### Active Kids Programme
 
 With the objective to get students moving, the Active Kids Programme aims to equip these group of students to get active through a wide range of different sports and games, help them cultivate healthy eating habits and build a stronger foundation in developing an overall active and healthy lifestyle.   
 
