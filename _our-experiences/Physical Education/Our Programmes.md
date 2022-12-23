@@ -57,7 +57,7 @@ Unlike the traditional practice for students to sit in a circle and present thei
 
 **_P6 Innovative Games_**
 
-Every year, as one of the Post-PSLE activities, our Primary 6 students get to modify an existing target game, be it frisbee, basketball or softball, and compete in an intra-class competition on throwing for accuracy.   
+Every year, as one of the Post-PSLE activities, our Primary 6 students get to modify an existing target game, be it frisbee, basketball or softball, and compete in an intra-class competition on throwing for accuracy.
    
 P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education Programme that integrates innovation, creativity and conservation of materials through active participation.
 
