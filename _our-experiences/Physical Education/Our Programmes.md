@@ -12,7 +12,7 @@ third_nav_title: Physical Education
     
 *   Working as a team to overcome challenges
 
-<img src="/images/pe3.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe3.png" 
      style="width:60%">
 
 The 2-Day Primary 5 SK|LLs Programme is held annually at the end of Term 1. The objectives of the camp are to develop the students’ own self-resilience, strengthen friendships and show care and respect towards their teachers and peers through fun and exciting activities in an outdoor environment.
@@ -21,38 +21,38 @@ The 2-Day Primary 5 SK|LLs Programme is held annually at the end of Term 1. The 
 
 Students took part in team-building activities that promotes bonding and understanding. They are motivated to work together, tap on each other’s strengths and help one’s areas of improvement.
 
-<img src="/images/pe4.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe4.png" 
      style="width:60%">
 
 Tying knots looks like the simplest activity but it requires repeated trials that trains ones’ ability to persevere and focus. Students showed care and patience when they demonstrated the steps to their peers who needed help.
 
-<img src="/images/pe5.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe5.png" 
      style="width:45%">
 
 Tent-pitching is one of the activities that students enjoy doing. It encourages collaboration rather than competition. Students helped each other during the process of pitching tents. They co-operated and learnt to work as a team in harmony. They developed a sense of responsibility when they built and kept the tent together. They achieved a sense of belonging when they felt proud to own a tent even though it was just a temporary shelter for them.
 
-<img src="/images/pe6.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe6.png" 
      style="width:60%">
 
 **Orienteering**
 
 This orienteering activity is an extension of the Outdoor Education that students went through in school during PE lessons.  Students applied their navigating and map-reading skills through active participation in locating checkpoints. They took part in group discussion and listened to opinions from the members. They learnt to respect different perspectives and completed the task within the allocated time frame.
 
-<img src="/images/pe7.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe7.png" 
      style="width:60%">
 
 **Reflections**
 
 Students learnt to process and make meaning of all the activities and working experiences they had for the day. They were encouraged to grow through personal reflections as this helped to deepen thinking and enhance learning of values. They were more aware of their own strengths and weaknesses, and learnt to work with others in a better manner.
 
-<img src="/images/pe20.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe20.png" 
      style="width:45%">
 
 **‘Campfire’**
 
 Unlike the traditional practice for students to sit in a circle and present their performances in front of a fire, students had a unique high-tech campfire in their respective classrooms this year. Students’ performance was recorded and shared in the Campfire finale via Zoom. Students built confidence and developed social skills through these fun and engaging activities. As they laughed and enjoyed the skits that their school-mates put up, they also brought back good ‘Kampong spirit’ that they exhibited.
 
-<img src="/images/pe9.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe9.png" 
      style="width:60%">
 
 **_P6 Innovative Games_**
@@ -61,7 +61,7 @@ Every year, as one of the Post-PSLE activities, our Primary 6 students get to mo
    
 P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education Programme that integrates innovation, creativity and conservation of materials through active participation.
 
-<img src="/images/pe10.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe10.png" 
      style="width:45%">
 
 **_Active Kids Programme_**
@@ -70,5 +70,5 @@ With the objective to get students moving, the Active Kids Programme aims to equ
 
 With the support from Active SG, Sports SG, SEP-certified vendors and our dedicated PE teachers, Active Kids Programme runs every Friday, 2.00 – 4.00pm.
 
-<img src="/images/pe11.png" 
+<img src="/images/Our%20Experiences/Physical%20Education/pe11.png" 
      style="width:60%">
