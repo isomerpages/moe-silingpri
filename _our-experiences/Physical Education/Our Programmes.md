@@ -6,7 +6,7 @@ third_nav_title: Physical Education
 ---
 ### **Our Programmes**
 
-##### P5 SKILLs Programme
+##### P5 SK|LLs Programme
 
 *   Strengthen peer to peer relationships as well as rapport between teachers and students  
     
