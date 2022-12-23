@@ -17,7 +17,7 @@ third_nav_title: Physical Education
 
 The 2-Day Primary 5 SK|LLs Programme is held annually at the end of Term 1. The objectives of the camp are to develop the students’ own self-resilience, strengthen friendships and show care and respect towards their teachers and peers through fun and exciting activities in an outdoor environment.
 
-**Team-building activities**
+**_Team-building activities_**
 
 Students took part in team-building activities that promotes bonding and understanding. They are motivated to work together, tap on each other’s strengths and help one’s areas of improvement.
 
@@ -34,21 +34,21 @@ Tent-pitching is one of the activities that students enjoy doing. It encourages 
 <img src="/images/Our%20Experiences/Physical%20Education/pe6.png" 
      style="width:60%">
 
-**Orienteering**
+**_Orienteering_**
 
 This orienteering activity is an extension of the Outdoor Education that students went through in school during PE lessons.  Students applied their navigating and map-reading skills through active participation in locating checkpoints. They took part in group discussion and listened to opinions from the members. They learnt to respect different perspectives and completed the task within the allocated time frame.
 
 <img src="/images/Our%20Experiences/Physical%20Education/pe7.png" 
      style="width:60%">
 
-**Reflections**
+**_Reflections_**
 
 Students learnt to process and make meaning of all the activities and working experiences they had for the day. They were encouraged to grow through personal reflections as this helped to deepen thinking and enhance learning of values. They were more aware of their own strengths and weaknesses, and learnt to work with others in a better manner.
 
 <img src="/images/Our%20Experiences/Physical%20Education/_MG_2099.png" 
      style="width:45%">
 
-**‘Campfire’**
+**_‘Campfire’_**
 
 Unlike the traditional practice for students to sit in a circle and present their performances in front of a fire, students had a unique high-tech campfire in their respective classrooms this year. Students’ performance was recorded and shared in the Campfire finale via Zoom. Students built confidence and developed social skills through these fun and engaging activities. As they laughed and enjoyed the skits that their school-mates put up, they also brought back good ‘Kampong spirit’ that they exhibited.
 
