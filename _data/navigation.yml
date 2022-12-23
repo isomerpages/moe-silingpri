@@ -1,13 +1,96 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/slplogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Rules and Attire
+        url: /about-us/our-rules-and-attire
+      - title: Our School
+        url: /about-us/Our-School/history
+      - title: Location Map
+        url: /contact-us/
+      - title: Our People
+        url: /about-us/Our-People/key-personnel
+      - title: Our School Advisory Committee
+        url: /about-us/our-school-advisory-committee
+      - title: Privacy Statement
+        url: /privacy/
+  - title: Signature Programmes
+    url: /signature-programmes/grit-slps
+    sublinks:
+      - title: "G.R.I.T. @ SLPS "
+        url: /signature-programmes/grit-slps
+      - title: EL Monthly Odyssey (E.L.M.O)
+        url: /signature-programmes/ELMO
+      - title: Learning for Life Programme
+        url: /signature-programmes/LLP
+      - title: Play and Learn Math (P.A.L.M)
+        url: /signature-programmes/PALM
+      - title: P1 Transitional Programme
+        url: /signature-programmes/p1transitionalprogramme
+      - title: ALP (Environmental Science)
+        url: /signature-programmes/ALP-environmentalscience
+      - title: A.C.E. Programme
+        url: /signature-programmes/ACE-programme
+      - title: Lead Our Lives with Purpose
+        url: /signature-programmes/LOL
+  - title: Our Experiences
+    url: /our-experiences/
+    sublinks:
+      - title: English
+        url: /our-experiences/English/
+      - title: Mathematics
+        url: /our-experiences/Mathematics/
+      - title: Science
+        url: /our-experiences/Science/overview/
+      - title: Mother Tongue
+        url: /mothertongue/overview
+      - title: Physical Education
+        url: /our-experiences/physical-education/overview
+      - title: Student Development
+        url: /our-experiences/student-development/overview
+      - title: InfoComm Technology
+        url: /our-experiences/infocomm-technology/overview
+      - title: Aesthetics
+        url: /our-experiences/aesthetics/overview
+      - title: CCE
+        url: /our-experiences/CCE/overview
+      - title: Programme for Active Learning
+        url: /our-experiences/PAL
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/CCA/overview
+      - title: Our Alumni Our Pride
+        url: /our-experiences/our-alumni-our-pride
+  - title: Parents' Hub
+    url: /parents-hub
+    sublinks:
+      - title: Sexuality Education
+        url: /parents-hub/sexuality-education
+      - title: Homework Policy
+        url: /parents-hub/homework-policy
+      - title: Parent Resource
+        url: /parents-hub/Parent-resource/p1parent
+      - title: Parents in Partnership
+        url: /parents-hub/parents-in-partnership
+      - title: Cyber Wellness
+        url: /parents-hub/Cyber-Wellness/overview
+      - title: Parents Gateway App
+        url: /parents-hub/parents-gateway-app
+      - title: Calendar
+        url: /parents-hub/calendar
+      - title: School Services
+        url: /parents-hub/school-services
+      - title: School Hours
+        url: /parents-hub/school-hours
+      - title: Student Care Centre
+        url: /parents-hub/student-care-centre
+      - title: Financial Assistance Scheme
+        url: /parents-hub/financial-assistance-scheme
+      - title: Travel Declaration
+        url: /parents-hub/travel-declaration
+      - title: Online Learning Resources
+        url: /parents-hub/Online-Learning-Resources/HBL
+      - title: Recognition Day 2021
+        url: /parents-hub/Recognition-Day-2021/primary3

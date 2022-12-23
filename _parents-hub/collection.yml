@@ -1,0 +1,37 @@
+collections:
+  parents-hub:
+    output: true
+    order:
+      - Sexuality Education.md
+      - Homework Policy.md
+      - Parent Resource/.keep
+      - Parent Resource/P1 Parent.md
+      - Parent Resource/P2 Parent.md
+      - Parent Resource/P3 Parent.md
+      - Parent Resource/P4 Parent.md
+      - Parent Resource/P5 Parent.md
+      - Parent Resource/P6 Parent.md
+      - Parents in Partnership.md
+      - Cyber Wellness/.keep
+      - Cyber Wellness/Overview.md
+      - Cyber Wellness/Helping your child manage online scam.md
+      - Cyber Wellness/Helping your child manage cyber contacts.md
+      - Cyber Wellness/Helping your child manage cyber bullying.md
+      - Cyber Wellness/Helping your child manage excessive internet use.md
+      - Parents Gateway App/.keep
+      - Parents Gateway App/Overview.md
+      - Parents Gateway App/Onetime onboarding (For Parents).md
+      - Parents Gateway App/FAQs.md
+      - Calendar.md
+      - School Services.md
+      - School Hours.md
+      - Student Care Centre.md
+      - Financial Assistance Scheme.md
+      - Travel Declaration.md
+      - Online Learning Resources/.keep
+      - Online Learning Resources/Home based Learning.md
+      - Online Learning Resources/Student Learning Space.md
+      - Online Learning Resources/Google Workspace.md
+      - Online Learning Resources/Google Classroom.md
+      - Online Learning Resources.md
+      - Recognition Day 2022.md

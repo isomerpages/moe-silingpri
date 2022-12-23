@@ -1,36 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Si Ling Primary School
+description: Si Ling Primary School's official website
+image: /images/slplogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/Hero Banners/siling.gif
+      key_highlights:
+        - title: SLS
+          description: Student Learning Space
+          url: https://vle.learning.moe.edu.sg/login
+        - title: Alumni Registration
+          description: Join Us!
+          url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
+        - title: Calendar
+          description: of Events
+          url: /parents-hub/calendar/
+        - title: Compliments and Feedback
+          description: Contact Us
+          url: /contact-us/
+  - infopic:
+      title: Recognition Day 2022
+      subtitle: Prize Winners & Parents
+      description: To all our award recipients, you may now head over to our school’s
+        webpage to download your pictures
+      button: Recognition Day 2022 Photos
+      url: /parents-hub/recognition-day-2022/
+      image: /images/Highlight Posts/Recognition Day 2022 Post.gif
+      alt: Recognition Day 2022 link
+  - infopic:
+      title: Parents Gateway
+      subtitle: Parents
+      description: App Guide and how to get onboard
+      button: Click here for more
+      alt: Parents Gateway App info
+      url: /parents-hub/Parents-Gateway-App/
+      image: /images/Parents' Hub/Parents' Gateway App/pga1.png
+  - resources:
+      button: Parent Resource
 ---
-
