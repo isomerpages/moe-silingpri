@@ -34,7 +34,7 @@ third_nav_title: Our People
 			</td>
 			<td >
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:40%">
+					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:40%">
 					MDM NURAZIAN BAJURI<br>
 					<b>Vice Principal (ACAD)</b><br>
 					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
@@ -43,7 +43,6 @@ third_nav_title: Our People
 		</tr>
 	</tbody>
 </table>
-
 
 <img src="/images/keyp3.png" 
      style="width:70%">		
