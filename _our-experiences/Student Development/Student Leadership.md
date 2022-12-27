@@ -51,4 +51,4 @@ Our Student Leadership Programme is anchored on **The Leadership Challenge®**�
 | **Level 3:<br>Advanced Leadership** | Prefects’ and CCA Leaders’ Meetings<br>Student Leaders’ Engagement<br>Student Leadership Workshop<br>Leaders’-led Sessions: CCA Leaders’ Sessions, Students’ Voice Online Forum<br>Student Leaders’ Production: SLPS News and Happenings |
 | **Level 4:<br>Outstanding Leadership** | EXCO Meetings<br>Mentoring Sessions |
 
-To learn more about our LLP: Community and Student Leadership, click [here](https://moe-silingpri-staging.netlify.app/signature-programmes/lflp).
+To learn more about our LLP: Community and Student Leadership, click [here](/signature-programmes/LLP/).
