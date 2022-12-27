@@ -44,36 +44,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-<table>
-	<tbody>
-		<tr>
-			<td>
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-Isomer.jpg" style="width:80%">
-					MR SETHU RAJAGOPAL<br>
-					<b>Year Head P1 & P2</b><br>
-					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
-				</div>
-			</td>
-			<td>
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:80%">
-					MR JASHANAN KASINATHAN<br>
-					<b>Year Head P3 & P4</b><br>
-					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
-				</div>
-			</td>
-			<td>
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:80%">
-					MDM NURAZIAN BAJURI<br>
-					<b>Vice Principal (ACAD)</b><br>
-					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
-				</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
+
 
 <img src="/images/keyp3.png" 
      style="width:70%">		
