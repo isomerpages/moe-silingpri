@@ -32,7 +32,7 @@ third_nav_title: Our People
 					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
 				</div>
 			</td>
-			<td style="width: 200px;">
+			<td >
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:40%">
 					MDM NURAZIAN BAJURI<br>
