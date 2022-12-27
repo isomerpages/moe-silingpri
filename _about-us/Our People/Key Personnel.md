@@ -65,7 +65,7 @@ third_nav_title: Our People
 			</td>
 			<td>
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:80%">
+					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:75%">
 					MR ABDUL JALIL B YUNUS<br>
 					<b>Year Head P5 & P6</b><br>
 					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus@moe.edu.sg</a>
