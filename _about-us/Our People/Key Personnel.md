@@ -28,25 +28,23 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					<img src="" style="width:40%">
 					MS CHEE YEUNG WAI<br>
-					<b>Vice Principal (Admin)</b><br><a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a><br>
-</div>
-</td>
-<td style="width: 200px;">
-<div style="text-align: center;">
-</div>
-<div style="text-align: center;"><img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:40%">MDM NURAZIAN BAJURI
-</div>
-<div style="text-align: center;"><b>Vice Principal (ACAD)</b>
-</div><b>
-<div style="line-height: 22.4px; text-align: center;"><b style="background-color: initial;"><a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri @moe.edu.sg</a></b><b style="background-color: initial;"><a href="mailto:lam_chuan_kiet@moe.edu.sg" target=""></a>&nbsp;</b><br style="line-height: 24px;">
-</div></b>
-</td>
-</tr>
-</tbody>
+					<b>Vice Principal (Admin)</b><br>
+					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:40%">
+					MDM NURAZIAN BAJURI<br>
+					<b>Vice Principal (ACAD)</b><br>
+					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
-<img src="/images/keyp2.png" 
-     style="width:40%">
+
 <img src="/images/keyp3.png" 
      style="width:70%">		
 <img src="/images/keyp4.png" 
