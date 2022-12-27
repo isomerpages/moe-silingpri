@@ -26,7 +26,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="" style="width:40%">
+					<br><br><br><br><br><br><br>
 					MS CHEE YEUNG WAI<br>
 					<b>Vice Principal (Admin)</b><br>
 					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
