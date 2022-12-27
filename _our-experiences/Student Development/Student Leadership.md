@@ -8,8 +8,7 @@ third_nav_title: Student Development
 
 In line with our school’s vision – **Every Si Ling Student a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
 
-<img src="/images/sd2.png" 
-     style="width:60%">
+![Student Leadership Pyramid](/images/Our%20Experiences/Student%20Development/sd2.png)
 
 **Level 1: Self Leadership**
 
