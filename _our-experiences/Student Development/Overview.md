@@ -6,8 +6,7 @@ third_nav_title: Student Development
 ---
 ### Student Development
 
-<img src="/images/sd1.png" 
-     style="width:80%">
+![Students reciting the student leader pledge](/images/Our%20Experiences/Student%20Development/sd1.png)
 
 **Our Mission Statement**
 
