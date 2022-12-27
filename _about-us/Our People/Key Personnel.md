@@ -52,7 +52,7 @@ third_nav_title: Our People
 					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-Isomer.jpg" style="width:80%">
 					MR SETHU RAJAGOPAL<br>
 					<b>Year Head P1 & P2</b><br>
-					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
+					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
 				</div>
 			</td>
 			<td>
