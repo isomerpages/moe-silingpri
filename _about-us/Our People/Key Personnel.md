@@ -24,7 +24,7 @@ third_nav_title: Our People
 <table>
 	<tbody>
 		<tr>
-			<td style="width: 200px;">
+			<td>
 				<div style="text-align: center;">
 					<br><br><br><br><br><br><br><br><br><br>
 					MS CHEE YEUNG WAI<br>
