@@ -6,22 +6,40 @@ description: ""
 ### Primary One and Primary Two
 
 
-|![Sethu](/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-200px.jpeg)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
-| -------- | -------- | -------- |
-| Name     | Name     | Name     |
-| Designation     | Designation     | Designation     |
-| Email     | Email     | Email     |
+|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
+| -------- | -------- |
+| Name     | Name     |
+| 1 Solidarity     | 1 Solidarity  |
+| Email     | Email     |
 
 <br>
 
-
-| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif) | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
-| -------- | -------- | -------- |
-| Name     | Name     | Name     |
-| Designation     | Designation     | Designation     |
-| Email     | Email     | Email     |
-
+|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
+| -------- | -------- |
+| Name     | Name     |
+| 1 Perseverence     | 1 Perseverence  |
+| Email     | Email     |
 <br>
 
+|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
+| -------- | -------- |
+| Name     | Name     |
+| 1 Innovation     | 1 Innovation  |
+| Email     | Email     |
+<br>
+
+|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
+| -------- | -------- |
+| Name     | Name     |
+| 1 Respect     | 1 Respect  |
+| Email     | Email     |
+<br>
+
+Primary 2
 
 
+
+
+
+
+<br>
