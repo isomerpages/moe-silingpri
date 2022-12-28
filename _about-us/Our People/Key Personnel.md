@@ -80,9 +80,9 @@ third_nav_title: Our People
 		<tr>
 			<td>
 				<div style="text-align: center;">
-					MR SETHU RAJAGOPAL<br>
-					<b>Year Head P1 & P2</b><br>
-					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
+					MDM RITA ASHIKYN<br>
+					<b>Assistant Year Head P5 & P6</b><br>
+					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas@moe.edu.sg</a>
 				</div>
 			</td>
 			<td>
