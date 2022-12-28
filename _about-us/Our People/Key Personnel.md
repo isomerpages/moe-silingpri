@@ -89,14 +89,14 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					MR GARY TEO TIAN SOON<br>
 					<b>School Staff Developer</b><br>
-					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">nurazian_bajuri@moe.edu.sg</a>
+					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">teo_tian_soon_gary@moe.edu.sg</a>
 				</div>
 			</td>
 			<td>
 				<div style="text-align: center;">
-					MDM NURAZIAN BAJURI<br>
-					<b>Vice Principal (ACAD)</b><br>
-					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
+					MRS NG-HENG MUI GEK<br>
+					<b>HOD Mathematics</b><br>
+					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
