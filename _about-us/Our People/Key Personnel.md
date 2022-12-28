@@ -49,7 +49,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-Isomer.jpg" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-200px.jpeg" style="width:200px">
 					MR SETHU RAJAGOPAL<br>
 					<b>Year Head P1 & P2</b><br>
 					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
