@@ -159,9 +159,9 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					MDM EMILIA RAZALI<br>
+					<b>LH English Language</b><br>
+					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
