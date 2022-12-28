@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /about-us/Our-People/all-teachers/mother-tongue/
 description: ""
 ---
-### Mother Tongue
+### **Mother Tongue**
 
 | ![Blank](/images/About%20Us/Our%20People/Transparent_200.gif)| ![Yonghua](/images/About%20Us/Our%20People/MDM%20XU%20YONGHUA-200px.jpeg) |![Blank](/images/About%20Us/Our%20People/Transparent_200.gif) |
 | -------- | -------- | -------- |
@@ -11,9 +11,7 @@ description: ""
 |        |  HOD Mother Tongue   |      |
 |        |  xu_yonghua@moe.edu.sg     |      |
 
-<br>
-Chinese Department
-<br>
+##### Chinese Department
 
 | ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
 | -------- | -------- | -------- |
@@ -21,9 +19,7 @@ Chinese Department
 | Designation | Designation |Designation |
 | Email | Email | Email |
 
-<br>
-Malay Department
-<br>
+##### Malay Department
 
 | ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
 | -------- | -------- | -------- |
@@ -31,9 +27,7 @@ Malay Department
 | Designation | Designation |Designation |
 | Email | Email | Email |
 
-<br>
-Tamil Department
-<br>
+##### Tamil Department
 
 | ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
 | -------- | -------- | -------- |
