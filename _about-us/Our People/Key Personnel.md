@@ -36,7 +36,7 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-200px.jpeg" style="width:200px">
 					MDM NURAZIAN BAJURI<br>
-					<b>Vice Principal (ACAD)</b><br>
+					<b>Vice Principal (Academic)</b><br>
 					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
 				</div>
 			</td>
@@ -128,9 +128,9 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 								<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3@moe.edu.sg</a>
+					MR KOH CHIN SHENG<br>
+					<b>HOD Student Management</b><br>
+					<a href="mailto:koh_chin_sheng@moe.edu.sg" target="">koh_chin_sheng@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
