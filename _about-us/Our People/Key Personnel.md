@@ -57,7 +57,7 @@ third_nav_title: Our People
 			</td>
 			<td>
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:70%">
+					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:70%">
 					MR JASHANAN KASINATHAN<br>
 					<b>Year Head P3 & P4</b><br>
 					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan@moe.edu.sg</a>
@@ -65,7 +65,7 @@ third_nav_title: Our People
 			</td>
 			<td>
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:75%">
+					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:73%">
 					MR ABDUL JALIL B YUNUS<br>
 					<b>Year Head P5 & P6</b><br>
 					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus@moe.edu.sg</a>
