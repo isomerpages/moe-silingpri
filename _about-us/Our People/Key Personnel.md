@@ -106,8 +106,37 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-<img src="/images/keyp3.png" 
-     style="width:70%">		
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					MDM RITA ASHIKYN<br>
+					<b>Assistant Year Head P5 & P6</b><br>
+					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					MR GARY TEO TIAN SOON<br>
+					<b>School Staff Developer</b><br>
+					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">teo_tian_soon_gary@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					MRS NG-HENG MUI GEK<br>
+					<b>HOD Mathematics</b><br>
+					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <img src="/images/keyp4.png" 
      style="width:70%">
 <img src="/images/keyp6.png" 
