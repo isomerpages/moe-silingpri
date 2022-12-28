@@ -11,7 +11,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20KOE%20EE%20TIONG-200px.jpeg" style="width:200px">
 				MR KOE EE TIONG<br>
 				<b>Principal</b><br>
 				<a href="mailto:koe_ee_tiong@moe.edu.sg" target="">koe_ee_tiong@moe.edu.sg</a>
