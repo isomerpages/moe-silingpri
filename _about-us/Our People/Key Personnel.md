@@ -47,7 +47,7 @@ third_nav_title: Our People
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-Isomer.jpg" style="width:80%">
 					MR SETHU RAJAGOPAL<br>
@@ -55,7 +55,7 @@ third_nav_title: Our People
 					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
 				</div>
 			</td>
-			<td>
+			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:70%">
 					MR JASHANAN KASINATHAN<br>
@@ -63,7 +63,7 @@ third_nav_title: Our People
 					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan@moe.edu.sg</a>
 				</div>
 			</td>
-			<td>
+			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:73%">
 					MR ABDUL JALIL B YUNUS<br>
