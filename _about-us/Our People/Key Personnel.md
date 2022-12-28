@@ -87,9 +87,9 @@ third_nav_title: Our People
 			</td>
 			<td>
 				<div style="text-align: center;">
-					MR JASHANAN KASINATHAN<br>
-					<b>Year Head P3 & P4</b><br>
-					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
+					MR GARY TEO TIAN SOON<br>
+					<b>School Staff Developer</b><br>
+					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">nurazian_bajuri@moe.edu.sg</a>
 				</div>
 			</td>
 			<td>
