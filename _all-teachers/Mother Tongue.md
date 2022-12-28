@@ -5,6 +5,14 @@ description: ""
 ---
 ### Mother Tongue
 
+| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
+| -------- | -------- | -------- |
+| Name     | Name     | Name     |
+| Designation     | Designation     | Designation     |
+| Email     | Email     | Email     |
+
+<br><br>
+
 <img src="/images/mt1.png" 
      style="width:60%"> 
 <img src="/images/mt2.png" 
@@ -20,6 +28,3 @@ description: ""
      style="width:80%"> <br>
 <img src="/images/mt7.png" 
      style="width:60%"> <br>
-
-
-
