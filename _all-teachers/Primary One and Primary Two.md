@@ -11,7 +11,11 @@ description: ""
 | Name     | Name     | Name     |
 | Designation     | Designation     | Designation     |
 | Email     | Email     | Email     |
-<br>
 
+<br><br>
+
+
+<img src="/images/1p2.png" 
+     style="width:20%"> <br>
 
 <br>
