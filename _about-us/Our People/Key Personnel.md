@@ -10,8 +10,8 @@ third_nav_title: Our People
 	<tbody>
 		<tr>
 			<td style="width: 200px;">
-			<div style="text-align: center;">
-				<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:200px">
+				<div style="text-align: center;">
+					<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:200px">
 				MR KOE EE TIONG<br>
 				<b>Principal</b><br>
 				<a href="mailto:koe_ee_tiong@moe.edu.sg" target="">koe_ee_tiong@moe.edu.sg</a>
@@ -95,7 +95,7 @@ third_nav_title: Our People
 				</div>
 			</td>
 			<td style="width: 200px;">
-				<div style="text-align: center;">
+				<div style="text-align: center; width: 200px;">
 					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
 					MRS NG-HENG MUI GEK<br>
 					<b>HOD Mathematics</b><br>
