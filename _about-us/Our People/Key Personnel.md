@@ -88,7 +88,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/MR GARY TEO TIAN SOON-200px.jpeg" style="width:200px">
 					MR GARY TEO TIAN SOON<br>
 					<b>School Staff Developer</b><br>
 					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">teo_tian_soon_gary@moe.edu.sg</a>
