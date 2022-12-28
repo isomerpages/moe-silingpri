@@ -6,7 +6,7 @@ description: ""
 ### Primary One and Primary Two
 
 
-| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
+|![Sethu](/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-200px.jpeg)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
 | -------- | -------- | -------- |
 | Name     | Name     | Name     |
 | Designation     | Designation     | Designation     |
@@ -15,7 +15,5 @@ description: ""
 <br><br>
 
 
-<img src="/images/1p2.png" 
-     style="width:20%"> <br>
 
 <br>
