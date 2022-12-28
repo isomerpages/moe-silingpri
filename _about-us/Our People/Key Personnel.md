@@ -57,7 +57,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20JASHANAN%20KASINATHAN-200px.jpeg" style="width:200px">
 					MR JASHANAN KASINATHAN<br>
 					<b>Year Head P3 & P4</b><br>
 					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan@moe.edu.sg</a>
