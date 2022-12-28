@@ -96,7 +96,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MRS%20NG-HENG%20MUI%20GEK-200px.jpeg" style="width:200px">
 					MRS NG-HENG MUI GEK<br>
 					<b>HOD Mathematics</b><br>
 					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek@moe.edu.sg</a>
