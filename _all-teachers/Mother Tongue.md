@@ -13,10 +13,11 @@ description: ""
 
 <br><br>
 
-| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)
-| ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) 
-| ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif) |
+
+| Pic 1 | Pic 2 | Pic 3 |
 | -------- | -------- | -------- |
-| Name     | Name     | Name     |
-| Designation     | Designation     | Designation     |
-| Email     | Email     | Email     |
+| Name | Name |Name |
+| Designation | Designation |Designation |
+| Email | Email |Email |
+
+
