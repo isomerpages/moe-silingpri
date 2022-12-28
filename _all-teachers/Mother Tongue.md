@@ -12,8 +12,6 @@ description: ""
 |        |  xu_yonghua@moe.edu.sg     |      |
 
 <br><br>
-<img src="/images/1p2.png" 
-     style="width:20%">
 
 | ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)
 | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) 
@@ -22,5 +20,3 @@ description: ""
 | Name     | Name     | Name     |
 | Designation     | Designation     | Designation     |
 | Email     | Email     | Email     |
-
-
