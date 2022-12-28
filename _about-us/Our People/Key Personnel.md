@@ -170,8 +170,6 @@ third_nav_title: Our People
 
 
 
-<img src="/images/keyp4.png" 
-     style="width:70%">
 <img src="/images/keyp6.png" 
      style="width:70%">
 <img src="/images/keyp7.png" 
