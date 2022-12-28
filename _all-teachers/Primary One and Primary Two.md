@@ -6,7 +6,7 @@ description: ""
 ### Primary One and Primary Two
 
 
-| ![Pic](/images/About%20Us/Our%20People/Transparent_200.gif)  ![Pic](/images/About%20Us/Our%20People/Transparent_200.gif)| |  ![Pic](/images/About%20Us/Our%20People/Transparent_200.gif) |
+| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  ![Pic](/images/About%20Us/Our%20People/Transparent_200.gif)| |  ![Pic](/images/About%20Us/Our%20People/Transparent_200.gif) |
 | -------- | -------- | -------- |
 | Name     | Name     | Name     |
 | Designation     | Designation     | Designation     |
