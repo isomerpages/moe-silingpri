@@ -150,10 +150,10 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About%20Us/Our%20People/MDM XU YONGHUA-200px.jpeg" style="width:200px">
+					MDM XU YONGHUA<br>
+					<b>HOD Mother Tongue</b><br>
+					<a href="mailto:xu_yonghua@moe.edu.sg" target="">xu_yonghua<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
