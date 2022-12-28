@@ -26,7 +26,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:60%">
+					<img src="/images/About%20Us/Our%20People/Transparent_200.gif" style="width:60%">
 					MS CHEE YEUNG WAI<br>
 					<b>Vice Principal (Admin)</b><br>
 					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
@@ -57,7 +57,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:70%">
+					<img src="/images/About%20Us/Our%20People/Transparent_200.gif" style="width:70%">
 					MR JASHANAN KASINATHAN<br>
 					<b>Year Head P3 & P4</b><br>
 					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan@moe.edu.sg</a>
