@@ -11,8 +11,9 @@ description: ""
 |        |  HOD Mother Tongue   |      |
 |        |  xu_yonghua@moe.edu.sg     |      |
 
-<br><br>
-
+<br>
+Chinese Department
+<br>
 
 | ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
 | -------- | -------- | -------- |
@@ -21,4 +22,36 @@ description: ""
 | Email | Email | Email |
 
 <br>
+Malay Department
+<br>
 
+| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
+| -------- | -------- | -------- |
+| Name | Name |Name |
+| Designation | Designation |Designation |
+| Email | Email | Email |
+
+<br>
+Tamil Department
+<br>
+
+| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
+| -------- | -------- | -------- |
+| Name | Name |Name |
+| Designation | Designation |Designation |
+| Email | Email | Email |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
