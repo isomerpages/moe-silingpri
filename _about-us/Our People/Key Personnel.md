@@ -168,7 +168,36 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM NORASHIKIN MOHD SAID-200px.jpeg" style="width:200px">
+					MDM NORASHIKIN<br>MOHD SAID<br>
+					<b>LH Mathematics</b><br>
+					<a href="mailto:norashikin_mohamed_said@moe.edu.sg" target="">norashikin_mohamed_said<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MR SAIFUL SAPARI<br>
+					<b>SH Malay Language</b><br>
+					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <img src="/images/keyp7.png" 
      style="width:70%">
