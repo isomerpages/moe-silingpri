@@ -144,8 +144,8 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					<img src="/images/About%20Us/Our%20People/MRS%20CATHRINE%20LAM-200px.jpeg" style="width:200px">
 					MRS CATHRINE LAM<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<b>HOD CCE</b><br>
+					<a href="mailto:lam_chuan_kiet@moe.edu.sg" target="">lam_chuan_kiet<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
