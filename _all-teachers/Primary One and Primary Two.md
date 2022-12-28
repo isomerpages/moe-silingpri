@@ -8,7 +8,7 @@ description: ""
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
-| Name     | Name     |
+| Mdm Anita     | Mdm Chua     |
 | 1 Solidarity     | 1 Solidarity  |
 | Email     | Email     |
 
@@ -16,21 +16,21 @@ description: ""
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
-| Name     | Name     |
+| Mdm Khatijah     | Mdm Loh May Fong     |
 | 1 Perseverence     | 1 Perseverence  |
 | Email     | Email     |
 <br>
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
-| Name     | Name     |
+| Ms Marie Teo     | Mdm Fadlinah     |
 | 1 Innovation     | 1 Innovation  |
 | Email     | Email     |
 <br>
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
-| Name     | Name     |
+| Mdm Ruthra     | Ms Lee Mei Cheng    |
 | 1 Respect     | 1 Respect  |
 | Email     | Email     |
 <br>
