@@ -142,8 +142,8 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
-					NAME 1<br>
+					<img src="/images/About%20Us/Our%20People/MRS%20CATHRINE%20LAM-200px.jpeg" style="width:200px">
+					MRS CATHRINE LAM<br>
 					<b>Position 1</b><br>
 					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
 				</div>
