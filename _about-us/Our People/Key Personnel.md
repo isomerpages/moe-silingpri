@@ -11,7 +11,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20KOE%20EE%20TIONG-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MR KOE EE TIONG-200px.jpeg" style="width:200px">
 				MR KOE EE TIONG<br>
 				<b>Principal</b><br>
 				<a href="mailto:koe_ee_tiong@moe.edu.sg" target="">koe_ee_tiong@moe.edu.sg</a>
@@ -26,7 +26,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MS CHEE YEUNG WAI<br>
 					<b>Vice Principal (Admin)</b><br>
 					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
@@ -34,7 +34,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MDM NURAZIAN BAJURI-200px.jpeg" style="width:200px">
 					MDM NURAZIAN BAJURI<br>
 					<b>Vice Principal (ACAD)</b><br>
 					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
@@ -49,7 +49,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20SETHU%20RAJAGOPAL-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MR SETHU RAJAGOPAL-200px.jpeg" style="width:200px">
 					MR SETHU RAJAGOPAL<br>
 					<b>Year Head P1 & P2</b><br>
 					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
@@ -57,7 +57,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20JASHANAN%20KASINATHAN-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MR JASHANAN KASINATHAN-200px.jpeg" style="width:200px">
 					MR JASHANAN KASINATHAN<br>
 					<b>Year Head P3 & P4</b><br>
 					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan@moe.edu.sg</a>
@@ -65,7 +65,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20ABDUL%20JALIL%20B%20YUNUS-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MR ABDUL JALIL B YUNUS-200px.jpeg" style="width:200px">
 					MR ABDUL JALIL B YUNUS<br>
 					<b>Year Head P5 & P6</b><br>
 					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus@moe.edu.sg</a>
@@ -80,7 +80,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/MDM RITA ASHIKYN-200px.jpeg" style="width:200px">
 					MDM RITA ASHIKYN<br>
 					<b>Assistant Year Head P5 & P6</b><br>
 					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas@moe.edu.sg</a>
@@ -88,7 +88,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MR GARY TEO TIAN SOON<br>
 					<b>School Staff Developer</b><br>
 					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">teo_tian_soon_gary@moe.edu.sg</a>
@@ -96,7 +96,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About%20Us/Our%20People/MRS%20NG-HENG%20MUI%20GEK-200px.jpeg" style="width:200px">
+					<img src="/images/About Us/Our People/MRS NG-HENG MUI GEK-200px.jpeg" style="width:200px">
 					MRS NG-HENG MUI GEK<br>
 					<b>HOD Mathematics</b><br>
 					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek@moe.edu.sg</a>
@@ -111,7 +111,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MDM RITA ASHIKYN<br>
 					<b>Assistant Year Head P5 & P6</b><br>
 					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas@moe.edu.sg</a>
@@ -119,7 +119,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MR GARY TEO TIAN SOON<br>
 					<b>School Staff Developer</b><br>
 					<a href="mailto:teo_tian_soon_gary@moe.edu.sg" target="">teo_tian_soon_gary@moe.edu.sg</a>
@@ -127,7 +127,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About%20Us/Our%20People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MRS NG-HENG MUI GEK<br>
 					<b>HOD Mathematics</b><br>
 					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek@moe.edu.sg</a>
