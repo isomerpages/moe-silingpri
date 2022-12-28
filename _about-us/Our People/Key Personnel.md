@@ -9,7 +9,7 @@ third_nav_title: Our People
  <table>
 	<tbody>
 		<tr>
-			<td>
+			<td style="width: 200px;">
 			<div style="text-align: center;">
 				<img src="/images/About%20Us/Our%20People/mr%20koe%20new1-Isomer%20small.jpeg" style="width:30%">
 				MR KOE EE TIONG<br>
@@ -24,17 +24,17 @@ third_nav_title: Our People
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:62%">
+					<img src="/images/About%20Us/Our%20People/blank%20staff.png" style="width:60%">
 					MS CHEE YEUNG WAI<br>
 					<b>Vice Principal (Admin)</b><br>
 					<a href="mailto:chee_yeung_wai@moe.edu.sg" target="">chee_yeung_wai@moe.edu.sg</a>
 				</div>
 			</td>
-			<td>
+			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:40%">
+					<img src="/images/About%20Us/Our%20People/MDM%20NURAZIAN%20BAJURI-Isomer.jpg" style="width:60%">
 					MDM NURAZIAN BAJURI<br>
 					<b>Vice Principal (ACAD)</b><br>
 					<a href="mailto:nurazian_bajuri@schools.gov.sg" target="">nurazian_bajuri@moe.edu.sg</a>
