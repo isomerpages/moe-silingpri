@@ -181,7 +181,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About Us/Our People/MR SAIFUL SAPARI-200px.jpeg" style="width:200px">
 					MR SAIFUL SAPARI<br>
 					<b>SH Malay Language</b><br>
 					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari<br>@moe.edu.sg</a>
@@ -189,17 +189,12 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS MARIE TEO-200px.jpeg" style="width:200px">
+					MISS MARIE TEO<br>
+					<b>SH Student Leadership</b><br>
+					<a href="mailto:marie_teo_kah_zhi@moe.edu.sg" target="">marie_teo_kah_zhi<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/keyp7.png" 
-     style="width:70%">
-<img src="/images/keyp8.png" 
-     style="width:18%">
