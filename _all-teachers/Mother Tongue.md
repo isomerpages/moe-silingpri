@@ -50,11 +50,6 @@ description: ""
 	</tbody>
 </table>
 
-| ![Miss Cecilia Ong](/images/About%20Us/Our%20People/MISS%20CECILIA%20ONG-200px.jpeg)  | ![MDM LIN YUPING](/images/About%20Us/Our%20People/MDM%20LIN%20YUPING-200px.jpeg)  | ![MISS LEE MEI CHENG](/images/About%20Us/Our%20People/MISS%20LEE%20MEI%20CHENG-200px.jpeg)  |
-| -------- | -------- | -------- |
-| MISS CECILIA ONG | MDM LIN YUPING | MISS LEE MEI CHENG |
-| ong_soo_hoon_cecilia@moe.edu.sg | lin_yuping@moe.edu.sg | lee_mei_cheng@moe.edu.sg  |
-
 <table>
 	<tbody>
 		<tr>
