@@ -3,7 +3,7 @@ title: Primary One and Primary Two
 permalink: /about-us/Our-People/all-teachers/Primary-one-and-primary-two/
 description: ""
 ---
-### Primary One and Primary Two
+### **Primary One and Primary Two**
 
  <table>
 	<tbody>
@@ -19,6 +19,7 @@ description: ""
 		</tr>
 		</tbody>
 	</table>
+
 
 ##### 1 Solidarity
 
