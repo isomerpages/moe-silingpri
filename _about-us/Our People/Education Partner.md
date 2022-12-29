@@ -78,14 +78,56 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MDM PARUWATHY PRATHAYYA<br>
-					<b>Administrative Executive</b><br>
+					<b>Operations Support Officer</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM AYAVOO PARAMES-200px.jpeg" style="width:200px">
+					MDM AYAVOO PARAMES<br>
+					<b>Operations Support Officer</b><br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MDM PARUWATHY PRATHAYYA<br>
+					<b>Operations Support Officer</b><br>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
-					<b>Corporate Support Officer</b><br>
+					MDM AYAVOO PARAMES<br>
+					<b>Operations Support Officer</b><br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+	 
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MDM PARUWATHY PRATHAYYA<br>
+					<b>Operations Support Officer</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MDM AYAVOO PARAMES<br>
+					<b>Operations Support Officer</b><br>
 				</div>
 			</td>
 		</tr>
