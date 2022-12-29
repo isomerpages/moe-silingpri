@@ -16,6 +16,14 @@ description: ""
 					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus<br>@moe.edu.sg</a>
 				</div>
 			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM RITA ASHIKYN-200px.jpeg" style="width:200px">
+					MDM RITA ASHIKYN<br>
+					<b>Assistant Year Head P5 & P6</b><br>
+					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas<br>@moe.edu.sg</a>
+				</div>
+			</td>
 		</tr>
 		</tbody>
 	</table>
