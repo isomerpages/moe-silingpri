@@ -30,26 +30,16 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS ANITA DO SELVAM-200px.jpeg" style="width:200px">
+					MISS ANITA D/O SELVAM<br>
+					<a href="mailto:anita_doselvam@moe.edu.sg" target="">anita_doselvam@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MS ANTHEA CHUA<br>
+					<a href="mailto:chua_lynn_anthea@moe.edu.sg" target="">chua_lynn_anthea@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
