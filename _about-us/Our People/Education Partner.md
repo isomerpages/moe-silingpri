@@ -88,8 +88,5 @@ third_nav_title: Our People
 </table>
 
 
-<img src="/images/ep7.png" 
-     style="width:70%">
-		 
 <img src="/images/ep8.png" 
      style="width:70%">
