@@ -22,7 +22,7 @@ third_nav_title: Our People
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MR RAYMOND S/O LAZAR<br>
-					<b>OPERATIONS MANAGER</b><br>
+					<b>Operations Manager</b><br>
 				</div>
 			</td>
 		</tr>
@@ -34,16 +34,44 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
+					<img src="/images/About Us/Our People/MDM SILVIATY BIDIN-200px.jpeg" style="width:200px">
+					MDM SILVIATYBINTE BIDIN<br>
+					<b>Administrative Executive</b><br>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
+					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
+					<b>Corporate Support Officer</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/MDM TAN AI LING-200px.jpeg" style="width:200px">
+					MDM TAN AI LING<br>
+					<b>Corporate Support Officer</b><br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM SILVIATY BIDIN-200px.jpeg" style="width:200px">
+					MDM SILVIATY<br>BINTE BIDIN<br>
+					<b>Administrative Executive</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
+					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
 			<td style="width: 200px;">
