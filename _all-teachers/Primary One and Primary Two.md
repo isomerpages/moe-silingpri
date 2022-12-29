@@ -20,8 +20,10 @@ description: ""
 		</tbody>
 	</table>
 
-#### Primary 1
-##### 1 Solidarity
+
+<div style="text-align: center;">
+	<h4>Primary 1</h4>
+	<h5>1 Solidarity</h5>
 	
 <table>
 	<tbody>
@@ -285,3 +287,5 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+	
+</div>
