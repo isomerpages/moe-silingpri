@@ -20,7 +20,6 @@ description: ""
 		</tbody>
 	</table>
 
-<div style="text-align: center;">
 	
 #### Primary 1
 ##### 1 Solidarity
@@ -287,5 +286,3 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-	
-</div>
