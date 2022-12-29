@@ -97,15 +97,15 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM PARUWATHY PRATHAYYA<br>
+					<img src="/images/About Us/Our People/MR KERANAH TENGKU ABDULLAH-200px.jpeg" style="width:200px">
+					MR KERANAH BIN TENGKU ABDULLAH<br>
 					<b>Operations Support Officer</b><br>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM AYAVOO PARAMES<br>
+					<img src="/images/About Us/Our People/MDM ASIAH BTE SAUT-200px.jpeg" style="width:200px">
+					MDM ASIAH BTE SAUT<br>
 					<b>Operations Support Officer</b><br>
 				</div>
 			</td>
