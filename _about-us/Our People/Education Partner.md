@@ -190,7 +190,7 @@ third_nav_title: Our People
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/MDM WOON BEE ENG-200px.jpeg" style="width:200px">
 					MDM WOON BEE ENG<br>
-					<b>Special Education<br>Needs Officer</b><br>
+					<b>Teaching and Learning</b><br>
 					<a href="mailto:woon_bee_eng@moe.edu.sg" target="">woon_bee_eng<br>@moe.edu.sg</a>
 				</div>
 			</td>
