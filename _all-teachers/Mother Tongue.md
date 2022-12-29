@@ -165,14 +165,14 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM NOOR AISYA BUANG-200px.jpeg" style="width:200px">
-					MDM NOOR AISYA BUANG<br><br>
+					MDM NOOR AISYA<br>BUANG<br>
 					<a href="mailto:noor_aisya_buang@moe.edu.sg" target="">noor_aisya_buang<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM NORMAH MD NOOR<br><br>
+					MDM NORMAH<br>MD NOOR<br>
 					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
 				</div>
 			</td>
