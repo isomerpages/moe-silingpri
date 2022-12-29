@@ -10,10 +10,10 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME<br>
+					<img src="/images/About Us/Our People/MR ABDUL JALIL B YUNUS-200px.jpeg" style="width:200px">
+					MR ABDUL JALIL B YUNUS<br>
 					<b>Year Head P5 & P6</b><br>
-					<a href="mailto:email@moe.edu.sg" target="">email<br>@moe.edu.sg</a>
+					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
