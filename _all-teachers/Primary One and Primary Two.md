@@ -5,6 +5,21 @@ description: ""
 ---
 ### Primary One and Primary Two
 
+ <table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME<br>
+					<b>Year Head</b><br>
+					<a href="mailto:email@moe.edu.sg" target="">email<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+		</tbody>
+	</table>
+
 ##### 1 Solidarity
 
 <table>
