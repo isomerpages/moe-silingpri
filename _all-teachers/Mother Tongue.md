@@ -128,26 +128,24 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR SAIFUL SAPARI-200px.jpeg" style="width:200px">
+					MR SAIFUL SAPARI<br>
+					<b>SH Malay Language</b><br>
+					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM NURASHIKIN M SHARIFF-200px.jpeg" style="width:200px">
+					MDM NURASHIKIN M SHARIFF<br>
+					<a href="mailto:nurashikin_mohamed_sharif@moe.edu.sg" target="">nurashikin_mohamed_sharif<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					MDM HUSNITA OMAR<br>
+					<a href="mailto:husnita_omar@moe.edu.sg" target="">husnita_omar<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
