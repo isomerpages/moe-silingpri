@@ -8,6 +8,55 @@ third_nav_title: Our People
 
 #### EAS
 
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MS VERONICA YAT-200px.jpeg" style="width:200px">
+					MS VERONICA YAT<br>
+					<b>Administration Manager</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MR RAYMOND S/O LAZAR<br>
+					<b>OPERATIONS MANAGER</b><br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 1<br>
+					<b>Position 1</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <img src="/images/ep6.png" 
      style="width:70%">
 		 
