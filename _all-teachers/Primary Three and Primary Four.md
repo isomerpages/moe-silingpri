@@ -20,10 +20,10 @@ description: ""
 		</tbody>
 	</table>
 
+<br>
 <div style="text-align: center;">
-	
-#### Primary 3
-##### 3 Solidarity
+	<h4>Primary 3</h4>
+	<h5>3 Solidarity</h5>
 	
 <table>
 	<tbody>
