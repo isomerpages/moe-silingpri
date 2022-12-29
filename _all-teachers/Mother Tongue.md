@@ -95,13 +95,6 @@ description: ""
 					<a href="mailto:quah_yee_wen@moe.edu.sg" target="">quah_yee_wen<br>@moe.edu.sg</a>
 				</div>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MISS ROSAMUND CHONG-200px.jpeg" style="width:200px">
-					MISS ROSAMUND CHONG<br>
-					<a href="mailto:chong_wen_shan_rosamund@moe.edu.sg" target="">chong_wen_shan_rosamund<br>@moe.edu.sg</a>
-				</div>
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -111,18 +104,16 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS ROSAMUND CHONG-200px.jpeg" style="width:200px">
+					MISS ROSAMUND CHONG<br>
+					<a href="mailto:chong_wen_shan_rosamund@moe.edu.sg" target="">chong_wen_shan_rosamund<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS AU JIE SHI-200px.jpeg" style="width:200px">
+					MISS AU JIE SHI<br>
+					<a href="mailto:aw_jie_shi@moe.edu.sg" target="">aw_jie_shi<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
