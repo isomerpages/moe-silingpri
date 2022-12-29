@@ -125,23 +125,14 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM AYAVOO PARAMES<br>
-					<b>Operations Support Officer</b><br>
+					<img src="/images/About Us/Our People/MR MOHAMMAD NOR SABTU 01-200px.jpeg" style="width:200px">
+					MR MOHAMMAD NOR SABTU<br>
+					<b>ICT Manager</b><br>
 				</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
-	 
-<img src="/images/ep3.png" 
-     style="width:70%">
-		 
-<img src="/images/ep4.png" 
-     style="width:70%">
-		
-<img src="/images/ep5.png" 
-     style="width:70%">
 		 
 #### Allied Educators
 
