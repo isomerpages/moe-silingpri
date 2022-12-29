@@ -77,7 +77,7 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM SILVIATY BIDIN-200px.jpeg" style="width:200px">
-					MDM SILVIATY<br>BINTE BIDIN<br>
+					MDM PARUWATHY PRATHAYYA<br>
 					<b>Administrative Executive</b><br>
 				</div>
 			</td>
