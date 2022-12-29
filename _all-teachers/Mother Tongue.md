@@ -5,19 +5,58 @@ description: ""
 ---
 ### **Mother Tongue**
 
-| ![Blank](/images/About%20Us/Our%20People/Transparent_200.gif)| ![Yonghua](/images/About%20Us/Our%20People/MDM%20XU%20YONGHUA-200px.jpeg) |![Blank](/images/About%20Us/Our%20People/Transparent_200.gif) |
-| -------- | -------- | -------- |
-|        |  Mdm Xu Yonghua        |      |
-|        |  HOD Mother Tongue   |      |
-|        |  xu_yonghua@moe.edu.sg     |      |
+ <table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM XU YONGHUA-200px.jpeg" style="width:200px">
+					MDM XU YONGHUA<br>
+					<b>HOD Mother Tongue</b><br>
+					<a href="mailto:xu_yonghua@moe.edu.sg" target="">xu_yonghua<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+		</tbody>
+	</table>
 
 ##### Chinese Department
 
-| ![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MISS CECILIA ONG-200px.jpeg" style="width:200px">
+					MISS CECILIA ONG<br>
+					<a href="mailto:ong_soo_hoon_cecilia@moe.edu.sg" target="">ong_soo_hoon_cecilia<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+| ![Miss Cecilia Ong](/images/About%20Us/Our%20People/MISS%20CECILIA%20ONG-200px.jpeg)  | ![MDM LIN YUPING](/images/About%20Us/Our%20People/MDM%20LIN%20YUPING-200px.jpeg)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
 | -------- | -------- | -------- |
-| Name | Name |Name |
-| Designation | Designation |Designation |
-| Email | Email | Email |
+| MISS CECILIA ONG | MDM LIN YUPING |Name |
+| ong_soo_hoon_cecilia@moe.edu.sg | lin_yuping@moe.edu.sg |Designation |
+
 
 ##### Malay Department
 
@@ -34,18 +73,3 @@ description: ""
 | Name | Name |Name |
 | Designation | Designation |Designation |
 | Email | Email | Email |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
