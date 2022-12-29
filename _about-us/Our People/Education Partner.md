@@ -57,9 +57,6 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-<img src="/images/ep6.png" 
-     style="width:70%">
-		 
 <img src="/images/ep2.png" 
      style="width:70%">
 		 
