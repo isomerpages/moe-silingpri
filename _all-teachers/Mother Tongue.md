@@ -55,6 +55,33 @@ description: ""
 | MISS CECILIA ONG | MDM LIN YUPING | MISS LEE MEI CHENG |
 | ong_soo_hoon_cecilia@moe.edu.sg | lin_yuping@moe.edu.sg | lee_mei_cheng@moe.edu.sg  |
 
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MISS WONG KAI TENG-200px.jpeg" style="width:200px">
+					MISS WONG KAI TENG<br>
+					<a href="mailto:wong_kai_teng@moe.edu.sg" target="">wong_kai_teng<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MISS YU SHEAU HUEY-200px.jpeg" style="width:200px">
+					MISS YU SHEAU HUEY<br>
+					<a href="mailto:yu_sheau_huey@moe.edu.sg" target="">yu_sheau_huey<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/MISS CHONG LENG CHER-200px.jpeg" style="width:200px">
+					MISS CHONG LENG CHER<br>
+					<a href="mailto:chong_leng_cher@moe.edu.sg" target="">chong_leng_cher<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ##### Malay Department
 
