@@ -47,6 +47,3 @@ third_nav_title: Our People
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/support.png" 
-     style="width:70%">
