@@ -35,14 +35,14 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM SILVIATY BIDIN-200px.jpeg" style="width:200px">
-					MDM SILVIATY<br>BINTE BIDIN<br>
+					MDM SILVIATY BINTE BIDIN<br>
 					<b>Administrative Executive</b><br>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
+					MDM SITI SAKDIAH BINTI ASMURI<br>
 					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
@@ -62,8 +62,8 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
+					<img src="/images/About Us/Our People/MDM SITI SARAH BINTE MOHD JAMIL-200px.jpeg" style="width:200px">
+					MDM SITI SARAH BINTE MOHD JAMIL<br>
 					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
