@@ -37,7 +37,7 @@ description: ""
 					<img src="/images/About Us/Our People/MDM LIN YUPING-200px.jpeg" style="width:200px">
 					MDM LIN YUPING<br>
 					<b>LSP Coordinator</b><br>
-					<a href="mailto:lin_yuping@moe.edu.sg" target="">lin_yuping<br>@moe.edu.sg</a>
+					<a href="mailto:lin_yuping@moe.edu.sg" target="">lin_yuping@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
