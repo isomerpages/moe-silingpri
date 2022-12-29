@@ -30,18 +30,18 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM PARAMESWARI JAYARAM-200px.jpeg" style="width:200px">
+					MDM PARAMESWARI JAYARAM<br>
+					<b>School Counsellor</b><br>
+					<a href="mailto:parameswari_jayaram@moe.edu.sg" target="">parameswari_jayaram<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MS NOORHAYATI MAHMOOD KHAN 01-200px.jpeg" style="width:200px">
+					NOORHAYATI MAHMOOD KHAN @ YATS KHAN<br>
+					<b>School Counsellor</b><br>
+					<a href="mailto:noorhayati_mahmood_khan@moe.edu.sg" target="">noorhayati_mahmood_khan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
