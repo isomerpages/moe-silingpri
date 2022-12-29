@@ -13,7 +13,7 @@ description: ""
 					<img src="/images/About Us/Our People/MDM XU YONGHUA-200px.jpeg" style="width:200px">
 					MDM XU YONGHUA<br>
 					<b>HOD Mother Tongue</b><br>
-					<a href="mailto:xu_yonghua@moe.edu.sg" target="">xu_yonghua<br>@moe.edu.sg</a>
+					<a href="mailto:xu_yonghua@moe.edu.sg" target="">xu_yonghua@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
