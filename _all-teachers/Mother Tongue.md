@@ -41,19 +41,19 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS LEE MEI CHENG-200px.jpeg" style="width:200px">
+					MISS LEE MEI CHENG<br>
+					<a href="mailto:lee_mei_cheng@moe.edu.sg" target="">lee_mei_cheng<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-| ![Miss Cecilia Ong](/images/About%20Us/Our%20People/MISS%20CECILIA%20ONG-200px.jpeg)  | ![MDM LIN YUPING](/images/About%20Us/Our%20People/MDM%20LIN%20YUPING-200px.jpeg)  | ![Pic 3](/images/About%20Us/Our%20People/Blank_200.gif)  |
+| ![Miss Cecilia Ong](/images/About%20Us/Our%20People/MISS%20CECILIA%20ONG-200px.jpeg)  | ![MDM LIN YUPING](/images/About%20Us/Our%20People/MDM%20LIN%20YUPING-200px.jpeg)  | ![MISS LEE MEI CHENG](/images/About%20Us/Our%20People/MISS%20LEE%20MEI%20CHENG-200px.jpeg)  |
 | -------- | -------- | -------- |
-| MISS CECILIA ONG | MDM LIN YUPING |Name |
-| ong_soo_hoon_cecilia@moe.edu.sg | lin_yuping@moe.edu.sg |Designation |
+| MISS CECILIA ONG | MDM LIN YUPING | MISS LEE MEI CHENG |
+| ong_soo_hoon_cecilia@moe.edu.sg | lin_yuping@moe.edu.sg | lee_mei_cheng@moe.edu.sg  |
 
 
 ##### Malay Department
