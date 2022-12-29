@@ -20,9 +20,11 @@ description: ""
 		</tbody>
 	</table>
 
-
+<div style="text-align: center;">
+	
+#### Primary 1
 ##### 1 Solidarity
-
+	
 <table>
 	<tbody>
 		<tr>
@@ -60,21 +62,116 @@ description: ""
 | 1 Solidarity     | 1 Solidarity  |
 | Email     | Email     |
 
-<br>
+##### 1 Perseverance
+	
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 1<br>
+					<b>Position 1</b><br>
+					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
 | Mdm Khatijah     | Mdm Loh May Fong     |
 | 1 Perseverence     | 1 Perseverence  |
 | Email     | Email     |
-<br>
+
+##### 1 Innovation
+	
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 1<br>
+					<b>Position 1</b><br>
+					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
 | Ms Marie Teo     | Mdm Fadlinah     |
 | 1 Innovation     | 1 Innovation  |
 | Email     | Email     |
-<br>
+
+##### 1 Respect
+	
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 1<br>
+					<b>Position 1</b><br>
+					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 |![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
 | -------- | -------- |
@@ -112,9 +209,4 @@ Primary 2
 | Name     | Name     |
 | 2 Respect     | 2 Respect  |
 | Email     | Email     |
-<br>
-
-
-
-
-<br>
+</div>
