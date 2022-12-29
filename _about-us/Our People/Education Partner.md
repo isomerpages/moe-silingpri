@@ -61,32 +61,28 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR CHAN HO FONG-200px.jpeg" style="width:200px">
+					MR CHAN HO FONG<br>
+					<b>Senior Special Education Needs Officer</b><br>
+					<a href="mailto:chan_ho_fong@moe.edu.sg" target="">chan_ho_fong<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR MUHAMMAD HILMI-200px.jpeg" style="width:200px">
+					MR MUHAMMAD HILMI<br>
+					<b>Special Education<br>Needs Officer</b><br>
+					<a href="mailto:muhammad_hilmi_abu_bakar@moe.edu.sg" target="">muhammad_hilmi_abu_bakar<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM WOON BEE ENG-200px.jpeg" style="width:200px">
+					MDM WOON BEE ENG<br>
+					<b>Special Education<br>Needs Officer</b><br>
+					<a href="mailto:woon_bee_eng@moe.edu.sg" target="">woon_bee_eng<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
 	</tbody>
-</table>
-
-
-<img src="/images/ep8.png" 
-     style="width:70%">
+</table
