@@ -46,10 +46,10 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/NUR KHAIRIAH SAIFUL JOHAN-200px.jpeg" style="width:200px">
+					NUR KHAIRIAH<br>SAIFUL JOHAN<br>
+					<b>Student Welfare Officer</b><br>
+					<a href="mailto:nur_khairiah_saiful_johan@moe.edu.sg" target="">nur_khairiah_saiful_johan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
