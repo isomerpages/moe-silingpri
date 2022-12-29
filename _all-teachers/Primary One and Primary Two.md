@@ -56,12 +56,6 @@ description: ""
 	</tbody>
 </table>
 
-|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
-| -------- | -------- |
-| Mdm Anita     | Mdm Chua     |
-| 1 Solidarity     | 1 Solidarity  |
-| Email     | Email     |
-
 ##### 1 Perseverance
 	
 <table>
@@ -95,12 +89,6 @@ description: ""
 	</tbody>
 </table>
 
-|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
-| -------- | -------- |
-| Mdm Khatijah     | Mdm Loh May Fong     |
-| 1 Perseverence     | 1 Perseverence  |
-| Email     | Email     |
-
 ##### 1 Innovation
 	
 <table>
@@ -133,12 +121,6 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-|![Pic 1](/images/About%20Us/Our%20People/Blank_200.gif)|  ![Pic 2](/images/About%20Us/Our%20People/Blank_200.gif) |  
-| -------- | -------- |
-| Ms Marie Teo     | Mdm Fadlinah     |
-| 1 Innovation     | 1 Innovation  |
-| Email     | Email     |
 
 ##### 1 Respect
 	
