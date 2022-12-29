@@ -6,10 +6,9 @@ third_nav_title: Student Development
 ---
 ### Student Leadership
 
-In line with our school’s vision – **Every Si Ling Pupil a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
+In line with our school’s vision – **Every Si Ling Student a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
 
-<img src="/images/sd2.png" 
-     style="width:60%">
+![Student Leadership Pyramid](/images/Our%20Experiences/Student%20Development/sd2.png)
 
 **Level 1: Self Leadership**
 
@@ -41,8 +40,7 @@ Besides undergoing the same training sessions as the Level 3 Student Leaders, ou
 
 Our Student Leadership Programme is anchored on **The Leadership Challenge®** that is adopted from **“The Five Practices of Exemplary Leadership"** by Kouzes and Posner.
 
-<img src="/images/sd3.png" 
-     style="width:8=45%">
+![The Leadership Challenge Model, adapted from The Five Practices of Exemplary Leadership](/images/Our%20Experiences/Student%20Development/sd3.png)
 
 **Our key Student Leadership Trainings and Programmes:**
 
@@ -53,4 +51,4 @@ Our Student Leadership Programme is anchored on **The Leadership Challenge®**�
 | **Level 3:<br>Advanced Leadership** | Prefects’ and CCA Leaders’ Meetings<br>Student Leaders’ Engagement<br>Student Leadership Workshop<br>Leaders’-led Sessions: CCA Leaders’ Sessions, Students’ Voice Online Forum<br>Student Leaders’ Production: SLPS News and Happenings |
 | **Level 4:<br>Outstanding Leadership** | EXCO Meetings<br>Mentoring Sessions |
 
-To learn more about our LLP: Community and Student Leadership, click [here](https://moe-silingpri-staging.netlify.app/signature-programmes/lflp).
+To learn more about our LLP: Community and Student Leadership, click [here](/signature-programmes/LLP/).

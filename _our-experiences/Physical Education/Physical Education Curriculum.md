@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Education
 ---
 ### Physical Education Curriculum
-<img src="/images/Our%20Experiences/Physical%20Education/_MG_1672.pngg" style="width:300px;height:440px;margin-right:15px;" align = "left">
+<img src="/images/Our%20Experiences/Physical%20Education/_MG_1672.png" style="width:300px;height:440px;margin-right:15px;" align = "left">
 
 ##### PE Curriculum
 

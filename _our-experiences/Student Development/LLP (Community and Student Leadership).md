@@ -1,9 +1,10 @@
 ---
-title: Community and Student Leadership
-permalink: /our-experiences/Student-Development/community-and-student-leadership/
+title: LLP (Community and Student Leadership)
+permalink: /signature-programmes/LLP/
 description: ""
 third_nav_title: Student Development
 ---
+
 ### Learning for Life Programme
 
 **LLP: Community and Student Leadership**
