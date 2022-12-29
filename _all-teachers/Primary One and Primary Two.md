@@ -20,7 +20,6 @@ description: ""
 		</tbody>
 	</table>
 
-	
 #### Primary 1
 ##### 1 Solidarity
 	
