@@ -35,7 +35,7 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM SILVIATY BIDIN-200px.jpeg" style="width:200px">
-					MDM SILVIATYBINTE BIDIN<br>
+					MDM SILVIATY<br>BINTE BIDIN<br>
 					<b>Administrative Executive</b><br>
 				</div>
 			</td>
@@ -46,10 +46,24 @@ third_nav_title: Our People
 					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/MDM TAN AI LING-200px.jpeg" style="width:200px">
 					MDM TAN AI LING<br>
+					<b>Corporate Support Officer</b><br>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MDM SITI SAKDIAH<br>BINTI ASMURI<br>
 					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
@@ -74,20 +88,10 @@ third_nav_title: Our People
 					<b>Corporate Support Officer</b><br>
 				</div>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-				</div>
-			</td>
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/ep2.png" 
-     style="width:70%">
-		 
+	 
 <img src="/images/ep3.png" 
      style="width:70%">
 		 
