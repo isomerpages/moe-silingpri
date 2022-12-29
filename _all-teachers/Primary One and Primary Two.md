@@ -270,10 +270,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
+					<img src="/images/About Us/Our People/MISS QUAH YEE WEN-200px.jpeg" style="width:200px">
+					MISS QUAH YEE WEN<br>
 					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<a href="mailto:quah_yee_wen@moe.edu.sg" target="">quah_yee_wen<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
