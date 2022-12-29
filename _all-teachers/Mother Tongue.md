@@ -164,10 +164,9 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM NOOR AISYA BUANG-200px.jpeg" style="width:200px">
+					MDM NOOR AISYA BUANG<br><br>
+					<a href="mailto:noor_aisya_buang@moe.edu.sg" target="">noor_aisya_buang<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
