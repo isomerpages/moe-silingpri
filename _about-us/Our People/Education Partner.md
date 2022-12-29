@@ -118,8 +118,8 @@ third_nav_title: Our People
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM PARUWATHY PRATHAYYA<br>
+					<img src="/images/About Us/Our People/MDM CHOONG BING LAI-200px.jpeg" style="width:200px">
+					MDM CHOONG BING LAI<br>
 					<b>Operations Support Officer</b><br>
 				</div>
 			</td>
