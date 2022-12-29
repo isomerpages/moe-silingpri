@@ -56,7 +56,7 @@ description: ""
 	</tbody>
 </table>
 
-##### 3 Perseverance
+<h5>3 Perseverance</h5>
 	
 <table>
 	<tbody>
@@ -89,7 +89,7 @@ description: ""
 	</tbody>
 </table>
 
-##### 3 Innovation
+<h5>3 Innovation</h5>
 	
 <table>
 	<tbody>
@@ -122,7 +122,7 @@ description: ""
 	</tbody>
 </table>
 
-##### 3 Respect
+<h5>3 Respect</h5>
 	
 <table>
 	<tbody>
@@ -155,8 +155,8 @@ description: ""
 	</tbody>
 </table>
 
-#### Primary 4
-##### 4 Solidarity
+<h4>Primary 4</h4>
+<h5>4 Solidarity</h5>
 	
 <table>
 	<tbody>
@@ -189,7 +189,7 @@ description: ""
 	</tbody>
 </table>
 	
-##### 4 Perseverance
+<h5>4 Perseverance</h5>
 	
 <table>
 	<tbody>
@@ -222,7 +222,7 @@ description: ""
 	</tbody>
 </table>
 	
-##### 4 Innovation
+<h5>4 Innovation</h5>
 	
 <table>
 	<tbody>
@@ -255,7 +255,7 @@ description: ""
 	</tbody>
 </table>
 
-##### 4 Respect
+<h5>4 Respect</h5>
 	
 <table>
 	<tbody>
