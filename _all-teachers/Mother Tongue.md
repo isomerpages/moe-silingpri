@@ -152,6 +152,36 @@ description: ""
 	</tbody>
 </table>
 
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/MDM FARADILAH BTE MOHD YAAKOP-200px.jpeg" style="width:200px">
+					MDM FARADILAH BTE MOHD YAAKOP<br>
+					<a href="mailto:faradilah_mohd_yaakop@moe.edu.sg" target="">faradilah_mohd_yaakop<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 2<br>
+					<b>Position 2</b><br>
+					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+				</div>
+			</td>
+			<td style="width: 200px;">
+				<div style="text-align: center; width: 200px;">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					NAME 3<br>
+					<b>Position 3</b><br>
+					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ##### Tamil Department
 
 <table>
