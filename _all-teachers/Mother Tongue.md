@@ -144,7 +144,7 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM HUSNITA OMAR<br>
+					MDM HUSNITA OMAR<br><br>
 					<a href="mailto:husnita_omar@moe.edu.sg" target="">husnita_omar<br>@moe.edu.sg</a>
 				</div>
 			</td>
