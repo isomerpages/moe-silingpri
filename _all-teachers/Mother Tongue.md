@@ -187,18 +187,18 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS MUMTAJ BEHOM-200px.jpeg" style="width:200px">
+					MISS MUMTAJ BEHOM<br>
+					<b>Tamil Coordinator</b><br>
+					<a href="mailto:mumtaj_behom_mohamed_d@moe.edu.sg" target="">mumtaj_behom_mohamed_d<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM JAYANTHI SELVAM-200px.jpeg" style="width:200px">
+					MDM JAYANTHI SELVAM<br>
+					<b>FAJT</b><br>
+					<a href="mailto:selvam_jayanthi@moe.edu.sg" target="">selvam_jayanthi<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
