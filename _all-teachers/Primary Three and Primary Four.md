@@ -60,10 +60,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR SAIFUL SAPARI-200px.jpeg" style="width:200px">
+					MR SAIFUL SAPARI<br>
+					<b>SH Malay Language</b><br>
+					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
