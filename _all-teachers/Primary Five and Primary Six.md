@@ -39,7 +39,7 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM NORASHIKIN MOHD SAID-200px.jpeg" style="width:200px">
-					MDM NORASHIKIN<br>MOHD SAID<br>
+					MDM NORASHIKIN MOHD SAID<br>
 					<b>LH Mathematics</b><br>
 					<a href="mailto:norashikin_mohamed_said@moe.edu.sg" target="">norashikin_mohamed_said@moe.edu.sg</a>
 				</div>
