@@ -174,14 +174,14 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MR DENNIS TUAN<br>
 					<a href="mailto:dennis_tuan_yun_leng@moe.edu.sg" target="">dennis_tuan_yun_leng<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MR INDRA BAHADAR GU<br>
 					<a href="mailto:indra_bahadur_gu@moe.edu.sg" target="">indra_bahadur_gu<br>@moe.edu.sg</a>
 				</div>
