@@ -62,26 +62,17 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MRS CATHRINE LAM-200px.jpeg" style="width:200px">
+					MRS CATHRINE LAM<br>
+					<b>HOD CCE</b><br>
+					<a href="mailto:lam_chuan_kiet@moe.edu.sg" target="">lam_chuan_kiet<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS YU SHEAU HUEY-200px.jpeg" style="width:200px">
+					MISS YU SHEAU HUEY<br>
+					<a href="mailto:yu_sheau_huey@moe.edu.sg" target="">yu_sheau_huey<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
