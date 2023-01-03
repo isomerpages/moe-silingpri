@@ -189,10 +189,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR JASHANAN KASINATHAN-200px.jpeg" style="width:200px">
+					MR JASHANAN KASINATHAN<br>
+					<b>Year Head P3 & P4</b><br>
+					<a href="mailto:jashanan_kasinathan@moe.edu.sg" target="">jashanan_kasinathan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
