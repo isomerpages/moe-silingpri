@@ -42,7 +42,7 @@ Our Student Leadership Programme is anchored on **The Leadership Challenge®**�
 
 ![The Leadership Challenge Model, adapted from The Five Practices of Exemplary Leadership](/images/Our%20Experiences/Student%20Development/sd3.png)
 
-**Our key Student Leadership Trainings and Programmes:**
+##### Our key Student Leadership Trainings and Programmes:
 
 |  |  |
 |---|---|
