@@ -25,8 +25,7 @@ The Student Learning Space or SLS is a MOE learning portal that has curriculum-a
 ![SLS page](/images/Our%20Experiences/InfoComm%20Technology/ict3.png)
 _SLS Login Page:_   _https://vle.learning.moe.edu.sg/login_
 
-<img src="/images/ict4.png" 
-     style="width:70%">
+![Cyberwellness lesson in SLS](/images/Our%20Experiences/InfoComm%20Technology/ict4.png)
 
 **Code For Fun Programme**
 
