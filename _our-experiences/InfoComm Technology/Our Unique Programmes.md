@@ -17,7 +17,7 @@ To achieve our ICT vision, our school has rolled out New Media Literacies during
 <img src="/images/Our%20Experiences/InfoComm%20Technology/ict2.png" 
      style="width:70%">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iwPhComy-hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iwPhComy-hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 **Student Learning Space**
 
