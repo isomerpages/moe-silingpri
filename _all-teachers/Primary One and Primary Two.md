@@ -212,7 +212,7 @@ description: ""
 					<img src="/images/About Us/Our People/MR SETHU RAJAGOPAL-200px.jpeg" style="width:200px">
 					MR SETHU RAJAGOPAL<br>
 					<b>Year Head P1 & P2</b><br>
-					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
+					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
