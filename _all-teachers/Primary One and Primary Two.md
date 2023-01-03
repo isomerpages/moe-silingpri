@@ -196,14 +196,14 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MS NUR HAZURA HAMDAN-200px.jpeg" style="width:200px">
-					MS NUR HAZURA HAMDAN<br>
+					MS NUR HAZURA<br>HAMDAN<br>
 					<a href="mailto:nur_hazura_hamdan@moe.edu.sg" target="">nur_hazura_hamdan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MISS QUAH YEE WEN-200px.jpeg" style="width:200px">
-					MISS QUAH YEE WEN<br>
+					MISS QUAH<br>YEE WEN<br>
 					<a href="mailto:quah_yee_wen@moe.edu.sg" target="">quah_yee_wen<br>@moe.edu.sg</a>
 				</div>
 			</td>
