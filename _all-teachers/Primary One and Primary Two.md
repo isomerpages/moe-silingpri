@@ -134,7 +134,7 @@ description: ""
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MDM FARADILAH BTE MOHD YAAKOP-200px.jpeg" style="width:200px">
 					MDM FARADILAH<br>BTE MOHD YAAKOP<br>
-					<a href="mailto:faradilah_mohd_yaakop@moe.edu.sg" target="">faradilah_mohd_yaakop<br>@moe.edu.sg</a>
+					<a href="mailto:faradilah_mohd_yaakop@moe.edu.sg" target="">faradilah_mohd_yaakop@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
