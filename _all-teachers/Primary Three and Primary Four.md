@@ -128,15 +128,14 @@ description: ""
 					<img src="/images/About Us/Our People/MRS LILY TAN-200px.jpeg" style="width:200px">
 					MRS LILY TAN<br>
 					<b>ST Mathematics</b><br>
-					<a href="mailto:chee_lily@moe.edu.sg" target="">chee_lily<br>@moe.edu.sg</a>
+					<a href="mailto:chee_lily@moe.edu.sg" target="">chee_lily@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MS JANICE TAN-200px.jpeg" style="width:200px">
+					MS JANICE TAN<br>
+					<a href="mailto:tan_si_chin_janice@moe.edu.sg" target="">tan_si_chin_janice<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
