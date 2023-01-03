@@ -172,7 +172,7 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
-					MDM NORMAH MOHAMED NOR<br>
+					MDM NORMAH<br>MOHAMED NOR<br>
 					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
 				</div>
 			</td>
