@@ -164,17 +164,16 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					MR KOH CHIN SHENG<br>
+					<b>HOD Student Management</b><br>
+					<a href="mailto:koh_chin_sheng@moe.edu.sg" target="">koh_chin_sheng<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					MDM NORMAH MOHAMED NOR<br>
+					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
