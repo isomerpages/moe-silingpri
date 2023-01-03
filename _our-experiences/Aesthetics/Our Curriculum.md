@@ -4,9 +4,9 @@ permalink: /our-experiences/Aesthetics/our-curriculum/
 description: ""
 third_nav_title: Aesthetics
 ---
-### Our Curriculum
+### **Our Curriculum**
 
- Every student goes through a broad-based art and music curriculum based on overarching learning objectives that is progressive in the classroom and across different disciplines.
+Every student goes through a broad-based art and music curriculum based on overarching learning objectives that is progressive in the classroom and across different disciplines.
 
 Through the learning and appreciation of art and music, students develop inquiry skills which enables them to observe and perceive their world with increased awareness and aesthetic sensitivity which lays the foundation for students’ lifelong appreciation and interest in the arts.
 
