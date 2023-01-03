@@ -10,7 +10,7 @@ To achieve our vision and mission, we have developed some unique ICT programmes 
 
 ##### Lifelong Learner
 
-###### New Media Literacies
+**New Media Literacies**
 
 To achieve our ICT vision, our school has rolled out New Media Literacies during ICT lessons. Our ICT Modules for this year will cover three main domains of ICT skills - Curate, Create and Connect. Through these domains, students are able to acquire the skills they need to prepare them for the future. Students are also able to develop an understanding of the social practices that is widespread in the digital networked environment.
 
