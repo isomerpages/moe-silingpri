@@ -246,10 +246,10 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MRS THAM-CHIN MEI LING-200px.jpeg" style="width:200px">
+					MRS THAM-CHIN MEI LING<br>
+					<b>ST Science</b><br>
+					<a href="mailto:tham-chin_mei_ling@moe.edu.sg" target="">tham-chin_mei_ling<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
