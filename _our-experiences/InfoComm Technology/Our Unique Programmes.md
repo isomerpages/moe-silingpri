@@ -22,9 +22,7 @@ To achieve our ICT vision, our school has rolled out New Media Literacies during
 **Student Learning Space**
 
 The Student Learning Space or SLS is a MOE learning portal that has curriculum-aligned learning resources, catering to all learners and their learning needs. Our teachers have made good use of the affordances of this learning portal and integrated the use of this portal into the curriculum of the different subjects and mostly, Home-based Learnings. The use of this portal promotes 21st Century Competencies such as critical and inventive thinking and the ability to curate, create and connect and thus, our students are equipped with the necessary skills and attitudes to learn for life.
-
-<img src="/images/Our%20Experiences/InfoComm%20Technology/ict3.png" 
-     style="width:70%">
+![SLS page](/images/Our%20Experiences/InfoComm%20Technology/ict3.png)
 _SLS Login Page:_   _https://vle.learning.moe.edu.sg/login_
 
 <img src="/images/ict4.png" 
