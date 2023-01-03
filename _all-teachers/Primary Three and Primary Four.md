@@ -53,10 +53,9 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM YAAP YONG SIEW RUTH-200px.jpeg" style="width:200px">
+					MDM YAAP YONG SIEW RUTH<br>
+					<a href="mailto:yaap_yong_siew_ruth@moe.edu.sg" target="">yaap_yong_siew_ruth<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
