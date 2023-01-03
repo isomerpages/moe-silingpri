@@ -271,10 +271,10 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					MR CHRIS NG HAN PO<br>
+					<b>HOD ICT</b><br>
+					<a href="mailto:ng_han_po@moe.edu.sg" target="">ng_han_po<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
@@ -287,10 +287,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR ABDUL JALIL B YUNUS-200px.jpeg" style="width:200px">
+					MR ABDUL JALIL B YUNUS<br>
+					<b>Year Head P5 & P6</b><br>
+					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
