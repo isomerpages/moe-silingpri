@@ -10,8 +10,7 @@ Every student goes through a broad-based art and music curriculum based on overa
 
 Through the learning and appreciation of art and music, students develop inquiry skills which enables them to observe and perceive their world with increased awareness and aesthetic sensitivity which lays the foundation for students’ lifelong appreciation and interest in the arts.
 
-<img src="/images/aes3.png" 
-     style="width:65%">
+![Students showing off their artworks](/images/Our%20Experiences/Aesthetics/IMG_0747.png)
 		 
 **\[ Experience:** Art Curriculum Overview **\]**
 
