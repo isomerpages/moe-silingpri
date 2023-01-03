@@ -31,8 +31,7 @@ _SLS Login Page:_   _https://vle.learning.moe.edu.sg/login_
 
 The 10-hour Code for Fun (CFF) Programme focuses on developing academic learning of related concepts using visual-based programming language for Computational Thinking, combining it with robotic kits, to create a coding experience for our students.  through this programme, students will learn to develop logical thinking and problem-solving skills by breaking down problems into bite-sizes. They will also have a chance to program a dance using their Sphero robotic kits.
 
-<img src="/images/ict5.png" 
-     style="width:70%">
+![Students using iPad for their lesson](/images/Our%20Experiences/InfoComm%20Technology/ict5.png)
 
 ##### Enhanced Student Well-being
 
