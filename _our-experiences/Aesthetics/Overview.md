@@ -6,8 +6,22 @@ third_nav_title: Aesthetics
 ---
 ### **Aesthetic**
 
-<img src="/images/aes1.png" 
-     style="width:80%">
+<table>
+	<tbody>
+		<tr>
+			<td style="width:50%;">
+				<div style="text-align: center;">
+					<img src="/images/Our%20Experiences/Aesthetics/IMG_1301.png">
+				</div>
+			</td>
+			<td style="width:50%;">
+				<div style="text-align: center;">
+					<img src="/images/Our%20Experiences/Aesthetics/IMG_0577.png">
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ##### Our Mission
 
