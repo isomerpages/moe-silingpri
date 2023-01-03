@@ -211,10 +211,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR SETHU RAJAGOPAL-200px.jpeg" style="width:200px">
+					MR SETHU RAJAGOPAL<br>
+					<b>Year Head P1 & P2</b><br>
+					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
