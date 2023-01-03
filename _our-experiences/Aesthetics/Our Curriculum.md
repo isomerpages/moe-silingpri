@@ -22,8 +22,7 @@ Through the learning and appreciation of art and music, students develop inquiry
 | **Singapore Past, Present & Future** | ·Delicious Food (Jumping Clay)<br>·My Military Man :TDD (Drawing)<br>·     My Favourite Buildings (Drawing) | ·My Dream Playground (Mixed media)<br>·My Military Hat: TDD (Craft)<br>·      Merlion Roll Craft (Mixed Media) | ·Poster : TDD (Mixed Media)<br>·My Singapore Zentangle (Drawing) | ·My Singapore Artists (Musuem Based Learning)<br>·Paper Batik : Sarkasi Said (Painting)<br>**·National Flower (Ceramics)**<br>·Grid Drawing of National Flower : ALP (Drawing) | ·      TDD Logo Design (Drawing)<br>·Future Singapore : Georges Seurat (Drawing) | ·Pixelated Logo Design: TDD (Digital Art)<br>·Vanda Miss Joaquim (Drawing) |
 | **The World and Around Me** | **·Endangered Animals :ALP (Jumping Clay)**<br>·The Rainbow Fish (Craft)<br> <br> <br>  | ·Vincent Van Gogh (Artist Appreciation) | ·My Eco Hero : ALP (Digital Art)<br>**· Pinch Monsters (Ceramics)**<br>·Drawing with Scissors :Henri Matisse (Mixed Media) | ·Animal Grid Drawing : ALP (Drawing) | ·Onomatopoeia Art : Andy Lichtenstein (Craft) | ·Stained Glass Art : Andy Warhall (Mixed Media) |
 
-<img src="/images/aes4.png" 
-     style="width:80%">
+![Students playing the kompang](/images/Our%20Experiences/Aesthetics/aes4.png)
 
 **\[ Experience:** Music Curriculum Overview **\]**
 
