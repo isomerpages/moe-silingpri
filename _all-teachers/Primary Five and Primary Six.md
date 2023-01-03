@@ -65,7 +65,7 @@ description: ""
 					<img src="/images/About Us/Our People/MRS CATHRINE LAM-200px.jpeg" style="width:200px">
 					MRS CATHRINE LAM<br>
 					<b>HOD CCE</b><br>
-					<a href="mailto:lam_chuan_kiet@moe.edu.sg" target="">lam_chuan_kiet<br>@moe.edu.sg</a>
+					<a href="mailto:lam_chuan_kiet@moe.edu.sg" target="">lam_chuan_kiet@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
