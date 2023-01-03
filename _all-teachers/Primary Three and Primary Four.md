@@ -149,10 +149,10 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MRS NG-HENG MUI GEK-200px.jpeg" style="width:200px">
+					MRS NG-HENG MUI GEK<br>
+					<b>HOD Mathematics</b><br>
+					<a href="mailto:heng_mui_gek@moe.edu.sg" target="">heng_mui_gek<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
