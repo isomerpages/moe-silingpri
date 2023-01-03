@@ -182,9 +182,8 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					MR INDRA BAHADAR GU<br>
+					<a href="mailto:indra_bahadur_gu@moe.edu.sg" target="">indra_bahadur_gu<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
