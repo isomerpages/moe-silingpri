@@ -224,7 +224,7 @@ description: ""
 					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
 					MDM EMILIA RAZALI<br>
 					<b>LH English Language</b><br>
-					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali<br>@moe.edu.sg</a>
+					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
