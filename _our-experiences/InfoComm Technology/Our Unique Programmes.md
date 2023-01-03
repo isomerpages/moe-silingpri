@@ -43,7 +43,7 @@ Students learn to be responsible digital citizens through explicit teaching duri
 
 Our student Cyberwellness Ambassadors design and conduct activities for all students during Cyberwellness Week. Through these activities, students learn Cyberwellness tips and awareness of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syEPcYfSBEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/syEPcYfSBEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ##### Home-based Learning (HBL)
 
