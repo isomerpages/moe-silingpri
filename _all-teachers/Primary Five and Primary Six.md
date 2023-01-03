@@ -279,10 +279,9 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS CHER WEI SHAN-200px.jpeg" style="width:200px">
+					MISS CHER<br>WEI SHAN<br>
+					<a href="mailto:cher_wei_shan@moe.edu.sg" target="">cher_wei_shan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
