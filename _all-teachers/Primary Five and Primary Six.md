@@ -229,18 +229,10 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM LIN YUPING-200px.jpeg" style="width:200px">
+					MDM LIN YUPING<br>
+					<b>LSP Coordinator</b><br>
+					<a href="mailto:lin_yuping@moe.edu.sg" target="">lin_yuping@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
