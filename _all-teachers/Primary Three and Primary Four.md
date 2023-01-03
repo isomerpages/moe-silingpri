@@ -63,7 +63,7 @@ description: ""
 					<img src="/images/About Us/Our People/MR SAIFUL SAPARI-200px.jpeg" style="width:200px">
 					MR SAIFUL SAPARI<br>
 					<b>SH Malay Language</b><br>
-					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari<br>@moe.edu.sg</a>
+					<a href="mailto:saiful_sapari@moe.edu.sg" target="">saiful_sapari@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
