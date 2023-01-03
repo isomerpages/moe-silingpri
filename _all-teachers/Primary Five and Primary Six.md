@@ -38,26 +38,17 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM NORASHIKIN MOHD SAID-200px.jpeg" style="width:200px">
+					MDM NORASHIKIN<br>MOHD SAID<br>
+					<b>LH Mathematics</b><br>
+					<a href="mailto:norashikin_mohamed_said@moe.edu.sg" target="">norashikin_mohamed_said@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS ROSAMUND CHONG-200px.jpeg" style="width:200px">
+					MISS ROSAMUND CHONG<br>
+					<a href="mailto:chong_wen_shan_rosamund@moe.edu.sg" target="">chong_wen_shan_rosamund<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
