@@ -172,26 +172,16 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS JULIANA LIM-200px.jpeg" style="width:200px">
+					MISS JULIANA LIM<br>
+					<a href="mailto:lim_ching_yen_juliana@moe.edu.sg" target="">lim_ching_yen_juliana<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM CHEW SUET SAN-200px.jpeg" style="width:200px">
+					MDM CHEW SUET SAN<br>
+					<a href="mailto:chew_suet_san@moe.edu.sg" target="">chew_suet_san<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
