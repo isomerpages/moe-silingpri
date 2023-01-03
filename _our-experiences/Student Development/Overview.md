@@ -10,4 +10,4 @@ third_nav_title: Student Development
 
 ##### Our Mission Statement
 
-To nurture our pupils into caring, self-disciplined, responsible and gracious citizens
+To nurture our students into caring, self-disciplined, responsible and gracious citizens
