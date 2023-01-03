@@ -86,10 +86,9 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM TERRENZ HUANG-200px.jpeg" style="width:200px">
+					MDM TERRENZ HUANG<br>
+					<a href="mailto:huang_yihui_terrenz@moe.edu.sg" target="">huang_yihui_terrenz<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
