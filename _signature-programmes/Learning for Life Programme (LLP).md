@@ -35,8 +35,7 @@ Students learn to look out for opportunities to serve the school community by pr
 ![LLP Appreciation of cleaning staff](/images/Signature%20Programmes/LLP/LLP%20Appreciation%20collage.png)
 		 
 **Students' Suggestions**
-<img src="/images/lflp4.png" 
-     style="width:70%">
+![Students' Suggestions](/images/Signature%20Programmes/LLP/lflp4.png)
 
 
 ##### **Primary 5 and 6 - External Community**
