@@ -9,8 +9,7 @@ description: ""
 
 The school’s LLP programme on Community and Student Leadership sees an integration of student leadership in the community – beginning with self and family, through our school’s key programmes.
 
-<img src="/images/lflp1.png" 
-     style="width:80%">
+![LLP Model](/images/Signature%20Programmes/LLP/LLP%20Model.png)
 
 #### LLP Outcomes:
 
