@@ -222,7 +222,7 @@ description: ""
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/MR JOHAN BIN RIDWAN LOO-200px.jpeg" style="width:200px">
 					MR JOHAN BIN<br>RIDWAN LOO<br>
-					<a href="mailto:johan_ridwan_loo@moe.edu.sg" target="">johan_ridwan_loo<br>@moe.edu.sg</a>
+					<a href="mailto:johan_ridwan_loo@moe.edu.sg" target="">johan_ridwan_loo@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
