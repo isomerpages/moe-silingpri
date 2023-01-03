@@ -39,8 +39,7 @@ The 10-hour Code for Fun (CFF) Programme focuses on developing academic learning
 
 Students learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP), Cyberwellness STAR Booklets and Civic and Moral Education (CME) lessons as well as short bite-sized presentations during fortnightly morning assembly.
 
-<img src="/images/ict6.png" 
-     style="width:70%">
+![Student filling in Cyberwellness worksheet](/images/Our%20Experiences/InfoComm%20Technology/ict6.png)
 
 Our student Cyberwellness Ambassadors design and conduct activities for all students during Cyberwellness Week. Through these activities, students learn Cyberwellness tips and awareness of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
@@ -50,18 +49,16 @@ Our student Cyberwellness Ambassadors design and conduct activities for all stud
 
 Home-based learning (HBL) is conducted in Si Ling Primary School twice a year during the PSLE Oral Examinations and the PSLE Marking Days. On HBL days, Primary 1 to Primary 5 students are not required to attend school and will be assigned HBL lessons and assignments, primarily on the SLS Learning Portal. (https://vle.learning.moe.edu.sg/login).
 
-<img src="/images/ict7.png" 
-     style="width:80%">
+![HBL on Zoom](/images/Our%20Experiences/InfoComm%20Technology/ict7.png)
 
 **Objectives**
 
-The aim of HBL is to develop independent learning skills that will enable students to learn on their own outside school. These self-directed learning skills position our students well in the event that they are required to learn from home due to possible school closure. 
+The aim of HBL is to develop independent learning skills that will enable students to learn on their own outside school. These self-directed learning skills position our students well in the event that they are required to learn from home due to possible school closure.
 
 **Pedagogy**
 
 Our teachers design lessons and subsequent assignments that are student-centred for the HBL days. These lessons follow closely to the SLS Pedagogical Scaffold as shown below.
 
-<img src="/images/ict8.png" 
-     style="width:80%">
+![SLS Pedagogical Scaffold](/images/Our%20Experiences/InfoComm%20Technology/ict8.png)
 
 By designing the online lessons based on this pedagogical scaffold, students are able to spend more time developing their understanding and skills, applying and displaying what they have learnt, and through the feedback given by their teachers and peers, they are able to refine this understanding.
