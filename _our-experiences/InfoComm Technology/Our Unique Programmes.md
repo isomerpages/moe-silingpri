@@ -57,11 +57,11 @@ Home-based learning (HBL) is conducted in Si Ling Primary School twice a year du
 <img src="/images/ict7.png" 
      style="width:80%">
 
-**Objectives**
+###### Objectives
 
 The aim of HBL is to develop independent learning skills that will enable students to learn on their own outside school. These self-directed learning skills position our students well in the event that they are required to learn from home due to possible school closure. 
 
-**Pedagogy**
+###### Pedagogy
 
 Our teachers design lessons and subsequent assignments that are student-centred for the HBL days. These lessons follow closely to the SLS Pedagogical Scaffold as shown below.
 
