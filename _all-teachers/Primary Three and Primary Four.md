@@ -175,9 +175,8 @@ description: ""
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					MR DENNIS TUAN<br>
+					<a href="mailto:dennis_tuan_yun_leng@moe.edu.sg" target="">dennis_tuan_yun_leng<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
