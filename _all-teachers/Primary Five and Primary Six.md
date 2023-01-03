@@ -249,7 +249,7 @@ description: ""
 					<img src="/images/About Us/Our People/MRS THAM-CHIN MEI LING-200px.jpeg" style="width:200px">
 					MRS THAM-CHIN MEI LING<br>
 					<b>ST Science</b><br>
-					<a href="mailto:tham-chin_mei_ling@moe.edu.sg" target="">tham-chin_mei_ling@moe.edu.sg</a>
+					<a href="mailto:tham-chin_mei_ling@moe.edu.sg" target="">tham-chin_mei_ling<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
@@ -257,7 +257,7 @@ description: ""
 					<img src="/images/About Us/Our People/MR ASHRI SHUKRI-200px.jpeg" style="width:200px">
 					MR ASHRI SHUKRI<br>
 					<b>HOD Science</b><br>
-					<a href="mailto:ashri_b_shukri@moe.edu.sg" target="">ashri_b_shukri@moe.edu.sg</a>
+					<a href="mailto:ashri_b_shukri@moe.edu.sg" target="">ashri_b_shukri<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
