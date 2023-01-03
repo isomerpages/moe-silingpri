@@ -6,7 +6,7 @@ third_nav_title: InfoComm Technology
 ---
 ### **Our Unique Programmes**
 
-To achieve our vision and mission, we have developed some unique ICT programmes that are inclusive, that ensure our students’ well-being in the event of a school closure and that develop lifelong technology-empowered learners.  
+To achieve our vision and mission, we have developed some unique ICT programmes that are inclusive, that ensure our students’ well-being in the event of a school closure and that develop lifelong technology-empowered learners. 
 
 ##### Lifelong Learner
 
