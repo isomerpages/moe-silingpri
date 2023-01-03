@@ -12,7 +12,7 @@ In line with our school’s vision – **Every Si Ling Student a Scholar who Le
 
 ##### Level 1: Self Leadership
 
-All Si Ling pupils learn self-leadership skills through our ‘Leaders of Self’ (LoS) Series during Assembly to be equipped as Level 1 ‘Leaders of Self and Values’ and Peer Supporters.
+All Si Ling students learn self-leadership skills through our ‘Leaders of Self’ (LoS) Series during Assembly to be equipped as Level 1 ‘Leaders of Self and Values’ and Peer Supporters.
 
 ##### Level 2: Basic Leadership
 
