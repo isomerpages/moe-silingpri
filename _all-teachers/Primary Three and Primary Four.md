@@ -66,14 +66,6 @@ description: ""
 					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
 				</div>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
-				</div>
-			</td>
 		</tr>
 	</tbody>
 </table>
