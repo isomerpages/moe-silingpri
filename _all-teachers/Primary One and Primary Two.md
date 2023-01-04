@@ -125,26 +125,16 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MRS MAY NEO-200px.jpeg" style="width:200px">
+					MRS MAY NEO<br>
+					<a href="mailto:lim_tau_wei_may@moe.edu.sg" target="">lim_tau_wei_may<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM FARADILAH BTE MOHD YAAKOP-200px.jpeg" style="width:200px">
+					MDM FARADILAH<br>BTE MOHD YAAKOP<br>
+					<a href="mailto:faradilah_mohd_yaakop@moe.edu.sg" target="">faradilah_mohd_yaakop@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
@@ -158,26 +148,17 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM HAFIZAH BTE MAHMUD-200px.jpeg" style="width:200px">
+					MDM HAFIZAH BTE MAHMUD<br>
+					<b>ST Learning Needs</b><br>
+					<a href="mailto:hafizah_mahmud@moe.edu.sg" target="">hafizah_mahmud@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR JEFFERY LOW-200px.jpeg" style="width:200px">
+					MR JEFFERY LOW<br>
+					<a href="mailto:low_kok_wah_jeffrey@moe.edu.sg" target="">low_kok_wah_jeffrey<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
@@ -191,26 +172,16 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MISS JULIANA LIM-200px.jpeg" style="width:200px">
+					MISS JULIANA LIM<br>
+					<a href="mailto:lim_ching_yen_juliana@moe.edu.sg" target="">lim_ching_yen_juliana<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 2<br>
-					<b>Position 2</b><br>
-					<a href="mailto:2@moe.edu.sg" target="">2<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MDM CHEW SUET SAN-200px.jpeg" style="width:200px">
+					MDM CHEW SUET SAN<br>
+					<a href="mailto:chew_suet_san@moe.edu.sg" target="">chew_suet_san<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>
@@ -224,26 +195,24 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 1<br>
-					<b>Position 1</b><br>
-					<a href="mailto:1@moe.edu.sg" target="">1<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MS NUR HAZURA HAMDAN-200px.jpeg" style="width:200px">
+					MS NUR HAZURA<br>HAMDAN<br>
+					<a href="mailto:nur_hazura_hamdan@moe.edu.sg" target="">nur_hazura_hamdan<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
 					<img src="/images/About Us/Our People/MISS QUAH YEE WEN-200px.jpeg" style="width:200px">
-					MISS QUAH YEE WEN<br>
-					<b>Position 2</b><br>
+					MISS QUAH<br>YEE WEN<br>
 					<a href="mailto:quah_yee_wen@moe.edu.sg" target="">quah_yee_wen<br>@moe.edu.sg</a>
 				</div>
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/Blank_200.gif" style="width:200px">
-					NAME 3<br>
-					<b>Position 3</b><br>
-					<a href="mailto:3@moe.edu.sg" target="">3<br>@moe.edu.sg</a>
+					<img src="/images/About Us/Our People/MR SETHU RAJAGOPAL-200px.jpeg" style="width:200px">
+					MR SETHU RAJAGOPAL<br>
+					<b>Year Head P1 & P2</b><br>
+					<a href="mailto:sethu_rajagopal@moe.edu.sg" target="">sethu_rajagopal<br>@moe.edu.sg</a>
 				</div>
 			</td>
 		</tr>

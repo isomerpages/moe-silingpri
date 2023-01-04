@@ -4,15 +4,28 @@ permalink: /our-experiences/Aesthetics/overview/
 description: ""
 third_nav_title: Aesthetics
 ---
-### Aesthetic
+### **Aesthetic**
 
-<img src="/images/aes1.png" 
-     style="width:80%">
+<table>
+	<tbody>
+		<tr>
+			<td style="width:50%;">
+				<div style="text-align: center;">
+					<img src="/images/Our%20Experiences/Aesthetics/IMG_1301.png">
+				</div>
+			</td>
+			<td style="width:50%;">
+				<div style="text-align: center;">
+					<img src="/images/Our%20Experiences/Aesthetics/IMG_0577.png">
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-**Our Mission**
+##### Our Mission
 
-<img src="/images/aes2.png" 
-     style="width:80%">
+![Aesthetics Mission model](/images/Our%20Experiences/Aesthetics/aes2.png)
 
 **_Development of skills and competencies_**
 
@@ -30,11 +43,8 @@ Based on these three Es, the curriculum, programmes and activities are crafted a
 *   **Singapore Past, Present & Future**
 *   **The World & Around Me**  
 
-**Vision**
+##### Vision
 
-Our students will be **competent artistes** and **appreciative audience** of the arts.
+Our students will be **competent artistE3s** and **appreciative audience** of the arts.
 
 We believe that a vibrant aesthetics environment provides our students exposure to various forms of arts through progressive platforms, thus enabling our students to be more appreciative of their work and that of others.
-
-
-

@@ -9,8 +9,7 @@ description: ""
 
 The school’s LLP programme on Community and Student Leadership sees an integration of student leadership in the community – beginning with self and family, through our school’s key programmes.
 
-<img src="/images/lflp1.png" 
-     style="width:80%">
+![LLP Model](/images/Signature%20Programmes/LLP/LLP%20Model.png)
 
 #### LLP Outcomes:
 
@@ -32,12 +31,10 @@ Students learn to take self-responsibility and to serve others – especially th
 Students learn to look out for opportunities to serve the school community by providing suggestions or helping out in the school improvement projects.
 
 **Appreciation Projects for Non-teaching (Admin) and Cleaning Staff.**
-<img src="/images/lflp3.png" 
-     style="width:70%" >
+![LLP Appreciation of cleaning staff](/images/Signature%20Programmes/LLP/LLP%20Appreciation%20collage.png)
 		 
 **Students' Suggestions**
-<img src="/images/lflp4.png" 
-     style="width:70%">
+![Students' Suggestions](/images/Signature%20Programmes/LLP/lflp4.png)
 
 
 ##### **Primary 5 and 6 - External Community**
