@@ -19,7 +19,14 @@ A school culture of care and excellence is what drives us to keep reinventing ou
 
 We would like to invite you to partner us in the exciting growing years of your child’s schooling life. Let us work alongside you to develop the future leaders of our nation.
 
-Mr Koe Ee Tiong
-Principal
+Mr Koe Ee Tiong<br>
+Principal<br>
 4 Jan 2023
+
+
+
+
+
+
+
 
