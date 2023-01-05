@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message
 
-<img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  Dear Parents/Guardians,
+<img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  
 
 ###### Principal’s Message 2023
 
@@ -20,4 +20,6 @@ A school culture of care and excellence is what drives us to keep reinventing ou
 We would like to invite you to partner us in the exciting growing years of your child’s schooling life. Let us work alongside you to develop the future leaders of our nation.
 
 Mr Koe Ee Tiong
-Principal4 Jan 2023
+Principal
+4 Jan 2023
+
