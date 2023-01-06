@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  
 
-###### Principal’s Message 2023
+
 
 Dear Parents/Guardians,
 
