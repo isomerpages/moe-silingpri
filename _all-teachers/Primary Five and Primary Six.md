@@ -163,7 +163,7 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20KOH%20CHIN%20SHENG.jpg" style="width:200px">
 					MR KOH CHIN SHENG<br>
 					<b>HOD Student Management</b><br>
 					<a href="mailto:koh_chin_sheng@moe.edu.sg" target="">koh_chin_sheng<br>@moe.edu.sg</a>
@@ -171,7 +171,7 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MDM%20NORMAH%20MOHAMED%20NOR.jpg" style="width:200px">
 					MDM NORMAH<br>MOHAMED NOR<br>
 					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
 				</div>
@@ -221,7 +221,7 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MDM%20EMILIA%20RAZALI.jpg">
 					MDM EMILIA RAZALI<br>
 					<b>LH English Language</b><br>
 					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali@moe.edu.sg</a>
@@ -271,7 +271,7 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20CHRIS%20NG%20HAN%20PO.jpg" style="width:200px">
 					MR CHRIS NG HAN PO<br>
 					<b>HOD ICT</b><br>
 					<a href="mailto:ng_han_po@moe.edu.sg" target="">ng_han_po<br>@moe.edu.sg</a>
