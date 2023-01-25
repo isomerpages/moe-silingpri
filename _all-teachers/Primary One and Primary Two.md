@@ -37,7 +37,7 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MS%20ANTHEA%20CHUA.jpg" style="width:200px">
 					MS ANTHEA CHUA<br>
 					<a href="mailto:chua_lynn_anthea@moe.edu.sg" target="">chua_lynn_anthea<br>@moe.edu.sg</a>
 				</div>

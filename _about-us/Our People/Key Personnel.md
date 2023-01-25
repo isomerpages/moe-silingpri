@@ -119,7 +119,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20CHRIS%20NG%20HAN%20PO.jpg" style="width:200px">
 					MR CHRIS NG HAN PO<br>
 					<b>HOD ICT</b><br>
 					<a href="mailto:ng_han_po@moe.edu.sg" target="">ng_han_po<br>@moe.edu.sg</a>
@@ -127,7 +127,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-								<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+								<img src="/images/About%20Us/Our%20People/MR%20KOH%20CHIN%20SHENG.jpg" style="width:200px">
 					MR KOH CHIN SHENG<br>
 					<b>HOD Student Management</b><br>
 					<a href="mailto:koh_chin_sheng@moe.edu.sg" target="">koh_chin_sheng<br>@moe.edu.sg</a>
@@ -158,7 +158,7 @@ third_nav_title: Our People
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MDM%20EMILIA%20RAZALI.jpg" style="width:200px">
 					MDM EMILIA RAZALI<br>
 					<b>LH English Language</b><br>
 					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali<br>@moe.edu.sg</a>

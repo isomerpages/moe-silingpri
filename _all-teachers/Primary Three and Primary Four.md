@@ -174,7 +174,7 @@ description: ""
 		<tr>
 			<td style="width: 200px;">
 				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MR%20DENNIS%20TUAN.jpg" style="width:200px">
 					MR DENNIS TUAN<br>
 					<a href="mailto:dennis_tuan_yun_leng@moe.edu.sg" target="">dennis_tuan_yun_leng<br>@moe.edu.sg</a>
 				</div>

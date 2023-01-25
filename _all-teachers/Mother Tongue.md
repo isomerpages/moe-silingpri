@@ -144,7 +144,7 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MDM%20HUSNITA%20OMAR.jpg" style="width:200px">
 					MDM HUSNITA<br>OMAR<br>
 					<a href="mailto:husnita_omar@moe.edu.sg" target="">husnita_omar<br>@moe.edu.sg</a>
 				</div>
@@ -172,7 +172,7 @@ description: ""
 			</td>
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px">
+					<img src="/images/About%20Us/Our%20People/MDM%20NORMAH%20MOHAMED%20NOR.jpg" style="width:200px">
 					MDM NORMAH<br>MD NOOR<br>
 					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
 				</div>

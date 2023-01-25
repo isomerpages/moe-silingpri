@@ -40,7 +40,7 @@ third_nav_title: Our People
 			<td style="width: 200px;">
 				<div style="text-align: center; width: 200px;">
 					<img src="/images/About Us/Our People/MR ALIFF DAIYAN-200px.jpg" style="width:200px">
-					MR ALIFF DAIYAN<br>
+					MR ALIFF ZAIYAN<br>
 					<b>Desktop Engineer</b>
 				</div>
 			</td>

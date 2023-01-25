@@ -3,9 +3,6 @@ title: Homework Policy
 permalink: /useful-information/homework-policy/
 description: ""
 ---
-
-
-
 ### Homework Policy
 
 **Rationale**  
