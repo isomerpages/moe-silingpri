@@ -4,6 +4,7 @@ permalink: /about-us/Our-People/all-teachers/Primary-one-and-primary-two/
 description: ""
 ---
 ### **Primary One and Primary Two**
+
 <table border="1" cellpadding="1" cellspacing="1" style="width:624px">
 	<thead>
 		<tr>
