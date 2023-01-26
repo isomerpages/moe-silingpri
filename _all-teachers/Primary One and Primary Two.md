@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Primary One and Primary Two**
 
-<table border="1" cellpadding="1" cellspacing="1" style="width:624px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 	<thead>
 		<tr>
 			<th scope="col" style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Class</span></span></th>
