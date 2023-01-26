@@ -159,7 +159,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px">sethu_rajagopal@moe.edu.sg</td>
+			<td style="width:249px"><span style="font-size:12px">sethu_rajagopal@moe.edu.sg</span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
