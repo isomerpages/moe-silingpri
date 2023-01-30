@@ -13,7 +13,7 @@ third_nav_title: Chinese
 <img src="/images/cny.gif" 
      style="width:80%">
 		 
-**Lunar New Year 2023 Photobooth photos can be viewed and downloaded [here](https://tinyurl.com/SLPS-CNY-PB-2023):**
+**Lunar New Year 2023 Photobooth photos can be viewed and downloaded [here](https://tinyurl.com/SLPS-CNY-PB-2023)**
 		 
 **母语双周**
 
