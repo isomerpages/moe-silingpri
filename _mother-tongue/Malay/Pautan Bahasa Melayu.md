@@ -17,8 +17,3 @@ third_nav_title: Malay
 
 •	Video Stimulus untuk Sekolah Rendah Terbitan MLCS
 ([https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/Video-Stimulus-for-Primary-Schools](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/Video-Stimulus-for-Primary-Schools))
-
-
-
-
-
