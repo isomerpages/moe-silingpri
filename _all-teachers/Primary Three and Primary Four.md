@@ -39,8 +39,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">yaap_yong_siew_ruth<br />
-			@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">yaap_yong_siew_ruth@moe.edu.sg</span></td>
 			<td style="width:251px"><span style="font-size:12px">saiful_sapari@moe.edu.sg</span></td>
 		</tr>
 		<tr>
@@ -141,9 +140,7 @@ description: ""
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:106px">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">indra_bahadur_gu@moe.edu.sg</span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
@@ -154,8 +151,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Respect</span></span></td>
-			<td style="width:249px"><span style="font-size:12px">MDM NURASHIKIN<br />
-			M SHARIFF</span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM NURASHIKIN&nbsp;M SHARIFF</span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM XU YONGHUA<br />
 			<strong>HOD Mother Tongue</strong></span></td>
 		</tr>
@@ -166,8 +162,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MR JOHAN BIN<br />
-			RIDWAN LOO</span></td>
+			<td style="width:249px"><span style="font-size:12px">MR JOHAN BIN&nbsp;RIDWAN LOO</span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
