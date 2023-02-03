@@ -161,8 +161,8 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><a href="mailto:nurashikin_mohamed_sharif@moe.edu.sg" target="">nurashikin_mohamed_sharif@moe.edu.sg</a></span></td>
-			<td style="width:251px"><span style="font-size:12px"><a href="mailto:xu_yonghua@moe.edu.sg" target="">xu_yonghua@moe.edu.sg</a></span></td>
+			<td style="width:249px"><span style="font-size:12px">nurashikin_mohamed_sharif@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">xu_yonghua@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -172,7 +172,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><a href="mailto:johan_ridwan_loo@moe.edu.sg" target="">johan_ridwan_loo@moe.edu.sg</a></span></td>
+			<td style="width:249px"><span style="font-size:12px">johan_ridwan_loo@moe.edu.sg</span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 	</tbody>
