@@ -5,295 +5,217 @@ description: ""
 ---
 ### **Primary Five and Primary Six**
 
- <table>
-	<tbody>
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+	<thead>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MR ABDUL JALIL B YUNUS-200px.jpeg" style="width:200px">
-					MR ABDUL JALIL B YUNUS<br>
-					<b>Year Head P5 & P6</b><br>
-					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM RITA ASHIKYN-200px.jpeg" style="width:200px">
-					MDM RITA ASHIKYN<br>
-					<b>Assistant Year Head P5 & P6</b><br>
-					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<th scope="col" style="text-align:left; width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Class</span></span></th>
+			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Form Teacher 1</span></span></th>
+			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Form Teacher 2</span></span></th>
 		</tr>
-		</tbody>
-	</table>
-
-<br>
-<div style="text-align: center;">
-	<h4>Primary 5</h4>
-	<h5>5 Solidarity</h5>
-	
-<table>
+	</thead>
 	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM NORASHIKIN MOHD SAID-200px.jpeg" style="width:200px">
-					MDM NORASHIKIN MOHD SAID<br>
-					<b>LH Mathematics</b><br>
-					<a href="mailto:norashikin_mohamed_said@moe.edu.sg" target="">norashikin_mohamed_said@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS ROSAMUND CHONG-200px.jpeg" style="width:200px">
-					MISS ROSAMUND CHONG<br>
-					<a href="mailto:chong_wen_shan_rosamund@moe.edu.sg" target="">chong_wen_shan_rosamund<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Solidarity</span></span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM NORASHIKIN MOHD SAID<br />
+			<strong>LH Mathematics</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS ROSAMUND CHONG</span></td>
 		</tr>
-	</tbody>
-</table>
-
-<h5>5 Perseverance</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MRS CATHRINE LAM-200px.jpeg" style="width:200px">
-					MRS CATHRINE LAM<br>
-					<b>HOD CCE</b><br>
-					<a href="mailto:lam_chuan_kiet@moe.edu.sg" target="">lam_chuan_kiet@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS YU SHEAU HUEY-200px.jpeg" style="width:200px">
-					MISS YU SHEAU HUEY<br>
-					<a href="mailto:yu_sheau_huey@moe.edu.sg" target="">yu_sheau_huey<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">norashikin_mohamed_said@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">chong_wen_shan_rosamund@moe.edu.sg</span></td>
 		</tr>
-	</tbody>
-</table>
-
-<h5>5 Innovation</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM TERRENZ HUANG-200px.jpeg" style="width:200px">
-					MDM TERRENZ HUANG<br>
-					<a href="mailto:huang_yihui_terrenz@moe.edu.sg" target="">huang_yihui_terrenz<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS CECILIA ONG-200px.jpeg" style="width:200px">
-					MISS CECILIA ONG<br>
-					<a href="mailto:ong_soo_hoon_cecilia@moe.edu.sg" target="">ong_soo_hoon_cecilia<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
 		</tr>
-	</tbody>
-</table>
-
-<h5>5 Respect</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MR LEONARD TENG-200px.jpeg" style="width:200px">
-					MR LEONARD TENG<br>
-					<b>LT Science</b><br>
-					<a href="mailto:teng_hang_chuan@moe.edu.sg" target="">teng_hang_chuan@moe.edu.sg</a>
-				</div>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Perseverance</span></span></p>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS TEO SHI HUI-200px.jpeg" style="width:200px">
-					MISS TEO SHI HUI<br>
-					<a href="mailto:teo_shi_hui@moe.edu.sg" target="">teo_shi_hui<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:249px"><span style="font-size:12px">MRS CATHRINE LAM<br />
+			<strong>HOD CCE</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS YU SHEAU HUEY</span></td>
 		</tr>
-	</tbody>
-</table>
-	
-<h5>5 Integrity</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MR AMIR SAMUEL-200px.jpeg" style="width:200px">
-					MR AMIR SAMUEL<br>
-					<a href="mailto:muhammad_amir_samuel@moe.edu.sg" target="">muhammad_amir_samuel<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM HAZLINE BUANG-200px.jpeg" style="width:200px">
-					MDM HAZLINE BUANG<br>
-					<a href="mailto:hazline_buang@moe.edu.sg" target="">hazline_buang<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MRS JAYARAMAN CHITRA-200px.jpeg" style="width:200px">
-					MRS JAYARAMAN CHITRA<br>
-					<a href="mailto:jayaraman_chitra@moe.edu.sg" target="">jayaraman_chitra<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">lam_chuan_kiet@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">yu_sheau_huey@moe.edu.sg</span></td>
 		</tr>
-	</tbody>
-</table>
-	
-<h5>5 Teamwork</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20KOH%20CHIN%20SHENG.jpg" style="width:200px">
-					MR KOH CHIN SHENG<br>
-					<b>HOD Student Management</b><br>
-					<a href="mailto:koh_chin_sheng@moe.edu.sg" target="">koh_chin_sheng<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20NORMAH%20MOHAMED%20NOR.jpg" style="width:200px">
-					MDM NORMAH<br>MOHAMED NOR<br>
-					<a href="mailto:normah_mohamed_nor@moe.edu.sg" target="">normah_mohamed_nor<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MDM RITA ASHIKYN-200px.jpeg" style="width:200px">
-					MDM RITA ASHIKYN<br>
-					<b>Assistant Year Head P5 & P6</b><br>
-					<a href="mailto:rita_ashikyn_marhajas@moe.edu.sg" target="">rita_ashikyn_marhajas<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
 		</tr>
-	</tbody>
-</table>
-
-
-<h4>Primary 6</h4>
-<h5>6 Solidarity</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM NALINI JOHN-200px.jpeg" style="width:200px">
-					MDM NALINI JOHN<br>
-					<b>ST English Language</b><br>
-					<a href="mailto:nalini_john@moe.edu.sg" target="">nalini_john@moe.edu.sg</a>
-				</div>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Innovation</span></span></p>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS AU JIE SHI-200px.jpeg" style="width:200px">
-					MISS AU JIE SHI<br>
-					<a href="mailto:aw_jie_shi@moe.edu.sg" target="">aw_jie_shi<br>@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:249px"><span style="font-size:12px">MDM TERRENZ HUANG</span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS CECILIA ONG</span></td>
 		</tr>
-	</tbody>
-</table>
-	
-<h5>6 Perseverance</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MDM%20EMILIA%20RAZALI.jpg">
-					MDM EMILIA RAZALI<br>
-					<b>LH English Language</b><br>
-					<a href="mailto:emilia_razali@moe.edu.sg" target="">emilia_razali@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MDM LIN YUPING-200px.jpeg" style="width:200px">
-					MDM LIN YUPING<br>
-					<b>LSP Coordinator</b><br>
-					<a href="mailto:lin_yuping@moe.edu.sg" target="">lin_yuping@moe.edu.sg</a>
-				</div>
-			</td>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">huang_yihui_terrenz@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">ong_soo_hoon_cecilia@moe.edu.sg</span></td>
 		</tr>
-	</tbody>
-</table>
-	
-<h5>6 Innovation</h5>
-	
-<table>
-	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MRS THAM-CHIN MEI LING-200px.jpeg" style="width:200px">
-					MRS THAM-CHIN MEI LING<br>
-					<b>ST Science</b><br>
-					<a href="mailto:tham-chin_mei_ling@moe.edu.sg" target="">tham-chin_mei_ling<br>@moe.edu.sg</a>
-				</div>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Respect</span></span></p>
 			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MR ASHRI SHUKRI-200px.jpeg" style="width:200px">
-					MR ASHRI SHUKRI<br>
-					<b>HOD Science</b><br>
-					<a href="mailto:ashri_b_shukri@moe.edu.sg" target="">ashri_b_shukri<br>@moe.edu.sg</a>
-				</div>
+			<td style="width:249px"><span style="font-size:12px">MR LEONARD TENG<br />
+			<strong>LT Science</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS TEO SHI HUI</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">teng_hang_chuan@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">teo_shi_hui@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Integrity</span></span></p>
 			</td>
+			<td style="width:249px"><span style="font-size:12px">MR AMIR SAMUEL</span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM HAZLINE BUANG</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">muhammad_amir_samuel@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">hazline_buang@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">MRS JAYARAMAN CHITRA</span></td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">jayaraman_chitra@moe.edu.sg</span></td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Teamwork</span></span></p>
+			</td>
+			<td style="width:249px"><span style="font-size:12px">MR KOH CHIN SHENG<br />
+			<strong>HOD Student Management</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM NORMAH&nbsp;MOHAMED NOR</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">koh_chin_sheng@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">normah_mohamed_nor@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">MDM RITA ASHIKYN<br />
+			<strong>Assistant Year Head P5 &amp; P6</strong></span></td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">rita_ashikyn_marhajas@moe.edu.sg</span></td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">6 Solidarity</span></span></p>
+			</td>
+			<td style="width:249px"><span style="font-size:12px">MDM NALINI JOHN<br />
+			<strong>ST English Language</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS AU JIE SHI</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">nalini_john@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">aw_jie_shi@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px"><span style="font-size:12px">6 Perserverance</span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM EMILIA RAZALI<br />
+			<strong>LH English Language</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br />
+			<strong>LSP Coordinator</strong></span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">emilia_razali@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">lin_yuping@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial, Helvetica, sans-serif">6 Innovation</span></span></td>
+			<td style="width:249px"><span style="font-size:12px">MRS THAM-CHIN MEI LING<br />
+			<strong>ST Science</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MR ASHRI SHUKRI<br />
+			<strong>HOD Science</strong></span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">tham-chin_mei_ling@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">ashri_b_shukri@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px"><span style="font-size:12px">6 Respect</span></td>
+			<td style="width:249px"><span style="font-size:12px">MR CHRIS NG HAN PO<br />
+			<strong>HOD ICT</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS CHER WEI SHAN</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">ng_han_po@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">cher_wei_shan@moe.edu.sg</span></td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">MR ABDUL JALIL B YUNUS<br />
+			<strong>Year Head P5 &amp; P6</strong></span></td>
+			<td style="width:251px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">abdul_jalil_b_yunus@moe.edu.sg</span></td>
+			<td style="width:251px">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
-<h5>6 Respect</h5>
-	
-<table>
-	<tbody>
-		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About%20Us/Our%20People/MR%20CHRIS%20NG%20HAN%20PO.jpg" style="width:200px">
-					MR CHRIS NG HAN PO<br>
-					<b>HOD ICT</b><br>
-					<a href="mailto:ng_han_po@moe.edu.sg" target="">ng_han_po<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MISS CHER WEI SHAN-200px.jpeg" style="width:200px">
-					MISS CHER<br>WEI SHAN<br>
-					<a href="mailto:cher_wei_shan@moe.edu.sg" target="">cher_wei_shan<br>@moe.edu.sg</a>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MR ABDUL JALIL B YUNUS-200px.jpeg" style="width:200px">
-					MR ABDUL JALIL B YUNUS<br>
-					<b>Year Head P5 & P6</b><br>
-					<a href="mailto:abdul_jalil_b_yunus@moe.edu.sg" target="">abdul_jalil_b_yunus<br>@moe.edu.sg</a>
-				</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-	
-</div>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
