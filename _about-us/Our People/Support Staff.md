@@ -6,44 +6,27 @@ third_nav_title: Our People
 ---
 ### **Support Staff**
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="width:694px">
+	<thead>
+	</thead>
 	<tbody>
 		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/blank-200px.png" style="width:200px"><br>
-					MDM SHIRLEY CHEAN<br>
-					<b>Library Assistant</b>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MS CAROLYN ANG CHUI HOON-200px.jpg" style="width:200px">
-					MS CAROLYN ANG<br>CHUI HOON<br>
-					<b>ICT Trainer</b>
-				</div>
-			</td>
+			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM SHIRLEY CHEAN<br />
+			<strong>Library Assistant</strong></span></span></td>
+			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Mr LEE WEI PING<br />
+			<strong>ICT Trainer</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="width:218px">&nbsp;</td>
+			<td style="width:230px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS MASSWERA WAHYUNE BINTE MISNE<br />
+			<strong>Desktop Engineer</strong></span></span></td>
+			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR ALIFF ZAIYAN<br />
+			<strong>Desktop Engineer</strong></span></span></td>
 		</tr>
 	</tbody>
 </table>
 
-<table>
-	<tbody>
-		<tr>
-			<td style="width: 200px;">
-				<div style="text-align: center;">
-					<img src="/images/About Us/Our People/MS MASSWERA WAHYUNE BINTE MISNE-200px.jpeg" style="width:200px">
-					MS MASSWERA WAHYUNE BINTE MISNE<br>
-					<b>Desktop Engineer</b>
-				</div>
-			</td>
-			<td style="width: 200px;">
-				<div style="text-align: center; width: 200px;">
-					<img src="/images/About Us/Our People/MR ALIFF DAIYAN-200px.jpg" style="width:200px">
-					MR ALIFF ZAIYAN<br>
-					<b>Desktop Engineer</b>
-				</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p>&nbsp;</p>
