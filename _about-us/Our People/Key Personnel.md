@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ### **Key Personnel**
 
- <table border="0" cellpadding="0" cellspacing="0" style="width:509px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:509px">
 	<thead>
 		<tr>
-			<th scope="col" style="text-align: left; width: 274px;"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">NAME</span></span></th>
-			<th scope="col" style="text-align: left; width: 226px;"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">DESIGNATION</span></span></th>
+			<th scope="col" style="text-align:left; width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">NAME</span></span></th>
+			<th scope="col" style="text-align:left; width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">DESIGNATION</span></span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -180,10 +180,11 @@ third_nav_title: Our People
 			marie_teo_kah_zhi@moe.edu.sg</span></span></td>
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SH Student Leadership</strong></span></span></td>
 		</tr>
+		<tr>
+			<td style="width:274px">&nbsp;</td>
+			<td style="width:226px">&nbsp;</td>
+		</tr>
 	</tbody>
-	
-	<p>&nbsp;</p>
-	
-	
-	
 </table>
+
+	
