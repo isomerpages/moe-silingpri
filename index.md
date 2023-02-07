@@ -40,4 +40,11 @@ sections:
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
   - resources:
       button: Parent Resource
+  - infopic:
+      title: Facebook
+      subtitle: Facebook
+      description: Updates
+      button: Si Ling Facebook Page
+      url: https://www.facebook.com/silingprimaryschool/
+      alt: Image alt text
 ---
