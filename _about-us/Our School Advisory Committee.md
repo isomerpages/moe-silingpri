@@ -19,7 +19,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:264px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR LEE SOO CHYE-HON</span></span></td>
-			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
+			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Chairman</strong></span></span></td>
 		</tr>
 		<tr>
 			<td style="width:264px">&nbsp;</td>
