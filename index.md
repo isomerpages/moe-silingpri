@@ -45,5 +45,5 @@ sections:
       description: Updates
       button: Si Ling Facebook Page
       url: https://www.facebook.com/silingprimaryschool/
-      alt: Image alt text
+      alt: Facebook
 ---
