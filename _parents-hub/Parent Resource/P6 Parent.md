@@ -19,7 +19,7 @@ third_nav_title: Parent Resource
 			<td style="width:209px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:264px"><span style="font-size:12px">[1. P6 Parent Briefing on AL System](/files/2023 P6/P6 Parent Briefing on AL System.pdf)</span></td>
+			<td style="width:264px"><a href="https://www.silingpri.moe.edu.sg/files/Parent Hub/2023 P6/P6 Parent Briefing on AL System.pdf"><span style="font-size:12px">1, P6 Parent Briefing on AL System</span></a></td>
 			<td style="width:209px"><span style="font-size:12px">3 Feb 2023</span></td>
 		</tr>
 		<tr>
@@ -104,7 +104,5 @@ third_nav_title: Parent Resource
 		</tr>
 	</tbody>
 </table>
-
-
 
 <p>&nbsp;</p>
