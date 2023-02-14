@@ -10,7 +10,7 @@ third_nav_title: Parent Resource
 | **Topic** | **Date**
 | -------- | -------- 
 | [1. P6 Parent Briefing on AL System](/files/Parent_Hub/2023_P6/P6%20Parent%20Briefing%20on%20AL%20System.pdf)     | 3 Feb 2023
-| [2. EL P6 Parent Briefing 2023]([](/files/Parent_Hub/2023_P6/EL%20P6%20Parent%20Briefing%202023.pdf))     | 3 Feb 2023
+| [2. EL P6 Parent Briefing 2023](/files/Parent_Hub/2023_P6/EL%20P6%20Parent%20Briefing%202023.pdf)     | 3 Feb 2023
 | [3. FEL P6 Parent Briefing 2023](/files/Parent_Hub/2023_P6/FEL%20P6%20Parent%20Briefing%202023.pdf)     | 3 Feb 2023
 | [4. MA P6 Parent Briefing 2023](/files/Parent_Hub/2023_P6/MA%20P6%20Parent%20Briefing%202023.pdf)     | 3 Feb 2023
 | [5. FMA P6 Parent Briefing 2023](/files/Parent_Hub/2023_P6/FMA%20P6%20Parent%20Briefing%202023.pdf)     | 3 Feb 2023
