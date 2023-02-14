@@ -110,7 +110,7 @@ description: ""
 			</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM HAFIZAH BTE MAHMUD<br />
 			<strong>ST Learning Needs</strong></span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR JEFFERY LOW</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR JEFFREY LOW</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
