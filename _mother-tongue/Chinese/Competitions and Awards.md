@@ -4,8 +4,6 @@ permalink: /mother-tongue/Chinese/competitions-and-awards/
 description: ""
 third_nav_title: Chinese
 ---
-Under construction
-
 Competitions and Awards
 校外参赛活动
 
