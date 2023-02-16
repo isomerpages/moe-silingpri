@@ -34,4 +34,3 @@ Competitions and Awards
 来自 5 Solidarity 的毛瑞涵同学在“文章接龙”和“看图写作”中激发创意,展现了自己具有清晰的思维和创造力,在众多参赛中脱颖而出,获 得了国内和国际银奖!
 
 比赛成绩链接:[https://iclc.swiiit.com/results](https://iclc.swiiit.com/results)
-
