@@ -40,14 +40,13 @@ sections:
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
   - infopic:
       title: Facebook
-      subtitle: Facebook
       description: Updates
       button: Si Ling Facebook Page
       url: https://www.facebook.com/silingprimaryschool/
       alt: Facebook
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      image: /images/About Us/VMV.png
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
