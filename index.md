@@ -43,10 +43,4 @@ sections:
       description: Updates
       button: Si Ling Facebook Page
       url: https://www.facebook.com/silingprimaryschool/
-      alt: Facebook
-      image: /images/About Us/VMV.png
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
