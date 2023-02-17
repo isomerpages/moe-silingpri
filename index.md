@@ -38,7 +38,6 @@ sections:
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
-  - resources: {}
   - infopic:
       title: Facebook
       subtitle: Facebook
@@ -46,4 +45,9 @@ sections:
       button: Si Ling Facebook Page
       url: https://www.facebook.com/silingprimaryschool/
       alt: Facebook
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
