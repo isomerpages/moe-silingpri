@@ -46,9 +46,9 @@ sections:
   - infobar:
       title: Facebook
       description: '<iframe
-        src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"
+        src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=435"
         scrolling="yes" style="border:none; overflow:hidden; width:600px;
-        height:430px; background: white; float:left; " allowtransparency="true"
+        height:430px; background: white; float:left;" allowtransparency="true"
         frameborder="0"></iframe>'
       button: Facebook
       url: https://www.facebook.com/silingprimaryschool/
