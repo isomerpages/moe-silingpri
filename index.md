@@ -38,9 +38,14 @@ sections:
       alt: Parents Gateway App info
       url: /parents-hub/Parents-Gateway-App/
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
-  - infopic:
+  - infobar:
       title: Facebook
-      description: Updates
-      button: Si Ling Facebook Page
+      description: <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2F&tabs=timeline&width=1000&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+        width="1000" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
+      button: Facebook
       url: https://www.facebook.com/silingprimaryschool/
 ---
