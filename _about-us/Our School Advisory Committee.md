@@ -5,7 +5,7 @@ description: ""
 ---
 ### Our School Advisory Committee
 
-<table border="0" cellpadding="0" cellspacing="0" style="width:482px">
+<table style="width:482px" cellspacing="0" cellpadding="0" border="0">
 	<thead>
 	</thead>
 	<tbody>
@@ -42,14 +42,6 @@ description: ""
 			<td style="width:209px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:264px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM TEO SOCK LENG</span></span></td>
-			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
-		</tr>
-		<tr>
-			<td style="width:264px">&nbsp;</td>
-			<td style="width:209px">&nbsp;</td>
-		</tr>
-		<tr>
 			<td style="width:264px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS PRISCILLIA YEONG</span></span></td>
 			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
 		</tr>
@@ -58,7 +50,7 @@ description: ""
 			<td style="width:209px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:264px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR SEAH THIAN PAU</span></span></td>
+			<td style="width:264px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS JACINTHA THANNIMALAI</span></span></td>
 			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
 		</tr>
 		<tr>
@@ -66,7 +58,15 @@ description: ""
 			<td style="width:209px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:264px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM CHIN LIN DA</span></span></td>
+			<td style="width:264px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR TAN CHI HOONG JOEL</span></span></td>
+			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="width:264px">&nbsp;</td>
+			<td style="width:209px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:264px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR IMRAN AHMAD</span></span></td>
 			<td style="width:209px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Member</strong></span></span></td>
 		</tr>
 	</tbody>
