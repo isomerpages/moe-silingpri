@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - FLY Programme.md
       - GRIT @ SLPS.md
       - English Language Monthly Odyssey (ELMO).md
       - Learning for Life Programme (LLP).md
@@ -13,4 +12,5 @@ collections:
       - ALP (Environmental Science)/3H Approach.md
       - ALP (Environmental Science)/ESP Activities.md
       - ACE Programme.md
+      - FLY Programme.md
       - Lead Our Lives (LOL) with Purpose.md
