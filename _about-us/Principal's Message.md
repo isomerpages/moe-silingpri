@@ -4,12 +4,10 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 ### Principal's Message
+<img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:270px;height:270px;margin-right:15px;" align="center">  
+<br>
 
-<img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  
-
-
-
-Dear Parents/Guardians,
+**Dear Parents/Guardians**,
 
 Si Ling Primary School is a school of rich heritage. From our humble beginnings as a school at the junction of Admiralty Road and Marsiling Lane, on the site of a rubber plantation, we have evolved and developed through the years to be a vibrant learning community.
 
