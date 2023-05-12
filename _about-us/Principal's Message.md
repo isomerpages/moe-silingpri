@@ -4,8 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 ### Principal's Message
-
-<img src="/images/About%20Us/slpsprincipal.png" style="width:180px;height:270px;margin-right:15px;" align = "left">  
+<img src="/images/About%20Us/slpsMrKoe.jpeg" style="width:180px;height:270px;margin-right:15px;" align="left">  
 
 
 
