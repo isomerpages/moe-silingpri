@@ -15,7 +15,9 @@ third_nav_title: Our People
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:274px">![](/images/About%20Us/slpsmrkoe.jpeg)</td>
+			<td style="width:274px">
+			<img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:150px;height:150px;margin-right:15px;" align="left">
+			</td>
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
