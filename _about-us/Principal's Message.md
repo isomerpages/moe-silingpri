@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message
 <img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:270px;height:270px;margin-right:15px;" align="center">  
-
+<br>
 
 **Dear Parents/Guardians**,
 
