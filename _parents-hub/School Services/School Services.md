@@ -2,8 +2,8 @@
 title: School Services
 permalink: /useful-information/school-services/
 description: ""
+third_nav_title: School Services
 ---
-
 ### School Services
 
 #### School Bus
@@ -29,4 +29,3 @@ description: ""
 #### Dental Clinic
 
 For dental service, please contact school dental services at 64353782
-

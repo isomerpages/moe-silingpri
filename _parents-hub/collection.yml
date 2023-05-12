@@ -2,6 +2,10 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Services/School Bus Advertisement.md
+      - School Services/School Canteen Advertisement.md
+      - School Services/School Services.md
+      - School Services/.keep
       - Sexuality Education.md
       - Homework Policy.md
       - Parent Resource/.keep
@@ -23,7 +27,6 @@ collections:
       - Parents Gateway App/Onetime onboarding (For Parents).md
       - Parents Gateway App/FAQs.md
       - Calendar.md
-      - School Services.md
       - School Hours.md
       - Student Care Centre.md
       - Financial Assistance Scheme.md
