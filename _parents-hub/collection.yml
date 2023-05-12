@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Advertisement/School Services.md
       - School Advertisement/.keep
       - Sexuality Education.md
       - Homework Policy.md
