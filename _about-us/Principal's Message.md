@@ -4,8 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 ### Principal's Message
-<img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:270px;height:270px;margin-right:15px;" align="center">  
-<br>
+ <img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:270px;height:270px;margin-right:15px;" align="left">  
 
 **Dear Parents/Guardians**,
 
