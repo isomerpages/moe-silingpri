@@ -37,7 +37,9 @@ third_nav_title: Our People
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS CHEE YEUNG WAI</strong><br>
+			<td style="width:274px"><img style="float:left; height:150px; margin-right:15px; width:150px" src="/images/About%20Us/slpsmschee.png"></td>
+		</tr>
+			<tr><td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS CHEE YEUNG WAI</strong><br>
 			chee_yeung_wai@moe.edu.sg</span></span></td>
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Vice Principal (Academic)</strong></span></span></td>
 		</tr>
