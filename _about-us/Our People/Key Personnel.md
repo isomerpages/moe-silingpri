@@ -24,8 +24,7 @@ third_nav_title: Our People
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Principal</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width:274px"><img src="/images/About%20Us/slpsmdmazian.jpeg" style="float:left; height:150px; margin-right:15px; width:150px"></td>
-			<td style="width:226px">&nbsp;</td>
+			<td style="width:274px"><img style="float:left;height:150px;margin-right:15px;width:150px" src="/images/About%20Us/slps%20mdm%20nurazian.png"></td>
 		</tr>
 		<tr>
 			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MDM NURAZIAN BAJURI</strong><br>
