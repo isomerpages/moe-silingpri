@@ -6,16 +6,16 @@ third_nav_title: Our People
 ---
 ### **Key Personnel**
 
-<table style="width:509px" cellspacing="0" cellpadding="0" border="0">
+<table border="0" cellpadding="0" cellspacing="0" style="width:509px">
 	<thead>
 		<tr>
-			<th style="text-align:left; width:274px" scope="col"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">NAME</span></span></th>
-			<th style="text-align:left; width:226px" scope="col"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">DESIGNATION</span></span></th>
+			<th scope="col" style="text-align:left; width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">NAME</span></span></th>
+			<th scope="col" style="text-align:left; width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">DESIGNATION</span></span></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:274px"><img style="float:left; height:150px; margin-right:15px; width:150px" src="/images/About%20Us/slpsmrkoe.jpeg"></td>
+			<td style="width:274px"><img src="/images/About%20Us/slpsmrkoe.jpeg" style="float:left; height:150px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -24,7 +24,7 @@ third_nav_title: Our People
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Principal</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width:274px"><img style="float:left; height:150px; margin-right:15px; width:150px" src="/images/About%20Us/slpsmdmazian.jpeg"></td>
+			<td style="width:274px"><img src="/images/About%20Us/slpsmdmazian.jpeg" style="float:left; height:150px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -37,7 +37,11 @@ third_nav_title: Our People
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS CHEE YEUNG WAI</strong><br>
+			<td style="width:274px"><img src="/images/About%20Us/slpsmschee.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
+			<td style="width:226px">&nbsp;
+		  </td></tr>
+			<tr>
+				<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS CHEE YEUNG WAI</strong><br>
 			chee_yeung_wai@moe.edu.sg</span></span></td>
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Vice Principal (Academic)</strong></span></span></td>
 		</tr>
