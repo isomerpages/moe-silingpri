@@ -15,7 +15,7 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1. Solidarity</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Solidarity</span></span></td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS ANITA D/O SELVAM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ANTHEA CHUA</span></span></td>
 		</tr>
