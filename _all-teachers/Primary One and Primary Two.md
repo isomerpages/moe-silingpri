@@ -15,7 +15,7 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Solidarity</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1. Solidarity</span></span></td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS ANITA D/O SELVAM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ANTHEA CHUA</span></span></td>
 		</tr>
@@ -36,7 +36,7 @@ description: ""
 			<td style="width:249px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM KATIJAH BEEVI</span></span></p>
 			</td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JOSEPHINE LOH<br />
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JOSEPHINE LOH<br>
 			<strong>LSP Coordinator</strong></span></span></td>
 		</tr>
 		<tr>
@@ -54,7 +54,7 @@ description: ""
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Innovation</span></span></p>
 			</td>
 			<td style="width:249px">
-			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br />
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br>
 			<strong>SH Student Leadership</strong></span></span></p>
 			</td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FADLINAH SABAN</span></span></td>
@@ -91,7 +91,7 @@ description: ""
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Solidarity</span></span></p>
 			</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MRS MAY NEO</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FARADILAH<br />
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FARADILAH<br>
 			BTE MOHD YAAKOP</span></span></td>
 		</tr>
 		<tr>
@@ -108,7 +108,7 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM HAFIZAH BTE MAHMUD<br />
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM HAFIZAH BTE MAHMUD<br>
 			<strong>ST Learning Needs</strong></span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR JEFFREY LOW</span></span></td>
 		</tr>
@@ -153,7 +153,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR SETHU RAJAGOPAL<br />
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR SETHU RAJAGOPAL<br>
 			<strong>Year Head P1 &amp; P2</strong></span></span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
