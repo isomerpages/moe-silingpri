@@ -5,7 +5,7 @@ description: ""
 ---
 ### Student Care Centre
 
-<img src="/images/scc1.png" style="width:80%">
+<img src="" style="width:80%">
 		 
 <img src="/images/scc2.png" style="width:80px;height:60px;margin-right:15px;" align="left"> 
 
