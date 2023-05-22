@@ -5,9 +5,9 @@ description: ""
 ---
 ### Student Care Centre
 
-<img src="" style="width:80%">
+<img src="/images/About%20Us/ace%20students-%20picture%20alignment%20.jpg" style="width:80%">
 		 
-<img src="/images/scc2.png" style="width:80px;height:60px;margin-right:15px;" align="left"> 
+<img src="" style="width:80px;height:60px;margin-right:15px;" align="left"> 
 
 **Student Care Centre**
 
