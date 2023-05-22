@@ -7,8 +7,6 @@ description: ""
 
 <img src="/images/About%20Us/ace%20students-%20picture%20alignment%20.jpg" style="width:80%">
 		 
-<img src="/images/About%20Us/ace@work%20logo.png" style="width:80px;height:25px;margin-right:12px;" align="left"> 
-
 **Student Care Centre**
 
 The Student Care Centre in Si Ling Primary School is run by Ace@Work Studentcare Pte Ltd. 
