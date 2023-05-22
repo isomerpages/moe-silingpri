@@ -11,12 +11,15 @@ description: ""
 
 **Student Care Centre**
 
-Ace@Work Studentcare Pte Ltd is selected to operate the Student Care Centre (SCC) in Si Ling Primary School. Ace@Work SCC provides your child with a diverse education in an environment that promotes self-discipline, character development and excellence in learning.
+The Student Care Centre in Si Ling Primary School is run by Ace@Work Studentcare Pte Ltd. 
 
-Ace@Work’s programme aims to develop the Ace Child with a strong foundation in essential values for lifelong learning. Our Character Development Programme, Enrichment Programme, Parent Engagement Activities and Outdoor Activities advocate for the development of school values, social-emotional competencies, eco-stewardship, as well as positive attitudes towards the ways of life. 
+Ace@Work SCC provides your child with a diverse education in an environment that promotes self-discipline, character development and excellence in learning.
 
-Ace @ Work SCC is supported by a team of experienced, dedicated and trained educators who seek to continuously nurture the unique potential of every child.
+Their programme aims to develop the Ace Child with a strong foundation in essential values for lifelong learning. Our Character Development Programme, Enrichment Programme, Parent Engagement Activities and Outdoor Activities advocate for the development of school values, social-emotional competencies, eco-stewardship, as well as positive attitudes towards the ways of life. 
+
+They are supported by a team of experienced, dedicated and trained educators who seek to continuously nurture the unique potential of every child.
+
+For more information, please contact 6899 8622 or email feedbackhpps@aceatwork.com.sg
 
 **Online registration form**  
-For registration and more information pertaining to the 2023 SCC at 6899 8622 
-Online registration form (Intake for year 2021) -&nbsp;[Click here](https://tinyurl.com/yybcomnb)
+(Intake for year 2023) -&nbsp;[Click here](https://form.jotform.com/222634227320446)
