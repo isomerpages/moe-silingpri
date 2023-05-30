@@ -9,6 +9,5 @@ third_nav_title: Our Alumni Our Pride
 #### Feronica Lim 
 **Current School: Raffles Girls' Schools**
 
-<img src="/images/alumni%20pictures%20(2).png" style="width:180px;height:190px;margin-right:15px;" align="left">&nbsp;"Si Ling Primary School has provided me with many opportunities for me to develop myself, such as ‘I am a Young Entrepreneur’ and Sports Day. These activities developed me holistically."
 
-
+<img src="/images/alumni%20pictures%20(3).png" style="width:200px;height:180px;margin-right:15px;" align="left">&nbsp;"Si Ling Primary School has provided me with many opportunities for me to develop myself, such as ‘I am a Young Entrepreneur’ and Sports Day. These activities developed me holistically."
