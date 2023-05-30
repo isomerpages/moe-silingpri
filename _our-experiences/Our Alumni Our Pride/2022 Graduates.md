@@ -8,7 +8,8 @@ third_nav_title: Our Alumni Our Pride
 
 #### Feronica Lim 
 **Current School: Raffles Girls' Schools**
-
+   <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BIkfP2QEhfA" height="315" width="560"></iframe> 
+	 
 <img src="/images/alumni%20pictures%20(3).png" style="width:200px;height:180px;margin-right:15px;" align="left">&nbsp;"My experience as a student here was amazing! The teachers, friends and non-teaching staff here were really kind and helpful. 
 
 I have made many friends along my journey in Si Ling Primary School. I'm still in contact with some of them through WhatsApp.
