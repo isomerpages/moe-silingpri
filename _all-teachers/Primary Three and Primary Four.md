@@ -82,7 +82,7 @@ description: ""
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">MOHAMED FAHMEE
 				B BUANG<br>
-				<strong>HOD PE / AESTHESTIC / CCA</strong></span></td>	
+				<strong>HOD PE / Aesthetics / CCA</strong></span></td>	
 			<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
