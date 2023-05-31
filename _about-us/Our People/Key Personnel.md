@@ -188,5 +188,10 @@ third_nav_title: Our People
 			<td style="width:274px">&nbsp;</td>
 			<td style="width:226px">&nbsp;</td>
 		</tr>
-	</tbody>
+		<tr>
+			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MOHAMMED FAHMEE B BUANG</strong>
+				</span></span></td><td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>HOD PE / Aesthetics / CCA </strong></span></span></td>
+				</tr>
+				<tr>
+	</tr></tbody>
 </table>
