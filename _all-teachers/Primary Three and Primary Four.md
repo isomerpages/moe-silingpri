@@ -34,7 +34,7 @@ description: ""
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MDM YAAP YONG SIEW RUTH</span></td>
-			<td style="width:251px"><span style="font-size:12px">MR SAIFUL SAPARI<br />
+			<td style="width:251px"><span style="font-size:12px">MR SAIFUL SAPARI<br>
 			<strong>SH Malay Language</strong></span></td>
 		</tr>
 		<tr>
@@ -51,9 +51,9 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MR GARY TEO TIAN SOON<br />
+			<td style="width:249px"><span style="font-size:12px">MR GARY TEO TIAN SOON<br>
 			<strong>School Staff Developer</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NOOR AISYA<br />
+			<td style="width:251px"><span style="font-size:12px">MDM NOOR AISYA<br>
 			BUANG</span></td>
 		</tr>
 		<tr>
@@ -80,6 +80,13 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">MOHAMED FAHMEE
+				B BUANG<br>
+				<strong>HOD PE / Aesthetics / CCA</strong></span></td>	
+			<td style="width:106px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
@@ -87,7 +94,7 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Solidarity</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MRS LILY TAN<br />
+			<td style="width:249px"><span style="font-size:12px">MRS LILY TAN<br>
 			<strong>ST Mathematics</strong></span></td>
 			<td style="width:251px"><span style="font-size:12px">MS JANICE TAN</span></td>
 		</tr>
@@ -105,9 +112,9 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MRS NG-HENG MUI GEK<br />
+			<td style="width:249px"><span style="font-size:12px">MRS NG-HENG MUI GEK<br>
 			<strong>HOD Mathematics</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS MUMTAJ BEHOM<br />
+			<td style="width:251px"><span style="font-size:12px">MISS MUMTAJ BEHOM<br>
 			<strong>Tamil Coordinator</strong></span></td>
 		</tr>
 		<tr>
@@ -127,7 +134,7 @@ description: ""
 			<td style="width:249px">
 			<p><span style="font-size:12px">MR DENNIS TUAN</span></p>
 			</td>
-			<td style="width:251px"><span style="font-size:12px">MR JASHANAN KASINATHAN</span></td>
+			<td style="width:251px"><span style="font-size:12px">MR JASHANAN KASINATHAN<br><strong>Year Head P3 &amp; P4</strong></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -152,7 +159,7 @@ description: ""
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Respect</span></span></td>
 			<td style="width:249px"><span style="font-size:12px">MDM NURASHIKIN&nbsp;M SHARIFF</span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM XU YONGHUA<br />
+			<td style="width:251px"><span style="font-size:12px">MDM XU YONGHUA<br>
 			<strong>HOD Mother Tongue</strong></span></td>
 		</tr>
 		<tr>

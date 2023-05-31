@@ -21,7 +21,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MDM XU YONGHUA<br />
+			<td style="width:249px"><span style="font-size:12px">MDM XU YONGHUA<br>
 			<strong>HOD Mother Tongue</strong></span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
@@ -38,9 +38,8 @@ description: ""
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><strong>CHINESE</strong></span></td>
 			<td style="width:249px"><span style="font-size:12px">MISS CECILIA ONG</span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br />
-			<strong>LSP Coordinator</strong></span></td>
-		</tr>
+			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br>
+		</span></td></tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">ong_soo_hoon_cecilia@moe.edu.sg</span></td>
@@ -79,7 +78,7 @@ description: ""
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">MISS ROSAMUND CHONG</span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS AU JIE SHI</span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS AW JIE SHI</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -93,7 +92,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><strong>MALAY</strong></span></td>
-			<td style="width:249px"><span style="font-size:12px">MR SAIFUL SAPARI<br />
+			<td style="width:249px"><span style="font-size:12px">MR SAIFUL SAPARI<br>
 			<strong>SH Malay Language</strong></span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM NURASHIKIN M SHARIFF</span></td>
 		</tr>
@@ -104,7 +103,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MDM HUSNITA<br />
+			<td style="width:249px"><span style="font-size:12px">MDM HUSNITA<br>
 			OMAR</span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM FARADILAH BTE MOHD YAAKOP</span></td>
 		</tr>
@@ -115,9 +114,9 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MDM NOOR AISYA<br />
+			<td style="width:249px"><span style="font-size:12px">MDM NOOR AISYA<br>
 			BUANG</span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NORMAH<br />
+			<td style="width:251px"><span style="font-size:12px">MDM NORMAH<br>
 			MD NOOR</span></td>
 		</tr>
 		<tr>
@@ -132,9 +131,9 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><strong>TAMIL</strong></span></td>
-			<td style="width:249px"><span style="font-size:12px">MISS MUMTAJ BEHOM<br />
+			<td style="width:249px"><span style="font-size:12px">MISS MUMTAJ BEHOM<br>
 			<strong>Tamil Coordinator</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM JAYANTHI SELVAM<br />
+			<td style="width:251px"><span style="font-size:12px">MDM JAYANTHI SELVAM<br>
 			<strong>FAJT</strong></span></td>
 		</tr>
 		<tr>
