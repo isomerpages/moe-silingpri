@@ -51,7 +51,7 @@ third_nav_title: Our People
 			<strong>Administrative Executive</strong></span></span></td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM PARUWATHY PRATHAYYA<br>
 			<strong>Operations Support Officer</strong></span></span></td>
-<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">ADIBAH BINTE ROSMAN<br>
+<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH  ROSMAN<br>
 	<strong>ICT Trainer </strong>
 			</span></span></td><td style="width:245px">&nbsp;</td>
 		</tr>
