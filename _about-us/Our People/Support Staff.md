@@ -13,7 +13,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM SHIRLEY CHEAN<br>
 			<strong>Library Assistant</strong></span></span></td>
-			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH BINTE ROSMAN<br>
+			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH ROSMAN<br>
 			<strong>ICT Trainer</strong></span></span></td>
 		</tr>
 		<tr>
@@ -21,7 +21,7 @@ third_nav_title: Our People
 			<td style="width:230px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS MASSWERA WAHYUNE BINTE MISNE<br>
+			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS MASSWERA WAHYUNE<br>
 			<strong>Desktop Engineer</strong></span></span></td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR ALIFF ZAIYAN<br>
 			<strong>Desktop Engineer</strong></span></span></td>
