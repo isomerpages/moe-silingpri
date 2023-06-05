@@ -6,7 +6,7 @@ third_nav_title: Our Alumni Our Pride
 ---
 ### 2022 Graduates 
 
-#### Feronica Lim 
+#### Feronica Iim 
 **Current School: Raffles Girls' Schools**
    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lEDPeJkxe2o" height="315" width="560"></iframe>
 	 
