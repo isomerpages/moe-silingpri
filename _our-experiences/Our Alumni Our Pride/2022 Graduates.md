@@ -39,7 +39,7 @@ SLPS has provided me with many opportunities to develop my strengths and overcom
 
 #### Kje Pyu Shin 
 **Current School: Chung Cheng High School (Yishun)**
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2KzF_-nDSVM" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/kje%20phyu%20shin%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">&nbsp;"My experience in Si Ling was truly unforgettable. I was provided with several new and exciting opportunities. I would like to thank all the teachers who have taught me since I joined the Si Ling family. 
 
@@ -47,10 +47,9 @@ They not only helped me academically but also instilled good values, such as per
 
 #### Arun Rajesh Lekhashree
 **Current School: Anderson Secondary School**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9OZmuPRQkr8" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/arun%20rajeesh%20lekhashree.jpeg" style="width:190px;height:200px; margin-right:15px;" align="left">
-	
-		 
 &nbsp;"I had a fun and enriching time in SLPS. Si Ling Primary School is my second home where I hold good memories. From good friends to good teachers, I know I can always depend on Si along if I encounter any difficulties.
 I made lasting friendships. 
 
@@ -62,6 +61,7 @@ Si Ling Primary School helped me hone my leadership skills. It helped me find th
 
 #### Lamin May Thu 
 **Current School: Nan Hua High School**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I7w5DlAqGXo" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/lamin%20alumni%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
 
