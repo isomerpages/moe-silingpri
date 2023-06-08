@@ -29,12 +29,17 @@ They would always be ready to help me clear my doubts, even after school. SLPS a
 I am sure that every student will thrive in Si Ling Primary School's friendly and nurturing environment and lastly, I would like to say that I am very grateful to  SLPS  for teaching me to strive to be the best that I can be."
 
 #### Thivyana Shre Vikashini Gunase 
-<img src="" style="width:200px;height:200px; margin-right:15px;" align="left">
+**Current School:Anderson Secondary School**
+
+<img src="/images/About%20Us/thivyana.png" style="width:200px;height:200px; margin-right:15px;" align="left">
 
 &nbsp;"There were many beautiful memories that I have made in SLPS. One of them was on Graduation Day. I took part in all the games and had so much fun.
 
 SLPS has provided me with many opportunities to develop my strengths and overcome my weaknesses. I would like to thank all my teachers, especially my Primary 6 teachers for supporting me throughout the tough year."
 
+#### Kje Pyu Shin 
+**Current School: Chung Cheng High School (Yishun)**
 
+&nbsp;"My experience in Si Ling was truly unforgettable. I was provided with several new and exciting opportunities. I would like to thank all the teachers who have taught me since I joined the Si Ling family. 
 
-
+They not only helped me academically but also instilled good values, such as perseverance and solidarity, which helped me become a better person. They have always believed in me and guided me patiently. Even though my journey in Si Ling has come to an end, I will always cherish the memories and experiences I had there."
