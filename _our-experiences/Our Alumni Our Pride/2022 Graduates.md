@@ -33,13 +33,27 @@ I am sure that every student will thrive in Si Ling Primary School's friendly an
 
 <img src="/images/About%20Us/thivyana.png" style="width:200px;height:200px; margin-right:15px;" align="left">
 
-&nbsp;"There were many beautiful memories that I have made in SLPS. One of them was on Graduation Day. I took part in all the games and had so much fun.
+&nbsp;"There were many beautiful memories that I have made in SLPS. One of them was on Graduation Day.I took part in all the games and had so much fun.
 
 SLPS has provided me with many opportunities to develop my strengths and overcome my weaknesses. I would like to thank all my teachers, especially my Primary 6 teachers for supporting me throughout the tough year."
 
 #### Kje Pyu Shin 
 **Current School: Chung Cheng High School (Yishun)**
 
-&nbsp;"My experience in Si Ling was truly unforgettable. I was provided with several new and exciting opportunities. I would like to thank all the teachers who have taught me since I joined the Si Ling family. 
+
+<img src="/images/About%20Us/kje%20phyu%20shin%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">&nbsp;"My experience in Si Ling was truly unforgettable. I was provided with several new and exciting opportunities. I would like to thank all the teachers who have taught me since I joined the Si Ling family. 
 
 They not only helped me academically but also instilled good values, such as perseverance and solidarity, which helped me become a better person. They have always believed in me and guided me patiently. Even though my journey in Si Ling has come to an end, I will always cherish the memories and experiences I had there."
+
+#### Arun Rajesh Lekhashree
+**Current School: Anderson Secondary School**
+
+&nbsp;"I had a fun and enriching time in SLPS. Si Ling Primary School is my second home where I hold good memories. From good friends to good teachers, I know I can always depend on Si along if I encounter any difficulties.
+I made lasting friendships. 
+
+In fact, my best friend is in the same school and class as me. I do have all of my friends’ contact numbers and have a group chat with them. We also meet up during the holidays.
+My proudest moment in SLPS was when I got to lead the Prefects Investiture along with the other Assistant Head Prefect, the Deputy Head Prefect and the Head Prefect. 
+
+It gave me a sense of responsibility and to be a good role model to my peers.
+Si Ling Primary School helped me hone my leadership skills. It helped me find the potential in me. Si Ling also taught me many invaluable life lessons and values which are still useful for secondary school and for my future."
+
