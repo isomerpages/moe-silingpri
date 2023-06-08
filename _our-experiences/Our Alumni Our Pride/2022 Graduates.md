@@ -63,8 +63,10 @@ Si Ling Primary School helped me hone my leadership skills. It helped me find th
 #### Lamin May Thu 
 **Current School: Nan Hua High School**
 
+<img src="/images/About%20Us/lamin%20alumni%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
+
+
 &nbsp;"My experience as a student has been quite fulfilling. I made many lasting friendships, and we even created a group chat with everyone in our class in it. There were many caring teachers who were always there for me throughout my journey in Si Ling Primary School.
 
 Si Ling Primary School allowed me to develop leadership qualities as I had been a prefect for 3 years, it also allowed me to be more caring towards others.
 A defining moment in Si Ling Primary School which helped me realise what I wanted to be when I grew up was when I first found out that I had a knack for math. So, at that time, I started to love math and I loved studying. So, at that moment, I wanted to be an engineer when I grew up."
-
