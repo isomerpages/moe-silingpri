@@ -56,4 +56,3 @@ My proudest moment in SLPS was when I got to lead the Prefects Investiture along
 
 It gave me a sense of responsibility and to be a good role model to my peers.
 Si Ling Primary School helped me hone my leadership skills. It helped me find the potential in me. Si Ling also taught me many invaluable life lessons and values which are still useful for secondary school and for my future."
-
