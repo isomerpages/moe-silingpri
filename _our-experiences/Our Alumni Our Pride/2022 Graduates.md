@@ -8,7 +8,7 @@ third_nav_title: Our Alumni Our Pride
 
 #### Feronica Iin
 **Current School: Raffles Girls' Schools**
-   <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lEDPeJkxe2o" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PN_68mOaJaA" height="315" width="560"></iframe>
 	 
 <img src="/images/alumni%20pictures%20(3).png" style="width:200px;height:180px;margin-right:15px;" align="left">&nbsp;"My experience as a student here was amazing! The teachers, friends and non-teaching staff here were really kind and helpful. 
 
@@ -30,7 +30,7 @@ I am sure that every student will thrive in Si Ling Primary School's friendly an
 
 #### Thivyana Shre Vikashini Gunase 
 **Current School:Anderson Secondary School**
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8d3lIqEdeKQ" height="315" width="560"></iframe>
 <img src="/images/About%20Us/thivyana.png" style="width:200px;height:200px; margin-right:15px;" align="left">
 
 &nbsp;"There were many beautiful memories that I have made in SLPS. One of them was on Graduation Day.I took part in all the games and had so much fun.
