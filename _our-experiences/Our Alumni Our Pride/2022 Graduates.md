@@ -48,6 +48,9 @@ They not only helped me academically but also instilled good values, such as per
 #### Arun Rajesh Lekhashree
 **Current School: Anderson Secondary School**
 
+<img src="/images/About%20Us/arun%20rajeesh%20lekhashree.jpeg" style="width:190px;height:200px; margin-right:15px;" align="left">
+	
+		 
 &nbsp;"I had a fun and enriching time in SLPS. Si Ling Primary School is my second home where I hold good memories. From good friends to good teachers, I know I can always depend on Si along if I encounter any difficulties.
 I made lasting friendships. 
 
@@ -56,3 +59,12 @@ My proudest moment in SLPS was when I got to lead the Prefects Investiture along
 
 It gave me a sense of responsibility and to be a good role model to my peers.
 Si Ling Primary School helped me hone my leadership skills. It helped me find the potential in me. Si Ling also taught me many invaluable life lessons and values which are still useful for secondary school and for my future."
+
+#### Lamin May Thu 
+**Current School: Nan Hua High School**
+
+&nbsp;"My experience as a student has been quite fulfilling. I made many lasting friendships, and we even created a group chat with everyone in our class in it. There were many caring teachers who were always there for me throughout my journey in Si Ling Primary School.
+
+Si Ling Primary School allowed me to develop leadership qualities as I had been a prefect for 3 years, it also allowed me to be more caring towards others.
+A defining moment in Si Ling Primary School which helped me realise what I wanted to be when I grew up was when I first found out that I had a knack for math. So, at that time, I started to love math and I loved studying. So, at that moment, I wanted to be an engineer when I grew up."
+
