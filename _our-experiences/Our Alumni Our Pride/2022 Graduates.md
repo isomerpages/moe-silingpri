@@ -74,6 +74,8 @@ A defining moment in Si Ling Primary School which helped me realise what I wante
 #### Phyo Thet Pai 
 **Current School: Saint Joseph's Institution (IP) Programme**
 
+<img src="/images/About%20Us/phyo%20thet%20pai.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
+
 &nbsp;"One memorable experience that I had as a student in SLPS was during the P5 camp. We learnt how to pitch a tent, went to Sembawang Park and bonded together as a class . I made long lasting memories with my friends. We are still in touch with each other in a Class Group chat.
 
 My proudest moment in SLPS was when I performed for Recognition Day.  I performed with the other P6 students and showcased our skills of drumming that we learn as part of Post PSLE activities.
