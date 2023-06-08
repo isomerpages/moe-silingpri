@@ -6,7 +6,7 @@ third_nav_title: Our Alumni Our Pride
 ---
 ### 2022 Graduates 
 
-#### Feronica Iim 
+#### Feronica Iin
 **Current School: Raffles Girls' Schools**
    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lEDPeJkxe2o" height="315" width="560"></iframe>
 	 
@@ -27,3 +27,14 @@ Si Ling Primary School has provided me with many opportunities for me to develop
 They would always be ready to help me clear my doubts, even after school. SLPS also gives its students many opportunities to nurture them to become Scholars who Lead and Serve through its meaningful activities such as camps and other character development programmes. 
 
 I am sure that every student will thrive in Si Ling Primary School's friendly and nurturing environment and lastly, I would like to say that I am very grateful to  SLPS  for teaching me to strive to be the best that I can be."
+
+#### Thivyana Shre Vikashini Gunase 
+<img src="" style="width:200px;height:200px; margin-right:15px;" align="left">
+
+&nbsp;"There were many beautiful memories that I have made in SLPS. One of them was on Graduation Day. I took part in all the games and had so much fun.
+
+SLPS has provided me with many opportunities to develop my strengths and overcome my weaknesses. I would like to thank all my teachers, especially my Primary 6 teachers for supporting me throughout the tough year."
+
+
+
+
