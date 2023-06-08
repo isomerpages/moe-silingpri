@@ -70,3 +70,11 @@ Si Ling Primary School helped me hone my leadership skills. It helped me find th
 
 Si Ling Primary School allowed me to develop leadership qualities as I had been a prefect for 3 years, it also allowed me to be more caring towards others.
 A defining moment in Si Ling Primary School which helped me realise what I wanted to be when I grew up was when I first found out that I had a knack for math. So, at that time, I started to love math and I loved studying. So, at that moment, I wanted to be an engineer when I grew up."
+
+#### Phyo Thet Pai 
+**Current School: Saint Joseph's Institution (IP) Programme**
+
+&nbsp;"One memorable experience that I had as a student in SLPS was during the P5 camp. We learnt how to pitch a tent, went to Sembawang Park and bonded together as a class . I made long lasting memories with my friends. We are still in touch with each other in a Class Group chat.
+
+My proudest moment in SLPS was when I performed for Recognition Day.  I performed with the other P6 students and showcased our skills of drumming that we learn as part of Post PSLE activities.
+My love for Maths blossomed further when I was selected to participate in the  Math Olympiad. It was truly a wonderful opportunity."
