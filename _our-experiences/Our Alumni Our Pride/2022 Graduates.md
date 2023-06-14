@@ -80,3 +80,6 @@ A defining moment in Si Ling Primary School which helped me realise what I wante
 
 My proudest moment in SLPS was when I performed for Recognition Day.  I performed with the other P6 students and showcased our skills of drumming that we learn as part of Post PSLE activities.
 My love for Maths blossomed further when I was selected to participate in the  Math Olympiad. It was truly a wonderful opportunity."
+
+#### Lim Si Tong 
+**Current School:Nanyng Girls' High**
