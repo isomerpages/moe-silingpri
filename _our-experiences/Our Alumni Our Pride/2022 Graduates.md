@@ -84,6 +84,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 #### Lim Si Tong 
 **Current School:Nanyng Girls' High**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/svkqXsK5KD4" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/lim%20si%20tong%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
 		 
@@ -98,4 +99,3 @@ My love for Maths blossomed further when I was selected to participate in the  M
 &nbsp;"When I was a student in Si Ling Primary School, the school organised many fantastic activities to promote good values and enrichment programmes for the students. Si Ling Primary School has provided me many opportunities to hone my strengths and love for the Chinese Language, such as the  Calligraphy and Recital competitions to develop me holistically.
 
 During my time in Si Ling Primary School, I realised that I want to be  a doctor when I grow up.There are just too many beautiful memories in Si Ling Primary School and I will definitely keep them close to my heart. "
-
