@@ -97,3 +97,10 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 &nbsp;"When I was a student in Si Ling Primary School, the school organised many fantastic activities to promote good values and enrichment programmes for the students. Si Ling Primary School has provided me many opportunities to hone my strengths and love for the Chinese Language, such as the  Calligraphy and Recital competitions to develop me holistically. During my time in Si Ling Primary School, I realised that I want to be  a doctor when I grow up.There are just too many beautiful memories in Si Ling Primary School and I will definitely keep them close to my heart."
 
+
+#### Lukas Cher
+**Current School: Chung Cheng High School (Yishun)**
+
+&nbsp;"My friends and I still keep in touch with one another in our class WhatsApp Group Chat. My proudest moment as a student in Si Ling Primary was when I got my first award for Recognition Day in Primary 3 for the Most Improved Award'. It was also my first time getting on the stage in the School Hall. 
+One beautiful memory I had in Si Ling Primary was the trip to the Singapore Discovery Centre after PSLE. Over there, there were many fun and exciting activities like Laser Tag and the Escape Room. We also learnt about Singapore's history after all the games."
+
