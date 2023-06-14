@@ -108,7 +108,7 @@ One beautiful memory I had in Si Ling Primary was the trip to the Singapore Disc
 
 #### Zara Sophia
 **Current School:Raffles Girls' Secondary School**
-
+<img src="" style="width:200px;height:200px; margin-right:15px;" align="left">
 &nbsp;"Overall, my experience as a student in Si Ling was very enjoyable. Although it was quite stressful and overwhelming at times, I was able to get through challenges with the support of my family, teachers and schoolmates. I am still in contact with my old school friends. In fact, I contact them nearly every day! 
 
 My proudest moments in Si Ling were definitely when I received my PSLE results and when I won in the 2 mins of fame in P6. I certainly did not expect it! 
