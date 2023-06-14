@@ -83,3 +83,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 #### Lim Si Tong 
 **Current School:Nanyng Girls' High**
+
+<img src="/images/About%20Us/lim%20si%20tong%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
+		 
+&nbsp;"My experience as a student in Si Ling Primary School was very fulfilling and exciting. I made many memories with my friends and teachers, especially after PSLE. My proudest moment was when I became the Assistant Head Prefect. I was given many opportunities to develop myself as a leader. I led my peers and planned events for the school like Teachers Day. Although it may be tough sometimes, I know that I have my classmates and teachers to fall back on."
