@@ -101,5 +101,18 @@ My love for Maths blossomed further when I was selected to participate in the  M
 #### Lukas Cher
 **Current School: Chung Cheng High School (Yishun)**
 
+<img src="/images/About%20Us/lukas%20cher%20alumni.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left"> 
+
 &nbsp;"My friends and I still keep in touch with one another in our class WhatsApp Group Chat. My proudest moment as a student in Si Ling Primary was when I got my first award for Recognition Day in Primary 3 for the Most Improved Award'. It was also my first time getting on the stage in the School Hall. 
 One beautiful memory I had in Si Ling Primary was the trip to the Singapore Discovery Centre after PSLE. Over there, there were many fun and exciting activities like Laser Tag and the Escape Room. We also learnt about Singapore's history after all the games."
+
+#### Zara Sophia
+**Current School:Raffles Girls' Secondary School**
+
+&nbsp;"Overall, my experience as a student in Si Ling was very enjoyable. Although it was quite stressful and overwhelming at times, I was able to get through challenges with the support of my family, teachers and schoolmates. I am still in contact with my old school friends. In fact, I contact them nearly every day! 
+
+My proudest moments in Si Ling were definitely when I received my PSLE results and when I won in the 2 mins of fame in P6. I certainly did not expect it! 
+Si Ling provided many opportunities for me to develop such as many group activities for me to be able to learn how to work better with others. 
+Throughout my 6 years in Si Ling, I have made many beautiful memories. 
+
+Especially in my last year. I think I really opened up more in P6. At one point, I questioned myself about my fears. I asked myself why I was so afraid and when I thought about it, the reasons suddenly seemed so trivial and frivolous. So, I started becoming a little more confident and I was even able to make more friends."
