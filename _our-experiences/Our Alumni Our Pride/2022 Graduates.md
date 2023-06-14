@@ -93,4 +93,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 #### Yan Xin Yi 
 **Current School: Chung Cheng High School (Yishun)**
 
-&nbsp;"When I was a student in Si Ling Primary School, the school organised many fantastic activities to promote good values and enrichment programmes for the students. Si Ling Primary School has provided me many opportunities to hone my strengths and love for the Chinese Language, such as the  Calligraphy and Recital competitions to develop me holistically. During my time in Si Ling Primary School, I realised that I want to be  a doctor when I grow up.There are just too many beautiful memories in Si Ling Primary School and I will definitely keep them close to my heart. "
+<img src="/images/About%20Us/yan%20xinyi.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
+
+&nbsp;"When I was a student in Si Ling Primary School, the school organised many fantastic activities to promote good values and enrichment programmes for the students. Si Ling Primary School has provided me many opportunities to hone my strengths and love for the Chinese Language, such as the  Calligraphy and Recital competitions to develop me holistically. During my time in Si Ling Primary School, I realised that I want to be  a doctor when I grow up.There are just too many beautiful memories in Si Ling Primary School and I will definitely keep them close to my heart."
+
