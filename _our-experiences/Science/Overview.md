@@ -11,5 +11,3 @@ third_nav_title: Science
 ##### Our Vision
 
 Confident inquirers who enjoy science and value science as a tool to explore and better the world.
-
-![Overview breakdown](/images/About%20Us/subpage%20school%20banner-min.png)
