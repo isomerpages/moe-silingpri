@@ -92,6 +92,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 #### Yan Xin Yi 
 **Current School: Chung Cheng High School (Yishun)**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YlUVlTmQEr4" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/yan%20xinyi.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
 
@@ -100,7 +101,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 #### Lukas Cher
 **Current School: Chung Cheng High School (Yishun)**
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d-8eZXizdx4" height="315" width="560"></iframe>
 <img src="/images/About%20Us/lukas%20cher%20alumni.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left"> 
 
 &nbsp;"My friends and I still keep in touch with one another in our class WhatsApp Group Chat. My proudest moment as a student in Si Ling Primary was when I got my first award for Recognition Day in Primary 3 for the Most Improved Award'. It was also my first time getting on the stage in the School Hall. 
@@ -108,7 +109,7 @@ One beautiful memory I had in Si Ling Primary was the trip to the Singapore Disc
 
 #### Zara Sophia
 **Current School:Raffles Girls' Secondary School**
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KtI8i7XwkB0" height="315" width="560"></iframe>
 <img src="/images/About%20Us/zara%20sophia%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
 
 &nbsp;"Overall, my experience as a student in Si Ling was very enjoyable. Although it was quite stressful and overwhelming at times, I was able to get through challenges with the support of my family, teachers and schoolmates. I am still in contact with my old school friends. In fact, I contact them nearly every day! 
