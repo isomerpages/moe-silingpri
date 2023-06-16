@@ -19,4 +19,10 @@ We will provide our students with opportunities for exposure to various physical
 
 <img src="/images/About%20Us/mission.png" style="width:300px;height:400px;margin-right:15px;" align="left">
 
+<a target="_blank" href="https://www.silingpri.moe.edu.sg/our-experiences/Physical-Education/our-programmes/">
 
+	
+																																																						 
+	
+	 
+	</a>
