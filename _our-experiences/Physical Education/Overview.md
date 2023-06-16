@@ -16,3 +16,7 @@ Students to be active and enjoy a lifetime of active, healthy living
 We will provide our students with opportunities for exposure to various physical competencies; experience to develop knowledge and skills in various sports learning areas through the physical education programme; as well as showcase talents through sports-based CCAs, external and national-based competitions.
 
 ![](/images/About%20Us/physical%20education.png)
+
+<img src="/images/About%20Us/mission.png" style="width:300px;height:400px;margin-right:15px;" align="left">
+
+
