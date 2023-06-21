@@ -3,7 +3,7 @@ title: LLP (Community and Student Leadership)
 permalink: /signature-programmes/learningforlifeprogramme/
 description: ""
 ---
-### **LLP (Community and Student Leadership)**
+### **Learning for Life Programme(LLP)**
 
 #### LLP: Community and Student Leadership
 
