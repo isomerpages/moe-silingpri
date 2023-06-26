@@ -9,14 +9,14 @@ third_nav_title: Character Education
 **FBL to Jacob Ballas Children’s Garden- Primary One**
 
 FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about the ways to show care for our environment and to develop an appreciation for the places around them.
-<img src="/images/About%20Us/fbl%20p1.png">
+<img src="/images/About%20Us/social%20studies.png">
 
 
 
 **FBL to National Orchid Garden – Primary Two**
 
 Our Primary 2 students went for their first Field-Based Learning (FBL) to National Orchid Garden. FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about our National Symbols and develop an appreciation for the diverse communities in Singapore.
-<img src="/images/About%20Us/p2%20fbl.png">
+<img src="/images/About%20Us/social%20studies%201.png">
 
 **FBL to Singapore Zoo – Primary Three**
 
@@ -43,4 +43,4 @@ At the end of the trail, the pupils returned to their class to share with their 
 
 Our Primary 6 students went for their Museum-Based Learning (MBL) to Reflections at Bukit Chandu. MBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn more about the Malay Regiment, the stories of their courage and sacrifice in the Battle of Pasir Panjang during World War II, as well as the history of Bukit Chandu.
 
-<img src="/images/About%20Us/p6%20fbl.png">
+<img src="/images/About%20Us/social%20studies%20learning%20journey.png">
