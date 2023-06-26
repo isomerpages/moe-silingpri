@@ -8,6 +8,9 @@ third_nav_title: Parent Resource
 
 |  |  |
 |---|---|
+|[Si Ling Termly Newsletter Vol 2](/files/Parent_Hub/Parent_Resource/term%203%202023%20slps%20newsletter.pdf)|26 June 2023
+|[Term 3 Letter to Parents](/files/Parent_Hub/Parent_Resource/2023%20term%203%20coe%20letter.pdf)|26 June 2023
+|[Term 2 Letter to Parents](/files/Parent_Hub/Parent_Resource/2023%20term%202%20%20letter.pdf)| 26 June 2023 
 | [CL P4 Parent Seminar 2023 ](/files/Parent_Hub/2023_P4/cl_p4_parent_seminar_2023.pdf) | 23 Mar 2023 |
 | [EL P4 Parents Briefing 2023 ](/files/Parent_Hub/2023_P4/el_p4_parents_briefing_2023.pdf) | 23 Mar 2023 |
 | [Mathematics P4 Briefing 2023 ](/files/Parent_Hub/2023_P4/mathematics_p4_briefing_2023.pdf) | 23 Mar 2023 |

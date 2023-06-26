@@ -9,6 +9,9 @@ third_nav_title: Parent Resource
 
 | **Topic** | **Date**
 | -------- | -------- 
+|[Si Ling Newsletter Vol 2](/files/Parent_Hub/Parent_Resource/term%203%202023%20slps%20newsletter.pdf)|26 June 2023
+|[Term 3 Letter to Parents](/files/Parent_Hub/Parent_Resource/2023%20term%203%20coe%20letter.pdf)|26 June 2023
+|[Term 2 Letter to Parents](/files/Parent_Hub/Parent_Resource/2023%20term%202%20%20letter.pdf)| 26 June 2023
 | [Si Ling Termly Newsletter Vol 1](/files/Parent_Hub/Parent_Resource/Si_Ling_Termly_Newsletter_Volume_1.pdf) |17 Mar 2023 |
 | [1. P6 Parent Briefing on AL System](/files/Parent_Hub/2023_P6/P6%20Parent%20Briefing%20on%20AL%20System.pdf)     | 3 Feb 2023
 | [2. EL P6 Parent Briefing 2023](/files/Parent_Hub/2023_P6/EL%20P6%20Parent%20Briefing%202023.pdf)     | 3 Feb 2023
