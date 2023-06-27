@@ -35,9 +35,9 @@ Besides undergoing the same training sessions as the Level 3 Student Leaders, ou
 | **Assistant Head Prefect (Primary 4)** |Nur Nazirah Asyura Binte Mohamed Asrin|
 |**Assistant Head Prefect (Primary 5)**|Nuryn Amany Sarah Binte Rosman
 |**Assistant Head Prefect (Primary 6)**|Kiw Jing Heng Larren
-| **CCA Head (Performing Arts)** | Huang Jing Han<br>Nur Nazirah Asyura Binte Mohamed Asrin |
-| **CCA Head (Clubs and Uniformed Group)** | Lim Jia Xuan<br>Travis Chen Rui Zhe |
-| **CCA Head (Sports)** | Eldho Elvin<br>Maria Dabus Davinsa Danggus |
+| **CCA Head (Performing Arts)** | Jesslyn Angelica Natalie |
+| **CCA Head (Clubs and Uniformed Group)** | Jessie Choi Zhuo Shi|
+| **CCA Head (Sports)** | Afeena Nurqisya Binte Mohammad Fazly |
 
 Our Student Leadership Programme is anchored on&nbsp;**The Leadership Challenge®**&nbsp;that is adopted from&nbsp;**“The Five Practices of Exemplary Leadership"**&nbsp;by Kouzes and Posner.
 
