@@ -6,7 +6,7 @@ third_nav_title: Student Development
 ---
 ### **Student Leadership**
 
-In line with our school’s vision – **Every Si Ling Student a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
+In line with our school’s vision –&nbsp;**Every Si Ling Student a Scholar who Leads and Serves**, our school places a strong emphasis to develop every Si Ling pupil with the relevant leadership skills to lead oneself as well as others based on their leadership aptitude and interests.
 
 ![Student Leadership Pyramid](/images/Our%20Experiences/Student%20Development/sd2.png)
 
@@ -26,19 +26,20 @@ All Level 3 Student leaders are trained by the Student Leadership Committee to h
 
 Besides undergoing the same training sessions as the Level 3 Student Leaders, our Level 4 Student Leaders also go through basic mentoring sessions to further hone their outstanding leadership skills. This also guides them to be positive influence and mentors to other students and Student Leaders under their charge.
 
-##### 2022 Level 4 Student Leaders
+##### 2023 Level 4 Student Leaders
 
 |  |  |
 |---|---|
-| **Head Prefect** | Thivyana Shre Vikashini Gunaselan |
-| **Deputy Head Prefect** | Dondeti Sai Srikar Reddy |
-| **Assistant Head Prefect 1** | Arun Rajesh Lekhashree |
-| **Assistant Head Prefect 2** | Lim Si Tong |
+| **Head Prefect** | Maria Dabus Davinsa Danggus|
+| **Assistant Head Prefect (Primary 3)** | Farish Adwin Bin Mohamed Faithzal |
+| **Assistant Head Prefect (Primary 4)** |Nur Nazirah Asyura Binte Mohamed Asrin|
+|**Assistant Head Prefect (Primary 5)**|Nuryn Amany Sarah Binte Rosman
+|**Assistant Head Prefect (Primary 6)**|Kiw Jing Heng Larren
 | **CCA Head (Performing Arts)** | Huang Jing Han<br>Nur Nazirah Asyura Binte Mohamed Asrin |
 | **CCA Head (Clubs and Uniformed Group)** | Lim Jia Xuan<br>Travis Chen Rui Zhe |
 | **CCA Head (Sports)** | Eldho Elvin<br>Maria Dabus Davinsa Danggus |
 
-Our Student Leadership Programme is anchored on **The Leadership Challenge®** that is adopted from **“The Five Practices of Exemplary Leadership"** by Kouzes and Posner.
+Our Student Leadership Programme is anchored on&nbsp;**The Leadership Challenge®**&nbsp;that is adopted from&nbsp;**“The Five Practices of Exemplary Leadership"**&nbsp;by Kouzes and Posner.
 
 ![The Leadership Challenge Model, adapted from The Five Practices of Exemplary Leadership](/images/Our%20Experiences/Student%20Development/sd3.png)
 
@@ -51,4 +52,4 @@ Our Student Leadership Programme is anchored on **The Leadership Challenge®**�
 | **Level 3:<br>Advanced Leadership** | Prefects’ and CCA Leaders’ Meetings<br>Student Leaders’ Engagement<br>Student Leadership Workshop<br>Leaders’-led Sessions: CCA Leaders’ Sessions, Students’ Voice Online Forum<br>Student Leaders’ Production: SLPS News and Happenings |
 | **Level 4:<br>Outstanding Leadership** | EXCO Meetings<br>Mentoring Sessions |
 
-To learn more about our LLP: Community and Student Leadership, click [here](/signature-programmes/LLP/).
+To learn more about our LLP: Community and Student Leadership, click&nbsp;[here](/signature-programmes/LLP/).
