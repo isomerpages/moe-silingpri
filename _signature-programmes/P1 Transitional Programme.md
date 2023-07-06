@@ -57,13 +57,13 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 **P1 Form Teachers Engagement**
 <ul style="list-style-type:disc">
-	<li>Sharing of Good Practices for Lower Primary Classroom</li>
+	<li>Sharing of Good Practices for Lower Primary Classroom&nbsp;</li>
 
-<li>Introduce Class Profile</li>
+<li>Introduce Class Profile&nbsp;</li>
 
- <li>Support for SEN pupils</li>
-	<li>Brief on Orientation Week</li>
-	<li>TSR: Make the classroom feel welcome</li>
+ <li>Support for SEN pupils&nbsp;</li>
+	<li>Brief on Orientation Week&nbsp;</li>
+	<li>TSR: Make the classroom feel welcome&nbsp;</li>
 </ul>
 
 **P1 Parents Engagement**
