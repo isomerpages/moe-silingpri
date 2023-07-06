@@ -52,9 +52,8 @@ Positive collaboration with the different stakeholders help to increase students
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
-<img src="/images/transitionalprogramme3.png" style="width:340px;height:250px;margin-left:15px;" align="right"> 
-
 ##### Day 0 (last week of Dec)
+<img style="width:300px; height:200px; margin-right:20px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
 **P1 Form Teachers Engagement**
 <ul style="list-style-type:disc">
@@ -68,29 +67,28 @@ P1 students do not start their formal curriculum in the first week. They have Or
 </ul>
 
 **P1 Parents Engagement**
+<ul style="list-style-type:disc">
+	<li>Support for SEN pupils</li>
 
-\- Support for SEN pupils
+<li>Emphasise that there will be no teaching in the first week, do not bring any books to school
 
-\- Emphasise that there will be no teaching in the first week, do not bring any books to school
+</li><li>Provide parents with a list of things to bring</li>
 
-\- Provide parents with a list of things to bring
+ <li>Books will be collected only from the second week onwards</li>
 
-\- Books will be collected only from the second week onwards
+</ul>
 
 <img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 1
 
 **Classroom Circle Time**
-
-\- Getting to know your Form Teachers and Classmates
-
-\- School Virtual Tour
-
-\- Video on Canteen Etiquette (to be shown before recess)
-
-\- Icebreaker Games with classmates
-
+<ul style="list-style-type:disc">
+	<li>Getting to know your Form Teachers and Classmates</li>
+	<li>School Virtual Tour</li>
+	<li>Video on Canteen Etiquette (to be shown before recess)</li>
+	<li>Icebreaker Games with classmates </li>
+</ul>
 <img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 2
