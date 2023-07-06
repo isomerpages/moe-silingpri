@@ -4,16 +4,13 @@ permalink: /signature-programmes/p1transitionalprogramme/
 description: ""
 ---
 ### **P1 Transitional Programme**
-<picture>
-	<img style="width:auto; height:auto; margin-right:auto;" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
-	</picture>
+
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 #### Rationale
 Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.&nbsp; 
 
-<img src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
 To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
 
@@ -54,7 +51,7 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-<img src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
+
 
 **P1 Form Teachers Engagement**
 <ul style="list-style-type:disc">
