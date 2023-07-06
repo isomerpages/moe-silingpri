@@ -5,15 +5,16 @@ description: ""
 ---
 ### **P1 Transitional Programme**
 
-<img style="width:400px;height:250px;margin-right:14px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
+<img style="width:300px;height:200px;margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 #### Rationale
+Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.&nbsp; 
 
-Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.
+<img src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
-&nbsp; To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
+To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
 
 #### Objectives
 
@@ -34,11 +35,14 @@ To instill skills that they can adapt to a new environment.
 ###### **Social &amp; Emotional Readiness**
 
 When children go through the transition from preschool to primary school, they will experience many changes at several levels:&nbsp;  
-• change in the school structure – size of school, subjects, school rules, etc.  
-• change in the classroom structure – size of class, seating arrangement,&nbsp;  
+<ul style="list-style-type:circle">
+	
+ •  change in the school structure – size of school, subjects, school rules, etc.  
+•  change in the classroom structure – size of class, seating arrangement,&nbsp;  
 &nbsp; &nbsp;teaching methods, etc.&nbsp;  
 • change in relationships – teachers, peers, greater competition, etc  
 Good mental wellbeing is a key factor in supporting children in their transition process. Children with good mental wellbeing are likely to be able to navigate their new surroundings with greater ease, and hence adjust better and faster to the new school setting.
+</ul>
 
 ##### **2. Communication**
 Effective communication skills build a positive school environment built upon self-awareness. It involves active listening and clear respectful speaking. Effective communication is also key to positive partnership with parents. When teachers and parents share knowledge and experience, it has a positive on the child’s well-being and development.
