@@ -5,13 +5,13 @@ description: ""
 ---
 ### **P1 Transitional Programme**
 
-<img src="/images/transitionalprogramme1.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
+<img style="width:300px;height:200px;margin-right:15px" align="right" src="/images/p1%20transitional%20programme%202023.png">
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 #### Rationale
 
-Having a good transition plan from Kindergarten to Primary One is very important for young children.  When they move from a preschool environment to a primary school, the change is huge.  The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.  To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
+Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.&nbsp; To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
 
 #### Objectives
 
@@ -21,7 +21,7 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<img src="/images/transitionalprogramme2.png" style="width:60%;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme2.png" style="width:60%;margin-left:15px;" align="right">
 
 ##### **The 3Cs Approach**
 ##### **C**are
@@ -29,12 +29,12 @@ To instill skills that they can adapt to a new environment.
 ##### **C**ollaboration
 
 ##### **1. Care**
-###### **Social & Emotional Readiness**
+###### **Social &amp; Emotional Readiness**
 
-When children go through the transition from preschool to primary school, they will experience many changes at several levels:   
+When children go through the transition from preschool to primary school, they will experience many changes at several levels:&nbsp;  
 • change in the school structure – size of school, subjects, school rules, etc.  
-• change in the classroom structure – size of class, seating arrangement,   
-   teaching methods, etc.   
+• change in the classroom structure – size of class, seating arrangement,&nbsp;  
+&nbsp; &nbsp;teaching methods, etc.&nbsp;  
 • change in relationships – teachers, peers, greater competition, etc  
 Good mental wellbeing is a key factor in supporting children in their transition process. Children with good mental wellbeing are likely to be able to navigate their new surroundings with greater ease, and hence adjust better and faster to the new school setting.
 
@@ -46,7 +46,7 @@ Positive collaboration with the different stakeholders help to increase students
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
-<img src="/images/transitionalprogramme3.png" style="width:340px;height:250px;margin-left:15px;" align = "right"> 
+<img src="/images/transitionalprogramme3.png" style="width:340px;height:250px;margin-left:15px;" align="right"> 
 
 ##### Day 0 (last week of Dec)
 
@@ -72,7 +72,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 \- Books will be collected only from the second week onwards
 
-<img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 1
 
@@ -86,7 +86,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 \- Icebreaker Games with classmates
 
-<img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 2
 
@@ -104,7 +104,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 \- Sing and Dance
 
-<img src="/images/transitionalprogramme6.png" style="width:340px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/transitionalprogramme6.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 3
 
