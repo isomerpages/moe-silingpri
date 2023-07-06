@@ -11,7 +11,9 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 #### Rationale
 
-Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.&nbsp; To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
+Having a good transition plan from Kindergarten to Primary One is very important for young children.&nbsp; When they move from a preschool environment to a primary school, the change is huge.&nbsp; The changes start with environment and routine; then to intra- and inter-personal relationships. These changes can be overwhelming and daunting for any child.
+
+&nbsp; To help children face these challenges, the framework will enable each Primary One student to adapt to their new environment effectively. A successful transition can have long-term positive outcomes for children both in their educational success and in terms of social and emotional development.
 
 #### Objectives
 
