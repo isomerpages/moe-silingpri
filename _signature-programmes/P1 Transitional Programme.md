@@ -35,13 +35,13 @@ To instill skills that they can adapt to a new environment.
 ###### **Social &amp; Emotional Readiness**
 
 When children go through the transition from preschool to primary school, they will experience many changes at several levels:&nbsp;  
-<ul style="list-style-type:circle">
-	
- •  change in the school structure – size of school, subjects, school rules, etc.  
-•  change in the classroom structure – size of class, seating arrangement,&nbsp;  
-&nbsp; &nbsp;teaching methods, etc.&nbsp;  
-• change in relationships – teachers, peers, greater competition, etc  
-Good mental wellbeing is a key factor in supporting children in their transition process. Children with good mental wellbeing are likely to be able to navigate their new surroundings with greater ease, and hence adjust better and faster to the new school setting.
+<ul style="list-style-type: circle">
+	<li>change in the school structure – size of school, subjects, school rules, etc. </li>
+ <li>change in the classroom structure – size of class, seating arrangement,&nbsp;  
+	 &nbsp; &nbsp;teaching methods, etc.&nbsp; </li>
+	<li> change in relationships – teachers, peers, greater competition, etc  
+Good mental wellbeing is a key factor in supporting children in their transition process. Children with good mental wellbeing are likely to be able to navigate their new surroundings with greater ease, and hence adjust better and faster to the new school setting. </li>
+
 </ul>
 
 ##### **2. Communication**
@@ -57,16 +57,15 @@ P1 students do not start their formal curriculum in the first week. They have Or
 ##### Day 0 (last week of Dec)
 
 **P1 Form Teachers Engagement**
+<ul style="list-style-type:disc">
+	<li>Sharing of Good Practices for Lower Primary Classroom</li>
 
-\- Sharing of Good Practices for Lower Primary Classroom
+<li>Introduce Class Profile</li>
 
-\- Introduce Class Profile
-
-\- Support for SEN pupils
-
-\- Brief on Orientation Week
-
-\- TSR: Make the classroom feel welcome
+ <li>Support for SEN pupils</li>
+	<li>Brief on Orientation Week</li>
+	<li>TSR: Make the classroom feel welcome</li>
+</ul>
 
 **P1 Parents Engagement**
 
