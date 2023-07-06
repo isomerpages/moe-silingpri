@@ -5,7 +5,7 @@ description: ""
 ---
 ### **P1 Transitional Programme**
 
-<img style="width:300px;height:200px;margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
+<img style="width:auto; max-width:100%; height:auto;margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
@@ -53,7 +53,7 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-<img style="width:300px; height:200px; margin-right:20px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
+<img src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
 
 **P1 Form Teachers Engagement**
 <ul style="list-style-type:disc">
@@ -78,10 +78,8 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 </ul>
 
-<img src="/images/transitionalprogramme4.png" style="width:340px;height:250px;margin-left:15px;" align="right">
 
 ##### Day 1
-
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
 	<li>Getting to know your Form Teachers and Classmates</li>
@@ -89,37 +87,34 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	<li>Video on Canteen Etiquette (to be shown before recess)</li>
 	<li>Icebreaker Games with classmates </li>
 </ul>
-<img src="/images/transitionalprogramme5.png" style="width:340px;height:250px;margin-left:15px;" align="right">
+
 
 ##### Day 2
 
 **Classroom Circle Time**
-
-\- Setting Classroom Routines
-
-\- PSR lesson 1
-
+<ul style="list-style-type:disc">
+	<li>Setting Classroom Routines </li>
+	<li>PSR lesson 1</li>
+	</ul>
+	
 **Express Yourself!**
-
-\- Through Puppetry
-
-\- Writing/Drawing ‘About Me’
-
-\- Sing and Dance
-
-<img src="/images/transitionalprogramme6.png" style="width:340px;height:250px;margin-left:15px;" align="right">
-
+<ul style="list-style-type:disc">
+	<li>Through Puppetry</li>
+	<li>Writing/Drawing ‘About Me’</li>
+	<li>Sing and Dance</li>
+	</ul>
+	
 ##### Day 3
 
 **Classroom Circle  Time**
-
-\- Road Safety
-
-\- Pupils watch a video and practice the kerb drill
+<ul style="list-style-type:disc">
+	<li>Road Safety</li>
+	<li>Pupils watch a video and practice the kerb drill</li>
+	</ul>
 
 **Apple Star Story**
 
-\- Teacher to share the Apple Star Story. Each pupil brings home an apple and narrate the story to their parents. Sets the tone for the new academic year: Work hard and you will succeed (get a star).
+Teacher to share the Apple Star Story. Each pupil brings home an apple and narrate the story to their parents. Sets the tone for the new academic year: Work hard and you will succeed (get a star).
 
 Highlights include bonding games, familiarization tours and setting of routines. We build in our children a sense of belonging and community so that they remain positive and feel secure about their new environment.  
 
