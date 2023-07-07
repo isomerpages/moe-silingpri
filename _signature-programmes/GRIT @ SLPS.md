@@ -12,9 +12,6 @@ description: ""
 	<li>To develop students’ support system which consists of home (family) and school (school leaders, teachers and peers)</li>
 	</ul>
 
-
-<img src="/images/grit1.png" style="width:320px;height:230px;margin-right:15px;" align="left">
-
 ##### P5 SKILLs Programme
 
 *   Strengthen peer to peer relationships as well as rapport between teachers and students  
@@ -33,7 +30,9 @@ To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 *   Q&amp;A with school leaders
 *   Form teachers share personal motivational stories
 
-Snack with Principal for the Primary 5 students is a platform for the school leaders to interact with the Primary 5 students at a personal level. Sessions are relaxed, allowing students to share their experiences and ask questions in an informal setting. Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
+Snack with Principal for the Primary 5 students is a platform for the school leaders to interact with the Primary 5 students at a personal level. Sessions are relaxed, allowing students to share their experiences and ask questions in an informal setting. 
+
+Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
 
 ##### P6 Chillax
 *   In the midst of the preparation for PSLE, during the June school holidays, to end off the 3-day supplementary lessons, students will participate in games and sports activities together with teachers, school leaders and parents
