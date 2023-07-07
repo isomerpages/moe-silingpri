@@ -4,6 +4,7 @@ permalink: /signature-programmes/p1transitionalprogramme/
 description: ""
 ---
 ### **P1 Transitional Programme**
+<img style="width:60%; margin-left:15px;height:60%" align="right" src="/images/2.png">
 
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
@@ -51,7 +52,7 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-
+<img style="width:70%;margin-left:15px" align="right" src="/images/5.png">
 
 **P1 Form Teachers Engagement**
 <ul style="list-style-type:disc">
@@ -88,7 +89,8 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 2
-
+<img style="width:65%;margin-right:15px" align="right" src="/images/4.png">
+		 
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
 	<li>Setting Classroom Routines </li>
@@ -103,12 +105,14 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	</ul>
 	
 ##### Day 3
+<img style="width:60%;margin-left:15px; height:200px" align="right" src="/images/3.png">
 
 **Classroom Circle  Time**
 <ul style="list-style-type:disc">
 	<li>Road Safety</li>
 	<li>Pupils watch a video and practice the kerb drill</li>
 	</ul>
+
 
 **Apple Star Story**
 
