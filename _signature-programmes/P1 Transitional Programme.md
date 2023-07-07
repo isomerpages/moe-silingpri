@@ -79,6 +79,8 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 1
+<img style="width:60%; margin-left:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(4).png">
+
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
 	<li>Getting to know your Form Teachers and Classmates</li>
@@ -105,7 +107,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	</ul>
 	
 ##### Day 3
-<img style="width:60%;margin-left:15px; height:200px" align="right" src="/images/3.png">
+<img style="width:60%;margin-left:15px" align="right" src="/images/3.png">
 
 **Classroom Circle  Time**
 <ul style="list-style-type:disc">
