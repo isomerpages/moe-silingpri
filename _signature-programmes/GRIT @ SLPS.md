@@ -24,7 +24,9 @@ The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The o
 
 To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 
-##### P5 Snack with Principal
+##### P5 Snack with Vice-Principal
+<img style="width:60%; margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(3).png">
+
 *   Interaction between school leaders, form teachers and students
 *   Q&amp;A with school leaders
 *   Form teachers share personal motivational stories
@@ -34,10 +36,14 @@ Snack with Principal for the Primary 5 students is a platform for the school lea
 Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
 
 ##### P6 Chillax
+<img style="width:90%" src="/images/Subpage%20banners%20-%20sample%20%20(6).png">
+
+
 *   In the midst of the preparation for PSLE, during the June school holidays, to end off the 3-day supplementary lessons, students will participate in games and sports activities together with teachers, school leaders and parents
 *   Opportunity to celebrate and recognise students who have displayed tenacity, grit and resilience
 
 P6 Chillax is an event that the Primary 6 students will look forward to every year. This is carried out during the June school holidays where the Primary 6 students return to school for their supplementary lessons for 3 days. 
+<img style="width:90%" src="/images/Subpage%20banners%20-%20sample%20%20(9).png">
 
 The stressful period can be challenging to the students. To end off the season on a high note, students will participate in games and sports activities together with teachers, school leaders and parents.
 
