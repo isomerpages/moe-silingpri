@@ -50,11 +50,14 @@ The stressful period can be challenging to the students. To end off the season o
 Through this Chillax, we hope to bring to the students that they are not alone in their journey and that there are many people whom they can lean on for support and that, together, they can go through the year with grit and resilience.
 		 
 ##### P6 Breakfast with Principal
+<img align="left" style="width:60%" src="/images/3.png">
+
 *   Interaction between school leaders, form teachers and students
 *   Q&amp;A with school leaders
 *   Form teachers share personal motivational stories
 
 Breakfast with Principal for the Primary 6 students is a spinoff from the Primary 5 Snack with Principal. This is also another touchpoint for the school leaders and form teachers to interact with the Primary 6 students at a more personal level. 
+<img style="width:90%" src="/images/Subpage%20banners%20-%20sample%20%20(6).png">
 
 Being in the last lap of their primary school education journey, this session hopes to provide opportunities for the students to walk down memory lane as they reminisce their schooling life from Primary 1 up till Primary 6. Sessions are casual, allowing students to share their experiences and ask questions in an informal setting. 
 
@@ -65,7 +68,7 @@ Students get to chit chat with the school leaders as they enjoy the breakfast th
 ##### P6 Intra-Class Games
 
 July and August can be a stressful period for P6 students
-
+<img style="width:60%; margin-right:10px" align="left" src="/images/5.png">
 *   A healthy body leads to a healthy mind
 *   A reminder for students to take a break and rejuvenate both physically and emotionally
 
