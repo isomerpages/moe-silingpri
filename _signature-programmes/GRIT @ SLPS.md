@@ -6,6 +6,7 @@ description: ""
 ### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
 #### Purpose
+<img style="width:60%; margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(8).png">
 <ul style="list-style-type:disc">
 	<li> To improve student’s motivation</li>
 	<li>To strengthen resilience in students </li>
@@ -62,4 +63,3 @@ July and August can be a stressful period for P6 students
 *   A reminder for students to take a break and rejuvenate both physically and emotionally
 
 P6 Intra-Class Games is another platform and avenue for the Primary 6 students to take a breather amidst their hectic preparation for the PSLE. Through these Intra-Class Games sessions, students get the opportunity to take a break and rejuvenate both physically and emotionally as they take part in physical sports activities with their classmates.
-
