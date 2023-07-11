@@ -6,7 +6,7 @@ description: ""
 ### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
 #### Purpose
-<img style="width:60%; margin-right:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(8).png">
+<img style="width:60%; margin-left:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(8).png">
 <ul style="list-style-type:disc">
 	<li> To improve student’s motivation</li>
 	<li>To strengthen resilience in students </li>
@@ -14,6 +14,7 @@ description: ""
 	</ul>
 
 ##### P5 SKILLs Programme
+<img style="width:60%; margin-right:15px" align="left" src="/images/Subpage%20banners%20-%20sample%20%20(4).png">
 <ul style="list-style-type:disc">
 	<li>Strengthen peer to peer relationships as well as rapport between teachers and students </li>
 	<li>Working as a team to overcome challenges</li>
