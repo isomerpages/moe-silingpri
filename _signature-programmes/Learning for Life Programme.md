@@ -21,19 +21,20 @@ The school’s LLP programme on Community and Student Leadership sees an integra
  It provides the opportunity for different groups of students to reach out to the external community through our outreach programmes. 
 
 ##### **Primary 1 and 2 - Self and Family**
-<img>
+<img src="/images/20.png">
+
 Students learn to take self-responsibility and to serve others – especially their elders, at home.
 
 
 ##### **Primary 3 and 4 - School**
-
 Students learn to look out for opportunities to serve the school community by providing suggestions or helping out in the school improvement projects.
 
 		 
 **Students' Suggestions**
-
+<img src="/images/18.png">
 
 
 ##### **Primary 5 and 6 - External Community**
+<img src="/images/19.png">
 
 Students serve the external community by being a part of our school’s outreach efforts like the kindergarten outreach programme where they teach or impart basic skills sets to kindergarteners.
