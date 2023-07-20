@@ -14,7 +14,7 @@ description: ""
 	</ul>
 
 ##### P5 SKILLs Programme
-
+<img style="width:50%; margin-left:15px" align="right" src="/images/2.png">
 <ul style="list-style-type:disc">
 	<li>Strengthen peer to peer relationships as well as rapport between teachers and students </li>
 	<li>Working as a team to overcome challenges</li>
@@ -31,7 +31,9 @@ To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 *   Q&amp;A with school leaders
 *   Form teachers share personal motivational stories
 
-Snack with Principal for the Primary 5 students is a platform for the school leaders to interact with the Primary 5 students at a personal level. Sessions are relaxed, allowing students to share their experiences and ask questions in an informal setting. 
+Snack with Vice - Principal for the Primary 5 students is a platform for the school leaders to interact with the Primary 5 students at a personal level. Sessions are relaxed, allowing students to share their experiences and ask questions in an informal setting. 
+
+<img src="/images/3.png" style="width:80%">
 
 Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
 
