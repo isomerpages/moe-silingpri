@@ -25,7 +25,7 @@ The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The o
 To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 
 ##### P5 Snack with Vice-Principal
-<img src="/images/Subpage%20banners%20-%20sample%20%20(2).png" style="width:80%; margin-left:10px; margin-right:-90px" align="right">
+<img src="/images/Subpage%20banners%20-%20sample%20%20(2).png" style="width:80%; margin-left:12px; margin-right:-50px" align="right">
 
 *   Interaction between school leaders, form teachers and students
 *   Q&amp;A with school leaders
