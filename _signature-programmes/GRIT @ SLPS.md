@@ -14,7 +14,7 @@ description: ""
 	</ul>
 
 ##### P5 SKILLs Programme
-<img style="width:66%; margin-left:12px; margin-right:-70px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(1).png">
+<img style="width:56%; margin-left:12px;" align="right" src="/images/P5%20skills%20programme.png">
 <ul style="list-style-type:disc">
 	<li>Strengthen peer to peer relationships as well as rapport between teachers and students </li>
 	<li>Working as a team to overcome challenges</li>
