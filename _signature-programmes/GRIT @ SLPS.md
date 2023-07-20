@@ -14,7 +14,7 @@ description: ""
 	</ul>
 
 ##### P5 SKILLs Programme
-<img style="width:56%; margin-left:12px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(1).png">
+<img style="width:76%; margin-left:12px; margin-right:-70px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(1).png">
 <ul style="list-style-type:disc">
 	<li>Strengthen peer to peer relationships as well as rapport between teachers and students </li>
 	<li>Working as a team to overcome challenges</li>
@@ -25,7 +25,7 @@ The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The o
 To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 
 ##### P5 Snack with Vice-Principal
-<img src="/images/Subpage%20banners%20-%20sample%20%20(2).png" style="width:79%; margin-left:10px; margin-right:-90px" align="right">
+<img src="/images/Subpage%20banners%20-%20sample%20%20(2).png" style="width:80%; margin-left:10px; margin-right:-90px" align="right">
 
 *   Interaction between school leaders, form teachers and students
 *   Q&amp;A with school leaders
