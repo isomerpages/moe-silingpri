@@ -38,7 +38,7 @@ Snack with Vice - Principal for the Primary 5 students is a platform for the sch
 Students get to chit chat with the school leaders as they enjoy the snacks that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to greater heights.
 
 ##### P6 Chillax
-
+<img style="width:90%" src="/images/P6%20Chill.png">
 
 
 *   In the midst of the preparation for PSLE, during the June school holidays, to end off the 3-day supplementary lessons, students will participate in games and sports activities together with teachers, school leaders and parents
@@ -46,6 +46,7 @@ Students get to chit chat with the school leaders as they enjoy the snacks that 
 
 P6 Chillax is an event that the Primary 6 students will look forward to every year. This is carried out during the June school holidays where the Primary 6 students return to school for their supplementary lessons for 3 days. 
 
+<img style="width:90%" src="/images/P6%20Chillax.png">
 
 The stressful period can be challenging to the students. To end off the season on a high note, students will participate in games and sports activities together with teachers, school leaders and parents.
 
