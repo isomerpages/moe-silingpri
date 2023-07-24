@@ -133,13 +133,13 @@ description: ""
 			<td style="width:106px"><span style="font-size:12px"><strong>TAMIL</strong></span></td>
 			<td style="width:249px"><span style="font-size:12px">MISS MUMTAJ BEHOM<br>
 			<strong>Tamil Coordinator</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM JAYANTHI SELVAM<br>
+			<td style="width:251px"><span style="font-size:12px">MDM JAYANTHI ARUMUGAM<br>
 			<strong>FAJT</strong></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">mumtaj_behom_mohamed_d@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">selvam_jayanthi@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">Jayanthi_arumugam_a@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
