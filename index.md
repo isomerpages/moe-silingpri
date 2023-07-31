@@ -29,6 +29,7 @@ sections:
       button: Click to begin
       url: https://forms.gle/Ap9GWxDaoas3gF4i7
       alt: Image alt text
+      image: /images/stand together-02.png
   - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
