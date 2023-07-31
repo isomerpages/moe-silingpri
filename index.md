@@ -26,7 +26,7 @@ sections:
       subtitle: Where learning comes alive
       description: Brace yourself for an incredible time filled with laughter,
         learning and endless fun.
-      button: Click to begin the adventure
+      button: Click to begin
       url: https://forms.gle/Ap9GWxDaoas3gF4i7
       alt: Image alt text
   - infopic:
