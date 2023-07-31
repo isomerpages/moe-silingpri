@@ -22,6 +22,14 @@ sections:
           description: Contact Us
           url: /contact-us/
   - infopic:
+      title: Discovering Si Ling
+      subtitle: Where learning comes alive
+      description: "Brace yourself for an incredible time filled with laugther,
+        learning and endless fun "
+      button: Click to begin the adventure
+      url: " https://forms.gle/Ap9GWxDaoas3gF4i7"
+      alt: Image alt text
+  - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
       description: To all our award recipients, you may now head over to our school’s
