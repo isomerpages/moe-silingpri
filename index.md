@@ -24,10 +24,10 @@ sections:
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
-      description: "Brace yourself for an incredible time filled with laugther,
-        learning and endless fun "
+      description: Brace yourself for an incredible time filled with laughter,
+        learning and endless fun.
       button: Click to begin the adventure
-      url: " https://forms.gle/Ap9GWxDaoas3gF4i7"
+      url: https://forms.gle/Ap9GWxDaoas3gF4i7
       alt: Image alt text
   - infopic:
       title: Recognition Day 2022
