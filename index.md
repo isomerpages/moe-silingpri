@@ -28,7 +28,7 @@ sections:
         learning and endless fun.
       button: Click to begin
       url: https://forms.gle/Ap9GWxDaoas3gF4i7
-      alt: Image alt text
+      alt: Stand together
       image: /images/stand together-02.png
   - infopic:
       title: Recognition Day 2022
