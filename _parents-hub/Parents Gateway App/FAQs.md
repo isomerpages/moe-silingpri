@@ -33,7 +33,10 @@ Schools will continue to issue hardcopy letters and consent forms to parents and
 
 **4.&nbsp;How do I apply for SingPass?**
 
-Please visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/), or scan the QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
+Please visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/), or scan the QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). 
+<img style="width:60%" src="/images/Parents'%20Hub/singpass%20qr%20code%20scanner.png">
+
+Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
 
 
