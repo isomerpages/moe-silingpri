@@ -188,21 +188,21 @@ Any announcements sent to parents will be accompanied by in-app notifications on
 
   
 
-For notification to work, kindly ensure that&nbsp;
+For notification to work, kindly ensure that : &nbsp;
 
-1\. You remained logged on the app.&nbsp;
+&nbsp; &nbsp; &nbsp; 1\. You remained logged on the app.&nbsp;
 
-2\. The notification for Parents Gateway is enabled in your phone&nbsp;
+&nbsp; &nbsp; &nbsp; 2\. The notification for Parents Gateway is enabled in your phone&nbsp;
 
-3\. You have downloaded the latest version of the app.&nbsp;
+&nbsp; &nbsp; &nbsp;  3\. You have downloaded the latest version of the app.&nbsp;
 
   
 
 If the issue still persists, kindly provide feedback to the Parents Gateway support through the app with information of your phone:&nbsp;
 
-• Phone model&nbsp;
+&nbsp; &nbsp; &nbsp; • Phone model&nbsp;
 
-• Phone device version&nbsp;  
+&nbsp; &nbsp; &nbsp; • Phone device version&nbsp;  
 
   
 
@@ -212,23 +212,23 @@ Kindly set the country of your App Store or Play Store to Singapore.&nbsp;
 
   
 
-Play Store&nbsp;
+**Play Store**&nbsp;
 
-1\. Launch Play Store&nbsp;
+&nbsp; &nbsp; &nbsp; 1\. Launch Play Store&nbsp;
 
-2\. Select Account&nbsp;
+&nbsp; &nbsp; &nbsp; 2\. Select Account&nbsp;
 
-3\. Tap Country and select Singapore
+&nbsp; &nbsp; &nbsp; 3\. Tap Country and select Singapore
 
   
 
-App Store&nbsp;
+**App Store**&nbsp;
 
-1\. Open Settings and go to “iTunes &amp; App Stores”&nbsp;
+&nbsp; &nbsp; &nbsp; 1\. Open Settings and go to “iTunes &amp; App Stores”&nbsp;
 
-2\. Tap on Apple ID and enter the associated password&nbsp;
+&nbsp; &nbsp; &nbsp; 2\. Tap on Apple ID and enter the associated password&nbsp;
 
-3\. Choose “Country/Region” and select Singapore to associate the account with.&nbsp;
+&nbsp; &nbsp; &nbsp; 3\. Choose “Country/Region” and select Singapore to associate the account with.&nbsp;
 
   
 
