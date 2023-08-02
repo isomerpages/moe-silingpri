@@ -232,7 +232,10 @@ Kindly set the country of your App Store or Play Store to Singapore.&nbsp;
 
   
 
-**28\. My child’s details shown in the Parents Gateway App is missing or incorrect.**&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  
-**  
-29.&nbsp;My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App.  
-**Parents Gateway supports day-to-day schooling activities of the child. It does not include students that are on leave of absence.
+**28\. My child’s details shown in the Parents Gateway App is missing or incorrect.**
+
+&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  
+
+**29.&nbsp;My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App.**
+
+Parents Gateway supports day-to-day schooling activities of the child. It does not include students that are on leave of absence.
