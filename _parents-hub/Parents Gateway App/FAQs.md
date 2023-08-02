@@ -19,15 +19,19 @@ The digitalisation of administrative paperwork (such as issuing, collating of fo
 Parents Gateway contains sensitive information about students and their parents. Access to the mobile app is restricted to parents and legal guardians who are Singpass holders.  
 
 If you fall into any of the following categories, you are eligible to apply for SingPass:
+<ul type="1">
+	<li> Singapore Citizen and Permanent Resident </li>
+	<li>  Employment Pass and Personalised Employment Pass holders </li>
+	<li>  EntrePass holders </li>
+	<li>S-Pass holders</li>
+	<li>Dependant Pass holders (of EP, PEP, EntrePass and S-Pass holders)</li>
+	<li> Long Term Visit Pass-Plus (LTVP+) holders</li>
+	<li>  Long Term Visit Pass holders</li>
+	<li>Selected Work Permit Holders who require SingPass to access government digital services. Visit&nbsp; &nbsp;</li>
+</ul>
 
-1.  Singapore Citizen and Permanent Resident
-2.  Employment Pass and Personalised Employment Pass holders
-3.  EntrePass holders
-4.  S-Pass holders
-5.  Dependant Pass holders (of EP, PEP, EntrePass and S-Pass holders)
-6.  Long Term Visit Pass-Plus (LTVP+) holders
-7.  Long Term Visit Pass holders
-8.  Selected Work Permit Holders who require SingPass to access government digital services. Visit&nbsp; [WPOL Enquiry ](https://service2.mom.gov.sg/workpass/enquiry/prelanding)&nbsp;to check your status.&nbsp;
+
+
 
 Schools will continue to issue hardcopy letters and consent forms to parents and legal guardians who are unable to onboard Parents Gateway.  
 
