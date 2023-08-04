@@ -95,46 +95,8 @@ iii. Create your new SingPass password.  </p></details>
 &nbsp; &nbsp; &nbsp; • Phone device version&nbsp; 
 </p></details>
 &nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;
-	<details><summary><b></b></summary><p></p></details>
-&nbsp;<details><summary><b></b></summary><p></p></details>
-&nbsp;
-
-
-  
-
- 
-
-
-
-
-  
-
-
-  
-
- 
-
-  
-
-**27.&nbsp;I cannot find the Parents Gateway App in App Store or Play Store.**
-
-Kindly set the country of your App Store or Play Store to Singapore.&nbsp;
-
-  
-
-**Play Store**&nbsp;
+<details><summary><b>I cannot find the Parents Gateway App in App Store or Play Store.</b></summary><p>Kindly set the country of your App Store or Play Store to Singapore.&nbsp; 
+	<b>Play Store</b>&nbsp;
 
 &nbsp; &nbsp; &nbsp; 1\. Launch Play Store&nbsp;
 
@@ -144,20 +106,26 @@ Kindly set the country of your App Store or Play Store to Singapore.&nbsp;
 
   
 
-**App Store**&nbsp;
+<b>App Store</b>&nbsp;
 
 &nbsp; &nbsp; &nbsp; 1\. Open Settings and go to “iTunes &amp; App Stores”&nbsp;
 
 &nbsp; &nbsp; &nbsp; 2\. Tap on Apple ID and enter the associated password&nbsp;
 
 &nbsp; &nbsp; &nbsp; 3\. Choose “Country/Region” and select Singapore to associate the account with.&nbsp;
+</p></details>
+&nbsp;
+<details><summary><b>My child’s details shown in the Parents Gateway App is missing or incorrect.</b></summary><p>&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  </p></details>
+&nbsp;
+<details><summary><b>My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App</b></summary><p>Parents Gateway supports day-to-day schooling activities of the child. It does not include students that are on leave of absence.</p></details>
+  
+
 
   
 
-**28\. My child’s details shown in the Parents Gateway App is missing or incorrect.**
+ 
 
-&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  
 
-**29.&nbsp;My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App.**
 
-Parents Gateway supports day-to-day schooling activities of the child. It does not include students that are on leave of absence.
+
+
