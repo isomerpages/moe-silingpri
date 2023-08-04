@@ -21,6 +21,13 @@ sections:
         - title: Compliments and Feedback
           description: Contact Us
           url: /contact-us/
+  - infobar:
+      title: Sessions with Principal
+      subtitle: Find out more from
+      description: Learn more about our  educational philosophy and the fantastic
+        opportunities we offer to our students.
+      button: "click to sign up "
+      url: https://form.gov.sg/64c237798e09550011352655
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
