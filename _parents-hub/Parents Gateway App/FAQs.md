@@ -6,9 +6,7 @@ third_nav_title: Parents Gateway App
 ---
 ### FAQs
 <details><summary><b>What is Parent Gateway?</b></summary> <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
-&nbsp;
 <details><summary><b>Why Parents Gateway?</b></summary><p></p><p>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.    </p></details>
-&nbsp;
 <details><summary><b>Who can access Parents Gateway?</b></summary><p>Parents Gateway contains sensitive information about students and their parents. Access to the mobile app is restricted to parents and legal guardians who are Singpass holders. If you fall into any of the following categories, you are eligible to apply for SingPass:
 </p><ul type="1">
 	<li> Singapore Citizen and Permanent Resident </li>
@@ -20,7 +18,6 @@ third_nav_title: Parents Gateway App
 	<li>  Long Term Visit Pass holders</li>
 	<li>Selected Work Permit Holders who require SingPass to access government digital services. Visit <a href="https://service2.mom.gov.sg/workpass/enquiry/prelanding">WPOL Enquiry Service</a> to check your status.</li>
 </ul> Schools will continue to issue hardcopy letters and consent forms to parents and legal guardians who are unable to onboard Parents Gateway.<p></p></details>
-&nbsp;
 <details><summary><b>How do I apply for SingPass?</b></summary><p>Please visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/), or scan the QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). 
 <img style="width:60%" src="/images/Parents'%20Hub/singpass%20qr%20code%20scanner.png">
 
@@ -37,7 +34,6 @@ ii. Select “Reset Password” icon on the scroll bar. Enter your NRIC/FIN deta
 iii. Create your new SingPass password.  </p></details>
 
 <details><summary><b>I have to use my SingPass for login. Is it secure?</b></summary><p>SingPass is an online account management for access to Singapore Government e-services. It allows users to access hundreds of government services easily and securely online.&nbsp;  </p></details>
-&nbsp;
 <details><summary><b>Must I pay for the app?</b></summary><p>Parents Gateway is free-of-charge.  </p></details>
 &nbsp;
 <details><summary><b>I have more than 1 child, do I require multiple accounts?</b></summary><p>No, you do not need multiple accounts. You will be able to access all your children’s information through a single platform on Parents Gateway, even if your children are attending different schools.</p></details>
@@ -118,14 +114,3 @@ iii. Create your new SingPass password.  </p></details>
 <details><summary><b>My child’s details shown in the Parents Gateway App is missing or incorrect.</b></summary><p>&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  </p></details>
 &nbsp;
 <details><summary><b>My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App</b></summary><p>Parents Gateway supports day-to-day schooling activities of the child. It does not include students that are on leave of absence.</p></details>
-  
-
-
-  
-
- 
-
-
-
-
-
