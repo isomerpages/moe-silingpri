@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Parents Gateway App
 ---
 ### FAQs
-
-**1\. What is Parent Gateway?**  
-
-Parents Gateway is a mobile app available on iOS and Android for parents. It affords&nbsp;schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.
+<details><summary><b> What is Parent Gateway?</b></summary> <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
 
 **2.&nbsp;Why Parents Gateway?**&nbsp;
 
