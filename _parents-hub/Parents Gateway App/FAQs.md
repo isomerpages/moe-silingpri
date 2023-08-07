@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Gateway App
 ---
 ### FAQs
- <details><summary><b>What is Parent Gateway?</b> [Click me <i class="fa fa-arrow-right"></i>]</summary> &nbsp; <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
+ <details><summary style="font-weight:bold ; cursor:pointer;">What is Parent Gateway? </summary> &nbsp; <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
 &nbsp;
 <details><summary><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
 &nbsp;
@@ -78,41 +78,6 @@ iii. Create your new SingPass password.  </p></details>
 </p></details>
 &nbsp;
 <details><summary><b>I am a divorced parent and have been awarded custody of the child. I would not want my ex-spouse to be able to see the details of my child through Parents Gateway.</b></summary><p>kindly approach your child’s school for assistance.</p></details>
-&nbsp;
-	<details><summary><b>I don’t seem to receive any notifications. I also cannot find anywhere in&nbsp;the app that I can configure my notifications.</b></summary>Any announcements sent to parents will be accompanied by in-app notifications only.&nbsp; 
-	For notification to work, kindly ensure that : &nbsp;
-
-&nbsp; &nbsp; &nbsp; 1\. You remained logged on the app.&nbsp;
-
-&nbsp; &nbsp; &nbsp; 2\. The notification for Parents Gateway is enabled in your phone&nbsp;
-
-&nbsp; &nbsp; &nbsp;  3\. You have downloaded the latest version of the app.&nbsp; 
-	
-If the issue still persists, kindly provide feedback to the Parents Gateway Support through the app with information on your phone:
-	
-&nbsp; &nbsp; &nbsp; • Phone model&nbsp;
-
-&nbsp; &nbsp; &nbsp; • Phone device version&nbsp; </details>
-&nbsp;
-<details><summary><b>I cannot find the Parents Gateway App in App Store or Play Store.</b></summary><p>Kindly set the country of your App Store or Play Store to Singapore.&nbsp; 
-	<b>Play Store</b>&nbsp;
-
-&nbsp; &nbsp; &nbsp; 1\. Launch Play Store&nbsp;
-
-&nbsp; &nbsp; &nbsp; 2\. Select Account&nbsp;
-
-&nbsp; &nbsp; &nbsp; 3\. Tap Country and select Singapore
-
-  
-
-<b>App Store</b>&nbsp;
-
-&nbsp; &nbsp; &nbsp; 1\. Open Settings and go to “iTunes &amp; App Stores”&nbsp;
-
-&nbsp; &nbsp; &nbsp; 2\. Tap on Apple ID and enter the associated password&nbsp;
-
-&nbsp; &nbsp; &nbsp; 3\. Choose “Country/Region” and select Singapore to associate the account with.&nbsp;
-</p></details>
 &nbsp;
 <details><summary><b>My child’s details shown in the Parents Gateway App is missing or incorrect.</b></summary><p>&nbsp;Parents Gateway takes data from MOE database. For any updates to MOE database, kindly check with your child’s school.  </p></details>
 &nbsp;
