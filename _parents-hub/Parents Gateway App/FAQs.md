@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Parents Gateway App
 ---
 ### FAQs
- <details><summary style="font-weight:bold ; cursor:pointer;">
+ <details><summary style="font-weight:bold ; cursor:pointer; margin-top:12px">
 	<p>	What is Parent Gateway? </p></summary> &nbsp; <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
 &nbsp;
-<details><summary style="font-weight:bold ; cursor:pointer;"><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
+<details><summary style="font-weight:bold ; cursor:pointer; margin-bottom:12px"><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
 &nbsp;
-<details><summary><b>Who can access Parents Gateway?</b></summary>Parents Gateway contains sensitive information about students and their parents. Access to the mobile app is restricted to parents and legal guardians who are Singpass holders. If you fall into any of the following categories, you are eligible to apply for SingPass:
+<details><summary style="font-weight:bold; cursor:pointer;"><b>Who can access Parents Gateway?</b></summary>Parents Gateway contains sensitive information about students and their parents. Access to the mobile app is restricted to parents and legal guardians who are Singpass holders. If you fall into any of the following categories, you are eligible to apply for SingPass:
 <ul type="1">
 	<li> Singapore Citizen and Permanent Resident </li>
 	<li>  Employment Pass and Personalised Employment Pass holders </li>
@@ -22,7 +22,7 @@ third_nav_title: Parents Gateway App
 	<li>Selected Work Permit Holders who require SingPass to access government digital services. Visit <a href="https://service2.mom.gov.sg/workpass/enquiry/prelanding">WPOL Enquiry Service</a> to check your status.</li>
 </ul> Schools will continue to issue hardcopy letters and consent forms to parents and legal guardians who are unable to onboard Parents Gateway.</details>
 &nbsp;
-<details><summary><b>How do I apply for SingPass?</b></summary>Please visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/), or scan the QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). 
+<details><summary style="font-weight:bold; cursor:pointer;"><b>How do I apply for SingPass?</b></summary>Please visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/), or scan the QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). 
 <img style="width:60%" src="/images/Parents'%20Hub/singpass%20qr%20code%20scanner.png">
 
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.</details>
