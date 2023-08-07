@@ -79,7 +79,7 @@ iii. Create your new SingPass password.  </p></details>
 &nbsp;
 <details><summary><b>I am a divorced parent and have been awarded custody of the child. I would not want my ex-spouse to be able to see the details of my child through Parents Gateway.</b></summary><p>kindly approach your child’s school for assistance.</p></details>
 &nbsp;
-	<details><summary><b>I don’t seem to receive any notifications. I also cannot find anywhere in&nbsp;the app that I can configure my notifications.</b></summary><p>Any announcements sent to parents will be accompanied by in-app notifications only.&nbsp; 
+	<details><summary><b>I don’t seem to receive any notifications. I also cannot find anywhere in&nbsp;the app that I can configure my notifications.</b></summary>Any announcements sent to parents will be accompanied by in-app notifications only.&nbsp; 
 	For notification to work, kindly ensure that : &nbsp;
 
 &nbsp; &nbsp; &nbsp; 1\. You remained logged on the app.&nbsp;
@@ -88,12 +88,12 @@ iii. Create your new SingPass password.  </p></details>
 
 &nbsp; &nbsp; &nbsp;  3\. You have downloaded the latest version of the app.&nbsp; 
 	
-	If the issue still persists, kindly provide feedback to the Parents Gateway Support through the app with information of your phone:
+If the issue still persists, kindly provide feedback to the Parents Gateway Support through the app with information on your phone:
 	
 &nbsp; &nbsp; &nbsp; • Phone model&nbsp;
 
 &nbsp; &nbsp; &nbsp; • Phone device version&nbsp; 
-</p></details>
+</details>
 &nbsp;
 <details><summary><b>I cannot find the Parents Gateway App in App Store or Play Store.</b></summary><p>Kindly set the country of your App Store or Play Store to Singapore.&nbsp; 
 	<b>Play Store</b>&nbsp;
