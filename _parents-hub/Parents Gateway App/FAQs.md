@@ -7,7 +7,7 @@ third_nav_title: Parents Gateway App
 ### FAQs
  <details><summary style="font-weight:bold ; cursor:pointer;">What is Parent Gateway? </summary> &nbsp; <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
 &nbsp;
-<details><summary><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
+<details><summary style="font-weight:bold ; cursor:pointer;"><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
 &nbsp;
 <details><summary><b>Who can access Parents Gateway?</b></summary>Parents Gateway contains sensitive information about students and their parents. Access to the mobile app is restricted to parents and legal guardians who are Singpass holders. If you fall into any of the following categories, you are eligible to apply for SingPass:
 <ul type="1">
