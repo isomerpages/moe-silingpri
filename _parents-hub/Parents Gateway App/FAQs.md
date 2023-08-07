@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Gateway App
 ---
 ### FAQs
-<details><summary><b>What is Parent Gateway?</b></summary> &nbsp; Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</details>
+ <details><summary><b>What is Parent Gateway?</b> [Click me <i class="fa fa-arrow-right"></i>]</summary> &nbsp; <p>Parents Gateway is a mobile app available on iOS and Android for parents. It affords schools the convenience of updating parents of your schools’ programmes and for&nbsp;parents to provide consent for their children to participate in school activities.</p></details>
 &nbsp;
 <details><summary><b>Why Parents Gateway?</b></summary>The digitalisation of administrative paperwork (such as issuing, collating of forms) will help alleviate the administrative load of teachers and allow them to devote more time to nurture their students.</details>
 &nbsp;
@@ -92,8 +92,7 @@ If the issue still persists, kindly provide feedback to the Parents Gateway Supp
 	
 &nbsp; &nbsp; &nbsp; • Phone model&nbsp;
 
-&nbsp; &nbsp; &nbsp; • Phone device version&nbsp; 
-</details>
+&nbsp; &nbsp; &nbsp; • Phone device version&nbsp; </details>
 &nbsp;
 <details><summary><b>I cannot find the Parents Gateway App in App Store or Play Store.</b></summary><p>Kindly set the country of your App Store or Play Store to Singapore.&nbsp; 
 	<b>Play Store</b>&nbsp;
