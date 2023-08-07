@@ -23,17 +23,13 @@ third_nav_title: Parents Gateway App
 <img style="width:60%" src="/images/Parents'%20Hub/singpass%20qr%20code%20scanner.png">
 
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.</details>
-&nbsp;
 <details><summary><b>I forgot my SingPass password. How do I reset it?</b></summary><p>If you have set up your SingPass 2FA, you can reset your password instantly online:&nbsp;
-
-  
 
 i. Visit&nbsp;[https://www.singpass.gov.sg](https://www.singpass.gov.sg/)&nbsp;
 
 ii. Select “Reset Password” icon on the scroll bar. Enter your NRIC/FIN details, followed by your SMS/Token One-Time Password.&nbsp;
 
 iii. Create your new SingPass password.  </p></details>
-&nbsp;
 <details><summary><b>I have to use my SingPass for login. Is it secure?</b></summary><p>SingPass is an online account management for access to Singapore Government e-services. It allows users to access hundreds of government services easily and securely online.&nbsp;  </p></details>
 &nbsp;
 <details><summary><b>Must I pay for the app?</b></summary><p>Parents Gateway is free-of-charge.  </p></details>
