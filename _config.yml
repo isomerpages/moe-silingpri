@@ -2,8 +2,8 @@ title: Si Ling Primary School
 url: https://silingpri.moe.edu.sg
 favicon: /images/resizedslpsfav.png
 colors:
-  primary-color: "#822b2d"
-  secondary-color: "#0c159c"
+  primary-color: "#000000"
+  secondary-color: "#1b34a9"
   media-colors:
     - title: media-color-one
       color: "#49759a"

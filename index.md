@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banners/Si Ling Primary school new banners (1).svg
+      background: /images/Hero Banners/Si Ling Primary school new banner- Sample  (2).svg
       key_highlights:
         - title: SLS
           description: Student Learning Space
@@ -21,6 +21,12 @@ sections:
         - title: Compliments and Feedback
           description: Contact Us
           url: /contact-us/
+  - infobar:
+      title: Dialogue with Principal
+      description: Learn more about our  educational philosophy and the fantastic
+        opportunities we offer to our students.
+      button: click to sign up
+      url: https://form.gov.sg/64c237798e09550011352655
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
