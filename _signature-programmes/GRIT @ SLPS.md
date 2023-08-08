@@ -53,7 +53,7 @@ The stressful period can be challenging to the students. To end off the season o
 Through this Chillax, we hope to bring to the students that they are not alone in their journey and that there are many people whom they can lean on for support and that, together, they can go through the year with grit and resilience.
 		 
 ##### P6 Breakfast with Principal
-<img src="/images/Subpage%20banners%20-%20sample%20.png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
+<img src="/images/Subpage%20banners%20-%20sample%20.png" style="width:55%; margin-left:12px; margin-right:-20px" align="right">
 
 
 *   Interaction between school leaders, form teachers and students
