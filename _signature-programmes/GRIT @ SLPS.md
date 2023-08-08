@@ -6,7 +6,7 @@ description: ""
 ### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
 #### Purpose
-
+<img src="/images/Subpage%20banners%20-%20sample%20%20(1).png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
 <ul style="list-style-type:disc">
 	<li> To improve student’s motivation</li>
 	<li>To strengthen resilience in students </li>
