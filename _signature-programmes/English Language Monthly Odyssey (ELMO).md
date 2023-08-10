@@ -5,7 +5,7 @@ description: ""
 ---
 ### **English Language Monthly Odyssey E.L.M.O.**
 
-<img style="width:70%; margin-left:15px" align="right" src="/images/19.png">
+<img style="width:70%; margin-left:15px" align="right" src="/images/78.png">
 
 
 English Language Monthly Odyssey (ELMO) is an array of literacy-based activities that aims to make language learning more enjoyable, engaging and rewarding. 
