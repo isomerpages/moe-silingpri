@@ -16,26 +16,26 @@ Through a series of activities and learning experiences, these students will be 
 
 **Pupils will develop social emotional competencies:**
 
-**√** Self-Awareness  
-**√** Social Awareness  
-**√** Self-Management  
-**√** Relationship Management  
-**√** Responsible Decision Making
+&#x2705; Self-Awareness  
+&#x2705;Social Awareness  
+&#x2705;Self-Management  
+ &#x2705;Relationship Management  
+&#x2705; Responsible Decision Making
 
 **We believe that a child who is resilient:**
 
-&nbsp;&nbsp;**√** Adapts positively despite setbacks  
-&nbsp;**√** Perseveres in the face of challenges  
-&nbsp;**√** Copes and manages well with life situations  
-&nbsp;**√** Relate well to others  
-&nbsp;**√** Contribute to the community
+&#x2705;Adapts positively despite setbacks  
+&#x2705;Perseveres in the face of challenges  
+ &#x2705;Copes and manages well with life situations  
+ &#x2705;Relate well to others  
+ &#x2705;Contribute to the community
 		
 **Approach:**
 
-****✓**** Interactive games and activities  
-****✓**** Motivational talks &amp; videos&nbsp;  
-****✓**** Experiential learning  
-****✓**** Using ICT&nbsp;  
-****✓**** Reflections – Journal Writing, Exit Slips  
-**✓** Pre and Post Surveys  
-**✓** SNACK time
+&#x2705; Interactive games and activities  
+&#x2705;Motivational talks &amp; videos&nbsp;  
+ &#x2705;Experiential learning  
+&#x2705; Using ICT&nbsp;  
+&#x2705; Reflections – Journal Writing, Exit Slips  
+&#x2705;Pre and Post Surveys  
+ &#x2705;SNACK time
