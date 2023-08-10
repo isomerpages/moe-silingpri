@@ -3,13 +3,17 @@ title: Lead Our Lives (LOL) with Purpose
 permalink: /signature-programmes/LOL/
 description: ""
 ---
-### **Lead Our Lives (L.O.L.) with Purpose**
 
-<img src="/images/lolwp1.png" style="width:70%;margin-right:15px;" align = "left">
+#### **L**ead
+#### **O**ur
+#### **L**ives with purpose
+##### Aim
+To build resilience and motivation in students by developing a resilient and positive mindset and building thinking, social and emotional skills. 
 
-The programme aims to build resilience and motivation in these students by developing a resilient and positive mindset and building thinking, social and emotional skills. Through a series of activities and learning experiences, these students will be taught skills to cope and manage challenges, build up his/her resilience and positive mindset and have the knowledge of the support networks around them.
 
-<img src="/images/lolwp2.png" style="width:50%;margin-left:15px;" align = "right">
+Through a series of activities and learning experiences, these students will be taught skills to cope and manage challenges, build up his/her resilience and positive mindset and have the knowledge of the support networks around them.
+
+
 
 **Pupils will develop social emotional competencies:**
 
@@ -21,18 +25,18 @@ The programme aims to build resilience and motivation in these students by devel
 
 **We believe that a child who is resilient:**
 
-  **√** Adapts positively despite setbacks  
- **√** Perseveres in the face of challenges  
- **√** Copes and manages well with life situations  
- **√** Relate well to others  
- **√** Contribute to the community
+&nbsp;&nbsp;**√** Adapts positively despite setbacks  
+&nbsp;**√** Perseveres in the face of challenges  
+&nbsp;**√** Copes and manages well with life situations  
+&nbsp;**√** Relate well to others  
+&nbsp;**√** Contribute to the community
 		
-**Programme Approach:**
+**Approach:**
 
-**√** Interactive games and activities  
-**√** Motivational talks & videos   
-**√** Experiential learning  
-**√** Using ICT   
-**√** Reflections – Journal Writing, Exit Slips  
-**√** Pre and Post Surveys  
-**√** SNACK time
+****✓**** Interactive games and activities  
+****✓**** Motivational talks &amp; videos&nbsp;  
+****✓**** Experiential learning  
+****✓**** Using ICT&nbsp;  
+****✓**** Reflections – Journal Writing, Exit Slips  
+**✓** Pre and Post Surveys  
+**✓** SNACK time
