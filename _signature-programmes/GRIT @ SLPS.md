@@ -6,7 +6,7 @@ description: ""
 ### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
 #### Purpose
-
+<img src="/images/Subpage%20banners%20-%20sample%20%20(1).png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
 <ul style="list-style-type:disc">
 	<li> To improve student’s motivation</li>
 	<li>To strengthen resilience in students </li>
@@ -53,6 +53,7 @@ The stressful period can be challenging to the students. To end off the season o
 Through this Chillax, we hope to bring to the students that they are not alone in their journey and that there are many people whom they can lean on for support and that, together, they can go through the year with grit and resilience.
 		 
 ##### P6 Breakfast with Principal
+<img src="/images/Subpage%20banners%20-%20sample%20.png" style="width:55%; margin-left:12px; margin-right:-20px" align="right">
 
 
 *   Interaction between school leaders, form teachers and students
@@ -60,9 +61,9 @@ Through this Chillax, we hope to bring to the students that they are not alone i
 *   Form teachers share personal motivational stories
 
 Breakfast with Principal for the Primary 6 students is a spinoff from the Primary 5 Snack with Principal. This is also another touchpoint for the school leaders and form teachers to interact with the Primary 6 students at a more personal level. 
-
-
+<img style="width:90%" src="/images/8.png">
 Being in the last lap of their primary school education journey, this session hopes to provide opportunities for the students to walk down memory lane as they reminisce their schooling life from Primary 1 up till Primary 6. Sessions are casual, allowing students to share their experiences and ask questions in an informal setting. 
+<img style="width:80%; align:center" src="/images/7.png">
 
 Students get to chit chat with the school leaders as they enjoy the breakfast that are provided for them. Through the sessions, school leaders and form teachers share their personal motivational stories that will inspire the students to persevere and press on till the end of their PSLE.
 
