@@ -21,23 +21,28 @@ She aims to spark innovative ideas amongst students when they brainstorm for ide
 #### Let's Recycle
 <img style="width:70%; margin-left:-30px; margin-right:-22px" align="right" src="/images/Let's%20Recycle.png">
 
-Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
+Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. 
+
+Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
 
 
 		 
 #### iCARE Week
 
 In conjunction with Earth Day, an annual event celebrated around the world to demonstrate support for environmental protection, our students from the SciEinsteins Club (SEC) organises iCARE Week yearly. Held in Term 2, this is the time when everyone in school learns more about environmental conservation through play.  
-  
+  <img style="width:90%" src="/images/iCare%20Assembly%20-2.png">
 The event starts with an assembly programme that highlights the environmental theme of the year. To promote environmental conservation to their peers in a fun and engaging manner, our students from the SCE perform short skits and show videos. Not only do our students enjoy the show by the SCE, students of the SCE also get to build their confidence and hone their communication skills.  
-  
+  <img style="width:90%" src="/images/iCare%20Assembly%20-1.png">
+	
 Meanwhile, students are kept busy partaking in recess activities such as energy conservation trails, sorting trash into the right categories, finger puppets making using recycled materials, solar car challenge and windmill-making. Through these activities, we seek to convince others to appreciate the environment and inspire them to do their part in conserving the environment.
 
-<img src="/images/alp5.png" style="width:70%">
+
 
 #### Whizz Kid
 
-Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity. We use case studies as active learning tools to develop students who think creatively and critically in solving environmental problems, and communicate and work effectively in teams as they apply science concepts to propose and test their solutions to real environmental problems. Whizz Kid aims to arouse students’ interest in learning beyond the classroom, equip students with 21st century skills and highlight to students real environmental issues.
+Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity. We use case studies as active learning tools to develop students who think creatively and critically in solving environmental problems, and communicate and work effectively in teams as they apply science concepts to propose and test their solutions to real environmental problems. 
+
+Whizz Kid aims to arouse students’ interest in learning beyond the classroom, equip students with 21st century skills and highlight to students real environmental issues.
 
 | Level | Task |
 |---|---|
@@ -71,6 +76,6 @@ The Environment Ambassadors also receive trainings that equip them with leadersh
 
 
 ###### **SciEinsteins Club**
-<img src="/images/alp7.png" style="width:320px;height:250px;margin-left:15px;" align="right">
+<img style="width:70%; margin-left:-30px; margin-right:-22px" align="right" src="/images/CCA%20Science.png">
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
