@@ -16,14 +16,14 @@ Everyone knows Professor Planet (affectionately known as Miss P)! She ignites a 
   
 She aims to spark innovative ideas amongst students when they brainstorm for ideas during their Whizz Kid Projects. Students too have a chance to win prizes if they are able to answer her quizzes!
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 #### Let's Recycle
+<img align="right" src="/images/Let's%20Recycle.png">
 
 Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
 
-<img src="/images/alp4.png" 
-     style="width:70%">
+
 		 
 #### iCARE Week
 
@@ -33,8 +33,7 @@ The event starts with an assembly programme that highlights the environmental th
   
 Meanwhile, students are kept busy partaking in recess activities such as energy conservation trails, sorting trash into the right categories, finger puppets making using recycled materials, solar car challenge and windmill-making. Through these activities, we seek to convince others to appreciate the environment and inspire them to do their part in conserving the environment.
 
-<img src="/images/alp5.png" 
-     style="width:70%">
+<img src="/images/alp5.png" style="width:70%">
 
 #### Whizz Kid
 
@@ -47,31 +46,31 @@ Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity.
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-<img src="/images/alp6.png" style="width:70%;margin-right:15px;" align = "left">
+<img src="/images/alp6.png" style="width:70%;margin-right:15px;" align="left">
 
 ###### **Environment Ambassador**
 
 ESP provides opportunities for students to hone their leadership skills, igniting their desire to serve the school. Selected students will go through rounds of interview before being appointed as Environment Ambassadors. Duties of Environment Ambassadors include:  
   
 
-*   Sharing of environmental science topics and issues with their peers and public through talks and hands-on activities, during recess time and iCARE Week 
-*   Organising of “Let’s Recycle” Programme 
-*   Encouraging students to recycle their drink cartons during recess 
-*   Watering of plants 
-*   Conducting energy audit checks 
-*    Assisting in workshops like the P4 Terrarium Workshop and Si Ling Open House 
+*   Sharing of environmental science topics and issues with their peers and public through talks and hands-on activities, during recess time and iCARE Week&nbsp;
+*   Organising of “Let’s Recycle” Programme&nbsp;
+*   Encouraging students to recycle their drink cartons during recess&nbsp;
+*   Watering of plants&nbsp;
+*   Conducting energy audit checks&nbsp;
+*   &nbsp;Assisting in workshops like the P4 Terrarium Workshop and Si Ling Open House&nbsp;
 
   
 The Environment Ambassadors also receive trainings that equip them with leadership skills so that they can lead their peers in organising environment-related activities. They also pick up communication and presentation skills that allow them to share environmental messages and knowledge of more advanced concepts in environmental science effectively. Trainings include:  
   
 
-*   Si Ling Environment Ambassadors Training 
-*   NEA Environment Champion Workshop 
-*   SGA Workshop 
+*   Si Ling Environment Ambassadors Training&nbsp;
+*   NEA Environment Champion Workshop&nbsp;
+*   SGA Workshop&nbsp;
 *   Biodiversity Workshop
 
 
 ###### **SciEinsteins Club**
-<img src="/images/alp7.png" style="width:320px;height:250px;margin-left:15px;" align = "right">
+<img src="/images/alp7.png" style="width:320px;height:250px;margin-left:15px;" align="right">
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
