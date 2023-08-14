@@ -19,7 +19,7 @@ She aims to spark innovative ideas amongst students when they brainstorm for ide
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 #### Let's Recycle
-<img align="right" src="/images/Let's%20Recycle.png">
+<img style="width:70%; margin-left:-30px; margin-right:-22px" align="right" src="/images/Let's%20Recycle.png">
 
 Our student Environment Ambassadors organise “Let’s Recycle” programme to encourage their peers to do their part in environmental conservation. Students deposit recyclables into a bin placed in every classroom and the EAs will collect and weigh them. The amount of recyclables are tallied termly and the classes are awarded with either Gold, Silver or Bronze Award, according to the amount of recyclables they have contributed. This aims to motivate students to recycle as much as they can.
 
