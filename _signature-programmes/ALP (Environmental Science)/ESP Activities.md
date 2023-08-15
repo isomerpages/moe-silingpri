@@ -62,11 +62,11 @@ We use case studies as active learning tools to develop students who think creat
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
+<img style="width:90%; margin-bottom: 0px" src="/images/Environment%20ambassadors.svg">																		<p style="margin: 0px ; padding top: 0px">
+Selected students will go through rounds of interview before being appointed as Environment Ambassadors. 
+</p>
 
-
-###### **Environment Ambassador**
-
-ESP provides opportunities for students to hone their leadership skills, igniting their desire to serve the school. Selected students will go through rounds of interview before being appointed as Environment Ambassadors. Duties of Environment Ambassadors include:  
+Duties of Environment Ambassadors include:  
   
 
 *   Sharing of environmental science topics and issues with their peers and public through talks and hands-on activities, during recess time and iCARE Week&nbsp;
@@ -77,7 +77,11 @@ ESP provides opportunities for students to hone their leadership skills, ignitin
 *   &nbsp;Assisting in workshops like the P4 Terrarium Workshop and Si Ling Open House&nbsp;
 
   
-The Environment Ambassadors also receive trainings that equip them with leadership skills so that they can lead their peers in organising environment-related activities. They also pick up communication and presentation skills that allow them to share environmental messages and knowledge of more advanced concepts in environmental science effectively. Trainings include:  
+The Environment Ambassadors also receive trainings that equip them with leadership skills so that they can lead their peers in organising environment-related activities.
+
+They also pick up communication and presentation skills that allow them to share environmental messages and knowledge of more advanced concepts in environmental science effectively. 
+
+Trainings include:  
   
 
 *   Si Ling Environment Ambassadors Training&nbsp;
@@ -86,7 +90,7 @@ The Environment Ambassadors also receive trainings that equip them with leadersh
 *   Biodiversity Workshop
 
 
-###### **SciEinsteins Club**
+##### **SciEinsteins Club**
 <img style="width:80%; margin-left:-30px; margin-right:-22px" align="right" src="/images/CCA%20Science.png">
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
