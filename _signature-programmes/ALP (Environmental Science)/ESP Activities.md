@@ -16,7 +16,7 @@ Everyone knows Professor Planet (affectionately known as Miss P)! She ignites a 
   
 She aims to spark innovative ideas amongst students when they brainstorm for ideas during their Whizz Kid Projects. Students too have a chance to win prizes if they are able to answer her quizzes!
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&amp;show_text=false&amp;width=560&amp;t=0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560"></iframe>
+
 
 #### Let's Recycle
 <img style="width:70%; margin-left:-30px; margin-right:-22px" align="right" src="/images/Let's%20Recycle.png">
