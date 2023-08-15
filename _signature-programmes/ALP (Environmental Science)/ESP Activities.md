@@ -91,7 +91,7 @@ Trainings include:
 
 ###### SciEinsteins
 
-<img align="right" style="wdith:90%; margin-left:15px" src="/images/CCA%20Science.png">	
+<img style="width:70%; margin-left:12px;" align="right" src="/images/CCA%20Science.png">	
 
 To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. 
 
