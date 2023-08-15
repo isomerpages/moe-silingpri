@@ -62,8 +62,8 @@ We use case studies as active learning tools to develop students who think creat
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-<img style="width:90%" src="/images/Environment%20ambassadors%20-2.svg">
-<p style="margin-top:-12rem">Selected students will go through rounds of interview before being appointed as Environment Ambassadors. </p>
+###### Environment Ambassadors
+ESP provides opportunities for students to hone their leadership skills, igniting their desire to serve the school. Selected students will go through rounds of interview before being appointed as Environment Ambassadors.
 
 
 **Duties of Environment Ambassadors include:**  
@@ -89,10 +89,11 @@ Trainings include:
 *   SGA Workshop&nbsp;
 *   Biodiversity Workshop
 
+###### SciEinsteins
 
-<img style="width:90%" src="/images/Environment%20ambassadors%20-2.svg">
+<img align="right" style="wdith:90%; margin-left:15px" src="/images/CCA%20Science.png">	
+
+To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. 
 
 
-<p style="margin-top:-200px">To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. </p>
-	
 They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
