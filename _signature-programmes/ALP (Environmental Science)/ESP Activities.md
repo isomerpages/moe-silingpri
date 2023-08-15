@@ -90,7 +90,9 @@ Trainings include:
 *   Biodiversity Workshop
 
 
-##### **SciEinsteins Club**
-<img style="width:80%; margin-left:-30px; margin-right:-22px" align="right" src="/images/CCA%20Science.png">
+<img style="width:90%" src="/images/Environment%20ambassadors%20-2.svg">
 
-To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
+
+<p style="margin-top:-200px">To cater to students who are passionate about the environment, we conduct activities that allow them to pursue their interests. </p>
+	
+They mostly carry out experiments related to environmental science and prepare resources to support activities related to environmental conservation such as the iCARE Week and the Si Ling Open House. They also do planting in school premises.
