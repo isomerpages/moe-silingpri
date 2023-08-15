@@ -63,7 +63,7 @@ We use case studies as active learning tools to develop students who think creat
 
 #### Leadership in ESP
 <img style="width:90%" src="/images/Environment%20ambassadors%20-2.svg">
-<p style="margin-top:-200px">Selected students will go through rounds of interview before being appointed as Environment Ambassadors. </p>
+<p style="margin-top:-12rem">Selected students will go through rounds of interview before being appointed as Environment Ambassadors. </p>
 
 
 **Duties of Environment Ambassadors include:**  
