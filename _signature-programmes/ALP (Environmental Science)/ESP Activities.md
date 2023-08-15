@@ -62,7 +62,7 @@ We use case studies as active learning tools to develop students who think creat
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-<img style="width:90%;margin-top:-100px; margin-bottom:-120px" src="/images/Environment%20ambassadors.svg">
+<img style="width:90%;margin-top:-130px; margin-bottom:-120px" src="/images/Environment%20ambassadors.svg">
 <p style="margin-top:-100px">Selected students will go through rounds of interview before being appointed as Environment Ambassadors. </p>
 
 
