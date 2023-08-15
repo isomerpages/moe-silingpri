@@ -62,9 +62,9 @@ We use case studies as active learning tools to develop students who think creat
 | Primary 5 | Build a device to obtain potable water |
 
 #### Leadership in ESP
-<img style="width:90%; margin-bottom: 0px" src="/images/Environment%20ambassadors.svg">																		<p style="margin: 0px ; padding top: 0px">
+<img align="top" style="width:90%; display:block" src="/images/Environment%20ambassadors.svg">
 Selected students will go through rounds of interview before being appointed as Environment Ambassadors. 
-</p>
+
 
 Duties of Environment Ambassadors include:  
   
