@@ -40,9 +40,13 @@ Meanwhile, students are kept busy partaking in recess activities such as energy 
 
 #### Whizz Kid
 
-Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity. We use case studies as active learning tools to develop students who think creatively and critically in solving environmental problems, and communicate and work effectively in teams as they apply science concepts to propose and test their solutions to real environmental problems. 
+Whizz Kid is a STEM (Science, Technology, Engineering and Mathematics) activity. 
 
-Whizz Kid aims to arouse students’ interest in learning beyond the classroom, equip students with 21st century skills and highlight to students real environmental issues.
+<img align="left" src="/images/New%20Whizz%20Infographic.svg">
+
+We use case studies as active learning tools to develop students who think creatively and critically in solving environmental problems, and communicate and work effectively in teams as they apply science concepts to propose and test their solutions to real environmental problems. 
+
+
 
 | Level | Task |
 |---|---|
