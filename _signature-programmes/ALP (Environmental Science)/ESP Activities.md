@@ -13,7 +13,8 @@ ESP includes experiential learning activities that seek to enrich students’ le
 
   
 Everyone knows Professor Planet (affectionately known as Miss P)! She ignites a curiosity about the environment that goes beyond the classroom. In a light-hearted manner, she introduces today’s environmental issues and the role of technology in resolving them.  
-  
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2Fvideos%2F946219826007065%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>  
+
 She aims to spark innovative ideas amongst students when they brainstorm for ideas during their Whizz Kid Projects. Students too have a chance to win prizes if they are able to answer her quizzes!
 
 
