@@ -26,4 +26,4 @@ To equip our pupils with the communicative skills of the English Language.
 </style>
 <div class="container">
 <div class="box">
-	<img src="/images/12.png"></div></div>
+	<a href="https://www.silingpri.moe.edu.sg/our-experiences/English/writing/"><img src="/images/12.png"></a></div></div>
