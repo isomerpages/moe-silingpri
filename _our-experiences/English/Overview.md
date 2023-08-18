@@ -14,8 +14,8 @@ Every Si Ling Pupil a Confident, Effective and Ethical Communicator with a Love 
 To equip our pupils with the communicative skills of the English Language.
 
 <div class="image-img">
- <a href="/images/17.png" class="enlarge-popup"><img src="/images/17.png" alt="/images/17.png">  
- </a></div><a href="/images/17.png" class="enlarge-popup">  
+ <a href="https://www.silingpri.moe.edu.sg/signature-programmes/ELMO/" class="enlarge-popup"><img src="/images/17.png" alt="/images/17.png">  
+ </a></div><a href="https://www.silingpri.moe.edu.sg/signature-programmes/ELMO/" class="enlarge-popup">  
 
 
 
