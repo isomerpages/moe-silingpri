@@ -6,7 +6,9 @@ third_nav_title: English
 ---
 ### **English**
 <img src="/images/el1.png" style="width:65%">
-
+<div>class="icon-container"</div>
+<a>href="https://www.silingpri.moe.edu.sg/signature-programmes/ELMO/" class="icon-link"</a>
+<i>class="fas fa-envelope"</i>
 ##### Our Vision
 
 Every Si Ling Pupil a Confident, Effective and Ethical Communicator with a Love for the Language
