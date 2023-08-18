@@ -15,8 +15,9 @@ To equip our pupils with the communicative skills of the English Language.
 
 <div class="image-img">
  <a href="/images/17.png" class="enlarge-popup"><img src="/images/17.png" alt="/images/17.png">  
- </div>  
+ </a></div><a href="/images/17.png" class="enlarge-popup">  
 
 
 
 
+</a>
