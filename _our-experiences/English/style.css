@@ -1,9 +1,11 @@
 .div-img{
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    padding-top: 20%;
+display: flex;
+flex-wrap: wrap;
 }
-img:hover{
-transform: scale(2.5);
+.enlarge-hover{
+    width: 90%;
+    transition: width 0.3s ease;
+}
+.enlarge-hover:hover{
+    width: 180%;
 }
