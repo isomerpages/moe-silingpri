@@ -13,4 +13,3 @@ Every Si Ling Pupil a Confident, Effective and Ethical Communicator with a Love 
 ##### Our Mission Statement
 
 To equip our pupils with the communicative skills of the English Language.
-
