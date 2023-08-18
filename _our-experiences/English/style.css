@@ -1,9 +1,9 @@
-.image-gallery{
-    display: inline-flex; flex-wrap: wrap;
+.div-img{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 20%;
 }
-.enlarge-hover{
-    width: 90%;transition:width 0.3s;
-}
-.enlarge-hover:hover{
-    width: 300px;
+img:hover{
+transform: scale(2.5);
 }
