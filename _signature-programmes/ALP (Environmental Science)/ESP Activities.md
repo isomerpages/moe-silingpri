@@ -47,11 +47,24 @@ We use case studies as active learning tools to develop students who think creat
 
 Whizz Kid aims to arouse students’ interest in learning beyond the classroom, equip students with 21st century skills and highlight to students real environmental issues.
 &nbsp;
-| Level | Task |
-|---|---|
-| Primary 3 | Use recycled materials to build a boat |
-| Primary 4 | Design a green building |
-| Primary 5 | Build a device to obtain potable water |
+<table>
+	<tbody><tr>
+		<th>Level</th>
+		<th>Task</th>
+	</tr>
+	<tr>
+	<td> Primary 3</td>
+	<td>Use recycled materials to build a boat</td>
+	</tr>
+	<tr>
+		<td>Primary 4</td>
+		<td>Design a green building </td>
+	</tr>
+	<tr>
+		<td>Primary 5</td>
+		<td>Build a device to obtain potable water</td>
+	</tr>
+</tbody></table> 
 
 #### Leadership in ESP
 ###### Environment Ambassadors
