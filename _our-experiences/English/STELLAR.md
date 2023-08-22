@@ -6,9 +6,8 @@ third_nav_title: English
 ---
 ### **STELLAR**
 
-<img src="/images/ell2.png" style="width:283px;height:340px;margin-right:15px;" align = "left">
 
-**STELLAR** stands for     
+**STELLAR**&nbsp;stands for&nbsp; &nbsp;  
   
 **ST**rategies For  
 **E**nglish  
@@ -17,4 +16,4 @@ third_nav_title: English
 **A**nd  
 **R**eading  
 
-In STELLAR, we strive to inculcate in our students a love for reading and equip them with a strong foundation in the English Language, as they learn through speaking and listening activities and use rich and interesting books to learn reading and writing, with discussions led by the teacher.
+In STELLAR, we strive to inculcate in our students a love for reading and equip them with a strong foundation in the English Language, as they learn through speaking and listening activities&nbsp;and use rich and interesting books to learn reading and writing, with discussions led by the teacher.
