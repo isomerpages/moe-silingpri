@@ -8,7 +8,7 @@ third_nav_title: English
 
 
 **STELLAR**&nbsp;stands for&nbsp; &nbsp;  
-  
+  <img style="width:77%" align="right" src="/images/Stellar%20Subpage.png">
 **ST**rategies For  
 **E**nglish  
 **L**anguage  
