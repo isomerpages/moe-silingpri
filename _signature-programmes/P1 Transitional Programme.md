@@ -110,7 +110,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	</ul>
 	
 ##### Day 3
-<img src="/images/Annotation%202023-07-20%20162519.png" align="right" style="width:60%;margin-left:16px">
+<img src="/images/Annotation%202023-07-20%20162519.png" align="right" style="width:70%;margin-left:auto">
 
 **Classroom Circle  Time**
 <ul style="list-style-type:disc">
