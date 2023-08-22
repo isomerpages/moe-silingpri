@@ -93,10 +93,10 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 2
- 
+<img style="width:90%;margin-left:-150px;margin-right:-150px" align="right" src="/images/AHHHH.png">
+
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
-		<img style="width:90%;margin-left:-150px;margin-right:-150px" align="right" src="/images/AHHHH.png">
 	<li>Setting Classroom Routines </li>
 	<li>PSR lesson 1</li>
 	</ul>
