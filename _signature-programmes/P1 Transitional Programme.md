@@ -23,7 +23,7 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<img align="right" style="width:60%;margin-left:15px;" src="/images/transitionalprogramme2.png">
+<img align="right" style="width:70%;margin-left:auto;" src="/images/transitionalprogramme2.png">
 
 ##### **The 3Cs Approach**
 ##### **C**are
@@ -52,7 +52,7 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-<img src="/images/5.png" align="right" style="width:70%;margin-left:15px">
+<img src="/images/5.png" align="right" style="width:76%;margin-left:auto">
 
 **P1 Form Teachers Engagement**
 
