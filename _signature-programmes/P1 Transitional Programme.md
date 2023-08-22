@@ -90,7 +90,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	<li>Icebreaker Games with classmates </li>
 </ul>
 
-<img style="width:60%;margin-left:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(5).png">
+
 
 ##### Day 2
  
@@ -98,7 +98,9 @@ P1 students do not start their formal curriculum in the first week. They have Or
 <ul style="list-style-type:disc">
 	<li>Setting Classroom Routines </li>
 	<li>PSR lesson 1</li>
+		<img style="width:60%;margin-left:15px" align="right" src="/images/78.png">
 	</ul>
+
 	
 **Express Yourself!**
 <ul style="list-style-type:disc">
