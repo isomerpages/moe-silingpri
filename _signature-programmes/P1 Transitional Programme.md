@@ -4,7 +4,6 @@ permalink: /signature-programmes/p1transitionalprogramme/
 description: ""
 ---
 ### **P1 Transitional Programme**
-<<<<<<< Updated upstream
 <img src="/images/79.png" align="right" style="width:auto; margin-left:auto">
 
 =======
