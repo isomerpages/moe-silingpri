@@ -4,7 +4,7 @@ permalink: /signature-programmes/p1transitionalprogramme/
 description: ""
 ---
 ### **P1 Transitional Programme**
-<img src="/images/79.png" align="right" style="width:60%; margin-left:15px">
+<img src="/images/79.png" align="right" style="width:80%; margin-left:-30px">
 
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
