@@ -3,7 +3,7 @@ title: Lead Our Lives (LOL) with Purpose
 permalink: /signature-programmes/LOL/
 description: ""
 ---
-#### **L**ead
+#### **L**ead 
 #### **O**ur
 #### **L**ives with purpose
 ##### Aim
