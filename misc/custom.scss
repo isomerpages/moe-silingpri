@@ -335,12 +335,13 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-.image-container{
-  text-align:right;
-}
-@media (max-width:768px) {
+@media (max-width:1080px) {
   .image-container{
     text-align: center;
     display: block;
   }
+}
+.image-container{
+  text-align:right;
+  display: inline;
 }
