@@ -4,5 +4,5 @@ text-align: right;
 .responsive-image{
     max-width: 100%;
     display: block;
-    margin: auto;
+    margin: 0 auto;
 }
