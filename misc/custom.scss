@@ -335,7 +335,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-@media (max-width:1080px) {
+@media (max-width:800mm) {
   .image-container{
     text-align: center;
     display: block;
