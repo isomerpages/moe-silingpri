@@ -4,8 +4,10 @@ permalink: /signature-programmes/p1transitionalprogramme/
 description: ""
 ---
 ### **P1 Transitional Programme**
-<img style="width:60%; margin-left:15px" align="right" src="/images/79.png">
 
+<div class="container">
+<img src="/images/79.png">
+</div>
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
@@ -23,7 +25,7 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<img src="/images/transitionalprogramme2.png" style="width:60%;margin-left:15px;" align="right">
+<img align="right" style="width:70%;margin-left:auto;" src="/images/transitionalprogramme2.png">
 
 ##### **The 3Cs Approach**
 ##### **C**are
@@ -52,7 +54,7 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-<img style="width:70%;margin-left:15px" align="right" src="/images/5.png">
+<img src="/images/5.png" align="right" style="width:76%;margin-left:auto">
 
 **P1 Form Teachers Engagement**
 
@@ -80,7 +82,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 1
-<img style="width:60%; margin-left:15px;height:60%" align="right" src="/images/Annotation%202023-07-20%20162937.png">
+<img src="/images/Annotation%202023-07-20%20162937.png" align="right" style="width:70%; margin-left:auto;height:60%">
 
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
@@ -90,15 +92,17 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	<li>Icebreaker Games with classmates </li>
 </ul>
 
-<img style="width:60%;margin-left:15px" align="right" src="/images/Subpage%20banners%20-%20sample%20%20(5).png">
+
 
 ##### Day 2
- 
+<img style="width:80%;margin-left:auto;margin-right:auto" align="right" src="/images/AHHHH.png">
+
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
 	<li>Setting Classroom Routines </li>
 	<li>PSR lesson 1</li>
 	</ul>
+
 	
 **Express Yourself!**
 <ul style="list-style-type:disc">
@@ -108,7 +112,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	</ul>
 	
 ##### Day 3
-<img style="width:60%;margin-left:16px" align="right" src="/images/Annotation%202023-07-20%20162519.png">
+<img src="/images/Annotation%202023-07-20%20162519.png" align="right" style="width:70%;margin-left:auto">
 
 **Classroom Circle  Time**
 <ul style="list-style-type:disc">
