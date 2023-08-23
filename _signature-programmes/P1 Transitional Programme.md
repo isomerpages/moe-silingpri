@@ -25,9 +25,8 @@ To enable Primary One students to gain confidence, become competent learners and
 
 To instill skills that they can adapt to a new environment.
 
-<div class="image-container">
-<img src="/images/transitionalprogramme2.png" align="right">
-</div>
+<img style="width:70%; margin-left:-120px" src="/images/transitionalprogramme2.png" align="right">
+
 ##### **The 3Cs Approach**
 ##### **C**are
 ##### **C**ommunication
