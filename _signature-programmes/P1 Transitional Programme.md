@@ -6,7 +6,7 @@ description: ""
 ### **P1 Transitional Programme**
 
 <div class="image-container">
-<img align="right" src="/images/79.png" style="margin-left:-75px; margin-right:-98px; width:90%"> 
+<img align="right" src="/images/79.png"> 
 </div>
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.

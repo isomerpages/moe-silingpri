@@ -341,5 +341,6 @@ $desktop: 960px + (2 * $gap) !default;
 @media (max-width:768px) {
   .image-container{
     text-align: center;
+    display: block;
   }
 }
