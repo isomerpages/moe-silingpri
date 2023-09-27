@@ -57,7 +57,7 @@ description: ""
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br>
 			<strong>SH Student Leadership</strong></span></span></p>
 			</td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FADLINAH SABAN</span></span><br>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FADLINAH SABAN</span></span>
 				</td>
 		</tr>
 		<tr>
