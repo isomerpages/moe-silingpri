@@ -33,8 +33,8 @@ third_nav_title: Our People
 			<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS VERONICA YAT<br>
 			<strong>Administration Manager</strong></span></span></p>
 			</td>
-			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR RAYMOND S/O LAZAR<br>
-			<strong>Operations Manager</strong></span></span></td>
+			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><br>
+			<strong></strong></span></span></td>
 			<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">  <br>
 			<strong></strong></span>
 				</span></td>
