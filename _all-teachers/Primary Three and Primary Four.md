@@ -143,18 +143,8 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MR INDRA BAHADAR</span></td>
-			<td style="width:251px">&nbsp;</td>
-		</tr>
-		<tr>
+			<td style="width:249px"><span style="font-size:12px"></span></td>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">indra_bahadur_gu@moe.edu.sg</span></td>
-			<td style="width:251px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px">&nbsp;</td>
-			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Respect</span></span></td>
