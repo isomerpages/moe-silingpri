@@ -152,15 +152,20 @@ description: ""
 			</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS JULIANA LIM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM CHEW SUET SAN</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
+		<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_ching_yen_juliana@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chew_suet_san@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
+		<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
