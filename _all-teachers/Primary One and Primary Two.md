@@ -73,7 +73,7 @@ description: ""
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">marie_teo_kah_zhi@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">fadlinah_saban@moe.edu.sg</span></span></td>
-				<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
+				<td style="width:249px"><span style="font-size:12px">nurul_anisah_rizal_a@moe.edu.sg<span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -138,10 +138,12 @@ description: ""
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">hafizah_mahmud@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">low_kok_wah_jeffrey@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">abdul_kareem_muhammad@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
