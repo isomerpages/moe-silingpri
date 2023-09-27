@@ -113,7 +113,6 @@ description: ""
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
-					<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">
@@ -123,20 +122,22 @@ description: ""
 			<strong>ST Learning Needs</strong></span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR JEFFREY LOW</span></span>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR ABDUL KARREM<br>
-				<strong>Untrained Teacher</strong></span></span>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">hafizah_mahmud@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">low_kok_wah_jeffrey@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">abdul_kareem_muhammad@moe.edu.sg</span></span></td>
+			</tr><tr>
+			<td style="width:106px">&nbsp;</td>
+		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR ABDUL KAREEM</span></span></td>
+			<td style="width:106px">&nbsp;</td>
+		</tr><tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">abdul_kareem_muhammad@moe.edu.sg</span></td>	<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
-			<td style="width:251px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -145,20 +146,15 @@ description: ""
 			</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS JULIANA LIM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM CHEW SUET SAN</span></span></td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
-		<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_ching_yen_juliana@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chew_suet_san@moe.edu.sg</span></span></td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
-		<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
-			<td style="width:251px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -167,13 +163,11 @@ description: ""
 			</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NUR HAZURA HAMDAN</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS QUAH YEE WEN</span></span></td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">nur_hazura_hamdan@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">quah_yee_wen@moe.edu.sg</span></span></td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
