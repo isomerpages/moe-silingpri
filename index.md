@@ -31,6 +31,12 @@ sections:
       alt: Stand together
       image: /images/stand together-02.png
   - infopic:
+      title: The Caring Teacher Awards 2024
+      id: infopic
+      description: Nominate for your beloved teachers now!
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
       description: To all our award recipients, you may now head over to our school’s
