@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Primary One and Primary Two**
 
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:634px">
 	<thead>
 		<tr>
 			<th scope="col" style="text-align:left; width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Class</span></span></th>
@@ -25,9 +25,9 @@ description: ""
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chua_lynn_anthea@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px">&nbsp;</td>
-			<td style="width:251px">&nbsp;</td>
+			<td style="width:126px">&nbsp;</td>
+			<td style="width:253px">&nbsp;</td>
+			<td style="width:254px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">
