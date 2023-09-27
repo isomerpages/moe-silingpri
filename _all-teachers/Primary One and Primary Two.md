@@ -10,7 +10,8 @@ description: ""
 		<tr>
 			<th scope="col" style="text-align:left; width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Class</span></span></th>
 			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Form Teacher 1</span></span></th>
-			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Form Teacher 2 / 3</span></span></th>
+			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Form Teacher 2 </span></span></th>
+			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helevetica,sans-serif">Form Teacher 3</span></span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -18,16 +19,19 @@ description: ""
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Solidarity</span></span></td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS ANITA D/O SELVAM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ANTHEA CHUA</span></span></td>
+<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">anita_doselvam@moe.edu.sg&nbsp;</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chua_lynn_anthea@moe.edu.sg</span></span></td>
+		<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:126px">&nbsp;</td>
 			<td style="width:253px">&nbsp;</td>
 			<td style="width:254px">&nbsp;</td>
+			<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">
@@ -38,15 +42,18 @@ description: ""
 			</td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JOSEPHINE LOH<br>
 			<strong>LSP Coordinator</strong></span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">katijah_beevi_auwlia_m@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">loh_may_fong_josephine@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
+			<td style="width:251px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -59,11 +66,14 @@ description: ""
 			</td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FADLINAH SABAN</span></span>
 				</td>
+				<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS NURUL ANISAH <br>	
+					<strong>Untrained Teacher</strong></span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">marie_teo_kah_zhi@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">fadlinah_saban@moe.edu.sg</span></span></td>
+				<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>	
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
