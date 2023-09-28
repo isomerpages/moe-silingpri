@@ -34,8 +34,10 @@ sections:
       title: The Caring Teacher Awards 2024
       id: infopic
       description: Nominate for your beloved teachers now!
-      button: Button Text
+      button: Submit your nominees here
       alt: Image alt text
+      url: https://www.cta.nie.edu.sg/
+      image: /images/untitled design.png
   - infopic:
       title: Recognition Day 2022
       subtitle: Prize Winners & Parents
