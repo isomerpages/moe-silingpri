@@ -116,12 +116,12 @@ description: ""
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MR KOH CHIN SHENG<br>
 			<strong>HOD Student Management</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NORMAH&nbsp;MOHAMED NOR</span></td>
+			<td style="width:251px"><span style="font-size:12px">MS WONG &nbsp;KAI TENG</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">koh_chin_sheng@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">normah_mohamed_nor@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">wong_kai_teng@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
