@@ -39,12 +39,11 @@ sections:
       url: https://www.cta.nie.edu.sg/
       image: /images/untitled design.png
   - infopic:
-      title: Recognition Day 2022
-      subtitle: Prize Winners & Parents
-      description: To all our award recipients, you may now head over to our school’s
-        webpage to download your pictures
-      button: Recognition Day 2022 Photos
-      url: /parents-hub/recognition-day-2022/
+      title: President's Awards for Teachers 2024
+      subtitle: "closing date : 10 January 2024"
+      description: Nominate an inspiring teacher for this prestigious award
+      button: submit your nominees here
+      url: https://form.gov.sg/650a5bfd07ce8a0011c0133c
       image: /images/Highlight Posts/Recognition Day 2022 Post.gif
       alt: Recognition Day 2022 link
   - infopic:
