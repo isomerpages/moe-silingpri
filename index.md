@@ -44,7 +44,7 @@ sections:
       description: Nominate an inspiring teacher for this prestigious award
       button: submit your nominees here
       url: https://form.gov.sg/650a5bfd07ce8a0011c0133c
-      image: /images/Highlight Posts/Recognition Day 2022 Post.gif
+      image: /images/frame (2).png
       alt: Recognition Day 2022 link
   - infopic:
       title: Parents Gateway
