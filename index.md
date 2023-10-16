@@ -45,7 +45,7 @@ sections:
       button: submit your nominees here
       url: https://form.gov.sg/650a5bfd07ce8a0011c0133c
       image: /images/qr scanner.png
-      alt: Recognition Day 2022 link
+      alt: PAT 2024
   - infopic:
       title: Parents Gateway
       subtitle: Parents
