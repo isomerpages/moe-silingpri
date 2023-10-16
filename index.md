@@ -47,6 +47,15 @@ sections:
       image: /images/qr scanner.png
       alt: PAT 2024
   - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: "closing date: 10 January 2024"
+      id: infopic
+      description: Nominate your young teachers who personify youth idealism now
+      button: submit your nominees here
+      url: https://form.gov.sg/650a8bfa356d470012265669
+      alt: Image alt text
+      image: /images/scanner qr.png
+  - infopic:
       title: Parents Gateway
       subtitle: Parents
       description: App Guide and how to get onboard
@@ -64,13 +73,4 @@ sections:
         web-share"></iframe>
       button: Facebook
       url: https://www.facebook.com/silingprimaryschool/
-  - infopic:
-      title: Outstanding Youth in Education Award
-      subtitle: "closing date: 10 January 2024"
-      id: infopic
-      description: Nominate your young teachers who personify youth idealism now
-      button: submit your nominees here
-      url: https://form.gov.sg/650a8bfa356d470012265669
-      alt: Image alt text
-      image: /images/scanner qr.png
 ---
