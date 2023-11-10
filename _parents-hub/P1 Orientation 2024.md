@@ -7,5 +7,5 @@ description: ""
 # Primary One Orientation 2024 
 
 
-
+[Click here for pictures](https://photos.app.goo.gl/NLzMmqkXGXCQRd618)
 [Click here for slides](/files/P1_Orientation_2023_FOR_2024_P1__10_Nov_compressed.pdf)
