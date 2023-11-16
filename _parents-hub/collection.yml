@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - P1 Orientation 2024.md
       - School Services/School Bus Advertisement.md
       - School Services/School Canteen Advertisement.md
       - School Services/School Services.md
