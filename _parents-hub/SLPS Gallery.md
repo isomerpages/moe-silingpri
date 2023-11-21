@@ -4,7 +4,7 @@ permalink: /parents-hub/slpsgallery/
 variant: markdown
 description: ""
 ---
-<table>
+<img align="right" style="width:200px" src="/images/Recognition_Day__2.png"><table>
 	<tbody><tr>
 		<td>
 			<a href="https://photos.app.goo.gl/mJGdALhZY9YKPgQU6">
@@ -12,7 +12,12 @@ description: ""
 	</td>
 	</tr>
 	<tr>
+	
+		</tr>
+	<tr>
 <td>
 	[P1 Orientation 2024](https://photos.app.goo.gl/mJGdALhZY9YKPgQU6)
-	</td></tr></tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
 	
