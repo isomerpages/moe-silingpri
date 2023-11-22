@@ -1,0 +1,4 @@
+collections:
+  slps-gallery:
+    output: true
+    order: []
