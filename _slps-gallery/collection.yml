@@ -2,4 +2,4 @@ collections:
   slps-gallery:
     output: true
     order:
-      - SLPS Gallery.md
+      - 2023.md
