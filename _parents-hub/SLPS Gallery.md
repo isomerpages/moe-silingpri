@@ -4,15 +4,10 @@ permalink: /parents-hub/slpsgallery/
 variant: markdown
 description: ""
 ---
-<a href="https://photos.app.goo.gl/ycdYGgRhzVYyqHwH7">
-				<img align="right" style="width:200px" src="/images/Recognition_Day__2.png"></a><table>
-	<tbody>
-		<tr>
-		<td>
-			<a href="https://photos.app.goo.gl/mJGdALhZY9YKPgQU6">
-				<img style="width:200px" align="left" src="/images/_MG_0006.JPG">
-			</a></td></tr>
-		<tr>
-			
-		</tr>
-</tbody></table>
+
+
+	
+		<img src="/images/_MG_0006.JPG" style="float:left;margin-right:15px;width:200px">
+		&nbsp;
+	
+	<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong> P1 Orientation 2024 </strong></span></span>
