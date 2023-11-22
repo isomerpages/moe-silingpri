@@ -1,4 +1,5 @@
 collections:
   slps-gallery:
     output: true
-    order: []
+    order:
+      - SLPS Gallery.md
