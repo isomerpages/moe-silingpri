@@ -2,6 +2,7 @@
 title: Primary Three and Primary Four
 permalink: /about-us/Our-People/all-teachers/Primary-three-and-primary-four/
 description: ""
+variant: markdown
 ---
 ### **Primary Three and Primary Four**
 
@@ -16,12 +17,12 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Solidarity</span></span></td>
-			<td style="width:249px"><span style="font-size:12px">MRS JANET TENG</span></td>
+			<td style="width:249px"><span style="font-size:12px">MRS LILY TAN<br><strong>ST Mathematics</strong></span></td>
 			<td style="width:251px"><span style="font-size:12px">MISS CHONG LENG CHER</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">Loo_Chwan_Ing@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">chee_lily@moe.edu.sg</span></td>
 			<td style="width:251px"><span style="font-size:12px">chong_leng_cher@moe.edu.sg</span></td>
 		</tr>
 		<tr>
@@ -33,14 +34,13 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MDM YAAP YONG SIEW RUTH</span></td>
-			<td style="width:251px"><span style="font-size:12px">MR SAIFUL SAPARI<br>
-			<strong>SH Malay Language</strong></span></td>
+			<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG</span></td>
+			<td style="width:251px"><span style="font-size:12px">QUAH YEE WEN</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">yaap_yong_siew_ruth@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">saiful_sapari@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">dennis_tuan-yuh_leng@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">quan_yee_wen@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -51,15 +51,13 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MR GARY TEO TIAN SOON<br>
-			<strong>School Staff Developer</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NOOR AISYA<br>
-			BUANG</span></td>
+			<td style="width:210px"><span style="font-size:12px">MS WONG KAI TENG</span></td>
+			<td style="width:210px"><span style="font-size:12px">MR JEFFERY LOW</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">teo_tian_soon_gary@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">noor_aisya_buang@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">wong_kai_teng@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">low_kok_wah_jeffrey@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 				</tr><tr>
@@ -76,13 +74,12 @@ description: ""
 			<td style="width:249px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
-		
 		<tr>
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Respect</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MDM MELANIE YEO</span></td>
-			<td style="width:251px"><span style="font-size:12px">MR GAVIN SO SIONG TENG</span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM KATIJAH BEEVI D/O<br>AUWILA M</span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM AISYA BINTE BUANG</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -91,11 +88,15 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MOHAMED FAHMEE
-				B BUANG<br>
-				<strong>HOD PE / Aesthetics / CCA</strong></span></td>	
-			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">MS NURUL ANISHA BINTE RIZAL</span></td>	
+				<td style="width:106px">&nbsp;</td>
 		</tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">nurul_anisah_rizal_a@moe.edu.sg</span></td><td style="width:106px">&nbsp;</td>
+			<td style="width:249px">&nbsp;</td>
+				</tr>
+		
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
