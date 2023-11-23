@@ -23,8 +23,8 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">anita_doselvam@moe.edu.sg&nbsp;</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chua_lynn_anthea@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">hafizah_mahmud@moe.edu.sg&nbsp;</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">cher_wei_shan@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:126px">&nbsp;</td>
