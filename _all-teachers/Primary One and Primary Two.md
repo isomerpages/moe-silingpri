@@ -75,7 +75,7 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Respect</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM LIM CHING YEN JULIANA</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS JULIANA LIM</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FARADILAH BINTE MOHD YAKOP</span></span></td>
 		</tr>
 		<tr>
@@ -92,14 +92,22 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Solidarity</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MRS MAY NEO</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FARADILAH<br>
-			BTE MOHD YAAKOP</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ANITA D/O SELVAM<br><strong>SH  Science</strong></span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM TAN BOON FONG<br>
+			SHARON GRACE</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_tau_wei_may@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">anita_doselvam@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>
+		</tr>
+				<tr>
+			<td style="width:106px">&nbsp;</td>
+		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR SETHU S/O RAJAGOPAL<br><strong>Year Head P1 &amp; P2</strong></span></span></td>
+			<td style="width:106px">&nbsp;</td>
+		</tr><tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">sethu_rajagopal@moe.edu.sg</span></td>	<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -110,23 +118,15 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM HAFIZAH BTE MAHMUD<br>
-			<strong>ST Learning Needs</strong></span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR JEFFREY LOW</span></span>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS CHUA LYNN ANTHEA</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM  JOSEPHINE LOH<br><strong>LSP Coordinator</strong></span></span>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">hafizah_mahmud@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">low_kok_wah_jeffrey@moe.edu.sg</span></span></td>
-			</tr><tr>
-			<td style="width:106px">&nbsp;</td>
-		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR ABDUL KAREEM</span></span></td>
-			<td style="width:106px">&nbsp;</td>
-		</tr><tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">abdul_kareem_muhammad@moe.edu.sg</span></td>	<td style="width:106px">&nbsp;</td>
-		</tr>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chua_lynn_anthea@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">loh_may_fong_josephine@moe.edu.sg</span></span></td>
+			</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
@@ -136,13 +136,13 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS JULIANA LIM</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM CHEW SUET SAN</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br><strong>SH Stundent Leadership</strong></span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JAYARAMAN CHITRA</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_ching_yen_juliana@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">chew_suet_san@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">marie_teo_kah_zhi@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">jayaraman_chitra@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -153,24 +153,16 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Respect</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NUR HAZURA HAMDAN</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS QUAH YEE WEN</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SATHASIVAN RUTHRA</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS LEE MEI CHENG</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">nur_hazura_hamdan@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">quah_yee_wen@moe.edu.sg</span></span></td>
-		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR SETHU RAJAGOPAL<br>
-			<strong>Year Head P1 &amp; P2</strong></span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">sathasivan_ruthra@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lee_mei_cheng@moe.edu.sg</span></span></td>
 			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">sethu_rajagopal@moe.edu.sg</span></td>
-			<td style="width:251px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
