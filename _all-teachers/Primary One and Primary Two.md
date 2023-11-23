@@ -58,24 +58,15 @@ variant: markdown
 			<td style="width:249px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM YAAP YONG SIEW</span></span></p>
 			</td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SITI NUR ATIQA <br> BINTE ZAHRIN</span></span>
 				</td>
 	</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">marie_teo_kah_zhi@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">yaap_yong_siew_ruth@moe.edu.sg</span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></td>
 		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NURUL ANISAH</span></span></td>
-			<td style="width:106px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">nurul_anisah_rizal_a@moe.edu.sg</span></td>
-			<td style="width:251px">&nbsp;</td>
-			</tr><tr>
+			<tr>
 		<td style="width:106px">&nbsp;</td>
 							<td style="width:106px">&nbsp;</td>
 											<td style="width:106px">&nbsp;</td>
