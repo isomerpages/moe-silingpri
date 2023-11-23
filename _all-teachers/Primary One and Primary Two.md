@@ -2,6 +2,7 @@
 title: Primary One and Primary Two
 permalink: /about-us/Our-People/all-teachers/Primary-one-and-primary-two/
 description: ""
+variant: markdown
 ---
 ### **Primary One and Primary Two**
 
@@ -16,8 +17,8 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Solidarity</span></span></td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS ANITA D/O SELVAM</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ANTHEA CHUA</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM HAFIZAH BINTE MAHMUD</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS CHER WEI SHAN</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
