@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/Our-People/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Key Personnel**
 
@@ -190,7 +191,28 @@ third_nav_title: Our People
 		<tr>
 			<td style="width:274px">&nbsp;</td>
 			<td style="width:226px">&nbsp;</td>
+				</tr><tr>
+			<td style="width:274px">&nbsp;</td>
+			<td style="width:226px">&nbsp;</td>
 		</tr>
+		<tr>
+			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MDM TERRENZ HUANG</strong><br>
+			huang_yihui_terrenz@moe.edu.sg</span></span></td>
+			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SH ICT</strong></span></span></td>
+				</tr><tr>
+			<td style="width:274px">&nbsp;</td>
+			<td style="width:226px">&nbsp;</td>
+				</tr><tr>
+			<td style="width:274px">&nbsp;</td>
+			<td style="width:226px">&nbsp;</td>
+		</tr>
+			<tr>
+			<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS ANITA D/O SELVAM</strong><br>
+	anita_doselvam@moe.edu.sg</span></span></td>
+			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SH Science</strong></span></span></td>
+					<td style="width:274px">&nbsp;</td>
+		</tr>
+		
 		<tr>
 		</tr>
 		<tr>
