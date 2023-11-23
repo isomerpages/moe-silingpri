@@ -32,7 +32,7 @@ variant: markdown
 			<td style="width:254px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:106px">
+			<td style="width:201px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Perseverance</span></span></p>
 			</td>
 			<td style="width:249px">
@@ -69,8 +69,7 @@ variant: markdown
 			<tr>
 		<td style="width:106px">&nbsp;</td>
 							<td style="width:106px">&nbsp;</td>
-											<td style="width:106px">&nbsp;</td>
-		</tr>
+				<td style="width:106px">&nbsp;</td></tr>
 		<tr>
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Respect</span></span></p>
