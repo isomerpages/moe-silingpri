@@ -80,8 +80,8 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">sathasivan_ruthra@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lee_mei_cheng@moe.edu.sg</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_ching_yen_juliana@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">faradilah_mohd_yaakop@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -99,7 +99,7 @@ variant: markdown
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">lim_tau_wei_may@moe.edu.sg</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">faradilah_mohd_yaakop@moe.edu.sg</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">@moe.edu.sg</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
