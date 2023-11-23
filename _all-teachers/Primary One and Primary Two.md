@@ -75,8 +75,8 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Respect</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SATHASIVAN RUTHRA</span></span></td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS LEE MEI CHENG</span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM LIM CHING YEN JULIANA</span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM FARADILAH BINTE MOHD YAKOP</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
