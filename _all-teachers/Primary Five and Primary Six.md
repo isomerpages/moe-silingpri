@@ -2,6 +2,7 @@
 title: Primary Five and Primary Six
 permalink: /about-us/Our-People/all-teachers/Primary-five-and-primary-six/
 description: ""
+variant: markdown
 ---
 ### **Primary Five and Primary Six**
 
@@ -16,14 +17,14 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Solidarity</span></span></td>
-			<td style="width:249px"><span style="font-size:12px">MDM NORASHIKIN MOHD SAID<br>
-			<strong>LH Mathematics</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS ROSAMUND CHONG</span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM EMILIA BINTE RAZALI<br>
+			<strong>HOD English Language</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MR LEONARD TENG<br><strong>LT Science</strong></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">norashikin_mohamed_said@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">chong_wen_shan_rosamund@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">emilia_razali@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">teng_hang_chuan@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -34,14 +35,14 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MRS CATHRINE LAM<br>
-			<strong>HOD CCE</strong></span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS YU SHEAU HUEY</span></td>
+			<td style="width:249px"><span style="font-size:12px">MRS THAM-CHIN MEI LING
+			</span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br><strong>LSP Coordinator</strong></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">lam_chuan_kiet@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">yu_sheau_huey@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">tham-chin_mei_ling@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">lin_yuping@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -52,13 +53,13 @@ description: ""
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MDM TERRENZ HUANG</span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS CECILIA ONG</span></td>
+			<td style="width:249px"><span style="font-size:12px">MRS CATHERINE LAM<br><strong>HOD CCE</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MS AW JIE SHI</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">huang_yihui_terrenz@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">ong_soo_hoon_cecilia@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">lam_chuan_kiet@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">aw_jie_shi@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
