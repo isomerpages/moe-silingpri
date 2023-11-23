@@ -36,10 +36,10 @@ variant: markdown
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">1 Perseverance</span></span></p>
 			</td>
 			<td style="width:249px">
-			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM KATIJAH BEEVI</span></span></p>
+			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM LIM TAU WEI MAY</span></span></p>
 			</td>
-			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JOSEPHINE LOH<br>
-			<strong>LSP Coordinator</strong></span></span></td>
+			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SITI NUR ATIQA<br>BINTE ZAHRIN
+		</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
