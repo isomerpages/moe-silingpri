@@ -2,20 +2,31 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 ### Principal's Message
  <img src="/images/About%20Us/slpsmrkoe.jpeg" style="width:270px;height:270px;margin-right:15px;" align="left">  
 
 **Dear Parents/Guardians**,
 
-Si Ling Primary School is a school of rich heritage. From our humble beginnings as a school at the junction of Admiralty Road and Marsiling Lane, on the site of a rubber plantation, we have evolved and developed through the years to be a vibrant learning community.
+As the school year comes to a close, we would like to extend our heartfelt appreciation for all of your support and involvement in your child's/ward's education and well-being throughout the past year. Your partnership has been essential to your child's/ward's progress and achievements
 
-We want our students to achieve their potential and live their aspirations, while embracing strong values to guide them in lives. Over the years, our students only excel not just academically, but also in all other areas like Leadership, Sports and Games, Co-curricular Activities, and Service to the Community. After graduating, many of them continue to distinguish themselves in many fields. 
+There are some important school updates that we would like to inform you of in this letter. These updates include:
+<ol>
+<li>First week of Term 1 2024 
+</li>
+	<ul>
+<li>Term 1 2024 will be from 2 January to 8 March </li>
+		<li>All P1 students will start school on <strong>Tuesday 2 January 2024.</strong> All P2 tp P6 students will start school on <strong>Wednesday 3 January 2024</strong></li>
+<li>On the first day of school, all students should bring a small bag containing writing materials, a story book, a water bottle and a healthy light snack</li>
+</ul>
+<li>Example 2</li>
+<li>Example 3</li>
+My staff and I look forward to another fulfilling year of learning and growth with our students in the new school year. We hope you will stay connected with us on Facebook and Instaggram(@silingprimaryschool), where we will share our school's latest news and updates
+ 
 
-A school culture of care and excellence is what drives us to keep reinventing our programme to ensure relevance to our students in this fast changing world. We instill growth mindset in our students so that they understand the values of effort and persistence in improving the level and frequency of their achievements.
 
-We would like to invite you to partner us in the exciting growing years of your child’s schooling life. Let us work alongside you to develop the future leaders of our nation.
 
 Mr Koe Ee Tiong<br>
 Principal<br>
-4 Jan 2023
+27 Nov 2023</ol>
