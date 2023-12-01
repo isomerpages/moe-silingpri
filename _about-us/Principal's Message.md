@@ -18,7 +18,7 @@ There are some important school updates that we would like to inform you of in t
 ![](/images/Principal_Message___4.png)
 ![](/images/number_5.png)
 ![](/images/NUMBER_6.png)
-My staff and I look forward to another fulfilling year of learning and growth with our students in the new school year. We hope you will stay connected with us on Facebook and Instaggram(@silingprimaryschool), where we will share our school's latest news and updates.
+My staff and I look forward to another fulfilling year of learning and growth with our students in the new school year. We hope you will stay connected with us on Facebook and Instagram(@silingprimaryschool), where we will share our school's latest news and updates.
  
 
 
