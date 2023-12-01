@@ -12,7 +12,7 @@ variant: markdown
 As the school year comes to a close, we would like to extend our heartfelt appreciation for all of your support and involvement in your child's/ward's education and well-being throughout the past year. Your partnership has been essential to your child's/ward's progress and achievements
 
 There are some important school updates that we would like to inform you of in this letter. These updates include:
-<ol>
+<ol style="">
 <li>First week of Term 1 2024 
 </li>
 	<ul>
