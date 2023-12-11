@@ -2,7 +2,10 @@
 title: Lead Our Lives (LOL) with Purpose
 permalink: /signature-programmes/LOL/
 description: ""
+variant: markdown
 ---
+<img style="width:80%;margin-left:auto" align="right" src="/images/LOL__1.png">
+
 #### **L**ead 
 #### **O**ur
 #### **L**ives with purpose
@@ -16,26 +19,26 @@ Through a series of activities and learning experiences, these students will be 
 
 **Pupils will develop social emotional competencies:**
 
-&#x2705; Self-Awareness  
-&#x2705;Social Awareness  
-&#x2705;Self-Management  
- &#x2705;Relationship Management  
-&#x2705; Responsible Decision Making
+✅ Self-Awareness  
+✅Social Awareness  
+✅Self-Management  
+ ✅Relationship Management  
+✅ Responsible Decision Making
 
 **We believe that a child who is resilient:**
 
-&#x2705;Adapts positively despite setbacks  
-&#x2705;Perseveres in the face of challenges  
- &#x2705;Copes and manages well with life situations  
- &#x2705;Relate well to others  
- &#x2705;Contribute to the community
+✅Adapts positively despite setbacks  
+✅Perseveres in the face of challenges  
+ ✅Copes and manages well with life situations  
+ ✅Relate well to others  
+ ✅Contribute to the community
 		
 **Approach:**
 
-&#x2705; Interactive games and activities  
-&#x2705;Motivational talks &amp; videos&nbsp;  
- &#x2705;Experiential learning  
-&#x2705; Using ICT&nbsp;  
-&#x2705; Reflections – Journal Writing, Exit Slips  
-&#x2705;Pre and Post Surveys  
- &#x2705;SNACK time
+✅ Interactive games and activities  
+✅Motivational talks &amp; videos&nbsp;  
+ ✅Experiential learning  
+✅ Using ICT&nbsp;  
+✅ Reflections – Journal Writing, Exit Slips  
+✅Pre and Post Surveys  
+ ✅SNACK time
