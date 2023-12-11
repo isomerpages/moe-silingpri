@@ -18,7 +18,7 @@ Through a series of activities and learning experiences, these students will be 
 
 
 **Pupils will develop social emotional competencies:**
-	<img style="width:60%;margin-left:-90px" align="left" src="/images/LOL___2_.png">
+	<img style="width:60%;margin-left:-50px" align="left" src="/images/LOL___2_.png">
 	
 ✅ Self-Awareness  
 ✅Social Awareness  
@@ -27,16 +27,17 @@ Through a series of activities and learning experiences, these students will be 
 ✅ Responsible Decision Making
 
 **We believe that a child who is resilient:**
-	<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___2_.png">
+
 ✅Adapts positively despite setbacks  
 ✅Perseveres in the face of challenges  
  ✅Copes and manages well with life situations  
  ✅Relate well to others  
  ✅Contribute to the community
-	
-		
+			<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___3.png">
+			
 **Approach:**
 
+	
 ✅ Interactive games and activities  
 ✅Motivational talks &amp; videos&nbsp;  
  ✅Experiential learning  
