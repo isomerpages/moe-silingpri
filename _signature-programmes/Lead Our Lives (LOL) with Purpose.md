@@ -18,7 +18,8 @@ Through a series of activities and learning experiences, these students will be 
 
 
 **Pupils will develop social emotional competencies:**
-
+	<img style="width:60%;margin-left:-90px" align="left" src="/images/LOL___2_.png">
+	
 ✅ Self-Awareness  
 ✅Social Awareness  
 ✅Self-Management  
@@ -32,6 +33,7 @@ Through a series of activities and learning experiences, these students will be 
  ✅Copes and manages well with life situations  
  ✅Relate well to others  
  ✅Contribute to the community
+	
 		
 **Approach:**
 
