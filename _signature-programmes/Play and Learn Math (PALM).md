@@ -2,14 +2,11 @@
 title: Play and Learn Math (PALM)
 permalink: /signature-programmes/PALM/
 description: ""
+variant: markdown
 ---
 ### **P.A.L.M. Play and Learn Math**
+![](/images/Math_Fun_Week_Comic_Strip.jpeg)
 
-When am I ever going to use Math?
-
-Students often wonder if, when, and how they will ever&nbsp;use Math in "real life" situations.
-
-The truth is that we use Math all the time!
 
 Learning Math in Si Ling Pri goes beyond pen-and-paper drills.&nbsp; Our students get to enjoy the school-wide Math Fun Week, and Learning Journeys, as well as through mini projects, and the level-specific activities carefully designed to engage each cohort.&nbsp; In all these exciting experiences, students really get to play and learn Math in new and fun ways!
 
