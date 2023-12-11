@@ -50,4 +50,3 @@ Short of Math games to engage the students? Let our Primary 4 students use their
 ##### **Primary Five**
 
 What happens when a friend misses the Math lesson? No fear. Our Primary 5 students are here to the rescue. They will be making a video, poster or Powerpoint presentation to teach their friend what they have missed.
-<img src="/images/Signature%20Programmes/PALM/math6.png" style="width:55%">
