@@ -17,6 +17,7 @@ Learning Math in Si Ling Pri goes beyond pen-and-paper drills.&nbsp; Our student
 Students get to indulge in learning experiences that are enjoyable and fun, both in the classrooms and during recess! They get to have fun while applying what they have learnt! As an extension, we integrate Art and Math and get students to design zentangles, fold origami and make animals using shapes and submit them via SLS.
 
 ##### Learning Journeys
+<img src="/images/Math_learning_journey.png" style="width:440px;margin-left:15px;" align="right">
 
 Learning journeys encourage students to learn not only through the classroom but also through experiential learning, giving them a breather from their academic routine&nbsp;.&nbsp;Some of these Learning Journeys are also designed with cross-disciplinary learning objectives, for example, students get to learn about Math and Science.
 
