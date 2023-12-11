@@ -27,7 +27,7 @@ Through a series of activities and learning experiences, these students will be 
 ✅ Responsible Decision Making
 
 **We believe that a child who is resilient:**
-
+	<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___2_.png">
 ✅Adapts positively despite setbacks  
 ✅Perseveres in the face of challenges  
  ✅Copes and manages well with life situations  
