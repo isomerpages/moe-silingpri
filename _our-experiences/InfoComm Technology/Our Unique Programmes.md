@@ -3,6 +3,7 @@ title: Our Unique Programmes
 permalink: /our-experiences/InfoComm-Technology/our-unique-programmes/
 description: ""
 third_nav_title: InfoComm Technology
+variant: markdown
 ---
 ### **Our Unique Programmes**
 
@@ -14,22 +15,21 @@ To achieve our vision and mission, we have developed some unique ICT programmes 
 
 To achieve our ICT vision, our school has rolled out New Media Literacies during ICT lessons. Our ICT Modules for this year will cover three main domains of ICT skills - Curate, Create and Connect. Through these domains, students are able to acquire the skills they need to prepare them for the future. Students are also able to develop an understanding of the social practices that is widespread in the digital networked environment.
 
-<img src="/images/Our%20Experiences/InfoComm%20Technology/ict2.png" 
-     style="width:70%">
+<img src="/images/ICT___Programmes.png" style="width:90%">
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iwPhComy-hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iwPhComy-hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 **Student Learning Space**
 
 The Student Learning Space or SLS is a MOE learning portal that has curriculum-aligned learning resources, catering to all learners and their learning needs. Our teachers have made good use of the affordances of this learning portal and integrated the use of this portal into the curriculum of the different subjects and mostly, Home-based Learnings. The use of this portal promotes 21st Century Competencies such as critical and inventive thinking and the ability to curate, create and connect and thus, our students are equipped with the necessary skills and attitudes to learn for life.
 ![SLS page](/images/Our%20Experiences/InfoComm%20Technology/ict3.png)
-_SLS Login Page:_   _https://vle.learning.moe.edu.sg/login_
+_SLS Login Page:_&nbsp;&nbsp;&nbsp;_https://vle.learning.moe.edu.sg/login_
 
 ![Cyberwellness lesson in SLS](/images/Our%20Experiences/InfoComm%20Technology/ict4.png)
 
 **Code For Fun Programme**
 
-The 10-hour Code for Fun (CFF) Programme focuses on developing academic learning of related concepts using visual-based programming language for Computational Thinking, combining it with robotic kits, to create a coding experience for our students.  through this programme, students will learn to develop logical thinking and problem-solving skills by breaking down problems into bite-sizes. They will also have a chance to program a dance using their Sphero robotic kits.
+The 10-hour Code for Fun (CFF) Programme focuses on developing academic learning of related concepts using visual-based programming language for Computational Thinking, combining it with robotic kits, to create a coding experience for our students.&nbsp; through this programme, students will learn to develop logical thinking and problem-solving skills by breaking down problems into bite-sizes. They will also have a chance to program a dance using their Sphero robotic kits.
 
 ![Students using iPad for their lesson](/images/Our%20Experiences/InfoComm%20Technology/ict5.png)
 
@@ -43,7 +43,7 @@ Students learn to be responsible digital citizens through explicit teaching duri
 
 Our student Cyberwellness Ambassadors design and conduct activities for all students during Cyberwellness Week. Through these activities, students learn Cyberwellness tips and awareness of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/syEPcYfSBEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/syEPcYfSBEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ##### Home-based Learning (HBL)
 
