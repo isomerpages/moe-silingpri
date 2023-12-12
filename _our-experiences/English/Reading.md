@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Reading**
 
-<img src="/images/Reading.png" style="width:60%;margin-right:-20px;" align="left">
+<img src="/images/Reading.png" style="width:60%;margin-right:-20px; margin-left:-30px" align="left">
 
 Reading is one of the cornerstones of language acquisition. In our school, other than the reading lessons and activities in the STELLAR curriculum, we have our own level-wide reading programmes. Through these programmes, we aim to inculcate in our students a love for reading by exposing them to a variety of genres and text types.  
   
