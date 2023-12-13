@@ -6,16 +6,14 @@ third_nav_title: InfoComm Technology
 variant: markdown
 ---
 ### **Our Unique Programmes**
-
 To achieve our vision and mission, we have developed some unique ICT programmes that are inclusive, that ensure our students’ well-being in the event of a school closure and that develop lifelong technology-empowered learners. 
+<img src="/images/ICT___Programmes.png" style="width:90%">
 
 ##### Lifelong Learner
 
 **New Media Literacies**
 
 To achieve our ICT vision, our school has rolled out New Media Literacies during ICT lessons. Our ICT Modules for this year will cover three main domains of ICT skills - Curate, Create and Connect. Through these domains, students are able to acquire the skills they need to prepare them for the future. Students are also able to develop an understanding of the social practices that is widespread in the digital networked environment.
-
-<img src="/images/ICT___Programmes.png" style="width:90%">
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/iwPhComy-hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
