@@ -37,7 +37,7 @@ The 10-hour Code for Fun (CFF) Programme focuses on developing academic learning
 
 Students learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP), Cyberwellness STAR Booklets and Civic and Moral Education (CME) lessons as well as short bite-sized presentations during fortnightly morning assembly.
 
-![Student filling in Cyberwellness worksheet](/images/Our%20Experiences/InfoComm%20Technology/ict6.png)
+
 
 Our student Cyberwellness Ambassadors design and conduct activities for all students during Cyberwellness Week. Through these activities, students learn Cyberwellness tips and awareness of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
