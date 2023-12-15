@@ -12,11 +12,11 @@ Learning Math in Si Ling Pri goes beyond pen-and-paper drills.&nbsp; Our student
 
 ##### Math Fun Week
 
-<img src="/images/Math_Fun_Week___subpage.png" style="width:75%;margin-left:-12px; margin-right:-45px" align="right">
+<img src="/images/Math_Fun_Week___subpage.png" style="width:75%;margin-left:-12px; margin-right:-40px" align="right">
 
-Students get to indulge in learning experiences that are enjoyable and fun, both in the classrooms and during recess! They get to have fun while applying what they have learnt! 
+Students get to indulge in learning experiences that are enjoyable and fun, both in the classrooms and during recess! 
 
-As an extension, we integrate Art and Math and get students to design zentangles, fold origami and make animals using shapes and submit them via SLS.
+They get to have fun while applying what they have learnt! As an extension, we integrate Art and Math and get students to design zentangles, fold origami and make animals using shapes and submit them via SLS.
 
 ##### Learning Journeys
 <img src="/images/Math_learning_journey.png" style="width:75%;margin-left:-12px;margin-right:-45px" align="right">
