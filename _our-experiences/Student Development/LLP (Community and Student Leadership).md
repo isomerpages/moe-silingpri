@@ -38,5 +38,5 @@ Students learn to look out for opportunities to serve the school community by pr
 **Students' Suggestions**
 
 **Primary 5 and 6 - External Community**
-
+<img src="/images/19.png">
 Students serve the external community by being a part of our school’s outreach efforts like the kindergarten outreach programme where they teach or impart basic skills sets to kindergarteners.
