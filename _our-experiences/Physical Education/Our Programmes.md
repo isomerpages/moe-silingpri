@@ -25,7 +25,7 @@ Students took part in team-building activities that promotes bonding and underst
 
 Tying knots looks like the simplest activity but it requires repeated trials that trains ones’ ability to persevere and focus. Students showed care and patience when they demonstrated the steps to their peers who needed help.
 
-<img src="" style="width:45%">
+<img src="/images/Our%20Experiences/Physical%20Education/P5_Camp.png" style="width:90%">
 
 Tent-pitching is one of the activities that students enjoy doing. It encourages collaboration rather than competition. Students helped each other during the process of pitching tents. They co-operated and learnt to work as a team in harmony. They developed a sense of responsibility when they built and kept the tent together.&nbsp;They achieved a sense of belonging when they felt proud to own a tent even though it was just a temporary shelter for them.
 
