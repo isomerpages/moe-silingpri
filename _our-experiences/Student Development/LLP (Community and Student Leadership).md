@@ -25,7 +25,7 @@ It provides the opportunity for different groups of students to reach out to the
 
 Students learn to take self-responsibility and to serve others – especially their elders, at home.
 
-<img src="/images/lflp2.png" style="width:70%">
+
 
 **Primary 3 and 4 - School**
 
