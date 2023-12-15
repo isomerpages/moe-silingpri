@@ -21,7 +21,9 @@ They get to have fun while applying what they have learnt! As an extension, we i
 ##### Learning Journeys
 <img src="/images/Math_learning_journey.png" style="width:75%;margin-left:-12px;margin-right:-45px" align="right">
 
-Learning journeys encourage students to learn not only through the classroom but also through experiential learning, giving them a breather from their academic routine&nbsp;.&nbsp;Some of these Learning Journeys are also designed with cross-disciplinary learning objectives, for example, students get to learn about Math and Science.
+Learning journeys encourage students to learn not only through the classroom but also through experiential learning, giving them a breather from their academic routine&nbsp;.&nbsp;
+
+Some of these Learning Journeys are also designed with cross-disciplinary learning objectives, for example, students get to learn about Math and Science.
 
 ##### Mini Projects
 
