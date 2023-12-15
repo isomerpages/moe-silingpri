@@ -28,12 +28,12 @@ Students learn to take self-responsibility and to serve others – especially th
 
 
 **Primary 3 and 4 - School**
-<img src="/images/Our%20Experiences/Student%20Development/LLP_Non_teaching_staff.png">
+
 Students learn to look out for opportunities to serve the school community by providing suggestions or helping out in the school improvement projects.
 
 
 **Appreciation Projects for Non-teaching (Admin) and Cleaning Staff.**
-
+<img src="/images/Our%20Experiences/Student%20Development/LLP_Non_teaching_staff.png">
 
 **Students' Suggestions**
 
