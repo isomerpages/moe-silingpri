@@ -22,7 +22,7 @@ There are seven learning areas that facilitate learning in every student:
 *   Athletics (from Primary 3)  
     
 *   Dance  
-    
+    <img src="/images/Our%20Experiences/Physical%20Education/PE_Curriculum.png" style="width:75%;margin-right:-45px;" align="right">
 *   Games and Sports  
     
 *   Gymnastics  
