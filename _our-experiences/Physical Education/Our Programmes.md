@@ -42,13 +42,13 @@ This orienteering activity is an extension of the Outdoor Education that student
 
 Students learnt to process and make meaning of all the activities and working experiences they had for the day. They were encouraged to grow through personal reflections as this helped to deepen thinking and enhance learning of values. They were more aware of their own strengths and weaknesses, and learnt to work with others in a better manner.
 
-<img src="/images/Our%20Experiences/Physical%20Education/_MG_2099.png" style="width:45%">
+<img src="/images/Our%20Experiences/Physical%20Education/5.png" style="width:90%">
 
 **_‘Campfire’_**
 
 Unlike the traditional practice for students to sit in a circle and present their performances in front of a fire, students had a unique high-tech campfire in their respective classrooms this year. Students’ performance was recorded and shared in the Campfire finale via Zoom. Students built confidence and developed social skills through these fun and engaging activities. As they laughed and enjoyed the skits that their school-mates put up, they also brought back good ‘Kampong spirit’ that they exhibited.
 
-<img src="/images/Our%20Experiences/Physical%20Education/pe9.png" style="width:60%">
+<img src="/images/Our%20Experiences/Physical%20Education/6.png" style="width:100%">
 
 ##### P6 Innovative Games
 
@@ -56,7 +56,7 @@ Every year, as one of the Post-PSLE activities, our Primary 6 students get to mo
 &nbsp;  
 P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education Programme that integrates innovation, creativity and conservation of materials through active participation.
 
-<img src="/images/Our%20Experiences/Physical%20Education/_MG_4036.png" style="width:45%">
+
 
 ##### Active Kids Programme
 
@@ -64,4 +64,3 @@ With the objective to get students moving, the Active Kids Programme aims to equ
 
 With the support from Active SG, Sports SG, SEP-certified vendors and our dedicated PE teachers, Active Kids Programme runs every Friday, 2.00 – 4.00pm.
 
-<img src="/images/Our%20Experiences/Physical%20Education/pe11.png" style="width:60%">
