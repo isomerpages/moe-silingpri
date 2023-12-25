@@ -3,13 +3,17 @@ title: Physical Education Curriculum
 permalink: /our-experiences/Physical-Education/physical-education-curriculum/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
 ### Physical Education Curriculum
-<img src="/images/About%20Us/pe%20sports%20thingy.png" style="width:300px;height:400px;margin-right:15px;" align="left">
+
 
 ##### PE Curriculum
+<img src="/images/Our%20Experiences/Physical%20Education/PE_Curriculum_Overview.png" style="width:70%;margin-right:-45px;" align="right">
 
-The Physical Education (PE) programme is an integral component of Singapore’s school curriculum. It provides students with learning opportunities that make use of movement to develop the whole child. Furthermore, it provides students with skills to be responsible adults and contributing members of the society, the nation and the world.
+The Physical Education (PE) programme is an integral component of Singapore’s school curriculum. 
+
+It provides students with learning opportunities that make use of movement to develop the whole child. Furthermore, it provides students with skills to be responsible adults and contributing members of the society, the nation and the world.
 
 In Si Ling Primary, the PE programme aims&nbsp;to develop our students into Competent Movers who demonstrate efficiency, effectiveness and versatility in movement competencies.
 
@@ -18,7 +22,7 @@ There are seven learning areas that facilitate learning in every student:
 *   Athletics (from Primary 3)  
     
 *   Dance  
-    
+    <img src="/images/Our%20Experiences/Physical%20Education/PE_Curriculum.png" style="width:75%;margin-right:-45px;" align="right">
 *   Games and Sports  
     
 *   Gymnastics  

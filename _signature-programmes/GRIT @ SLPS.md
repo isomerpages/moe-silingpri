@@ -2,6 +2,7 @@
 title: GRIT @ SLPS
 permalink: /signature-programmes/grit-slps/
 description: ""
+variant: markdown
 ---
 ### **G.R.I.T. @ SLPS (Grow Resilience Inspire Tenacity)**
 
@@ -14,7 +15,7 @@ description: ""
 	</ul>
 
 ##### P5 SKILLs Programme
-<img style="width:56%; margin-left:12px;" align="right" src="/images/P5%20skills%20programme.png">
+<img style="width:66%; margin-left:-40px;margin-right:-20px" align="right" src="/images/P5%20skills%20programme.png">
 <ul style="list-style-type:disc">
 	<li>Strengthen peer to peer relationships as well as rapport between teachers and students </li>
 	<li>Working as a team to overcome challenges</li>
@@ -25,7 +26,7 @@ The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The o
 To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
 
 ##### P5 Snack with Vice-Principal
-<img src="/images/snack%20with%20VP-%20heading.png" style="width:55%; margin-left:12px; margin-right:-20px" align="right">
+<img src="/images/snack%20with%20VP-%20heading.png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
 
 *   Interaction between school leaders, form teachers and students
 *   Q&amp;A with school leaders
@@ -53,7 +54,7 @@ The stressful period can be challenging to the students. To end off the season o
 Through this Chillax, we hope to bring to the students that they are not alone in their journey and that there are many people whom they can lean on for support and that, together, they can go through the year with grit and resilience.
 		 
 ##### P6 Breakfast with Principal
-<img src="/images/Subpage%20banners%20-%20sample%20.png" style="width:55%; margin-left:12px; margin-right:-20px" align="right">
+<img src="/images/Subpage%20banners%20-%20sample%20.png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
 
 
 *   Interaction between school leaders, form teachers and students
@@ -70,6 +71,7 @@ Students get to chit chat with the school leaders as they enjoy the breakfast th
 
 
 ##### P6 Intra-Class Games
+<img src="/images/Intra_games.png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
 
 July and August can be a stressful period for P6 students
 

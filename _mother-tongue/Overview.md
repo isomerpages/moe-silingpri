@@ -2,13 +2,11 @@
 title: Overview
 permalink: /mothertongue/overview/
 description: ""
+variant: markdown
 ---
-
-
 ### Mother Tongue
-
-![](/images/mtl1.png)
-
-**Vision**
+##### Vision
 
 Pupils to be confident and proficient communicators in their Mother Tongue languages and exhibit good values.
+![](/images/Mother_Tongue.png)
+

@@ -3,6 +3,7 @@ title: Education Partner
 permalink: /about-us/Our-People/education-partner/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Education Partner**
 
@@ -36,8 +37,8 @@ third_nav_title: Our People
 			<td style="width:218px"><p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR CHEE SANG FOK<br>
 			<strong>Operational Manager
 				</strong></span></span></p></td>
-			<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">  <br>
-			<strong></strong></span>
+			<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR LEE HO YIN  <br>
+			<strong>ICT Manager</strong></span>
 				</span></td>
 		</tr>
 		<tr>

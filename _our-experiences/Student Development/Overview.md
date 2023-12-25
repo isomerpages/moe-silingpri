@@ -3,10 +3,11 @@ title: Overview
 permalink: /our-experiences/Student-Development/overview/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### **Student Development**
 
-![Students reciting the student leader pledge](/images/Our%20Experiences/Student%20Development/sd1.png)
+<img src="/images/Student_development.png">
 
 ##### Our Mission Statement
 
