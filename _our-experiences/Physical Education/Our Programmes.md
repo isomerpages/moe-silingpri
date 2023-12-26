@@ -60,6 +60,7 @@ P6 Innovative Games @Si Ling is a continuation of the school’s Sport Education
 
 
 ##### Active Kids Programme
+<img src="/images/Our%20Experiences/Physical%20Education/7.png" style="width:70%;margin-right:-45px;" align="right">
 
 With the objective to get students moving, the Active Kids Programme aims to equip these group of students to get active through a wide range of different sports and games, help them cultivate healthy eating habits and build a stronger foundation in developing an overall active and healthy lifestyle.&nbsp;  
 
