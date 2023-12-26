@@ -6,7 +6,6 @@ third_nav_title: Our People
 variant: markdown
 ---
 ### **Key Personnel**
-
 <table border="0" cellpadding="0" cellspacing="0" style="width:509px">
 	<thead>
 		<tr>
@@ -34,16 +33,14 @@ variant: markdown
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Vice Principal (Academic)</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width:274px">&nbsp;</td>
-			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:274px"><img src="/images/About%20Us/slpsmschee.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
+			<td style="width:274px"><img src="/images/About%20Us/Our%20People/Mr_Raj_Kumar.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;
 		  </td></tr>
 			<tr>
-				<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>MS CHEE YEUNG WAI</strong><br>
-			chee_yeung_wai@moe.edu.sg</span></span></td>
+				<td style="width:274px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong> MR RAJ KUMAR</strong><br>
+		Raj_Kumar_V_SIVALINGAM@moe.edu.sg</span></span></td>
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Vice Principal (Academic)</strong></span></span></td>
 		</tr>
 		<tr>
