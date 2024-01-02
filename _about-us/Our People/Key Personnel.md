@@ -35,7 +35,7 @@ variant: markdown
 		<tr>
 		</tr>
 		<tr>
-			<td style="width:274px"><img src="/images/About%20Us/Our%20People/Mr_Raj_Kumar.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
+			<td style="width:274px"><img src="/images/About%20Us/Our%20People/mr_raj_kumar.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;
 		  </td></tr>
 			<tr>
