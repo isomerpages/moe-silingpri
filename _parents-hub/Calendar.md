@@ -2,7 +2,8 @@
 title: Calendar
 permalink: /parents-hub/calendar/
 description: ""
+variant: markdown
 ---
 ### Calendar
 
-[2023 Term 4 Calendar of Events ](/files/Parent_Hub/2023%20term%204%20coe.pdf)
+[2024 Term 1 Calendar of Events](/files/Calendar%20of%20Events/2024_Term_1_COE_students.pdf)
