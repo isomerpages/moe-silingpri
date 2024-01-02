@@ -9,7 +9,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-|[P1 Orientation 2024](/files/P1_Orientation_2023_FOR_2024_P1__10_Nov_compressed.pdf)| 17 Nov 2023
+[P1 Orientation 2024](/files/P1_Orientation_2023_FOR_2024_P1__10_Nov.pdf)|17 Nov 2023
 |[Si Ling Termly Newsletter Vol 3](/files/Parent_Hub/term%204%202023%20slps%20newsletter%20updated.pdf)| 15 Sept 2023 
 |[Term 4 Letter to Parents](/files/Parent_Hub/2023%20term%204%20letter.pdf)|11 Sept 2023
 |[Si Ling Termly Newsletter Vol 2](/files/Parent_Hub/Parent_Resource/term%203%202023%20slps%20newsletter.pdf)| 23 Jun 2023 
