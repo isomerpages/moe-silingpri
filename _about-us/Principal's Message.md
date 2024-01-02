@@ -9,7 +9,7 @@ variant: markdown
 
 **Dear Parents/Guardians**,
 
-As we embark on this academic journey, I am excited to highlight some remarkable accomplishments from the past year. Thanks to the collaborative efforts of our dedicated teacehers, hardworking students, and supportive parents, Si Ling Primary has achieved notable successes.
+As we embark on this academic journey, I am excited to highlight some remarkable accomplishments from the past year. Thanks to the collaborative efforts of our dedicated teachers, hardworking students, and supportive parents, Si Ling Primary has achieved notable successes.
 
 Our students not only demonstrated academic excellence with a 100% pass rate in PSLE 2023 but also excelled in various extracurricular activities. Whether winning sports championships or earning recognition in the arts, our students have brought immense pride to Si Ling Primary. These achievements underscore our commitment to providing a well-rounded education.
 
