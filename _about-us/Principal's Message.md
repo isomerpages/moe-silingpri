@@ -9,20 +9,19 @@ variant: markdown
 
 **Dear Parents/Guardians**,
 
-As the school year comes to a close, we would like to extend our heartfelt appreciation for all of your support and involvement in your child's/ward's education and well-being throughout the past year. Your partnership has been essential to your child's/ward's progress and achievements
+As we embark on this academic journey, I am excited to highlight some remarkable accomplishments from the past year. Thanks to the collaborative efforts of our dedicated teacehers, hardworking students, and supportive parents, Si Ling Primary has achieved notable successes.
 
-There are some important school updates that we would like to inform you of in this letter. These updates include:
-![](/images/Principal_message.png)
-![](/images/messagee.png)
-![](/images/message2023.png)
-![](/images/Principal_Message___4.png)
-![](/images/number_5.png)
-![](/images/NUMBER_6.png)
-My staff and I look forward to another fulfilling year of learning and growth with our students in the new school year. We hope you will stay connected with us on Facebook and Instagram(@silingprimaryschool), where we will share our school's latest news and updates.
- 
+Our students not only demonstrated academic excellence with a 100% pass rate in PSLE 2023 but also excelled in various extracurricular activities. Whether winning sports championships or earning recognition in the arts, our students have brought immense pride to Si Ling Primary. These achievements underscore our commitment to providing a well-rounded education.
 
+Our devoted team of teachers has been instrumental in these triumphs. Their passion for teaching, innovative approaches, and tireless dedication have fostered an environment where students can flourish academically and personally.
+In the previous year, our school introduced various initiatives to improve the learning experience.
 
+For instance, we implemented a School-wide pedagogy of Inquiry Based Learning, initiated the G.R.I.T program to enhance student motivation, and integrated technology into our teaching methods. These endeavors have played a crucial role in the holistic development of our students and have positioned Si Ling Primary favorably.
+As we commence the new school year, I am confident that we will not only continue to build upon these accomplishments but also strive for greater heights. Together, as a cohesive school community, we will persist in cultivating an environment that promotes excellence, curiosity, and the pursuit of knowledge.
+
+We are committed to working closely with parents to ensure that Si Ling Primary remains a place where every individual can flourish.
+Thank you for your continued commitment to excellence. 
 
 Mr Koe Ee Tiong<br>
 Principal<br>
-27 Nov 2023
+2 Jan 2024
