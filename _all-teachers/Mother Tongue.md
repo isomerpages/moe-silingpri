@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /about-us/Our-People/all-teachers/mother-tongue/
 description: ""
+variant: markdown
 ---
 ### **Mother Tongue**
 
@@ -103,20 +104,20 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">MDM HUSNITA<br>
-			OMAR</span></td>
+			<td style="width:249px"><span style="font-size:12px">MDM SHANOM FARSA BINTE SARRY</span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM FARADILAH BTE MOHD YAAKOP</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">husnita_omar@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px"></span></td>
 			<td style="width:251px"><span style="font-size:12px">faradilah_mohd_yaakop@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px"><span style="font-size:12px">MDM NOOR AISYA<br>
 			BUANG</span></td>
-			<td style="width:251px"><span style="font-size:12px"><br>
+			<td style="width:251px"><span style="font-size:12px">MDM SITI NUR ATIQA
+<br>BINTE ZAHRIN
 	</span></td>
 		</tr>
 		<tr>
