@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banners/Si_Ling_Primary_school_banner.png
+      background: /images/Hero Banners/Si_Ling_Primary_school_banner_1.png
       key_highlights:
         - title: SLS
           description: Student Learning Space
