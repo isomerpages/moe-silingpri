@@ -22,15 +22,6 @@ sections:
           description: Contact Us
           url: /contact-us/
   - infopic:
-      title: Recognition Day 2023
-      subtitle: recognising si ling scholars
-      id: infopic
-      description: Pictures from the event can be found in the link
-      button: Click here
-      url: https://photos.app.goo.gl/ycdYGgRhzVYyqHwH7
-      image: /images/About Us/Recognition_Day__1.png
-      alt: Image alt text
-  - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
       description: Brace yourself for an incredible time filled with laughter,
