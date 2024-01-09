@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banners/Si Ling Primary school new banner- Sample  (2).svg
+      background: /images/Hero Banners/Si_Ling_Primary_school_new_banner__Sample_.png
       key_highlights:
         - title: SLS
           description: Student Learning Space
@@ -21,15 +21,6 @@ sections:
         - title: Compliments and Feedback
           description: Contact Us
           url: /contact-us/
-  - infopic:
-      title: Recognition Day 2023
-      subtitle: recognising si ling scholars
-      id: infopic
-      description: Pictures from the event can be found in the link
-      button: Click here
-      url: https://photos.app.goo.gl/ycdYGgRhzVYyqHwH7
-      image: /images/About Us/Recognition_Day__1.png
-      alt: Image alt text
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive

@@ -35,7 +35,7 @@ variant: markdown
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG</span></td>
-			<td style="width:251px"><span style="font-size:12px">QUAH YEE WEN</span></td>
+			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -83,8 +83,8 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
-			<td style="width:249px"><span style="font-size:12px">yeo_may_chen_melanie@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">so_siong_teng@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">katijah_beevi_auwlia_m@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">noor_aisya_buang@moe.edu.sg</span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
@@ -96,7 +96,6 @@ variant: markdown
 			<td style="width:249px"><span style="font-size:12px">nurul_anisah_rizal_a@moe.edu.sg</span></td><td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
 				</tr>
-		
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
