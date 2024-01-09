@@ -135,7 +135,7 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br><strong>SH Stundent Leadership</strong></span></span></td>
+			<td style="width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MISS MARIE TEO<br><strong>SH Student Leadership</strong></span></span></td>
 			<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM JAYARAMAN CHITRA</span></span></td>
 		</tr>
 		<tr>
