@@ -31,32 +31,6 @@ sections:
       alt: Stand together
       image: /images/stand together-02.png
   - infopic:
-      title: The Caring Teacher Awards 2024
-      id: infopic
-      description: Nominate your deserving teachers now
-      button: Submit your nominees here
-      alt: Image alt text
-      url: https://www.cta.nie.edu.sg/
-      image: /images/untitled design.png
-  - infopic:
-      title: President's Awards for Teachers 2024
-      subtitle: "closing date : 10 January 2024"
-      description: Nominate an inspiring teacher for this prestigious award
-      button: submit your nominees here
-      url: https://form.gov.sg/650a5bfd07ce8a0011c0133c
-      image: /images/qr scanner.png
-      alt: PAT 2024
-  - infopic:
-      title: Outstanding Youth in Education Award
-      subtitle: "closing date: 10 January 2024"
-      id: infopic
-      description: Nominate a young educator who demonstrates commendable enthusiasm
-        and energy
-      button: submit your nominees here
-      url: https://form.gov.sg/650a8bfa356d470012265669
-      alt: Image alt text
-      image: /images/scanner qr.png
-  - infopic:
       title: Parents Gateway
       subtitle: Parents
       description: App Guide and how to get onboard
@@ -66,7 +40,8 @@ sections:
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
   - infobar:
       title: Facebook
-      description: <iframe
+      description: >
+        <iframe
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2F&tabs=timeline&width=1000&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
         width="1000" height="500" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
