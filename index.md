@@ -21,6 +21,7 @@ sections:
         - title: Compliments and Feedback
           description: Contact Us
           url: /contact-us/
+      variant: image
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
