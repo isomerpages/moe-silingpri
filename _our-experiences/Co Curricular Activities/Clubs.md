@@ -34,7 +34,7 @@ variant: markdown
 
 ### Infocomm Club
 
-<img src="/images/cca8.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Infocomm.png" style="width:450px;margin-right:-30px;margin-left:-34px" align="left"> 
 
 **Infocomm Club:**  
 
