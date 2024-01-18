@@ -29,7 +29,7 @@ Through these activities, our members build self-confidence, learn about commitm
 
 #### Dance Club
 
-<img src="/images/cca3.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Dance.png" style="width:400px;margin-right:-20px;margin-left:-42px" align="left"> 
 
 The Dance CCA aspires to groom and bring out the best in each pupil in the area of performing arts. Through dance, pupils learn the skills of coordination, flexibility and sense of rhythm.&nbsp;  
 
