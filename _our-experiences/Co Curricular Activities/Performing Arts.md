@@ -35,7 +35,7 @@ The Dance CCA aspires to groom and bring out the best in each pupil in the area 
 
 In the process of practicing and performing together, our pupils also learn the importance of discipline, teamwork and perseverance as they strive to do their best in their performances.
 
-<img src="/images/cca4.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Dance__cca.png" style="width:450px;margin-right:-15px; margin-left:-44px" align="left"> 
 
 **Achievements:**
 
