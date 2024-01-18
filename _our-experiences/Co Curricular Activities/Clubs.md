@@ -50,7 +50,7 @@ variant: markdown
 
 ### SciEinsteins Club
 
-<img src="/images/cca9.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Scieinsteins.png" style="width:400px;margin-right:-15px;margin-left:-44px" align="left"> 
 
 We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.&nbsp;
 
