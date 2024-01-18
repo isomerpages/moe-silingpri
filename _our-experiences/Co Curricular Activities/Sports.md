@@ -66,16 +66,3 @@ Football (Boys) is made up of Primary 3 to 6 boys who are interested and passion
 
 **Teachers-in-charge:**&nbsp;Jeffrey Low Kok Wah, Saiful Bin Sapari, Ong Soo Hoon Cecilia, Wong Kai Teng
 
-#### Sepak Takraw
-
-<img src="/images/sepak.png" style="width:300px;height:200px;margin-right:15px;" align="left"> 
-
-A traditional South-East Asian recreation game turned competitive, Sepak Takraw derived its name from two languages. Sepak is 'kick' in Malay, and Takraw is the 'ball' in Thai.
-
-Sepak Takraw aims to cultivate sportsmanship in many values including flexibility, agility, strength and teamwork. With at least two annual competitions at the National Level, school team players will have a&nbsp; chance to experience sports at a competitive level, preparing them psychologically for future sporting endeavors.
-
-**Achievements:**&nbsp;
-
-*   NSG Junior Regu Champions in Silver Tier 2
-
-**Teachers-in-charge:**&nbsp;Mdm Aw Jie Shi,&nbsp;Hafizah Mahmud
