@@ -23,7 +23,7 @@ variant: markdown
 
 ### Brownies
 
-<img src="/images/cca7.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Brownies.png" style="width:400px;margin-right:-15px;margin-left:-44px" align="left"> 
 
 **What do Brownies do?**  
 
