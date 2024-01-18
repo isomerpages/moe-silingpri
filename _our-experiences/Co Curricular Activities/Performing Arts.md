@@ -15,8 +15,11 @@ variant: markdown
 
 #### Choir
 
-<img src="/images/cca2.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
-In Si Ling, choir members will learn singing skills such as voice projection and pitching, be exposed to a repertoire of songs, and develop an appreciation for choral music. Choir members also perform and showcase what they have learn on various platforms, such as Open House Day, National Day and Recognition Day concerts, Singapore Youth Festival, VIA @ NTUC Active Ageing and Woodgrove National Day Observance Dinner.&nbsp;
+<img src="/images/Choir_.png" style="width:400px;margin-right:-15px;margin-left:-24px" align="left"> 
+
+In Si Ling, choir members will learn singing skills such as voice projection and pitching, be exposed to a repertoire of songs, and develop an appreciation for choral music. 
+
+Choir members also perform and showcase what they have learn on various platforms,such as Open House Day, National Day and Recognition Day concerts, Singapore Youth Festival, VIA @ NTUC Active Ageing and Woodgrove National Day Observance Dinner.&nbsp;
 
 Through these activities, our members build self-confidence, learn about commitment and teamwork, and foster strong relationships with their choir-mates and teachers-in-charge.&nbsp;Woodgrove National Day Celebration Dinner&nbsp;
 
