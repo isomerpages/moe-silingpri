@@ -3,6 +3,7 @@ title: Clubs
 permalink: /our-experiences/Co-Curricular-Activities/clubs/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Clubs
 
@@ -10,7 +11,7 @@ third_nav_title: Co Curricular Activities
 
 ### Art Club
 
-<img src="/images/cca6.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Art.png" style="width:400px;margin-right:-25px;margin-left:-40px" align="left"> 
 
 **Through Art, we hope to:**&nbsp;
 
