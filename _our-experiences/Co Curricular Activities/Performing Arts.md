@@ -50,8 +50,9 @@ In the process of practicing and performing together, our pupils also learn the 
 
 #### Guitar Ensemble
 
-<img src="/images/cca5.png" style="width:320px;height:200px;margin-right:15px;" align="left">
-The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part of our performing arts CCAs.&nbsp;Our aim is to build on music fundamentals, learn guitar techniques, perform as an ensemble and have fun while doing it.&nbsp;
+<img src="/images/Guitar.png" style="width:400px;margin-right:-25px;margin-left:-34px" align="left">
+
+The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part of our performing arts CCAs. Our aim is to build on music fundamentals, learn guitar techniques, perform as an ensemble and have fun while doing it.&nbsp;
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
