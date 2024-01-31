@@ -92,5 +92,10 @@ links:
         url: /parents-hub/Online-Learning-Resources/HBL/
       - title: Discovering Si Ling
         url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
+  - title: Partners
+    url: /permalink
+    sublinks:
+      - title: Parents in Partnership
+        url: /parents-hub/parents-in-partnership
   - title: SLPS Gallery
     url: /parents-hub/slpsgallery/
