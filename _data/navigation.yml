@@ -61,8 +61,6 @@ links:
         url: /our-experiences/programme-for-active-learning/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/Co-Curricular-Activities/overview/
-      - title: Our Alumni Our Pride
-        url: /our-experiences/our-alumni-our-pride/overview/
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
@@ -80,8 +78,6 @@ links:
         url: /parents-hub/Parent-resource/p1parent
       - title: Travel Declaration
         url: /useful-information/travel-declaration/
-      - title: Parents in Partnership
-        url: /parents-hub/parents-in-partnership
       - title: Cyber Wellness
         url: /parents-hub/Cyber-Wellness/overview
       - title: Sexuality Education
@@ -97,5 +93,7 @@ links:
     sublinks:
       - title: Parents in Partnership
         url: /parents-hub/parents-in-partnership
+      - title: Our Alumni Our Pride
+        url: /our-experiences/our-alumni-our-pride/overview/
   - title: SLPS Gallery
     url: /parents-hub/slpsgallery/
