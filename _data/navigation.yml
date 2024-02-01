@@ -32,8 +32,6 @@ links:
         url: /signature-programmes/ALP-environmentalscience
       - title: F.L.Y Programme
         url: /signature-programmes/fly-programme
-      - title: Lead Our Lives with Purpose
-        url: /signature-programmes/LOL
   - title: Our Experiences
     url: /our-experiences/
     sublinks:
@@ -41,6 +39,10 @@ links:
         url: /our-experiences/Co-Curricular-Activities/overview/
       - title: Learning for Life programme
         url: /permalink
+      - title: Lead Our Lives with Purpose
+        url: /permalink
+      - title: SLPS Gallery
+        url: /parents-hub/slpsgallery/
   - title: Departments
     url: /permalink
     sublinks:
@@ -58,11 +60,11 @@ links:
         url: /permalink
       - title: Infocomm technology
         url: /permalink
-      - title: "Student Development "
+      - title: Student Development
         url: /permalink
-      - title: "Character and Citizenship "
+      - title: Character and Citizenship
         url: /permalink
-      - title: "Programme for Active Learning "
+      - title: Programme for Active Learning
         url: /permalink
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
@@ -98,5 +100,3 @@ links:
         url: /parents-hub/parents-in-partnership
       - title: Our Alumni Our Pride
         url: /our-experiences/our-alumni-our-pride/overview/
-  - title: SLPS Gallery
-    url: /parents-hub/slpsgallery/
