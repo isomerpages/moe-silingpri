@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Student Development/.keep
-      - Character Education/.keep
-      - Aesthetics/.keep
-      - Physical Education/.keep
-      - Science/.keep
-      - Mathematics/.keep
       - English/.keep
+      - Mathematics/.keep
+      - Science/.keep
+      - Aesthetics/.keep
+      - Character Education/.keep
+      - Physical Education/.keep
+      - Student Development/.keep
