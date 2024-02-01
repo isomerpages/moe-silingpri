@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/.keep
       - Science/.keep
       - Mathematics/.keep
       - English/.keep
