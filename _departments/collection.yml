@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Programmes.md
       - English/Reading.md
       - English/Writing.md
       - English/STELLAR.md
