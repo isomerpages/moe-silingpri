@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Mathematics/.keep
       - English/.keep
