@@ -48,10 +48,10 @@ links:
       - title: Discovering Si Ling
         url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
   - title: Departments
-    url: /permalink
+    url: /departments/english/
     sublinks:
       - title: English
-        url: /permalink
+        url: /departments/english/
       - title: Mathematics
         url: /permalink
       - title: Science
