@@ -4,7 +4,6 @@ collections:
     order:
       - Overview.md
       - English/.keep
-      - English/Writing.md
       - English/Reading.md
       - English/Programmes.md
       - Mathematics/.keep
