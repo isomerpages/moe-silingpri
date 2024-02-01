@@ -24,8 +24,6 @@ links:
         url: /signature-programmes/grit-slps
       - title: EL Monthly Odyssey (E.L.M.O)
         url: /signature-programmes/ELMO
-      - title: Learning for Life Programme
-        url: /signature-programmes/LLP
       - title: Play and Learn Math (P.A.L.M)
         url: /signature-programmes/PALM
       - title: P1 Transitional Programme
@@ -39,28 +37,33 @@ links:
   - title: Our Experiences
     url: /our-experiences/
     sublinks:
-      - title: English
-        url: /our-experiences/English/
-      - title: Mathematics
-        url: /our-experiences/Mathematics/
-      - title: Science
-        url: /our-experiences/Science/overview/
-      - title: Mother Tongue
-        url: /mothertongue/overview
-      - title: Physical Education
-        url: /our-experiences/Physical-Education/overview/
-      - title: Student Development
-        url: /our-experiences/Student-Development/overview/
-      - title: InfoComm Technology
-        url: /our-experiences/InfoComm-Technology/overview/
-      - title: Aesthetics
-        url: /our-experiences/Aesthetics/overview/
-      - title: CCE
-        url: /our-experiences/Character-Education/overview/
-      - title: Programme for Active Learning
-        url: /our-experiences/programme-for-active-learning/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/Co-Curricular-Activities/overview/
+      - title: Learning for Life programme
+        url: /permalink
+  - title: Departments
+    url: /permalink
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Aesthetics
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Physical Education
+        url: /permalink
+      - title: Infocomm technology
+        url: /permalink
+      - title: "Student Development "
+        url: /permalink
+      - title: "Character and Citizenship "
+        url: /permalink
+      - title: "Programme for Active Learning "
+        url: /permalink
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
