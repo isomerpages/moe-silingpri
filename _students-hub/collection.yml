@@ -2,5 +2,6 @@ collections:
   students-hub:
     output: true
     order:
+      - Home based Learning.md
       - Sexuality Education.md
       - Homework Policy.md
