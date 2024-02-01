@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Our Alumni Our Pride/2016 Graduates.md
       - Our Alumni Our Pride/2017 Graduates.md
       - Our Alumni Our Pride/2018 Graduates.md
       - Our Alumni Our Pride/2019 Graduates.md
