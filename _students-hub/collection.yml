@@ -2,4 +2,5 @@ collections:
   students-hub:
     output: true
     order:
+      - Sexuality Education.md
       - Homework Policy.md
