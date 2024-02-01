@@ -55,19 +55,19 @@ links:
       - title: Mathematics
         url: /department/mathematics/
       - title: Science
-        url: /permalink
+        url: /departments/science/overview/
       - title: Mother Tongue
         url: /permalink
       - title: Aesthetics
-        url: /permalink
+        url: /departments/aesthetics/overview/
       - title: CCE
-        url: /permalink
+        url: /departments/character-education/overview/
       - title: Infocomm technology
-        url: /permalink
+        url: /departments/infocomm-technology/overview/
       - title: Physical Education
-        url: /permalink
+        url: /departments/physical-education/overview/
       - title: Student Development
-        url: /permalink
+        url: /departments/student-development/overview/
   - title: Student's Hub
     url: /useful-information/homework-policy/
     sublinks:
