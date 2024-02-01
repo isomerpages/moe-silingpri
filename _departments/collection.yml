@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - English/Programmes.md
-      - English/Reading.md
-      - English/Writing.md
-      - English/STELLAR.md
-      - English/English Language Monthly Odyssey (ELMO).md
-      - English/Overview.md
       - English/.keep
+      - English/Overview.md
+      - English/English Language Monthly Odyssey (ELMO).md
+      - English/STELLAR.md
+      - English/Writing.md
+      - English/Reading.md
+      - English/Programmes.md
       - Mathematics/Overview.md
       - Mathematics/.keep
       - Science/.keep
