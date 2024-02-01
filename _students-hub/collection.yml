@@ -2,6 +2,7 @@ collections:
   students-hub:
     output: true
     order:
+      - Helping your child manage excessive internet use.md
       - Helping your child manage cyber bullying.md
       - Helping your child manage cyber contacts.md
       - Helping your child manage online scam.md
