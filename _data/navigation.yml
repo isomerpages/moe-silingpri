@@ -43,6 +43,8 @@ links:
         url: /permalink
       - title: SLPS Gallery
         url: /parents-hub/slpsgallery/
+      - title: Programme for Active Learning
+        url: /permalink
   - title: Departments
     url: /permalink
     sublinks:
@@ -61,8 +63,6 @@ links:
       - title: Infocomm technology
         url: /permalink
       - title: Physical Education
-        url: /permalink
-      - title: Programme for Active Learning
         url: /permalink
       - title: Student Development
         url: /permalink
