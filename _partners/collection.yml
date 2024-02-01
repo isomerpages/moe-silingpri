@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Our Alumni Our Pride/Overview.md
       - Our Alumni Our Pride/.keep
       - Parents in Partnership/.keep
