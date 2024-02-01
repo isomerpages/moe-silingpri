@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - Aesthetics/.keep
       - Physical Education/.keep
       - Science/.keep
