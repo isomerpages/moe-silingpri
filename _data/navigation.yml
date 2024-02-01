@@ -45,6 +45,8 @@ links:
         url: /parents-hub/slpsgallery/
       - title: Programme for Active Learning
         url: /permalink
+      - title: Discovering Si Ling
+        url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
   - title: Departments
     url: /permalink
     sublinks:
@@ -66,6 +68,17 @@ links:
         url: /permalink
       - title: Student Development
         url: /permalink
+  - title: Student's Hub
+    url: /permalink
+    sublinks:
+      - title: Homework Policy
+        url: /permalink
+      - title: Sexuality Education
+        url: /permalink
+      - title: Online Learning Resources
+        url: /permalink
+      - title: Cyber Wellness
+        url: /permalink
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
@@ -77,22 +90,12 @@ links:
         url: /useful-information/school-services/
       - title: Parents Gateway App
         url: /parents-hub/Parents-Gateway-App/
-      - title: Homework Policy
-        url: /useful-information/homework-policy/
       - title: Parent Resource
         url: /parents-hub/Parent-resource/p1parent
       - title: Travel Declaration
         url: /useful-information/travel-declaration/
-      - title: Cyber Wellness
-        url: /parents-hub/Cyber-Wellness/overview
-      - title: Sexuality Education
-        url: /parents-hub/sexuality-education
       - title: Financial Assistance Scheme
         url: /useful-information/financial-assistance-scheme/
-      - title: Online Learning Resources
-        url: /parents-hub/Online-Learning-Resources/HBL/
-      - title: Discovering Si Ling
-        url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
   - title: Partners
     url: /permalink
     sublinks:
