@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parents in Partnership.md
       - Our Alumni Our Pride/.keep
       - Our Alumni Our Pride/Overview.md
       - Our Alumni Our Pride/2022 Graduates.md
@@ -12,3 +11,4 @@ collections:
       - Our Alumni Our Pride/2018 Graduates.md
       - Our Alumni Our Pride/2017 Graduates.md
       - Our Alumni Our Pride/2016 Graduates.md
+      - Parents in Partnership.md
