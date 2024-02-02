@@ -2,13 +2,13 @@ collections:
   our-experiences:
     output: true
     order:
-      - Lead Our Lives (LOL) with Purpose.md
-      - Learning for Life Programme.md
       - Overview.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs.md
       - Co Curricular Activities/Sports.md
+      - Learning for Life Programme.md
+      - Lead Our Lives (LOL) with Purpose.md
       - Programme for Active Learning.md
       - English/.keep
