@@ -209,9 +209,5 @@ variant: markdown
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SH Science</strong></span></span></td>
 					<td style="width:274px">&nbsp;</td>
 		</tr>
-		
-		<tr>
-		</tr>
-		<tr>
-	</tr></tbody>
+	</tbody>
 </table>
