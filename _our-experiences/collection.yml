@@ -3,59 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
-      - English/.keep
-      - English/Overview.md
-      - English/English Language Monthly Odyssey (ELMO).md
-      - English/STELLAR.md
-      - English/Writing.md
-      - English/Reading.md
-      - English/Programmes.md
-      - Mathematics/.keep
-      - Mathematics/Overview.md
-      - Mathematics/Curriculum and Approach.md
-      - Mathematics/PALM (Play and Learn Math).md
-      - Mathematics/Support for Mathematics Learning.md
-      - Mathematics/Stretching our High progressing learners.md
-      - Science/.keep
-      - Science/Overview.md
-      - Science/Our Curriculum Approach.md
-      - Science/Our Programmes.md
-      - Science/ALP (Environmental Science).md
-      - Physical Education/.keep
-      - Physical Education/Overview.md
-      - Physical Education/Physical Education Curriculum.md
-      - Physical Education/Our Programmes.md
-      - Student Development/.keep
-      - Student Development/Overview.md
-      - Student Development/Student Leadership.md
-      - Student Development/LLP (Community and Student Leadership).md
-      - Student Development/Discipline.md
-      - InfoComm Technology/.keep
-      - InfoComm Technology/Overview.md
-      - InfoComm Technology/Our Unique Programmes.md
-      - Aesthetics/.keep
-      - Aesthetics/Overview.md
-      - Aesthetics/Our Curriculum.md
-      - Aesthetics/Our Programmes.md
-      - Character Education/.keep
-      - Character Education/Overview.md
-      - Character Education/School Core Values.md
-      - Character Education/National Education.md
-      - Character Education/Education Career Guidance (ECG).md
-      - Character Education/Social Studies.md
-      - Character Education/Values in Action.md
-      - Programme for Active Learning.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs.md
       - Co Curricular Activities/Sports.md
-      - Our Alumni Our Pride/.keep
-      - Our Alumni Our Pride/Overview.md
-      - Our Alumni Our Pride/2022 Graduates.md
-      - Our Alumni Our Pride/2021 Graduates.md
-      - Our Alumni Our Pride/2020 Graduates.md
-      - Our Alumni Our Pride/2019 Graduates.md
-      - Our Alumni Our Pride/2018 Graduates.md
-      - Our Alumni Our Pride/2017 Graduates.md
-      - Our Alumni Our Pride/2016 Graduates.md
+      - Learning for Life Programme.md
+      - Lead Our Lives (LOL) with Purpose.md
+      - Programme for Active Learning.md
+      - English/.keep

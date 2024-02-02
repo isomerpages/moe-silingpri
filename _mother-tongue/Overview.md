@@ -9,4 +9,3 @@ variant: markdown
 
 Pupils to be confident and proficient communicators in their Mother Tongue languages and exhibit good values.
 ![](/images/Mother_Tongue.png)
-

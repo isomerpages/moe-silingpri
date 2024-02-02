@@ -24,8 +24,6 @@ links:
         url: /signature-programmes/grit-slps
       - title: EL Monthly Odyssey (E.L.M.O)
         url: /signature-programmes/ELMO
-      - title: Learning for Life Programme
-        url: /signature-programmes/LLP
       - title: Play and Learn Math (P.A.L.M)
         url: /signature-programmes/PALM
       - title: P1 Transitional Programme
@@ -34,35 +32,53 @@ links:
         url: /signature-programmes/ALP-environmentalscience
       - title: F.L.Y Programme
         url: /signature-programmes/fly-programme
-      - title: Lead Our Lives with Purpose
-        url: /signature-programmes/LOL
   - title: Our Experiences
     url: /our-experiences/
     sublinks:
-      - title: English
-        url: /our-experiences/English/
-      - title: Mathematics
-        url: /our-experiences/Mathematics/
-      - title: Science
-        url: /our-experiences/Science/overview/
-      - title: Mother Tongue
-        url: /mothertongue/overview
-      - title: Physical Education
-        url: /our-experiences/Physical-Education/overview/
-      - title: Student Development
-        url: /our-experiences/Student-Development/overview/
-      - title: InfoComm Technology
-        url: /our-experiences/InfoComm-Technology/overview/
-      - title: Aesthetics
-        url: /our-experiences/Aesthetics/overview/
-      - title: CCE
-        url: /our-experiences/Character-Education/overview/
-      - title: Programme for Active Learning
-        url: /our-experiences/programme-for-active-learning/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/Co-Curricular-Activities/overview/
-      - title: Our Alumni Our Pride
-        url: /our-experiences/our-alumni-our-pride/overview/
+      - title: Learning for Life programme
+        url: /our-experiences/learningforlifeprogramme/
+      - title: Lead Our Lives with Purpose
+        url: /our-experiences/lol/
+      - title: SLPS Gallery
+        url: /parents-hub/slpsgallery/
+      - title: Programme for Active Learning
+        url: /our-experiences/programme-for-active-learning/
+      - title: Discovering Si Ling
+        url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /department/mathematics/
+      - title: Science
+        url: /departments/science/overview/
+      - title: Mother Tongue
+        url: /mothertongue/overview/
+      - title: Aesthetics
+        url: /departments/aesthetics/overview/
+      - title: CCE
+        url: /departments/character-education/overview/
+      - title: Infocomm technology
+        url: /departments/infocomm-technology/overview/
+      - title: Physical Education
+        url: /departments/physical-education/overview/
+      - title: Student Development
+        url: /departments/student-development/overview/
+  - title: Student's Hub
+    url: /useful-information/homework-policy/
+    sublinks:
+      - title: Homework Policy
+        url: /useful-information/homework-policy/
+      - title: Sexuality Education
+        url: /students-hub/sexuality-education/
+      - title: Online Learning Resources
+        url: /students-hub/online-learning-resources/home-based-learning/
+      - title: Cyber Wellness
+        url: /students-hub/cyber-wellness/overview/
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
@@ -74,23 +90,16 @@ links:
         url: /useful-information/school-services/
       - title: Parents Gateway App
         url: /parents-hub/Parents-Gateway-App/
-      - title: Homework Policy
-        url: /useful-information/homework-policy/
       - title: Parent Resource
         url: /parents-hub/Parent-resource/p1parent
       - title: Travel Declaration
         url: /useful-information/travel-declaration/
-      - title: Parents in Partnership
-        url: /parents-hub/parents-in-partnership
-      - title: Cyber Wellness
-        url: /parents-hub/Cyber-Wellness/overview
-      - title: Sexuality Education
-        url: /parents-hub/sexuality-education
       - title: Financial Assistance Scheme
         url: /useful-information/financial-assistance-scheme/
-      - title: Online Learning Resources
-        url: /parents-hub/Online-Learning-Resources/HBL/
-      - title: Discovering Si Ling
-        url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
-  - title: SLPS Gallery
-    url: /parents-hub/slpsgallery/
+  - title: Partners
+    url: /partners/parents-in-partnership/
+    sublinks:
+      - title: Parents in Partnership
+        url: /partners/parents-in-partnership/
+      - title: Our Alumni Our Pride
+        url: /partners/our-alumni-our-pride/overview/
