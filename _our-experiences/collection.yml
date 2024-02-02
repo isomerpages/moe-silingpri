@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Lead Our Lives (LOL) with Purpose.md
       - Learning for Life Programme.md
       - Overview.md
       - Co Curricular Activities/.keep
