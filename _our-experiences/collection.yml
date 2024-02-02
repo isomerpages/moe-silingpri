@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Clubs.md
+      - Co Curricular Activities/Sports.md
+      - Programme for Active Learning.md
       - English/.keep
       - Mathematics/.keep
       - Science/.keep
@@ -11,10 +17,4 @@ collections:
       - InfoComm Technology/.keep
       - Aesthetics/.keep
       - Character Education/.keep
-      - Programme for Active Learning.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/Overview.md
-      - Co Curricular Activities/Performing Arts.md
-      - Co Curricular Activities/Clubs.md
-      - Co Curricular Activities/Sports.md
       - Our Alumni Our Pride/.keep
