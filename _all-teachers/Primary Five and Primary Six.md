@@ -36,7 +36,7 @@ variant: markdown
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Perseverance</span></span></p>
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MRS THAM-CHIN MEI LING
-			</span></td>
+				</span><br><span style="font-size:12px"><strong>ST Science</strong></span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br><strong>LSP Coordinator</strong></span></td>
 		</tr>
 		<tr>
