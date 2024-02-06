@@ -22,6 +22,7 @@ variant: markdown
 		<tr>
 			<td style="width:218px">&nbsp;</td>
 			<td style="width:230px">&nbsp;</td>
+						<td style="width:230px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS MASSWERA WAHYUNE<br>
