@@ -3,6 +3,7 @@ title: Support Staff
 permalink: /about-us/Our-People/support-staff/
 description: ""
 third_nav_title: Who We Are
+variant: markdown
 ---
 ### **Support Staff**
 
@@ -13,6 +14,8 @@ third_nav_title: Who We Are
 		<tr>
 			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM SHIRLEY CHEAN<br>
 			<strong>Library Assistant</strong></span></span></td>
+				<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR LEE HO YIN<br>
+			<strong>ICT Manager</strong></span></span></td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH ROSMAN<br>
 			<strong>ICT Trainer</strong></span></span></td>
 		</tr>
@@ -25,6 +28,8 @@ third_nav_title: Who We Are
 			<strong>Desktop Engineer</strong></span></span></td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR ALIFF ZAIYAN<br>
 			<strong>Desktop Engineer</strong></span></span></td>
+			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><br>
+			<strong></strong></span></span></td>
 		</tr>
 	</tbody>
 </table>
