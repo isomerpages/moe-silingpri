@@ -30,6 +30,7 @@ variant: markdown
 			<strong>Desktop Engineer</strong></span></span></td>
 			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><br>
 			<strong></strong></span></span></td>
+			<td style="width:245px">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
