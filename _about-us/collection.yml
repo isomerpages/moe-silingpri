@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Who We Are/Support Staff.md
       - Who We Are/Education Partner.md
       - Who We Are/All Teachers.md
       - Who We Are/Key Personnel.md
