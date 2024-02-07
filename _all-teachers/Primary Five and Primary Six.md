@@ -53,7 +53,7 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">5 Innovation</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MRS CATHERINE LAM<br><strong>HOD CCE</strong></span></td>
+			<td style="width:249px"><span style="font-size:12px">MRS CATHRINE LAM<br><strong>HOD CCE</strong></span></td>
 			<td style="width:251px"><span style="font-size:12px">MS AW JIE SHI</span></td>
 		</tr>
 		<tr>

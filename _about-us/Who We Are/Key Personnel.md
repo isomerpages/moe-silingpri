@@ -1,8 +1,8 @@
 ---
 title: Key Personnel
-permalink: /about-us/Our-People/key-personnel/
+permalink: /about-us/who-we-are/key-personnel/
 description: ""
-third_nav_title: Our People
+third_nav_title: Who We Are
 variant: markdown
 ---
 ### **Key Personnel**
@@ -209,9 +209,5 @@ variant: markdown
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SH Science</strong></span></span></td>
 					<td style="width:274px">&nbsp;</td>
 		</tr>
-		
-		<tr>
-		</tr>
-		<tr>
-	</tr></tbody>
+	</tbody>
 </table>

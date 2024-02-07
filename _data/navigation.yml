@@ -1,12 +1,12 @@
-logo: /images/slplogo.png
+logo: /images/school_logo_png.png
 links:
   - title: About Us
     url: /about-us/principals-message
     sublinks:
       - title: Our School
         url: /about-us/Our-School/history
-      - title: Our People
-        url: /about-us/Our-People/key-personnel
+      - title: Who We Are
+        url: /about-us/who-we-are/key-personnel/
       - title: Location Map
         url: /contact-us/
       - title: Privacy Statement
@@ -71,14 +71,8 @@ links:
   - title: Student's Hub
     url: /useful-information/homework-policy/
     sublinks:
-      - title: Homework Policy
-        url: /useful-information/homework-policy/
-      - title: Sexuality Education
-        url: /students-hub/sexuality-education/
       - title: Online Learning Resources
         url: /students-hub/online-learning-resources/home-based-learning/
-      - title: Cyber Wellness
-        url: /students-hub/cyber-wellness/overview/
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
@@ -96,6 +90,12 @@ links:
         url: /useful-information/travel-declaration/
       - title: Financial Assistance Scheme
         url: /useful-information/financial-assistance-scheme/
+      - title: Homework Policy
+        url: useful-information/homework-policy/
+      - title: Sexuality Education
+        url: /students-hub/sexuality-education/
+      - title: Cyber Wellness
+        url: /students-hub/cyber-wellness/overview/
   - title: Partners
     url: /partners/parents-in-partnership/
     sublinks:

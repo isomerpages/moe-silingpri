@@ -2,6 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - Who We Are/.keep
+      - Who We Are/Key Personnel.md
+      - Who We Are/All Teachers.md
+      - Who We Are/Education Partner.md
+      - Who We Are/Support Staff.md
+      - Who We Are/Teachers In Action.md
       - Principal's Message.md
       - Our Rules and Attire.md
       - Our School/.keep
@@ -11,8 +17,4 @@ collections:
       - Our School/Our Vision, Mission and Values.md
       - Location Map.md
       - Our People/.keep
-      - Our People/Key Personnel.md
-      - Our People/All Teachers.md
-      - Our People/Education Partner.md
-      - Our People/Support Staff.md
       - Our School Advisory Committee.md
