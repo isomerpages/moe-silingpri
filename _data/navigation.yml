@@ -68,11 +68,6 @@ links:
         url: /departments/physical-education/overview/
       - title: Student Development
         url: /departments/student-development/overview/
-  - title: Student's Hub
-    url: /useful-information/homework-policy/
-    sublinks:
-      - title: Online Learning Resources
-        url: /students-hub/online-learning-resources/home-based-learning/
   - title: Parents' Hub
     url: /parents-hub/Parents-Gateway-App/
     sublinks:
@@ -96,6 +91,11 @@ links:
         url: /students-hub/sexuality-education/
       - title: Cyber Wellness
         url: /students-hub/cyber-wellness/overview/
+  - title: Student's Hub
+    url: /useful-information/homework-policy/
+    sublinks:
+      - title: Online Learning Resources
+        url: /students-hub/online-learning-resources/home-based-learning/
   - title: Partners
     url: /partners/parents-in-partnership/
     sublinks:
