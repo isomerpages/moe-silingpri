@@ -13,3 +13,5 @@ variant: markdown
 |[Term 1 COE Letter](/files/2024_TERM_1_COE_LETTER__doc.pdf) |8 Jan 2024
 [2024 School Health Visit](/files/Parent_Hub/Parent_Resource/2024_School_Health_Visit_for_Primary_1_to_6_Students.pdf)| 3 Jan 2024
 |[Term 1 Letter to Parents](/files/Parent_Hub/Parent_Resource/2024_Term_1_Letter_to_Parents.pdf)| 2 Jan 2024|
+|[Meet the Form Teachers Foundation Subjects](/files/P5_Meet_the_FTs_2024___Foundation_Subjects.pdf)| 8 Feb 2024 
+|[Meet the Form Teachers ](/files/P5_Meet_the_FTs_2024___Form_Teachers__Slides.pdf)| 8 Feb 2024 
