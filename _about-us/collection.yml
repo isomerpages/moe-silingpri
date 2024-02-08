@@ -2,19 +2,19 @@ collections:
   about-us:
     output: true
     order:
-      - Teachers In Action.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/History.md
       - Our School/Our Crest.md
       - Our School/Our Song.md
       - Our School/Our Vision, Mission and Values.md
+      - Our Rules and Attire.md
       - Our People/.keep
       - Who We Are/.keep
       - Who We Are/Key Personnel.md
       - Who We Are/All Teachers.md
       - Who We Are/Education Partner.md
       - Who We Are/Support Staff.md
-      - Our Rules and Attire.md
+      - Teachers In Action.md
       - Our School Advisory Committee.md
       - Location Map.md
