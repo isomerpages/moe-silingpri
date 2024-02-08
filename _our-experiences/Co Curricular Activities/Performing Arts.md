@@ -46,7 +46,7 @@ In the process of practicing and performing together, our pupils also learn the 
 *   School’s National Day Celebration 2019
 *   School’s Recognition Day 2019
 
-**Teachers-In-Charge:**&nbsp;Chong Leng Cher, Faradilah Bte Mohd Yaakop, Sathasivan Ruthra, Lee Mei Cheng
+**Teachers-In-Charge:**&nbsp;Ms Chong Leng Cher, Mdm Sathasivan Ruthra,&nbsp;Ms Lee Mei Cheng
 
 #### Guitar Ensemble
 
