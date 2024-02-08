@@ -25,7 +25,7 @@ Through these activities, our members build self-confidence, learn about commitm
 
   
 
-**Teachers-In-Charge:**&nbsp;Lim Tau Wei May, Muhammad Amir Samuel
+**Teachers-In-Charge:**&nbsp;     Ms Aw Jie Shi, Mdm Tan Boon Fong Sharon Grace, Ms Nurul Anisah Bte Rizal
 
 #### Dance Club
 
