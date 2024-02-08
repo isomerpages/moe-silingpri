@@ -3,6 +3,7 @@ title: Our Vision, Mission and Values
 permalink: /about-us/Our-School/our-vision-mission-and-values/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### Our Vision, Mission and Values
 
@@ -33,6 +34,6 @@ Creative and Expressiveness in the Arts
 
 ##### **Strategic Thrust 4**
 
-Character and Citizenship Development
+CCE & Student Well-being 
 
 ![School building inverted colours](/images/About%20Us/VMV.png)

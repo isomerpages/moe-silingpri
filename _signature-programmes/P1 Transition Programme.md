@@ -1,9 +1,10 @@
 ---
-title: P1 Transitional Programme
-permalink: /signature-programmes/p1transitionalprogramme/
+title: P1 Transition Programme
+permalink: /signature-programmes/p1transitionprogramme/
 description: ""
+variant: markdown
 ---
-### **P1 Transitional Programme**
+### **P1 Transition Programme**
 
 <div class="image-container">
 <img align="right" src="/images/79.png"> 
