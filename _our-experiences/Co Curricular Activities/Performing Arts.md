@@ -56,4 +56,4 @@ The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
-**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo
+**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo, Mr Muhammad Amir Samuel 
