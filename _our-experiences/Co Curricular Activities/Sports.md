@@ -44,7 +44,7 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions.&nbsp;Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 
-**Teachers-in-charge:**&nbsp;Mr Saiful Bin Sapari, Ms Wong Kai Teng, Mdm Siti Nur Atiqa Binte Zahrin
+**Teachers-in-charge:**&nbsp;Mr Jeffrey Low Kok Wah, Ms Huang Yihui Terrenz
 
 #### Floorball (Girls)
 
@@ -56,11 +56,11 @@ Floorball is a fast paced game that requires skills, stamina and strategies.&nbs
 
 *   National School Games Tier 2 Champions&nbsp;2019&nbsp;  
 
-**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Huang Yihui Terrenz, 
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Faradilah Bte Mohd Yaakop, Mdm Norashikin Bte Mohamed Said
 #### Football Boys
 
 <img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
 
 Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game.&nbsp;The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience.&nbsp;The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
-**Teachers-in-charge:**&nbsp;Jeffrey Low Kok Wah, Saiful Bin Sapari, Ong Soo Hoon Cecilia, Wong Kai Teng
+**Teachers-in-charge:**&nbsp;Mr Saiful Bin Sapari, Ms Wong Kai Teng, Mdm Siti Nur Atiqa bte Zahrin
