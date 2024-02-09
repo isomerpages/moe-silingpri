@@ -19,7 +19,7 @@ variant: markdown
 *   provide students with platform and opportunities to showcase talents and become confident speakers of their work of Art (Exposure)
 *   provide opportunities for students to participate in competitions (Excellence)
 
-**Teachers-in-charge:**&nbsp;Fadlinah Binte Saban, Siti Horrianie Binte Osman, Normah Binte Mohamed Nor
+**Teachers-in-charge:**&nbsp; Mdm Fadlinah Binte Saban, Ms Nadyah Binte Azman, Ms Chong Wen Shan Rosamund 
 
 ### Brownies
 
@@ -46,7 +46,7 @@ variant: markdown
 *   Singapore Youth Festival (SYF) 2019 Exhibition
  
 
-**Teachers-in-charge:**&nbsp;Mdm Hazline Buang, Mdm Noor Aisya,&nbsp;Mumtaj Behom
+**Teachers-in-charge:**&nbsp;Mdm Hazline Buang, Mdm Chee Lily, Mdm Shanom Farsa Binte Sarsy
 
 ### SciEinsteins Club
 
@@ -54,4 +54,4 @@ variant: markdown
 
 We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.&nbsp;
 
-**Teachers-in-charge:**&nbsp;Anita D/O Selvam, Teo Shi Hui, Lin Yuping, Quah Yee Wen
+**Teachers-in-charge:**&nbsp; Ms Anita D/O Selvam, Mdm Jayaraman Chitra, Ms Lin Yuping, Mdm Quah Yee Wen
