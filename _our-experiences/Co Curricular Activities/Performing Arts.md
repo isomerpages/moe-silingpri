@@ -25,7 +25,7 @@ Through these activities, our members build self-confidence, learn about commitm
 
   
 
-**Teachers-In-Charge:**&nbsp;Lim Tau Wei May, Muhammad Amir Samuel
+**Teachers-In-Charge:**&nbsp;     Ms Aw Jie Shi, Mdm Tan Boon Fong Sharon Grace, Ms Nurul Anisah Bte Rizal
 
 #### Dance Club
 
@@ -46,7 +46,7 @@ In the process of practicing and performing together, our pupils also learn the 
 *   School’s National Day Celebration 2019
 *   School’s Recognition Day 2019
 
-**Teachers-In-Charge:**&nbsp;Chong Leng Cher, Faradilah Bte Mohd Yaakop, Sathasivan Ruthra, Lee Mei Cheng
+**Teachers-In-Charge:**&nbsp;Ms Chong Leng Cher, Mdm Sathasivan Ruthra,&nbsp;Ms Lee Mei Cheng
 
 #### Guitar Ensemble
 
@@ -56,4 +56,4 @@ The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
-**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo
+**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo, Mr Muhammad Amir Samuel 
