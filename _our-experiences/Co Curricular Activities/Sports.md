@@ -22,7 +22,7 @@ variant: markdown
 *   Junior – Tier One 1st Runner Up
 *   Senior – Certificate of Participation
 
-**Teachers-in-charge:**&nbsp;Tan Si Chin Janice, Chew Suet San, Nur Hazura Bte Hamdan, Ms Yu Sheau Huey, Ms Marie Teo
+**Teachers-in-charge:**&nbsp;Ms Tan Si Chin Janice, Ms Chew Suet San, Ms Marie Teo Kah Zhi, Ms Yu Sheau Huey
 
 #### Basketball (Girls)
 
@@ -36,7 +36,7 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 *   Our school sent a team of Senior Girls and a team of Junior Girls for the National School Games Competition in 2019.&nbsp; The Junior Girls team did our school proud by becoming the Champion in the Tier 2 Competition.
 
-**Teachers-in-charge:**&nbsp;Dennis Tuan, Emilia Bte Razali, Goh Lee Teng
+**Teachers-in-charge:**&nbsp;Mr Dennis Tuan, Mdm Yeo May Chen Melanie, Mdm Ong Soo Hoon Cecilia, Ms Mumtaj Behom
 
 #### Floorball (Boys)
 
@@ -44,7 +44,7 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions.&nbsp;Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 
-**Teachers-in-charge:**&nbsp;Soh Siew Cheng, Katijah Beevi D/O Auwlia M, Xu Yonghua
+**Teachers-in-charge:**&nbsp;Mr Saiful Bin Sapari, Ms Wong Kai Teng, Mdm Siti Nur Atiqa Binte Zahrin
 
 #### Floorball (Girls)
 
@@ -56,8 +56,7 @@ Floorball is a fast paced game that requires skills, stamina and strategies.&nbs
 
 *   National School Games Tier 2 Champions&nbsp;2019&nbsp;  
 
-**Teachers-in-charge:**&nbsp;Chua Lynn Anthea, Huang Yihui Terrenz, Woon Bee Eng, Chong Wen Shan Rosamund
-
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Huang Yihui Terrenz, 
 #### Football Boys
 
 <img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
@@ -65,4 +64,3 @@ Floorball is a fast paced game that requires skills, stamina and strategies.&nbs
 Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game.&nbsp;The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience.&nbsp;The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
 **Teachers-in-charge:**&nbsp;Jeffrey Low Kok Wah, Saiful Bin Sapari, Ong Soo Hoon Cecilia, Wong Kai Teng
-
