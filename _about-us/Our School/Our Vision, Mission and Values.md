@@ -13,7 +13,7 @@ Every Si Ling Pupil a Scholar who Leads and Serves
 
 ##### **MISSION**
 
-To nurture our students to be their best.
+To nurture our pupils to be their best.
 
 ##### **VALUES**
 
