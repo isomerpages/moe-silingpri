@@ -42,10 +42,9 @@ Strategies for games such as attacking and defending are taught to the pupils as
 
 #### Floorball (Boys)
 
-<img src="/images/Floorball_Boys.png" style="width:450px;margin-right:-15px;margin-left:-12px;" align="left"> 
+<img src="/images/Floorball_Boys.png" style="width:450px;margin-right:-15px;margin-left:-10px;" align="left"> 
 
 We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions.&nbsp;
-
 Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 &nbsp;
 **Teachers-in-charge:**&nbsp;Mr Jeffrey Low Kok Wah, Ms Huang Yihui Terrenz
