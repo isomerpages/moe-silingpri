@@ -15,7 +15,7 @@ variant: markdown
 
 #### Basketball (Boys)
 
-<img src="/images/Basketball_boys_1.png" style="width:420px;margin-right:-15px;margin-left:-30px" align="left"> 
+<img src="/images/Basketball_boys_1.png" style="width:420px;margin-right:-15px;margin-left:-20px" align="left"> 
 
 **Achievements:**&nbsp;National School Games 2019 
 
@@ -52,7 +52,9 @@ We provide opportunities and a safe environment for every pupil to enjoy floorba
 
 <img src="/images/Floorball_Girls.png" style="width:450px;margin-right:-15px;margin-left:-20px" align="left"> 
 
-Floorball is a fast paced game that requires skills, stamina and strategies.&nbsp;In this CCA, we provide the space to explore, learn and experience the game in a safe environment.&nbsp;Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
+Floorball is a fast paced game that requires skills, stamina and strategies.&nbsp;In this CCA, we provide the space to explore, learn and experience the game in a safe environment.&nbsp;
+
+Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
 
 **Achievements:**&nbsp;
 
