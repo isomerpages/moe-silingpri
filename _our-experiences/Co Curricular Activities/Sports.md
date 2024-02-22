@@ -15,7 +15,7 @@ variant: markdown
 
 #### Basketball (Boys)
 
-<img src="/images/cca10.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Basketball_boys.png" style="width:420px;margin-right:-15px;margin-left:-30px" align="left"> 
 
 **Achievements:**&nbsp;National School Games 2019 
 
