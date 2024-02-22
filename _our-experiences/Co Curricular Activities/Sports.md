@@ -65,6 +65,8 @@ Girls will learn to react, to respond in game like situations as well as to mast
 
 <img src="/images/Football_Boys.png" style="width:450px;margin-right:-15px;margin-left:-20px" align="left"> 
 
-Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game.&nbsp;The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience.&nbsp;The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
+Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game.&nbsp;The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience.&nbsp;
+
+The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
 **Teachers-in-charge:**&nbsp;Mr Saiful Bin Sapari, Ms Wong Kai Teng, Mdm Siti Nur Atiqa bte Zahrin
