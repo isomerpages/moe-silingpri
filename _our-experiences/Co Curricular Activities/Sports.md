@@ -28,7 +28,9 @@ variant: markdown
 
 <img src="/images/Basketball_Girls.png" style="width:440px;margin-right:-15px;margin-left:-24px" align="left"> 
 
-Basketball Girls CCA trains female pupils in basketball skills such as dribbling, passing, shooting, lay up, etc.&nbsp;These skills are more in depth than similar skills they learn in their PE lessons.&nbsp;Strategies for games such as attacking and defending are taught to the pupils as well.&nbsp;Pupils who are good could be chosen as school team to represent the school in National School Games Competitions.
+Basketball Girls CCA trains female pupils in basketball skills such as dribbling, passing, shooting, lay up, etc.&nbsp;These skills are more in depth than similar skills they learn in their PE lessons.&nbsp;
+
+Strategies for games such as attacking and defending are taught to the pupils as well.&nbsp;Pupils who are good could be chosen as school team to represent the school in National School Games Competitions.
 
 **Achievements:**&nbsp;
 
