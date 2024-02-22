@@ -40,7 +40,7 @@ Basketball Girls CCA trains female pupils in basketball skills such as dribbling
 
 #### Floorball (Boys)
 
-<img src="/images/cca12.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Floorball_Boys.png" style="width:450px;margin-right:-15px;margin-left:-27px;" align="left"> 
 
 We provide opportunities and a safe environment for every pupil to enjoy floorball through skill trainings, game strategies and competitions.&nbsp;Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 
@@ -48,7 +48,7 @@ We provide opportunities and a safe environment for every pupil to enjoy floorba
 
 #### Floorball (Girls)
 
-<img src="/images/cca13.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Floorball_Girls.png" style="width:450px;margin-right:-15px;margin-left:-20px" align="left"> 
 
 Floorball is a fast paced game that requires skills, stamina and strategies.&nbsp;In this CCA, we provide the space to explore, learn and experience the game in a safe environment.&nbsp;Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
 
@@ -59,7 +59,7 @@ Floorball is a fast paced game that requires skills, stamina and strategies.&nbs
 **Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Faradilah Bte Mohd Yaakop, Mdm Norashikin Bte Mohamed Said
 #### Football Boys
 
-<img src="/images/cca14.png" style="width:320px;height:200px;margin-right:15px;" align="left"> 
+<img src="/images/Football_Boys.png" style="width:450px;margin-right:-15px;margin-left:-20px" align="left"> 
 
 Football (Boys) is made up of Primary 3 to 6 boys who are interested and passionate towards the game.&nbsp;The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience.&nbsp;The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
