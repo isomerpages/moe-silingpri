@@ -3,6 +3,7 @@ title: Pautan Bahasa Melayu
 permalink: /mother-tongue/Malay/pautan-bahasa-melayu/
 description: ""
 third_nav_title: Malay
+variant: markdown
 ---
 ### Pautan Bahasa Melayu
 
@@ -15,5 +16,3 @@ third_nav_title: Malay
 •	Aplikasi MLCS (Malay Language Centre of Singapore)
 ([https://play.google.com/store/apps/developer?id=MLCS&hl=en](https://play.google.com/store/apps/developer?id=MLCS&hl=en))
 
-•	Video Stimulus untuk Sekolah Rendah Terbitan MLCS
-([https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/Video-Stimulus-for-Primary-Schools](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/Video-Stimulus-for-Primary-Schools))
