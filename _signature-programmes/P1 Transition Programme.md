@@ -53,15 +53,12 @@ Positive collaboration with the different stakeholders help to increase students
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
 ##### Day 0 (last week of Dec)
-<div class="image-container">
-<img align="right" src="/images/5.png">
-</div>
 
 **P1 Form Teachers Engagement**
 
 <ul style="list-style-type:disc">
 	<li>Sharing of Good Practices for Lower Primary Classroom&nbsp;</li>
-
+<img align="right" style="width:90%;margin-right:-120px" src="/images/P1_day_0.png">
 <li>Introduce Class Profile&nbsp;</li>
 
  <li>Support for SEN pupils&nbsp;</li>
@@ -83,9 +80,8 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 1
-<div>
-<img align="right" src="/images/Annotation%202023-07-20%20162937.png">
-</div>
+
+
 
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
@@ -98,9 +94,9 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 2
-<div>
-<img src="/images/AHHHH.png" align="right">
-</div>
+
+<img style="margin-right:-90px; width:90%" src="/images/AHHHH.png" align="right">
+
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
 	<li>Setting Classroom Routines </li>
