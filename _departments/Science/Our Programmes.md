@@ -9,7 +9,7 @@ variant: tiptap
 
 We believe in designing a rich experience of learning that fosters joy of learning in students, providing them with opportunities to acquire knowledge and skills, while having fun and with the necessary rigor.
 
-<img src="/images/Our%20Experiences/Science/_MG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align="right">
+<img src="/images/Our%20Experiences/Science/IMG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align="right">
 
 ##### Grow me
 Students have the opportunity to demonstrate the school’s values – perseverance and respect, as they patiently and lovingly wait for their seeds or caterpillar to reach the adult stage.  They hone their observation and communication skills as they record and present the growth of their ‘pets’.  They are also able to see the water cycle in action as they build their terrarium.
