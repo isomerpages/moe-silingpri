@@ -80,7 +80,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 
 
 ##### Day 1
-<img align="right" style="width:80%;margin-right:-127px; margin-left:-95px" src="/images/P1_day_1.png">
+
 
 **Classroom Circle Time**
 <ul style="list-style-type:disc">
@@ -89,6 +89,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	<li>Video on Canteen Etiquette (to be shown before recess)</li>
 	<li>Icebreaker Games with classmates </li>
 </ul>
+<img align="right" style="width:80%;margin-right:-127px; margin-left:-95px" src="/images/P1_day_1.png">
 
 ##### Day 2
 
