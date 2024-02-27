@@ -34,7 +34,7 @@ PAL help in the&nbsp;**development of soft skills**&nbsp;in our students such as
 **Music and Movement**
 <img src="/images/Music_and_Movement.png" style="width:90%">
 
-**Outdoor Education (Basic 1st Aid skills)**
+**Outdoor Education**
 <img src="/images/Outdoor_education.png" style="width:90%">
 
 **Drama**
