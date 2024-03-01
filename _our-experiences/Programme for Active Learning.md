@@ -2,7 +2,7 @@
 title: Programme for Active Learning
 permalink: /our-experiences/programme-for-active-learning/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ### PAL (Programme for Active Learning)
 
@@ -23,22 +23,19 @@ PAL help in the&nbsp;**development of soft skills**&nbsp;in our students such as
 | Sports and Games | Music and Movement |
 
 **Visual Arts**
-<img src="/images/pal1.png" style="width:80%">
+<img src="/images/Visual_arts.png" style="width:90%">
 
 **Sports and Games**
-<img src="/images/pal2.png" style="width:80%">
+<img src="/images/Sports_and_games.png" style="width:90%">
 
 **Dance**
-<img src="/images/pal3.png" style="width:80%">
+<img src="/images/1.png" style="width:90%">
 
 **Music and Movement**
-<img src="/images/pal4.png" style="width:80%">
+<img src="/images/Music_and_Movement.png" style="width:90%">
 
-**Outdoor Education (Basic 1st Aid skills)**
-<img src="/images/pal5.png" style="width:80%">
-
-**Outdoor Education (Building shelter)**
-<img src="/images/pal6.png" style="width:80%">
+**Outdoor Education**
+<img src="/images/Outdoor_education.png" style="width:90%">
 
 **Drama**
-<img src="/images/pal7.png" style="width:80%">
+<img src="/images/drama.png" style="width:90%">
