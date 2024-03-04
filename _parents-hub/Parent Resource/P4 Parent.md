@@ -9,6 +9,9 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
+|[Standard Subjects Slides](/files/P4_Parent_Briefing_2024___Standard_Subjects.pdf)| 4 Mar 2024 
+|[Principal Slides](/files/P4_Parent_Briefing_2024___Principal_s_Slides.pdf)| 4 Mar 2024 
+|[Form Teacher Slides](/files/P4_Parent_Briefing__2024___FT_Slides.pdf)| 4 Mar 2024 
 |[School Based Assessments ](/files/P4_School_Based_Assessments_2024_for_Terms_1__2_and_3.pdf)| 19 Jan 2024
 |[Term 1 COE Letter](/files/2024_TERM_1_COE_LETTER__doc.pdf) |8 Jan 2024
 [2024 School Health Visit](/files/Parent_Hub/Parent_Resource/2024_School_Health_Visit_for_Primary_1_to_6_Students.pdf)| 3 Jan 2024
