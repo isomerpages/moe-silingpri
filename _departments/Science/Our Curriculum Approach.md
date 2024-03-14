@@ -16,7 +16,7 @@ We adopt the inquiry-based learning to promote deeper learning and nurture self-
 
 The process of inquiry is facilitated by teachers who help students make connections and build their understanding of concepts. The process includes five phases: Engage, Explore, Explain, Elaborate and Evaluate. Teachers use questions to facilitate the development of new understanding.
 
-<img src="/images/9.png" style="width:450px;margin-left:-50px;margin-right:-20px" align="left">
+<img src="/images/9.png" style="width:500px;margin-left:-50px;margin-right:-20px" align="left">
 
 Our teachers further enhance their pedagogy as they leverage Information and Communications Technology (ICT) to conduct lessons and encourage participation. ICT helps to develop our students to be independent learners and allows them to collaborate by sharing information and providing feedback.
 
