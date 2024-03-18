@@ -9,6 +9,8 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
+|[SLPS Newsletter Vol 5 ](/files/2024__SLPS_Newsletter_vol_5_pdf_compressed.pdf)| 18 Mar 2024 
+|[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
 |[English Holistic Assessment Plan ](/files/Pr_1_English_Holistic_Assessment_Plan_2024.pdf)| 19 Jan 2024
 |[Math Holisitic Assessment Plan ](/files/Pr_1_Math_Holistic_Assessment_Plan_2024.pdf)| 19 Jan 2024
 |[MT Holisitic Assesssment Plan ](/files/Pr_1_MT_Holistic_Assessment_Plan_2024.pdf)| 19 Jan 2024
