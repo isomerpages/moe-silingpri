@@ -9,6 +9,8 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
+|[SLPS Newsletter Vol 5 ](/files/2024__SLPS_Newsletter_vol_5_pdf_compressed.pdf)| 18 Mar 2024 
+|[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
 |[Standard Subjects Slides](/files/P4_Parent_Briefing_2024___Standard_Subjects.pdf)| 4 Mar 2024 
 |[Principal Slides](/files/P4_Parent_Briefing_2024___Principal_s_Slides.pdf)| 4 Mar 2024 
 |[Form Teacher Slides](/files/P4_Parent_Briefing__2024___FT_Slides.pdf)| 4 Mar 2024 

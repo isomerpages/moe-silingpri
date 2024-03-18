@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### Calendar
 
-[2024 Term 1 Calendar of Events ](/files/TERM_1_COE_PARENTS_2024_xlsx.pdf)
+[2024 Term 2 Calendar of Events ](/files/2024_TERM_2_COE.pdf)
