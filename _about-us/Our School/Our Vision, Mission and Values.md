@@ -36,4 +36,3 @@ Creative and Expressiveness in the Arts
 
 CCE & Student Well-being 
 
-![School building inverted colours](/images/About%20Us/VMV.png)
