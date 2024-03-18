@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /signature-programmes/ALP-environmentalscience/
+permalink: /signature-programmes/alp-environmentalscience/
 description: ""
 third_nav_title: ALP (Environmental Science)
 variant: tiptap

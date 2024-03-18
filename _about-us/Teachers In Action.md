@@ -4,7 +4,7 @@ permalink: /about-us/who-we-are/teachers-in-action/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>Teachers in Action</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2.png">

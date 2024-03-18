@@ -3,13 +3,13 @@ title: Our Programmes
 permalink: /departments/science/our-programmes/
 description: ""
 third_nav_title: Science
-variant: tiptap
+variant: markdown
 ---
 ### **Our Programmes**
 
 We believe in designing a rich experience of learning that fosters joy of learning in students, providing them with opportunities to acquire knowledge and skills, while having fun and with the necessary rigor.
 
-<img src="/images/Our%20Experiences/Science/IMG_2411.jpeg" style="width:260px;height:340px;margin-left:15px;" align="right">
+<img src="/images/our_programmes_science.png" style="width:450px;margin-left:-15px;" align="right">
 
 ##### Grow me
 Students have the opportunity to demonstrate the school’s values – perseverance and respect, as they patiently and lovingly wait for their seeds or caterpillar to reach the adult stage.  They hone their observation and communication skills as they record and present the growth of their ‘pets’.  They are also able to see the water cycle in action as they build their terrarium.
@@ -173,7 +173,7 @@ Our learning trails provide our students the opportunity to be out of the classr
 </table>
 
 
-<img src="/images/Our%20Experiences/Science/sci7.png" style="width:70%">
+<img src="/images/14.png" style="width:600px">
 		 
 ##### Let's Investigate!
 

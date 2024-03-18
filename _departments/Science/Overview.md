@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-### **Science**
-
-![Students enjoying the garden with toy butterflies](/images/Our%20Experiences/Science/sci1.png)
-		 
-##### Our Vision
-
-Confident inquirers who enjoy science and value science as a tool to explore and better the world.
+<h3><strong>Science</strong></h3>
+<h5>Our Vision</h5>
+<p>Confident inquirers who enjoy science and value science as a tool to explore
+and better the world.</p>

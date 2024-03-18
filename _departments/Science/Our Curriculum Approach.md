@@ -3,19 +3,20 @@ title: Our Curriculum Approach
 permalink: /departments/science/our-curriculum-approach/
 description: ""
 third_nav_title: Science
-variant: tiptap
+variant: markdown
 ---
 ### **Our Curriculum Approach**
 
-<img src="/images/Our%20Experiences/Science/IMG_1285.png" style="width:320px;height:340px;margin-left:15px;" align="right">
+
 
 ##### Our Lessons
 
 We adopt the inquiry-based learning to promote deeper learning and nurture self-directed learners in the classroom. Guided by the Primary Science Syllabus, we develop lessons to provide opportunities for students to work individually or collaboratively to explain scientific concepts, using evidence to support their claim.  
+<img src="/images/science.png" style="width:500px;margin-left:-15px;margin-right:-20px;" align="right">
 
 The process of inquiry is facilitated by teachers who help students make connections and build their understanding of concepts. The process includes five phases: Engage, Explore, Explain, Elaborate and Evaluate. Teachers use questions to facilitate the development of new understanding.
 
-<img src="/images/Our%20Experiences/Science/sci3.png" style="width:375px;height:260px;margin-left:15px;" align="right">
+<img src="/images/9.png" style="width:500px;margin-left:-50px;margin-right:-20px" align="left">
 
 Our teachers further enhance their pedagogy as they leverage Information and Communications Technology (ICT) to conduct lessons and encourage participation. ICT helps to develop our students to be independent learners and allows them to collaborate by sharing information and providing feedback.
 
