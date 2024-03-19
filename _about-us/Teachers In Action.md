@@ -7,7 +7,7 @@ description: ""
 <h2>Teachers in Action</h2>
 
 Driven by our school’s mission “to nurture our pupils to be their best”, our teachers are dedicated to attaining excellence in their craft. This ethos underpins the professional development of teachers within Si Ling Primary School.
-<img src="/images/moreeeee.png">
+<img style="width:500px" src="/images/moreeeee.png">
 
 In our school, we have designated weekly Professional Development Time to facilitate collaboration among teachers who are teaching the same subject and grade level, enabling them to work together in designing captivating lessons that are then put into practice in their respective classrooms. 
 
