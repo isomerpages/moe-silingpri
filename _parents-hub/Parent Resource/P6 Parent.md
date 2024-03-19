@@ -10,7 +10,6 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
-|[SLPS Newsletter Vol 5 ](/files/2024__SLPS_Newsletter_vol_5_pdf_compressed.pdf)|18 Mar 2024 
 |[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)|18 Mar 2024
 |[School Based Assessments ](/files/P6_School_Based_Assessments_2024_for_Terms_1_and_2.pdf)| 19 Jan 2024
 |[Term 1 COE Letter](/files/2024_TERM_1_COE_LETTER__doc.pdf) |8 Jan 2024
