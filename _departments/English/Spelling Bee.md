@@ -7,7 +7,7 @@ third_nav_title: English
 ---
 <h1>Spelling Bee</h1>
 <h4>Term 1</h4>
-<img style="width:470px;margin-left:-55px;margin-right:-35px" align="left" src="/images/spelling_bee_awards.png">
+<img style="width:490px;margin-left:-55px;margin-right:-35px" align="left" src="/images/spelling_bee_awards.png">
 <p>The English Department sparked excitement for the love of English by launching
 the Spelling Bee competition. Students from Primary 2 till Primary 6 gathered
 to showcase their spelling skills. With hearts racing and minds focused,
