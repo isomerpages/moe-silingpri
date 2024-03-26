@@ -3,6 +3,7 @@ title: National Education
 permalink: /our-experiences/Character-Education/national-education/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
 ### National Education/Character and Citizenship Education
 
@@ -40,9 +41,11 @@ Various exciting recess activities like camouflage face painting and live first 
 
 The theme for this year’s RHD was Diversity, Our Strength. Since the founding of Singapore in 1819, we have always been a community that has tapped on the strengths of our differences in the pursuit of a common goal to make Singapore our home.
 
+<img src="">
+
 Racial Harmony Day serves to remind our pupils that social division can cost us dearly and that race and religion are potential fault lines in Singapore society. It is a day for us to reflect on, and celebrate our success as a harmonious nation and a society which is built on a rich diversity of cultures and heritages.
 
-<img src="/images/cce7.png" style="width:70%">
+<img src="/images/national_education_racial_harmony.png" style="width:80%">
 
 **National Day**
 
