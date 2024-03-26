@@ -48,3 +48,4 @@ Keeping our classrooms clean is a very important routine in our school. Just bef
 Termly classroom cleanliness checks are conducted and Gold, Silver and Bronze certificates are awarded to the classes, which display clean and tidy classrooms.
 
 This move aims to help our pupils build character and learn a little about self-reliance and looking after themselves.
+<img style="width:90%" src="/images/class_cleanliness.png">
