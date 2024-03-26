@@ -3,6 +3,7 @@ title: Education Career Guidance (ECG)
 permalink: /our-experiences/Character-Education/ECG/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
 ### Education Career Guidance (ECG)
 
@@ -20,4 +21,3 @@ The Programmes are listed as follows :
 |  Primary 5 | Basic writing resume skills<br> Introduction to My SkillsFuture Portal |
 |  Primary 6 | My SkillsFuture Portal <br> “I am a Young Entrepreneur” |
 	
-<img style="width:65%" src="/images/cce11.png">
