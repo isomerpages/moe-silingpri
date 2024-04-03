@@ -15,7 +15,7 @@ variant: markdown
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:274px"><img src="/images/Mr_Koe_New_picture.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
+			<td style="width:274px"><img src="/images/Mr_Koe_New_picture___about_us.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;</td>
 		</tr>
 		<tr>
