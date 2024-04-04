@@ -4,10 +4,11 @@ permalink: /about-us/our-people/all-teachers/primary-one-and-primary-two/
 description: ""
 variant: markdown
 ---
-<h3><strong>Primary One and Primary Two</strong></h3>
-<table>
-<tbody>
-<tr>
+## Primary One and Primary Two 
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+
+
+<tbody><tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
