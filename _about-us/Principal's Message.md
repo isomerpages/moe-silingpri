@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Principal's Message
- <img src="/images/Mr_Koe_New_picture___about_us.png" style="width:270px;height:270px;margin-right:15px;" align="left">  
+ <img src="/images/SY5_3357___Halfbody.jpg" style="width:270px;margin-right:15px;" align="left">  
 
 **Dear Parents/Guardians**,
 
