@@ -24,7 +24,7 @@ variant: markdown
 			<td style="width:226px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Principal</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width:274px"><img style="float:left;height:200px;margin-right:15px;width:150px" src="/images/Mdm_Azian.png"></td>
+			<td style="width:274px"><img style="float:left;height:200px;margin-right:15px;width:150px" src="/images/new_mdm_azian.png"></td>
 			<td style="width:226px">&nbsp;
 			</td></tr>
 		<tr>
@@ -35,7 +35,7 @@ variant: markdown
 		<tr>
 		</tr>
 		<tr>
-			<td style="width:274px"><img src="/images/About%20Us/Our%20People/mr_raj_kumar.png" style="float:left; height:150px; margin-right:15px; width:150px"></td>
+			<td style="width:274px"><img src="/images/new_mr_raj.png" style="float:left; height:200px; margin-right:15px; width:150px"></td>
 			<td style="width:226px">&nbsp;
 		  </td></tr>
 			<tr>
