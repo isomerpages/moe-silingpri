@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **Primary Three and Primary Four**
-
-<br><br><table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 	<thead>
 		<tr>
 			<th scope="col" style="text-align:left; width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Class</span></span></th>
@@ -17,9 +16,14 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Solidarity</span></span></td>
-			<td style="width:249px"><span style="font-size:12px">MRS LILY TAN<br><strong>ST Mathematics</strong><br>chee_lily@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">MISS CHONG LENG CHER<br>chong_leng_cher@moe.edu.sg</span><br>
-		</td></tr>
+			<td style="width:249px"><span style="font-size:12px">MRS LILY TAN<br><strong>ST Mathematics</strong></span></td>
+			<td style="width:251px"><span style="font-size:12px">MISS CHONG LENG CHER</span></td>
+		</tr>
+		<tr>
+			<td style="width:216px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">chee_lily@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">chong_leng_cher@moe.edu.sg</span></td>
+		</tr>
 		<tr>
 			<td style="width:216px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
@@ -29,10 +33,14 @@ variant: markdown
 			<td style="width:1200px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
-			<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG<br>dennis_tuan-yuh_leng@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN<br>quan_yee_wen@moe.edu.sg</span></td>
+			<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG</span></td>
+			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN</span></td>
 		</tr>
-		
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">dennis_tuan-yuh_leng@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">quan_yee_wen@moe.edu.sg</span></td>
+		</tr>
 		<tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
@@ -42,17 +50,25 @@ variant: markdown
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Innovation</span></span></p>
 			</td>
-			<td style="width:210px"><span style="font-size:12px">MS WONG KAI TENG<br>wong_kai_teng@moe.edu.sg<br></span></td>
-			<td style="width:210px"><span style="font-size:12px">MR JEFFERY LOW<br>low_kok_wah_jeffrey@moe.edu.sg<br></span></td>
+			<td style="width:210px"><span style="font-size:12px">MS WONG KAI TENG</span></td>
+			<td style="width:210px"><span style="font-size:12px">MR JEFFERY LOW</span></td>
 		</tr>
-		
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">wong_kai_teng@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px">low_kok_wah_jeffrey@moe.edu.sg</span></td>
+		</tr>
 		<tr>
 				</tr><tr>
 			<td style="width:106px">&nbsp;</td>
-		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NADYAH AZMAN<br>nadyah_azman@moe.edu.sg<br></span></span></td>
+		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NADYAH AZMAN</span></span></td>
 			<td style="width:106px">&nbsp;</td>
 		</tr>
-				<tr>
+		<tr>
+			<td style="width:106px">&nbsp;</td>
+			<td style="width:249px"><span style="font-size:12px">nadyah_azman@moe.edu.sg</span></td>
+				<td style="width:106px">&nbsp;</td>
+				</tr><tr>
 			<td style="width:106px">&nbsp;</td>
 			<td style="width:249px">&nbsp;</td>
 			<td style="width:251px">&nbsp;</td>
