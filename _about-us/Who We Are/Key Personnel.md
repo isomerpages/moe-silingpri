@@ -40,11 +40,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P1 &amp; P2 </strong></span></td>
 	</tr><tr>
 	</tr><tr>
-			<td style="width:106px">&nbsp;</td>
-			<td style="width:106px">&nbsp;</td>
-						<td style="width:106px">&nbsp;</td>
-		</tr>
-			<tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR JASHANAN KASINATHAN</strong><br>jashanan_kasinathan@moe.edu.sg</span></span></td>
+			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR JASHANAN KASINATHAN</strong><br>jashanan_kasinathan@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P3 &amp; P4</strong></span></td>
 	</tr><tr>
 		</tr></tbody></table>
