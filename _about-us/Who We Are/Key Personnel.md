@@ -50,3 +50,60 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>Assistant Year Head P5 &amp; P6</strong></span></td>
 	</tr><tr>
 		</tr></tbody></table>
+		
+### 		**School Staff Developer**
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+	<thead>
+		<tr>
+			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
+			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION </span></span></th>
+</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:249px"><span style="font-size:12px">MR GARY TEO TIAN SOON<br>
+			teo_tian_soon_gary@moe.edu.sg</span></td>
+			<td style="width:251px"><span style="font-size:12px"><strong>School Staff Developer</strong></span></td>
+			</tr><tr>
+		</tr>
+			</tbody>
+</table>
+
+### **Head Of Departments**
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+<thead>
+		<tr>
+			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
+			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
+		</tr>
+	</thead>
+<tbody>
+		<tr>
+	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS NG-HENG MUI GEK</strong><br>heng_mui_gek@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mathematics</strong></span></td>
+	</tr><tr>
+	</tr><tr>
+			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ASHRI SHUKRI</strong><br>ashri_b_shukri@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD Science</strong></span></td>
+	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR CHRIS NG HAN PO</strong><br>ng_han_po@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD ICT</strong></span></td>
+	</tr><tr>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR KOH CHIN SHENG</strong><br>koh_chin_sheng@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD Student Management</strong></span></td>
+	</tr><tr>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS CATHRINE LAM</strong><br>lam_chuan_kiet@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD CCE</strong></span></td>
+	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM XU YONGHUA</strong><br>xu_yonghua@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mother Tongue</strong></span></td>
+	</tr><tr>
+	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM EMILIA RAZALI</strong><br>emilia_razali@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD English Language</strong></span></td>
+	</tr><tr>
+	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aesthetics</strong></span></td>
+	</tr><tr>
+		</tr></tbody></table>
