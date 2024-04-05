@@ -4,7 +4,7 @@ permalink: /about-us/our-people/all-teachers/primary-one-and-primary-two/
 description: ""
 variant: markdown
 ---
-## Primary One and Primary Two 
+## **Primary One and Primary Two**
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 <thead>
 		<tr>
@@ -80,6 +80,3 @@ variant: markdown
 </table>
 
 <p>&nbsp;</p>
-			
-
-
