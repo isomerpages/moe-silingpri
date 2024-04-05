@@ -61,7 +61,7 @@ variant: markdown
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width:249px"><span style="font-size:12px">MR GARY TEO TIAN SOON<br>
+			<td style="width:249px"><span style="font-size:12px"><strong>MR GARY TEO TIAN SOON</strong><br>
 			teo_tian_soon_gary@moe.edu.sg</span></td>
 			<td style="width:251px"><span style="font-size:12px"><strong>School Staff Developer</strong></span></td>
 			</tr><tr>
