@@ -6,11 +6,11 @@ third_nav_title: Who We Are
 variant: markdown
 ---
 ### **Key Personnel**
-<table border="1" cellpadding="0" cellspacing="8" style="width:624px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 <thead>
 		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
+			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
+			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
 		</tr>
 	</thead>
 <tbody>
@@ -27,7 +27,7 @@ variant: markdown
 		</tr></tbody></table>
 		
 ### 		**Year Heads**
-<table border="1" cellpadding="0" cellspacing="8" style="width:624px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 <thead>
 		<tr>
 			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
