@@ -43,4 +43,10 @@ variant: markdown
 			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR JASHANAN KASINATHAN</strong><br>jashanan_kasinathan@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P3 &amp; P4</strong></span></td>
 	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ABDUL JALIL B YUNUS</strong><br>abdul_jalil_b_yunus@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P5 &amp; P6</strong></span></td>
+	</tr><tr>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM RITA ASHIKYN</strong><br>rita_ashikyn_marhajas@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>Assistant Year Head P5 &amp; P6</strong></span></td>
+	</tr><tr>
 		</tr></tbody></table>
