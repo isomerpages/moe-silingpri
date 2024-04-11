@@ -92,7 +92,7 @@ you require further assistance, please contact SingPass Helpdesk at <strong>6643
 online:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit <a href="https://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singpass </a>
+<p>Visit <a href="https://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>
 </p>
 </li>
 <li>
@@ -150,9 +150,77 @@ Versions: Android 5.0 or later &amp;amp; iOS 9.1 or later.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Are the access rights limited to one parent only?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>No, both parents can access their children’s information simultaneously
+from their respective Parents Gateway accounts.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do both parents have to reply to consent forms?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Only a single consent is required. Once consent has been given, it cannot
+be edited by either parent. Should there be a change in decision, parents
+have to inform the school directly.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Does the usage of the app require large data consumption?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway does not require large data consumption.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I communicate with my child’s teacher directly via the app?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This feature is not available at this point in time.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am experiencing difficulty using the app, who should I go to?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may approach your child’s school for assistance.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have more than one child in school. I can see only my first child’s school’s notices on Parents Gateway. My second child’s school’s notices are not visible on Parents Gateway. Why is this so?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Initial implementation of Parents Gateway involved implementation in 66
+pilot schools. Your first child’s school might have been one of these schools
+which piloted Parents Gateway. Your second child’s school may not have
+onboarded yet because it was not part of the initial 66 schools who implemented
+Parents Gateway.Your child’s school will notify you on the date of implementation.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>When can I start using Parents Gateway?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>School may not have started using Parents Gateway yet. Parents are advised
+to wait for notifications from schools on its date of implementation.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Will Parents Gateway be available to Independent Schools?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, Parents Gateway will be available to all government / government-aided
+and independent schools.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>My child has just transferred school and Parents Gateway is not showing the school correctly.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>It takes time for school to update the school records in MOE database
+before the updates can be reflected in Parents Gateway. Alternatively,
+you may approach your child’s current school for assistance.</p>
 </div>
 </details>
 </div>
