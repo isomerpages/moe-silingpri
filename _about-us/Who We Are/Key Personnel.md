@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Who We Are
 variant: markdown
 ---
-### **Key Personnel**
+### **School Leaders**
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 <thead>
 		<tr>
@@ -28,7 +28,6 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</span></td>
 	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
 	</tr><tr>
-
 	</tr><tr>
 		</tr></tbody></table>
 		
