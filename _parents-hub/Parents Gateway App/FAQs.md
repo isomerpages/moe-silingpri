@@ -78,6 +78,80 @@ and legal guardians who are unable to onboard Parents Gateway.</p>
 <summary><strong>How do I apply for SingPass?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Please visit <a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singpass </a>to
+register for a SingPass and set up the 2-Step Verification (2FA). Should
+you require further assistance, please contact SingPass Helpdesk at <strong>6643-0555</strong>.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I forgot my SingPass password. How do I reset it?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If you have set up your SingPass 2FA, you can reset your password instantly
+online:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit <a href="https://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singpass </a>
+</p>
+</li>
+<li>
+<p>Select “Reset Password” icon on the scroll bar. Enter your NRIC/FIN details,
+followed by your SMS/Token One-Time Password.</p>
+</li>
+<li>
+<p>Create your new SingPass password.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have to use my SingPass for login. Is it secure?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>SingPass is an online account management for access to Singapore Government
+e-services. It allows users to access hundreds of government services easily
+and securely online.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Must I pay for the app?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway is free-of-charge</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have more than 1 child, do I require multiple accounts?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, you do not need multiple accounts. You will be able to access all
+your children’s information through a single platform on Parents Gateway,
+even if your children are attending different schools.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I receive information on both Parents Gateway and through hardcopy forms so that I can pin up the forms as reminders?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents are encouraged to view the school announcements and consent forms
+using the app. For parents who wish to receive reminders on upcoming events,
+there is an “Add to Calendar” feature. Upon selection, the event would
+be synced with your phone calendar.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I access Parents Gateway on the computer?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway is only available as a mobile application. Supported OS
+Versions: Android 5.0 or later &amp;amp; iOS 9.1 or later.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
