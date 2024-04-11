@@ -9,6 +9,7 @@ variant: markdown
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
 <thead>
 		<tr>
+			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></th>
 			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
 			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
 		</tr>
@@ -16,13 +17,18 @@ variant: markdown
 <tbody>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/SY5_3313___Headshot.jpg"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MR KOE EE TIONG</strong><br><strong>Principal</strong> <br>koe_ee_tiong@moe.edu.sg</span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>Principal</strong> </span></td>
 </tr><tr>
 	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mdm_azian.png"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MDM NURAZIAN BAJURI</strong><br><strong>Vice - Principal ( Academic )</strong> <br>nurazian_bajuri@moe.edu.sg</span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</span></td>
+	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
 	</tr><tr>
-			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mr_raj.png"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MR RAJ KUMAR</strong><br><strong>Vice - Principal ( Academic )</strong> <br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</span></td>
+	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mr_raj.png"></span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</span></td>
+	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
+	</tr><tr>
+
 	</tr><tr>
 		</tr></tbody></table>
 		
