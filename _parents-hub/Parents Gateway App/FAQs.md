@@ -223,7 +223,74 @@ before the updates can be reflected in Parents Gateway. Alternatively,
 you may approach your child’s current school for assistance.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>How can I provide my feedback on the Parent Gateway App?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Feedback can be provided via the app through Profile;Feedback</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>I had used Parents Gateway App to provide feedback about my child’s school matters and was told by the Parents Gateway team to contact my child’s school instead.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The feedback provided by Parents Gateway App is only for the usage of
+the App only. For school related matter, kindly contact your child’s school
+directly for assistance.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I know if my feedback has been submitted successfully on the Parent Gateway App?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Parents Gateway team will usually respond to take parents’ feedback
+within 3 working days.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am a step-mother/caregiver/guardian of overseas student/foster parent. Why can’t I access Parents Gateway?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway can only be assessed by Parents and Legal Guardians. Schools
+will continue to issue hardcopy letters to sole caregivers who are unable
+to onboard Parents Gateway.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am a foreign parent of a child studying in MOE school. Why can’t I access Parents Gateway?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway can only be assessed by Parents and Legal Guardians who
+have registered with SingPass and MOE database using their NRIC/FIN number.
+Schools will continue to issue hardcopy letters to parents who are unable
+to onboard Parents Gateway.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am a divorced parent and have been awarded custody of the child. I would not want my ex-spouse to be able to see the details of my child through Parents Gateway.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>kindly approach your child’s school for assistance.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>My child’s details shown in the Parents Gateway App is missing or incorrect.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway takes data from MOE database. For any updates to MOE database,
+kindly check with your child’s school.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>My child is currently under MOE’s Leave of Absence Scheme. Why can’t I see my child’s details in the Parents Gateway App</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents Gateway supports day-to-day schooling activities of the child.
+It does not include students that are on leave of absence.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p>
 <br>
 </p>
