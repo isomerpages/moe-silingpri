@@ -84,34 +84,35 @@ variant: markdown
 	</thead>
 <tbody>
 		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS NG-HENG MUI GEK</strong><br>heng_mui_gek@moe.edu.sg</span></span></td>
+	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM EMILIA RAZALI</strong><br>emilia_razali@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD English Language</strong></span></td>
+	</tr><tr>
+	</tr><tr>
+			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS NG-HENG MUI GEK</strong><br>heng_mui_gek@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mathematics</strong></span></td>
 	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ASHRI SHUKRI</strong><br>ashri_b_shukri@moe.edu.sg</span></span></td>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ASHRI SHUKRI</strong><br>ashri_b_shukri@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>HOD Science</strong></span></td>
 	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR CHRIS NG HAN PO</strong><br>ng_han_po@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD ICT</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR KOH CHIN SHENG</strong><br>koh_chin_sheng@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD Student Management</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS CATHRINE LAM</strong><br>lam_chuan_kiet@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD CCE</strong></span></td>
 	</tr><tr>
 		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM XU YONGHUA</strong><br>xu_yonghua@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mother Tongue</strong></span></td>
 	</tr><tr>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aestheticst</strong></span></td>
 	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM EMILIA RAZALI</strong><br>emilia_razali@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD English Language</strong></span></td>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS CATHRINE LAM</strong><br>lam_chuan_kiet@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD CCE</strong></span></td>
+	</tr><tr>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR KOH CHIN SHENG</strong><br>koh_chin_sheng@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD Student Management</strong></span></td>
 	</tr><tr>
 	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aesthetics</strong></span></td>
+		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR CHRIS NG HAN PO</strong><br>ng_han_po@moe.edu.sg</span></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD ICT</strong></span></td>
 	</tr><tr>
-		</tr></tbody></table>
+	</tr>
+		</tbody></table>
 		
 ### **Level Heads &amp; Subjects Heads**
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
