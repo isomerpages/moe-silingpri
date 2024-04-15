@@ -134,7 +134,7 @@ variant: markdown
 		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MISS MARIE TEO</strong><br>marie_teo_kah_zhi@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>SH Student Leadership</strong></span></td>
 	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM TERRENZ HUANG</strong><br>koh_chin_sheng@moe.edu.sg</span></span></td>
+	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM TERRENZ HUANG</strong><br>huang_yihui_terrenz@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>SH ICT</strong></span></td>
 	</tr><tr>
 	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</span></span></td>
