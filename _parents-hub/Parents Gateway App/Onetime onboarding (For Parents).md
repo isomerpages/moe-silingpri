@@ -15,7 +15,7 @@ have not set up the 2FA, please visit the SingPass website ([https://www.singpas
 
 codes below to do so. Should you require further assistance, please contact the SingPass Helpdesk at 6643-0555.
 
-<img src="/images/QR_codes.png" style="width:50%">
+<img src="/images/Singpass_Qr_Code.png" style="width:50%">
 
 **Step 2 – Download Parents Gateway Mobile App**
 
