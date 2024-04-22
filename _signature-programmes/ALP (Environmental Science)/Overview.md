@@ -16,16 +16,15 @@ learners and gracious citizens, who are able to take on future challenges.
 Environmental degradation has become one of the most prominent adverse
 phenomenon in today’s world.
 
-
-
 We believe that our school’s Applied Learning Programme (ALP) – Environmental
 Science Programme, can educate our future generation on the importance
 of environment sustainability and conservation, making them more sensitised
 and encouraging them to find innovative solutions and methods to protect
 nature.
+
 Vision
 Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate
-and <strong>R</strong>espect the <strong>E</strong>nvironment<p></p>
+and <strong>R</strong>espect the <strong>E</strong>nvironment
 #### Aims
 <img align="right" style="width: 80%;margin-left:-60px;margin-right:-80px" src="/images/ESP.png">
 
