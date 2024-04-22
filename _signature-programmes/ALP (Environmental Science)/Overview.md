@@ -3,6 +3,41 @@ title: Overview
 permalink: /signature-programmes/alp-environmentalscience/
 description: ""
 third_nav_title: ALP (Environmental Science)
-variant: markdown
+variant: tiptap
 ---
-<h3><strong>ALP (Environmental Science)</strong></h3><p></p><h4>Environmental Science</h4><p>At Si Ling Primary School, we aspire to nurture our students to be thinking learners and gracious citizens, who are able to take on future challenges. Environmental degradation has become one of the most prominent adverse phenomenon in today’s world.</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/ALP_Subpage_1.png"></div><p>We believe that our school’s Applied Learning Programme (ALP) – Environmental Science Programme, can educate our future generation on the importance of environment sustainability and conservation, making them more sensitised and encouraging them to find innovative solutions and methods to protect nature.</p><h4>Vision</h4><p>Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate and <strong>R</strong>espect the <strong>E</strong>nvironment</p><h4>Aims</h4><p>The Environment Science Programme (ESP) aims to:</p><ul data-tight="true" class="tight"><li><p>Equip students with knowledge of general concepts in environmental science&nbsp;</p></li><li><p>Instill values and foster appreciation of the environment in students so that they have a strong conviction in bettering the environment&nbsp;</p></li><li><p>Allow students to apply knowledge, processes and skills, and attitudes from across disciplines/subjects to real-life environmental issues, making their learning to be relevant, meaningful and enjoyable</p></li></ul><p></p>
+<h3><strong>ALP (Environmental Science)</strong></h3>
+<p></p>
+<h4>Environmental Science</h4>
+<p>At Si Ling Primary School, we aspire to nurture our students to be thinking
+learners and gracious citizens, who are able to take on future challenges.
+Environmental degradation has become one of the most prominent adverse
+phenomenon in today’s world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Alp_environment_.png">
+</div>
+<p>We believe that our school’s Applied Learning Programme (ALP) – Environmental
+Science Programme, can educate our future generation on the importance
+of environment sustainability and conservation, making them more sensitised
+and encouraging them to find innovative solutions and methods to protect
+nature.</p>
+<h4>Vision</h4>
+<p>Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate
+and <strong>R</strong>espect the <strong>E</strong>nvironment</p>
+<h4>Aims</h4>
+<p>The Environment Science Programme (ESP) aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Equip students with knowledge of general concepts in environmental science&nbsp;</p>
+</li>
+<li>
+<p>Instill values and foster appreciation of the environment in students
+so that they have a strong conviction in bettering the environment&nbsp;</p>
+</li>
+<li>
+<p>Allow students to apply knowledge, processes and skills, and attitudes
+from across disciplines/subjects to real-life environmental issues, making
+their learning to be relevant, meaningful and enjoyable</p>
+</li>
+</ul>
+<p></p>
