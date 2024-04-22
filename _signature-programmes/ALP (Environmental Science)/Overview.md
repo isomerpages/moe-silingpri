@@ -9,12 +9,12 @@ image: /images/Alp_environment_.png
 ## ALP (Environmental Science)
 
 ### Environmental Science
-<img style="width: 80%;" src="/images/Alp_environment__1.png">
-
 At Si Ling Primary School, we aspire to nurture our students to be thinking
 learners and gracious citizens, who are able to take on future challenges.
 Environmental degradation has become one of the most prominent adverse
 phenomenon in today’s world.
+
+<img style="width: 80%;" src="/images/Alp_environment__1.png">
 
 We believe that our school’s Applied Learning Programme (ALP) – Environmental
 Science Programme, can educate our future generation on the importance
