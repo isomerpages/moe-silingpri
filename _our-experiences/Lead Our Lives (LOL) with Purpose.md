@@ -34,7 +34,7 @@ Through a series of activities and learning experiences, these students will be 
  ✅Copes and manages well with life situations  
  ✅Relate well to others  
  ✅Contribute to the community
-			<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___3.png">
+<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___3.png">
 			
 **Approach:**
 
