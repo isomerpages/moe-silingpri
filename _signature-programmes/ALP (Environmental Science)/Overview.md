@@ -9,7 +9,7 @@ image: /images/Alp_environment_.png
 ## ALP (Environmental Science)
 
 ### Environmental Science
-<img align="left" style="width: 80%;margin-left:-60px;margin-right:-80px" src="/images/Alp_environment_.png">
+<img align="left" style="width: 80%;margin-left:-90px;margin-right:-80px" src="/images/Alp_environment_.png">
 
 At Si Ling Primary School, we aspire to nurture our students to be thinking
 learners and gracious citizens, who are able to take on future challenges.
