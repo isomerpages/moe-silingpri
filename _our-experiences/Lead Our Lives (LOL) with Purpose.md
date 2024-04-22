@@ -26,6 +26,7 @@ Through a series of activities and learning experiences, these students will be 
  ✅Relationship Management  
 ✅ Responsible Decision Making
 
+
 **We believe that a child who is resilient:**
 
 ✅Adapts positively despite setbacks  
