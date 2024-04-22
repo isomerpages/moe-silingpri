@@ -6,27 +6,28 @@ third_nav_title: ALP (Environmental Science)
 variant: markdown
 image: /images/Alp_environment_.png
 ---
-<h3><strong>ALP (Environmental Science)</strong></h3>
-<p></p>
-<h4>Environmental Science</h4>
-<p>At Si Ling Primary School, we aspire to nurture our students to be thinking
+## ALP (Environmental Science)
+
+### Environmental Science
+<img align="left" style="width: 80%;margin-left:-60px;margin-right:-80px" src="/images/Alp_environment_.png">
+
+At Si Ling Primary School, we aspire to nurture our students to be thinking
 learners and gracious citizens, who are able to take on future challenges.
 Environmental degradation has become one of the most prominent adverse
-phenomenon in today’s world.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Alp_environment_.png">
-</div>
-<p>We believe that our school’s Applied Learning Programme (ALP) – Environmental
+phenomenon in today’s world.
+
+
+
+We believe that our school’s Applied Learning Programme (ALP) – Environmental
 Science Programme, can educate our future generation on the importance
 of environment sustainability and conservation, making them more sensitised
 and encouraging them to find innovative solutions and methods to protect
-nature.</p>
-<h4>Vision</h4>
-<p>Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate
-and <strong>R</strong>espect the <strong>E</strong>nvironment</p>
-<h4>Aims</h4>
-<p>The Environment Science Programme (ESP) aims to:</p>
+nature.
+Vision
+Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate
+and <strong>R</strong>espect the <strong>E</strong>nvironment<p></p>
+#### Aims
+The Environment Science Programme (ESP) aims to:
 <ul data-tight="true" class="tight">
 <li>
 <p>Equip students with knowledge of general concepts in environmental science&nbsp;</p>
@@ -41,4 +42,3 @@ from across disciplines/subjects to real-life environmental issues, making
 their learning to be relevant, meaningful and enjoyable</p>
 </li>
 </ul>
-<p></p>
