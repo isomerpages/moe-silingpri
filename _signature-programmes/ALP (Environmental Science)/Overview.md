@@ -27,6 +27,8 @@ Vision
 Si Ling Pupils <strong>CARE</strong>: <strong>C</strong>onserve, <strong>A</strong>ppreciate
 and <strong>R</strong>espect the <strong>E</strong>nvironment<p></p>
 #### Aims
+<img align="right" style="width: 80%;margin-left:-60px;margin-right:-80px" src="/images/ESP.png">
+
 The Environment Science Programme (ESP) aims to:
 <ul data-tight="true" class="tight">
 <li>
