@@ -13,15 +13,14 @@ As we embark on this academic journey, I am excited to highlight some remarkable
 
 Our students not only demonstrated academic excellence with a 100% pass rate in PSLE 2023 but also excelled in various extracurricular activities. Whether winning sports championships or earning recognition in the arts, our students have brought immense pride to Si Ling Primary. These achievements underscore our commitment to providing a well-rounded education.
 
-Our devoted team of teachers has been instrumental in these triumphs. Their passion for teaching, innovative approaches, and tireless dedication have fostered an environment where students can flourish academically and personally.
-In the previous year, our school introduced various initiatives to improve the learning experience.
+Our devoted team of teachers has been instrumental in these triumphs. They adeptly utilize EdTech to foster 21st-century skills and shape the future of learning. Their passion for teaching, innovative approaches, and tireless dedication have fostered an environment where students can flourish academically and personally. These endeavors have played a crucial role in the holistic development of our students and have positioned Si Ling Primary favorably.
 
-For instance, we implemented a School-wide pedagogy of Inquiry Based Learning, initiated the G.R.I.T program to enhance student motivation, and integrated technology into our teaching methods. These endeavors have played a crucial role in the holistic development of our students and have positioned Si Ling Primary favorably.
-As we commence the new school year, I am confident that we will not only continue to build upon these accomplishments but also strive for greater heights. Together, as a cohesive school community, we will persist in cultivating an environment that promotes excellence, curiosity, and the pursuit of knowledge.
+For instance, on April 2024, SLPS hosted international delegates participating in the 14th International Summit on the Teaching Profession (ISTP).  This prestigious event, held annually by invitation only, gathers representatives from 34 countries, including Austria, Canada, China, Finland, Japan, Norway, Republic of Korea, Switzerland, and the United States, to share best practices and discuss strategies aimed at enhancing the teaching profession and improving student achievement.
 
-We are committed to working closely with parents to ensure that Si Ling Primary remains a place where every individual can flourish.
-Thank you for your continued commitment to excellence. 
+SLPS is among the few select schools designated by the MOE to demonstrate the future of learning in schools. During their visit, delegates experienced firsthand how SLPS teachers promote engaged learning among students. They also learn about the school's approach to fostering future-ready competencies through its unique school program, innovative teaching methods, and immersive learning environments.
+
+As we move forward into the rest of the school year, I am confident that we will not only build on our current accomplishments but also strive for greater achievements. Together, as a unified school community, we will continue to cultivate an environment that fosters excellence, curiosity, and the pursuit of knowledge.
 
 Mr Koe Ee Tiong<br>
 Principal<br>
-2 Jan 2024
+23 Apr 2024 

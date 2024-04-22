@@ -23,7 +23,7 @@ variant: markdown
 	
 The 2-Day Primary 5 SKILL Programme is held annually at the end of Term 1. The objectives of the camp are to develop the students’ own self-resilience, strengthen friendships and show care and respect towards their teachers and peers through fun and exciting activities in an outdoor environment.
 
-To learn more, click [here](/our-experiences/Physical-Education/our-programmes/)
+To learn more, click [here](/departments/physical-education/our-programmes/)
 
 ##### P5 Snack with Vice-Principal
 <img src="/images/snack%20with%20VP-%20heading.png" style="width:65%; margin-left:12px; margin-right:-20px" align="right">
