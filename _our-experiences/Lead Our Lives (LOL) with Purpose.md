@@ -37,7 +37,7 @@ Through a series of activities and learning experiences, these students will be 
 
 			
 **Approach:**
-<img style="width:60%;margin-left:-50px" align="right" src="/images/LOL___3.png">
+<img style="width:70%;margin-left:-50px" align="right" src="/images/LOL___3.png">
 	
 ✅ Interactive games and activities  
 ✅Motivational talks &amp; videos&nbsp;  
