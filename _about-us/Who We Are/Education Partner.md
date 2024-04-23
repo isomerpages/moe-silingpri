@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Education Partner**
 
-<table border="0" cellpadding="0" cellspacing="0" style="width:694px">
+<table border="0" cellpadding="0" cellspacing="0" style="width:800px">
 	<thead>
 		<tr>
 			<th scope="col" style="text-align: left; width: 89px;"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Department</span></span></th>
@@ -31,12 +31,12 @@ variant: markdown
 			<h4><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>EAS</strong></span></span></h4>
 			</td>
 			<td style="width:218px">
-			<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS VERONICA YAT<br>
-			<strong>Administration Manager</strong></span></span></p>
+			<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS VERONICA YAT<br>
+			<strong>Administration Manager</strong></span></span>
 			</td>
-			<td style="width:218px"><p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR CHEE SANG FOK<br>
+			<td style="width:218px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR CHEE SANG FOK<br>
 			<strong>Operational Manager
-				</strong></span></span></p></td>
+				</strong></span></span></td>
 			<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MR LEE HO YIN  <br>
 			<strong>ICT Manager</strong></span>
 				</span></td>
@@ -54,8 +54,8 @@ variant: markdown
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM PARUWATHY PRATHAYYA<br>
 			<strong>Operations Support Officer</strong></span></span></td>
 <td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH  ROSMAN<br>
-	<strong>ICT Trainer </strong>
-			</span></span></td><td style="width:245px">&nbsp;</td>
+	<strong>ICT Trainer</strong>
+			</span></span></td>
 		</tr>
 		<tr>
 			<td style="width:89px">&nbsp;</td>
@@ -71,7 +71,6 @@ variant: markdown
 			<strong>Corporate Support Officer</strong></span></span></td>
 			<td style="width:230px"><span style="font-size:12px">MS FARHANA ISMAIL<br>
 				<strong>Corporate Support Officer</strong></span></td>
-			<td style="width:245px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:89px">&nbsp;</td>
@@ -112,12 +111,6 @@ variant: markdown
 			<td style="width:218px">&nbsp;</td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM CHOONG BING LAI<br>
 			<strong>Operations Support Officer</strong></span></span></td>
-			<td style="width:245px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width:89px">&nbsp;</td>
-			<td style="width:218px">&nbsp;</td>
-			<td style="width:230px">&nbsp;</td>
 			<td style="width:245px">&nbsp;</td>
 		</tr>
 		<tr>
