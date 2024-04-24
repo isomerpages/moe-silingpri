@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Who We Are
 variant: markdown
 ---
-### **Education Partner**
+### **Executive and Administrative Staff**
 
 <table border="0" cellpadding="0" cellspacing="0" style="width:800px">
 	<thead>
@@ -53,8 +53,8 @@ variant: markdown
 			<strong>Administrative Executive</strong></span></span></td>
 			<td style="width:230px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MDM PARUWATHY PRATHAYYA<br>
 			<strong>Operations Support Officer</strong></span></span></td>
-<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MS ADIBAH  ROSMAN<br>
-	<strong>ICT Trainer</strong>
+<td style="width:245px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><br>
+	<strong></strong>
 			</span></span></td>
 		</tr>
 		<tr>
