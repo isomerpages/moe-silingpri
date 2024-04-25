@@ -18,7 +18,7 @@ variant: markdown
 <tbody>
 		<tr>
 	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MS VERONICA YAT</strong></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Administration Manager</strong></span></td>
+			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>Administration Manager</strong></span></span></td>
 	</tr><tr>
 	</tr><tr>
 			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM SILVIATY BINTE BIDIN</strong></span></span></td>
@@ -38,7 +38,6 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>Corporate Support Officer</strong></span></td>
 		</tr><tr>
 		</tr></tbody></table>
-		<p></p>
 		
 ##### **Operations Department**
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
@@ -67,7 +66,6 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>Operations Support Officer</strong></span></td>
 		</tr><tr>
 		</tr></tbody></table>
-		<p></p>
 		
 ##### **ICT Department**
 <table border="0" cellpadding="0" cellspacing="0" style="width:624px">
