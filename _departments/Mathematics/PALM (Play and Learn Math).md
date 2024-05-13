@@ -3,7 +3,7 @@ title: PALM (Play and Learn Math)
 permalink: /signature-programmes/mathematics/palm/
 description: ""
 third_nav_title: Mathematics
-variant: tiptap
+variant: markdown
 ---
 ### **P.A.L.M. Play and Learn Math**
 

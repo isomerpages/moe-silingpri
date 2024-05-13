@@ -32,7 +32,6 @@ In Si Ling, we provide opportunities for students to participate in mini project
 ##### Learning through Play at Primary one to Primary Five
 
 ##### **Primary One**
-
 In Primary 1, our students are transformed into story writers and have to create stories using addition and subtraction concepts which they have learnt. Be amazed by the lovely stories they created.
 
 
