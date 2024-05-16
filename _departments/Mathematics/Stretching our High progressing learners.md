@@ -14,6 +14,10 @@ reasoning and communication skills.</p>
 Excellence through Education (ICEE),&nbsp;aims to develop students' mathematical
 reasoning skills and deepens their conceptual understanding through an
 inquiry approach.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/e2k.png">
+</div>
 <p>Students will have opportunities to work independently or collaborate
 with their peers and engage in mathematical thinking through Mathematical
 puzzles and games. These rich learning experiences will develop the habits,
@@ -24,6 +28,10 @@ effective communication skills.</p>
 <p>The mathematical olympiad workshop is organized for our Primary 3 to 6
 pupils. This workshop exposes pupils to higher order thinking (HOT) questions
 and equip them with strategies on how to solve challenging problems.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum_Approach__2.png">
+</div>
 <p>Through the workshop, pupils will:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,6 +49,10 @@ and equip them with strategies on how to solve challenging problems.</p>
 These competitions provide a platform for pupils to demonstrate their mathematics
 skills learnt and also motivate them to strive for excellence in the learning
 of mathematics.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
