@@ -17,3 +17,7 @@ numeracy skills and knowledge to access the Primary 1 and Primary 2 Mathematics
 curriculum.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSM.png">
+</div>
+<p></p>
