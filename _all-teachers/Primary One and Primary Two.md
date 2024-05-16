@@ -41,8 +41,8 @@ variant: markdown
 			</tr><tr>
 				</tr><tr>
 			<td style="width:106px">&nbsp;</td>
-		<td style="width:210px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM TAN<br> BOON FONG
-	SHARON GRACE<br><br>tan_boon_fong_sharon@moe.edu.sg<br></span></span></td><td>
+		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM TAN BOON FONG
+	SHARON GRACE<br>tan_boon_fong_sharon@moe.edu.sg<br></span></span></td><td>
 		</td></tr>
 			<tr>
 			<td style="width:106px">
