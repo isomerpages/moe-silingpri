@@ -38,18 +38,17 @@ variant: markdown
 			</td>
 	<td style="width:210px"><span style="font-size:12px">MISS JULIANA LIM<br>lim_ching_yen_juliana@moe.edu.sg<br></span></td>
 			<td style="width:210px"><span style="font-size:12px">MDM FARADILAH BINTE MOHD YAKOP<br>faradilah_mohd_yaakop@moe.edu.sg<br></span></td>
-		</tr>
+			</tr><tr>
+				</tr><tr>
+			<td style="width:106px">&nbsp;</td>
+		<td style="width:210px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM TAN<br> BOON FONG
+	SHARON GRACE<br><br>tan_boon_fong_sharon@moe.edu.sg<br></span></span></td><td>
+		</td></tr>
 			<tr>
 			<td style="width:106px">
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">2 Solidarity</span></span></p>
 			</td>
 			<td style="width:210px"><span style="font-size:12px">MS ANITA D/O SELVAM<br><strong>SH Science</strong><br>anita_doselvam@moe.edu.sg<br></span></td>
-			<td style="width:210px"><span style="font-size:12px">MDM TAN BOON FONG
-	<br>SHARON GRACE<br>tan_boon_fong_sharon@moe.edu.sg<br></span></td>
-		</tr>
-			<tr>
-				</tr><tr>
-			<td style="width:106px">&nbsp;</td>
 		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR SETHU S/O RAJAGOPAL<br><strong>Year Head P1 &amp; P2</strong><br>sethu_rajagopal@moe.edu.sg<br></span></span></td>
 			<td style="width:106px">&nbsp;</td>
 		</tr>
