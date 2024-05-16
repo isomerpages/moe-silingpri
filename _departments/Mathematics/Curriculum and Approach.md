@@ -120,7 +120,7 @@ research to address 4 key issues namely learning gaps, language, motivation
 and memory.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum_Approach__2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/curriculum_3.png">
 </div>
 <p><strong>The ICAN principles</strong>
 </p>
