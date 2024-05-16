@@ -81,9 +81,9 @@ variant: markdown
 			<td style="width:251px">&nbsp;</td>
 		</tr><tr>
 			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">4 Respect</span></span></td>
-	<td style="width:249px"><span style="font-size:12px">MDM NURASHIKIN&nbsp;M SHARIFF<br>nurashikin_mohamed_sharif@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM XU YONGHUA<br>
-	<strong>HOD Mother Tongue</strong><br>xu_yonghua@moe.edu.sg<br></span></td>
+	<td style="width:249px"><span style="font-size:12px">MR GAVIN SO <br>so_siong_teng@moe.edu.sg<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MR SAIFUL SAPARI<br>
+	<strong>SH Malay Language</strong><br>saiful_sapari@moe.edu.sg<br></span></td>
 		</tr>
 			<tr>
 			<td style="width:106px">&nbsp;</td>

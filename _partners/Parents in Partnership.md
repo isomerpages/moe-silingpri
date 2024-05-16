@@ -41,7 +41,7 @@ and many others. Thank you parents for your unwavering support! Below are
 some snapshots of activities in which our parent volunteers rendered their
 services to the school.</p>
 <p>It takes a village to raise a child. Parents, if you are interested to
-join us as a parent volunteer, do complete this online&nbsp;<a href="https://go.gov.sg/f4flpk" rel="noopener noreferrer nofollow" target="_blank">form</a>&nbsp;.
+join us as a parent volunteer, do complete this online&nbsp;<a href="https://form.gov.sg/6624e64156239c7f77c2862d" rel="noopener noreferrer nofollow" target="_blank">form</a>&nbsp;.
 Our teacher-in-charge will contact you on this.</p>
 <p><strong>MATHS FUN WEEK</strong>
 </p>
