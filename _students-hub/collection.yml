@@ -2,6 +2,7 @@ collections:
   students-hub:
     output: true
     order:
+      - Students' Achievements.md
       - Cyber Wellness/.keep
       - Cyber Wellness/Overview.md
       - Cyber Wellness/Helping your child manage online scam.md
