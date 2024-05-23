@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar.md
-      - School Hours.md
       - School Services/.keep
       - School Services/Student Care Centre.md
       - School Services/School Services.md
