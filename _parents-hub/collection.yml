@@ -2,8 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Sexuality Education.md
-      - Homework Policy.md
       - Calendar.md
       - School Hours.md
       - School Services/.keep
@@ -22,6 +20,8 @@ collections:
       - Parent Resource/P6 Parent.md
       - Travel Declaration.md
       - Financial Assistance Scheme.md
+      - Homework Policy.md
+      - Sexuality Education.md
       - Cyber Wellness/.keep
       - Cyber Wellness/Overview.md
       - Cyber Wellness/Helping your child manage online scam.md
