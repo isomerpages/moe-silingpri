@@ -2,12 +2,12 @@ collections:
   parents-hub:
     output: true
     order:
-      - Cyber Wellness/Helping your child manage excessive internet use.md
-      - Cyber Wellness/Helping your child manage cyber bullying.md
-      - Cyber Wellness/Helping your child manage cyber contacts.md
-      - Cyber Wellness/Helping your child manage online scam.md
-      - Cyber Wellness/Overview.md
       - Cyber Wellness/.keep
+      - Cyber Wellness/Overview.md
+      - Cyber Wellness/Helping your child manage online scam.md
+      - Cyber Wellness/Helping your child manage cyber contacts.md
+      - Cyber Wellness/Helping your child manage cyber bullying.md
+      - Cyber Wellness/Helping your child manage excessive internet use.md
       - School Services/Student Care Centre.md
       - School Services/School Services.md
       - School Services/.keep
