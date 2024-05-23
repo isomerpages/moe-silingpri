@@ -90,11 +90,12 @@ Institution</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RIPMWC:</strong>
+<p><strong> SASMO:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Mathematics World Contest</p>
+<p>Singapore &amp; Asian Schools Math Olympiad is one of the largest Math
+contests in Asia</p>
 </td>
 </tr>
 </tbody>
