@@ -69,33 +69,31 @@ links:
       - title: Student Development
         url: /departments/student-development/overview/
   - title: Parents' Hub
-    url: /parents-hub/Parents-Gateway-App/
+    url: /parents-hub/parents-gateway-app/
     sublinks:
       - title: Calendar
         url: /parents-hub/calendar
-      - title: School Hours
-        url: /useful-information/school-hours/
       - title: School Services
-        url: /useful-information/school-services/
+        url: /parents-hub/school-services/
       - title: Parents Gateway App
         url: /parents-hub/Parents-Gateway-App/
       - title: Parent Resource
         url: /parents-hub/Parent-resource/p1parent
-      - title: Travel Declaration
-        url: /useful-information/travel-declaration/
       - title: Financial Assistance Scheme
-        url: /useful-information/financial-assistance-scheme/
+        url: /parents-hub/financial-assistance-scheme/
       - title: Homework Policy
-        url: useful-information/homework-policy/
+        url: /parents-hub/homework-policy/
       - title: Sexuality Education
-        url: /students-hub/sexuality-education/
+        url: /parents-hub/sexuality-education/
       - title: Cyber Wellness
-        url: /students-hub/cyber-wellness/overview/
+        url: /parents-hub/cyber-wellness/overview/
   - title: Student's Hub
-    url: /useful-information/homework-policy/
+    url: /students-hub/online-learning-resources/home-based-learning/
     sublinks:
       - title: Online Learning Resources
         url: /students-hub/online-learning-resources/home-based-learning/
+      - title: Students' Achievements
+        url: /students-achievements/
   - title: Partners
     url: /partners/parents-in-partnership/
     sublinks:

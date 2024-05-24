@@ -1,6 +1,6 @@
 ---
 title: Helping your child manage online scam
-permalink: /students-hub/cyber-wellness/helping-your-child-manage-online-scam/
+permalink: /parents-hub/cyber-wellness/helping-your-child-manage-online-scam/
 description: ""
 third_nav_title: Cyber Wellness
 variant: tiptap

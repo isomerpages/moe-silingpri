@@ -1,8 +1,9 @@
 ---
 title: School Services
-permalink: /useful-information/school-services/
+permalink: /parents-hub/school-services/
 description: ""
 third_nav_title: School Services
+variant: tiptap
 ---
 ### School Services
 

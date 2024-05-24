@@ -1,6 +1,6 @@
 ---
 title: Helping your child manage cyber bullying
-permalink: /students-hub/cyber-wellness/helping-your-child-manage-cyber-bullying/
+permalink: /parents-hub/cyber-wellness/helping-your-child-manage-cyber-bullying/
 description: ""
 third_nav_title: Cyber Wellness
 variant: tiptap

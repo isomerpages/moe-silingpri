@@ -1,7 +1,8 @@
 ---
 title: Homework Policy
-permalink: /useful-information/homework-policy/
+permalink: /parents-hub/homework-policy/
 description: ""
+variant: tiptap
 ---
 ### Homework Policy
 

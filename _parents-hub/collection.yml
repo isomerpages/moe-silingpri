@@ -2,9 +2,16 @@ collections:
   parents-hub:
     output: true
     order:
-      - School Services/Student Care Centre.md
-      - School Services/School Services.md
+      - Calendar.md
       - School Services/.keep
+      - School Services/School Hours.md
+      - School Services/School Services.md
+      - School Services/Student Care Centre.md
+      - Parents Gateway App/.keep
+      - Parents Gateway App/Overview.md
+      - Parents Gateway App/Onetime onboarding (For Parents).md
+      - Parents Gateway App/Travel Declaration.md
+      - Parents Gateway App/FAQs.md
       - Parent Resource/.keep
       - Parent Resource/P1 Parent.md
       - Parent Resource/P2 Parent.md
@@ -12,12 +19,12 @@ collections:
       - Parent Resource/P4 Parent.md
       - Parent Resource/P5 Parent.md
       - Parent Resource/P6 Parent.md
-      - Parents Gateway App/.keep
-      - Parents Gateway App/Overview.md
-      - Parents Gateway App/Onetime onboarding (For Parents).md
-      - Parents Gateway App/FAQs.md
-      - Calendar.md
-      - School Hours.md
       - Financial Assistance Scheme.md
-      - Travel Declaration.md
-      - Online Learning Resources.md
+      - Homework Policy.md
+      - Sexuality Education.md
+      - Cyber Wellness/.keep
+      - Cyber Wellness/Overview.md
+      - Cyber Wellness/Helping your child manage online scam.md
+      - Cyber Wellness/Helping your child manage cyber contacts.md
+      - Cyber Wellness/Helping your child manage cyber bullying.md
+      - Cyber Wellness/Helping your child manage excessive internet use.md

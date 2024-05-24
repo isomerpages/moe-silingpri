@@ -1,6 +1,6 @@
 ---
 title: P2 Parent
-permalink: /parents-hub/Parent-resource/p2parent/
+permalink: /parents-hub/parent-resource/p2parent/
 description: ""
 third_nav_title: Parent Resource
 variant: markdown

@@ -1,9 +1,10 @@
 ---
 title: School Hours
-permalink: /useful-information/school-hours/
+permalink: /parents-hub/school-hours/
 description: ""
+third_nav_title: School Services
+variant: tiptap
 ---
-
 ### School Hours
 
 **OFFICE HOURS:** Mon - Fri (7a.m. - 6p.m.)  
@@ -16,7 +17,7 @@ description: ""
 | P3 to P4 | Monday to Friday  | 7.30 am - 1.25 pm |
 | P5 to P6 | Monday to Friday  | 7.30 am - 1.30 pm |
 
-**Daily Assembly**: All pupils must report to class for the  Flag Raising Ceremony at 7.30a.m. 
+**Daily Assembly**: All pupils must report to class&nbsp;for the &nbsp;Flag Raising Ceremony at 7.30a.m.&nbsp;
 
 **OPENING HOURS FOR SCHOOL GATES**
 
@@ -26,4 +27,4 @@ description: ""
 | B | 6.00 am - 7.30 am<br>1.20 pm - 1.50 pm |
 | C | 6.30 am - 7.30 am<br>1.20 pm - 1.50 pm |
 
-**Note:** All Visitors, please enter from gate A near bus stop
+**Note:**&nbsp;All Visitors, please enter from gate A near bus stop

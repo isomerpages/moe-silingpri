@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /students-hub/sexuality-education/
+permalink: /parents-hub/sexuality-education/
 description: ""
 variant: tiptap
 ---

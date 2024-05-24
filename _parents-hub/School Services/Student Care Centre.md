@@ -1,8 +1,9 @@
 ---
 title: Student Care Centre
-permalink: /useful-information/student-care-centre/
+permalink: /parents-hub/student-care-centre/
 description: ""
 third_nav_title: School Services
+variant: tiptap
 ---
 ### Student Care Centre
 

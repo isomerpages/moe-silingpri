@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /students-hub/cyber-wellness/overview/
+permalink: /parents-hub/cyber-wellness/overview/
 description: ""
 third_nav_title: Cyber Wellness
 variant: tiptap

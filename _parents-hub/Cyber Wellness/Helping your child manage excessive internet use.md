@@ -1,6 +1,6 @@
 ---
 title: Helping your child manage excessive internet use
-permalink: /students-hub/cyber-wellness/helping-your-child-manage-excessive-internet-use/
+permalink: /parents-hub/cyber-wellness/helping-your-child-manage-excessive-internet-use/
 description: ""
 third_nav_title: Cyber Wellness
 variant: tiptap
