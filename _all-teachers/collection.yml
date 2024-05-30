@@ -1,0 +1,8 @@
+collections:
+  all-teachers:
+    output: true
+    order:
+      - Primary One and Primary Two.md
+      - Primary Three and Primary Four.md
+      - Primary Five and Primary Six.md
+      - Mother Tongue.md
