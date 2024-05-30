@@ -21,7 +21,7 @@ Winning the Silver award in the APMOS Math Olympiad was a defining moment that f
 
 <img align="left" style="width:200px;margin-right:15px" src="/images/Nur_Aqidah.png">
 
-"Moments of pride were plentiful, particularly during awards ceremonies, where I had the privilege of making my teachers, parents, and myself proud through academic and extracurricular accomplishments. 
+"Moments of pride were plentiful, particularly during award ceremonies, where I had the privilege of making my teachers, parents, and myself proud through academic and extracurricular accomplishments. 
 
 Si Ling Primary provided a platform for holistic development, offering initiatives such as the Young Entrepreneur program and visits to the elderly, which broadened my perspective and nurtured empathy and compassion."
 
