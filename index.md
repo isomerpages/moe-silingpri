@@ -41,11 +41,12 @@ sections:
       image: /images/Parents' Hub/Parents' Gateway App/pga1.png
   - infobar:
       title: Facebook
-      description: <iframe allow="autoplay; clipboard-write; encrypted-media;
-        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
-        scrolling="no" style="border:none;overflow:hidden" height="202"
-        width="2000"
-        src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2F&width=2000&show_text=true&height=202&appId"></iframe>
+      description: <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2F&tabs=timeline&width=2000&height=500&appId"
+        width="1000" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
       button: Facebook
       url: https://www.facebook.com/silingprimaryschool/
 ---
