@@ -47,6 +47,8 @@ links:
         url: /slps-gallery/2024/
       - title: Discovering Si Ling
         url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
+      - title: Students' Achievements
+        url: /students-achievements/
   - title: Departments
     url: /departments/english/
     sublinks:
@@ -87,13 +89,8 @@ links:
         url: /parents-hub/sexuality-education/
       - title: Cyber Wellness
         url: /parents-hub/cyber-wellness/overview/
-  - title: Student's Hub
-    url: /students-hub/online-learning-resources/home-based-learning/
-    sublinks:
       - title: Online Learning Resources
         url: /students-hub/online-learning-resources/home-based-learning/
-      - title: Students' Achievements
-        url: /students-achievements/
   - title: Partners
     url: /partners/parents-in-partnership/
     sublinks:
