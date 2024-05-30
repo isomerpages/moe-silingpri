@@ -13,7 +13,7 @@ third_nav_title: Our Alumni Our Pride
 
 "Si Ling Primary provided ample opportunities for self-expression and growth, including participation in prestigious events such as the SYF competition and Math Olympiad. 
 
-Winning the Silver award in the APMOS Math Olympiad was a defining moment that fueled my interest in mathematics and sparked aspirations for a related career path. Fond memories abound, particularly the camaraderie fostered during class bonding sessions with Form Teachers and School Leaders."
+Winning the Silver award in the APMOS Math Olympiad was a defining moment that fueled my interest in mathematics and sparked aspirations for a related career path. &nbsp; School Leaders and Form Teachers fostered camaraderie during class bonding sessions, undoubtedly created many long lasting memories.
 
 ##### Nur Aqidah Damia binte Asha'ari
 
@@ -21,7 +21,7 @@ Winning the Silver award in the APMOS Math Olympiad was a defining moment that f
 
 <img align="left" style="width:200px;margin-right:15px" src="/images/Nur_Aqidah.png">
 
-"Moments of pride were plentiful, particularly during award ceremonies, where I had the privilege of making my teachers, parents, and myself proud through academic and extracurricular accomplishments. 
+"I had put a lot of hard work into my studies and CCA and my efforts paid off! It made me feel so proud to go on stage during award ceremonies and see the beaming faces of my parents' and teachers', all filled with pride.
 
 Si Ling Primary provided a platform for holistic development, offering initiatives such as the Young Entrepreneur program and visits to the elderly, which broadened my perspective and nurtured empathy and compassion."
 
@@ -29,7 +29,7 @@ Si Ling Primary provided a platform for holistic development, offering initiativ
 
 **Current School: &nbsp;Victoria School**
 
-<img align="left" style="width:200px;margin-right:15px" src="/images/Anne_Ujjwal.png">"Si Ling Primary not only offered academic opportunities but also encouraged personal growth. I cherished the chance to explore diverse interests, seek assistance from teachers, and utilize the accessible school library for both research and leisure reading. 
+<img align="left" style="width:200px;margin-right:15px" src="/images/Anne_Ujjwal.png">"Si Ling Primary not only offered academic opportunities but also encouraged personal growth. I cherished the chances to explore diverse interests, seek assistance from teachers, and utilize the accessible school library for both research and leisure reading. 
 
 Among the many treasured memories, my P5 camp stands out as a time of friendship and discovery, where I formed lasting bonds with classmates. 
 "
