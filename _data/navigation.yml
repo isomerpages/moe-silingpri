@@ -101,6 +101,10 @@ links:
         url: /partners/parents-in-partnership/
       - title: Our Alumni Our Pride
         url: /partners/our-alumni-our-pride/overview/
-  - title: New menu group
+  - title: Resources Hub
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Parents' Hub
+        url: /permalink
+      - title: Students' Hub
+        url: /permalink
