@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Online Learning Resources/Google Classroom.md
       - Online Learning Resources/Student Learning Space.md
       - Online Learning Resources/Home based Learning.md
       - Online Learning Resources/.keep
