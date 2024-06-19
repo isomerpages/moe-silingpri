@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Online Learning Resources/.keep
-      - Online Learning Resources/Google Classroom.md
       - Online Learning Resources/Google Workspace.md
