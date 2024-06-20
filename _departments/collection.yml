@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue/Overview.md
-      - Mother Tongue/.keep
       - English/.keep
       - English/Overview.md
       - English/English Language Monthly Odyssey (ELMO).md
@@ -21,6 +19,8 @@ collections:
       - Science/Overview.md
       - Science/Our Curriculum Approach.md
       - Science/Our Programmes.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
       - Aesthetics/.keep
       - Aesthetics/Overview.md
       - Aesthetics/Our Curriculum.md
