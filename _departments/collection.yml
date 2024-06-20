@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/.keep
       - English/.keep
       - English/Overview.md
       - English/English Language Monthly Odyssey (ELMO).md
