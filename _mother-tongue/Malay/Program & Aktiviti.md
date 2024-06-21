@@ -30,6 +30,7 @@ In Term 1, the ML students had the opportunity to experience the different aspec
 
 Over the first 2 weeks of Term 2, ML students will be participating in various ML cultural activities. Do check out this space for more updates soon.
 
+<img src="/images/MT_FORTNIGHT_MALAY_DEPARTMENT_.png" style="width:100%">	
 
 **Pelajaran Bahasa Melayu yang menerapkan ICT**  
 
