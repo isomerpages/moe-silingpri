@@ -37,6 +37,7 @@ Over the first 2 weeks of Term 2, ML students will be participating in various M
 Objektif pelajaran seperti ini:&nbsp;Murid dapat belajar dalam suasana ICT yang selamat serta mempelajari kemahiran bahasa dan nilai –nilai ICT yang autentik
 
   
+<img src="/images/Malay_.png" style="width:100%">
 
 Di sekolah kami, kami akan mendedahkan murid-murid dengan alat-alat ICT yang bersesuaian seperti SLS, Kahoot, Sokratis dan bermacam-macam lagi. Kami yakin alat-alat ICT ini akan memberikan pengalaman pembelajaran yang menarik untuk murid-murid kami. Kami telah merancang beberapa pelajaran BM yang menerapkan ICT. Selain daripada dapat belajar dalam keadaan ICT yang menyeronokkan, murid-murid juga akan dapat belajar nilai-nilai murni ICT (cyberwellness) bersama rakan-rakan mereka.
 
