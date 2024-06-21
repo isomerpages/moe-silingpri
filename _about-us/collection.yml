@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Terms of Use.md
       - Staff Recognition.md
       - Principal's Message.md
       - Our School/.keep
