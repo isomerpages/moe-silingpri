@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Terms of Use.md
       - Staff Recognition.md
       - Principal's Message.md
       - Our School/.keep
@@ -21,3 +20,4 @@ collections:
       - Teachers In Action.md
       - Our School Advisory Committee.md
       - Location Map.md
+      - Terms of Use.md
