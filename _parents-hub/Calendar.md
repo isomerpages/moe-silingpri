@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### Calendar
 ##### Term 3 
-![](/images/Calendar_of_Events.jpg)
+![](/images/more_calendar.jpg)
