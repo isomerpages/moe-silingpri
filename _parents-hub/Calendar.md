@@ -5,5 +5,5 @@ description: ""
 variant: markdown
 ---
 ### Calendar
-
-![](/images/calenda.jpg)
+##### Term 3 
+![](/images/Calendar_of_Events.jpg)
