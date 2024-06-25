@@ -9,6 +9,7 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
+|[Term 3 COE Letter](/files/TERM_3_COE_2024_LETTER_v2.pdf)| 25 Jun 2024 
 |[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
 |[School Based Assessments ](/files/P5_SBA_letter_2024___16012024__updated.pdf)| 19 Jan 2024
 |[Term 1 COE Letter](/files/2024_TERM_1_COE_LETTER__doc.pdf) |8 Jan 2024
