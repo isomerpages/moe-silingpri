@@ -9,6 +9,7 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
+|[Term 3 COE Letter](/files/TERM_3_COE_2024_LETTER_v2.pdf)| 25 Jun 2024 
 |[EL Middle Primary Parents Workshop Slides](/files/EL_Middle_Primary_Parents_Workshop_For_School_Website.pdf)| 23 May 2024
 |[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
 |[School Based Assessments ](/files/P3_School_Based_Assessments_2024_for_Terms_1__2_and_3.pdf)| 19 Jan 2024
