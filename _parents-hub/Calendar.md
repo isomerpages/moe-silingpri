@@ -5,4 +5,5 @@ description: ""
 variant: markdown
 ---
 ### Calendar
-[2024 Term 2 Calendar of Events](/files/2024_TERM_2_COE.pdf)
+[Term 3 Calendar of Events ](/files/2024_Term_3_COE_students.pdf)
+![](/images/2024_Term_3_COE_students_1.png)
