@@ -16,8 +16,9 @@ variant: markdown
 **母语双周**
 
 为了贯彻教育部所推行的“母语双周”计划，我校华文部通过一系列丰富多彩的活动，来激发学生学习母语的兴趣，并提升学生对母语文化的认识。此外，我们鼓励学生与家人一起进行活动或给家人介绍刚接触的文化艺术，以促进亲子关系，还有制造更多机会让学生在生活中用华语与人沟通。
-<img style="width:70%"> 
-![](/images/Primar_1_CL_Activity.png)
+
+<img style="width:60%" src="/images/Primar_1_CL_Activity.png"> 
+
 
 **文化随意门**
 
