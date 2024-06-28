@@ -17,9 +17,17 @@ variant: markdown
 
 为了贯彻教育部所推行的“母语双周”计划，我校华文部通过一系列丰富多彩的活动，来激发学生学习母语的兴趣，并提升学生对母语文化的认识。此外，我们鼓励学生与家人一起进行活动或给家人介绍刚接触的文化艺术，以促进亲子关系，还有制造更多机会让学生在生活中用华语与人沟通。
 
-<img style="width:60%" src="/images/Primar_1_CL_Activity.png"> 
+<img style="width:100%" src="/images/Primar_1_CL_Activity.png"> 
 
+![](/images/P2_CL_Activity.png)
 
+![](/images/P3_CL_Activity.png)
+
+![](/images/P4_CL_Activity.png)
+
+![](/images/P5_CL_Activity.png)
+
+![](/images/P6_CL_Activity.png)
 **文化随意门**
 
 “文化随意门”计划为学校提供资金，让老师带学生走出校园，在正式的表演场所观赏以华语为媒介的文艺作品。此计划让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的魅力，并鼓励他们从年幼或青年时期种下“乐学”华文的种子。
