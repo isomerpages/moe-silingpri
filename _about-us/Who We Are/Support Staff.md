@@ -27,6 +27,11 @@ variant: markdown
 			<td style="width:250px"><span style="font-size:12px"><strong>Desktop Engineer</strong></span></td>
 </tr>
 			<tr>
+				</tr><tr>
+			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR DINI FIKRI BIN UMAR</span></span></td>
+			<td style="width:250px"><span style="font-size:12px"><strong>Desktop Engineer</strong></span></td>
+</tr>
+			<tr>
 		</tr>
 	</tbody>
 </table>
