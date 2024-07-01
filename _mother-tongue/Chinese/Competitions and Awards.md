@@ -3,12 +3,13 @@ title: Competitions and Awards
 permalink: /mother-tongue/Chinese/competitions-and-awards/
 description: ""
 third_nav_title: Chinese
+variant: markdown
 ---
-### *** Work in progress***
+### ***Competitions and Awards***
 
 
 
-Competitions and Awards <br>
+
 校外参赛活动
 
 士林小学着重于提供学生更多展现自己的机会。因此,我们鼓励学生们参加个别活动及比赛。通过这些平台,我们相信学生们有机会与来 自不同学校的学生们切磋,并同时增强自己的自信心。
@@ -21,7 +22,7 @@ Competitions and Awards <br>
          
 《2022年 国际小学生电脑创意写作比赛》
 
- 为了提供学生发挥创意思维的机会,鼓励世界各地的学生通过电脑与互联网利用华文创作,各国华人小学利用网络来参加国际小学生电脑 创意写作比赛,士林小学也不例外。目前参加过的国家有台湾、新加坡、中国(含香港)、马来西亚、越南、印尼等国。
+&nbsp;为了提供学生发挥创意思维的机会,鼓励世界各地的学生通过电脑与互联网利用华文创作,各国华人小学利用网络来参加国际小学生电脑 创意写作比赛,士林小学也不例外。目前参加过的国家有台湾、新加坡、中国(含香港)、马来西亚、越南、印尼等国。
 
 ![](/images/Mother%20Tongue/Competitions%20and%20Awards/A-Mao%20Ruihan-edited02.jpg)
 
