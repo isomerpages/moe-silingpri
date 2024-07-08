@@ -99,7 +99,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mother Tongue</strong></span></td>
 	</tr><tr>
 	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aestheticst</strong></span></td>
+			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aesthetics</strong></span></td>
 	</tr><tr>
 	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS CATHRINE LAM</strong><br>lam_chuan_kiet@moe.edu.sg</span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>HOD CCE</strong></span></td>
