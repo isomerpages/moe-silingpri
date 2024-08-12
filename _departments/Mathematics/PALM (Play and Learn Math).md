@@ -22,7 +22,7 @@ To find out more, click&nbsp;[here](/signature-programmes/PALM/)
 | P5     | Pupils create a video to teach a mathematical concept to their friends.     |
 | P6     | Pupils design and create a mathematics trail in school for their primary 5 peers.     |
 
-<img src="/images/Math_PALM_pic.png">
+<img src="/images/Math_PALM_pic.png" style="width:80%">
 		 
 #### Learning Journey
 One of the best ways to broaden our minds is to travel and be exposed to the world.&nbsp; Learning journey encourage pupils to learn not only through the classroom but also through experiential learning, giving them the chance to break out of their academic routine.
@@ -42,7 +42,8 @@ Mathematics Trail is an interactive way to learn mathematics beyond the classroo
 #### Math Fun Week
 Math fun week is held annually to engage pupils with fun-filled mathematics activities.&nbsp; Pupils get to investigate and apply mathematics concepts through the problems created for them to develop their reasoning and critical thinking skills! Pupils were given opportunities to explain to their classmates how they derived their answers.
 
-![](/images/Math_Fun_Week_.png)
+<img src="/images/Math_Fun_Week_.png" style="width:80%">
+
 
 In addition to the activity in the classroom, there were activities in Student Learning Space (SLS) for the different level to demonstrate their creativity. Learning Math is fun!&nbsp;  
 
