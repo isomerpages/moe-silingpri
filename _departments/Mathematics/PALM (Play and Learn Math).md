@@ -36,7 +36,7 @@ Mathematics Trail is an interactive way to learn mathematics beyond the classroo
 *Students using the iPad to solve the challenging puzzles.*
 ![](/images/Learning_Trail_2.png)
 
-*Students using a metric ruler to measure the height of a desk.*		 
+*Students using a metric ruler and protractor to measure the length and angle of wall murals.*		 
 ![](/images/Math_Learning_3.png)
 
 #### Math Fun Week
