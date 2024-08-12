@@ -97,7 +97,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px">6 Teamwork</span></td>
 			<td style="width:249px"><span style="font-size:12px">MDM RITA ASHIKYN<br>
 			<strong>Assistant Year Head P5 &amp; P6</strong><br>rita_ashikyn_marhajas@moe.edu.sg</span></td>
-	<td style="width:251px"><span style="font-size:12px">MR KOH CHI SHENG <br><strong>HOD Student Management</strong><br>koh_chin_sheng@moe.edu.sg<br></span></td>
+	<td style="width:251px"><span style="font-size:12px">MR KOH CHIN SHENG <br><strong>HOD Student Management</strong><br>koh_chin_sheng@moe.edu.sg<br></span></td>
 	</tr><tr>
 	</tr></tbody>
 </table>
