@@ -45,7 +45,7 @@ Our student Cyberwellness Ambassadors design and conduct activities for all stud
 
 ##### Home-based Learning (HBL)
 
-Home-based learning (HBL) is conducted in Si Ling Primary School twice a year during the PSLE Oral Examinations and the PSLE Marking Days. On HBL days, Primary 1 to Primary 5 students are not required to attend school and will be assigned HBL lessons and assignments, primarily on the SLS Learning Portal. (https://vle.learning.moe.edu.sg/login).
+Home-based learning (HBL) is conducted in Si Ling Primary School twice a year during the PSLE Oral Examinations and the PSLE Marking Days. On HBL days, Primary 1 to Primary 5 students are not required to attend school and will be assigned HBL lessons and assignments, primarily on the [SLS Learning Portal ](https://vle.learning.moe.edu.sg/login). 
 
 ![HBL on Zoom](/images/Our%20Experiences/InfoComm%20Technology/ict7.png)
 
