@@ -22,7 +22,7 @@ To find out more, click&nbsp;[here](/signature-programmes/PALM/)
 | P5     | Pupils create a video to teach a mathematical concept to their friends.     |
 | P6     | Pupils design and create a mathematics trail in school for their primary 5 peers.     |
 
-<img src="/images/Our%20Experiences/Mathematics/PALM%20collage.png" style="width:70%">
+<img src="/images/Math_PALM_pic.png" style="width:80%">
 		 
 #### Learning Journey
 One of the best ways to broaden our minds is to travel and be exposed to the world.&nbsp; Learning journey encourage pupils to learn not only through the classroom but also through experiential learning, giving them the chance to break out of their academic routine.
@@ -31,20 +31,19 @@ One of the best ways to broaden our minds is to travel and be exposed to the wor
 Mathematics Trail is an interactive way to learn mathematics beyond the classroom and textbooks. Using mathematics trail, pupils can see and experience mathematics concepts that are applied in their daily activities and things around them. Through the use of iPads, pupils are able to move about answering questions using the camera function, recording of video to answer and explain their answers. They also engaged in cooperative learning as they work collaboratively to complete the assigned tasks.
 
 *Students using the iPad to take picture of a Math concept.*
-![Students using the iPad to take picture of a Math concept.](/images/Our%20Experiences/Mathematics/Maths%20Trail%20collage%201.png)
+![Students using the iPad to take picture of a Math concept.](/images/Learning_Trail_1.png)
 
 *Students using the iPad to solve the challenging puzzles.*
-![Students using the iPad to solve the challenging puzzles.](/images/Our%20Experiences/Mathematics/Maths%20Trail%20collage%202.png)
+![](/images/Learning_Trail_2.png)
 
-*Students estimating the perimeter of the garden plot.*
-<img src="/images/Our%20Experiences/Mathematics/MATH%20TRAIL%206%20brush.png" style="width:65%"> 
-*Students using a metric ruler to measure the height of a desk.*		 
-<img src="/images/Our%20Experiences/Mathematics/MATH%20TRAIL%201%20brush.png" style="width:35%">
+*Students using a metric ruler and protractor to measure the length and angle of wall murals.*		 
+![](/images/Math_Learning_3.png)
 
 #### Math Fun Week
 Math fun week is held annually to engage pupils with fun-filled mathematics activities.&nbsp; Pupils get to investigate and apply mathematics concepts through the problems created for them to develop their reasoning and critical thinking skills! Pupils were given opportunities to explain to their classmates how they derived their answers.
 
-<img src="/images/Signature%20Programmes/PALM/math1.png" style="width:70%">
+<img src="/images/Math_Fun_Week_.png" style="width:80%">
+
 
 In addition to the activity in the classroom, there were activities in Student Learning Space (SLS) for the different level to demonstrate their creativity. Learning Math is fun!&nbsp;  
 
