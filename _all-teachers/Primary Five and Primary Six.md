@@ -48,10 +48,6 @@ variant: markdown
 			<td style="width:249px"><span style="font-size:12px">MR CHRIS NG HAN PO<br>
 				<strong>HOD ICT</strong><br>ng_han_po@moe.edu.sg<br></span></td>
 			<td style="width:251px"><span style="font-size:12px">MS MUMTAJ BEHOM <br><strong>Tamil Coordinator</strong><br>mumtaj_behom_mohamed_d@moe.edu.sg<br></span></td>
-		</tr><tr>
-				</tr><tr>
-			<td style="width:106px">&nbsp;</td>
-		<td style="width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR DEMERIN PAUL ANDREW GADON<br>demerin_paul_andrew_gadon@moe.edu.sg<br></span></span></td>
 			<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
