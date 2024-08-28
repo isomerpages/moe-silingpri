@@ -10,8 +10,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 ### Service Requirements
 <ol type="1"><span style="font-size:16px">
   <li>[Call for Proposal](/files/Call_for_Proposal.pdf)</li>
-  <li>Terms and Conditions for School Bus Operator to Provide School Bus Services </li>
-  <li>Request for School Bus Services</li>
+  <li>[Terms and Conditions for School Bus Operator to Provide School Bus Services](/files/Terms_and_Conditions.pdf) </li>
+  <li>[Request for School Bus Services](/files/Request_for_School_Bus_Service.pdf)</li>
 </span></ol>
 	
 ### Application Procedure 
