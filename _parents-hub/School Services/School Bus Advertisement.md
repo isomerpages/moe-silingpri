@@ -8,9 +8,11 @@ third_nav_title: School Services
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 #### Service Requirements
-1.	Call for Proposal 
-2.	Terms and Conditions for School Bus Operator to Provide School Bus Services 
-3.	Request for School Bus Services
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 
 #### Application Procedure 
 1. Complete the Call for Proposal - Annex A (Information Required from Vendor) 
