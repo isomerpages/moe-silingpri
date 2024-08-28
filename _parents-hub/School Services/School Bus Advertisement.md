@@ -17,8 +17,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 ### Application Procedure 
 	
 <ol type="1"><span style="font-size:16px">
-  <li>Complete the Call for Proposal - Annex A (Information Required from Vendor) </li>
-  <li><a href="files/Call_for_Prposal_Annex_A.pdf">Submit the completed Call for Proposal – Annex A</a> by closing date, 6 September 2024, to the School’s General Office.&nbsp; </li>
+  <li><a href="files/Call_for_Prposal_Annex_A.pdf">Complete the Call for Proposal - Annex A</a> (Information Required from Vendor) </li>
+  <li>Submit the completed Call for Proposal – Annex A by closing date, 6 September 2024, to the School’s General Office.&nbsp; </li>
 </span></ol>
 
 **Address**: 61 Woodlands Avenue 1, Singapore 739067
