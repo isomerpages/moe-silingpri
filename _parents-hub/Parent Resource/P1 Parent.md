@@ -9,6 +9,7 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- | 
+|[Term 4 COE Letter](/files/Term_4_Letter.pdf)| 9 Sept 2024
 |[Term 3 COE Letter](/files/2024_TERM_3_COE_LETTER.pdf)| 25 Jun 2024 
 |[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
 |[English Holistic Assessment Plan ](/files/Pr_1_English_Holistic_Assessment_Plan_2024.pdf)| 19 Jan 2024
