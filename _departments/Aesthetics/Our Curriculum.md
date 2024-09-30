@@ -11,8 +11,8 @@ Every student goes through a broad-based art and music curriculum based on overa
 
 Through the learning and appreciation of art and music, students develop inquiry skills which enables them to observe and perceive their world with increased awareness and aesthetic sensitivity which lays the foundation for students’ lifelong appreciation and interest in the arts.
 
-
-		 
+<img style="width:80%" src="/images/Art_curriculum.png">
+ 
 **\[ Experience:**&nbsp;Art Curriculum Overview&nbsp;**\]**
 
 | **Level** | Primary One | Primary Two | Primary Three | Primary Four |  Primary Five | Primary Six |
