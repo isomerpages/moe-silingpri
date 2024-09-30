@@ -36,8 +36,7 @@ variant: markdown
 			<td style="width:251px"><span style="font-size:12px">ong_soo_hoon_cecilia@moe.edu.sg&nbsp;</span></td>
 				</tr><tr>
 						<td style="width:249px"><span style="font-size:12px">MDM LIN YUPING<br>
-				<strong>LSP Coordinator</strong></span></td>
-						<td style="width:251px"><span style="font-size:12px">lin_yuping@moe.edu.sg</span></td>
+						</span></td><td style="width:251px"><span style="font-size:12px">lin_yuping@moe.edu.sg</span></td>
 		</tr>
 				<tr>
 						<td style="width:249px"><span style="font-size:12px">MISS LEE MEI CHENG</span></td>
