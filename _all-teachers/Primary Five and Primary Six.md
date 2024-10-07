@@ -27,7 +27,7 @@ variant: markdown
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MRS THAM-CHIN MEI LING
 				</span><br><span style="font-size:12px"><strong>ST Science</strong><br>tham-chin_mei_ling@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br><strong>LSP Coordinator</strong><br>lin_yuping@moe.edu.sg<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br>lin_yuping@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 				</tr><tr>
