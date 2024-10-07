@@ -45,11 +45,7 @@ variant: markdown
 			<td style="width:249px"><span style="font-size:12px">MDM KATIJAH BEEVI D/O<br>AUWILA M<br>katijah_beevi_auwlia_m@moe.edu.sg<br></span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM AISYA BINTE BUANG<br>noor_aisya_buang@moe.edu.sg<br></span></td>
 		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-	<td style="width:249px"><span style="font-size:12px">MS NURUL ANISAH BINTE RIZAL<br>nurul_anisah_rizal_a@moe.edu.sg<br></span></td>	
-				<td style="width:106px">&nbsp;</td>
-		</tr>
+		
 		<tr>
 		</tr><tr>
 			<td style="width:106px">
