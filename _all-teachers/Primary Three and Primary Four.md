@@ -24,7 +24,7 @@ variant: markdown
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
 	<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG<br>dennis_tuan-yuh_leng@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN<br>quan_yee_wen@moe.edu.sg<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN<br>quah_yee_wen@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">
