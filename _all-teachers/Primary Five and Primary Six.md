@@ -82,7 +82,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px">6 Respect</span></td>
 			<td style="width:249px"><span style="font-size:12px">MR ASHRI BIN SHUKRI<br>
 				<strong>HOD Science</strong><br>ashri_b_shukri@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NURASHIKIN BINTE <br>MOHAMED SHARIF<br>nurashikin_mohamed_sharif<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM NURASHIKIN BINTE <br>MOHAMED SHARIF<br>nurashikin_mohamed_sharif@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px">6 Integrity</span></td>
