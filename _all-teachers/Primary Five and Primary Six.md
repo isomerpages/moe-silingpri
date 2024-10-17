@@ -63,7 +63,7 @@ variant: markdown
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MDM NORASHIKIN BINTE MOHD SAID<br>
 				<strong>LH Mathematics</strong><br>norashikin_mohamed_said@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MS ROSAMUND CHONG<br>chong_wen_shan_rosamund<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MS ROSAMUND CHONG<br>chong_wen_shan_rosamund@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:160px"><span style="font-size:12px">6 Perserverance</span></td>
