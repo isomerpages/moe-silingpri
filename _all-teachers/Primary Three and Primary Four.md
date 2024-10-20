@@ -24,7 +24,7 @@ variant: markdown
 			<p><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">3 Perseverance</span></span></p>
 			</td>
 	<td style="width:249px"><span style="font-size:12px">MR DENNIS TUAN YUN LENG<br>dennis_tuan-yuh_leng@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN<br>quan_yee_wen@moe.edu.sg<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MS QUAH YEE WEN<br>quah_yee_wen@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px">
@@ -44,11 +44,6 @@ variant: markdown
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MDM KATIJAH BEEVI D/O<br>AUWILA M<br>katijah_beevi_auwlia_m@moe.edu.sg<br></span></td>
 			<td style="width:251px"><span style="font-size:12px">MDM AISYA BINTE BUANG<br>noor_aisya_buang@moe.edu.sg<br></span></td>
-		</tr>
-		<tr>
-			<td style="width:106px">&nbsp;</td>
-	<td style="width:249px"><span style="font-size:12px">MS NURUL ANISAH BINTE RIZAL<br>nurul_anisah_rizal_a@moe.edu.sg<br></span></td>	
-				<td style="width:106px">&nbsp;</td>
 		</tr>
 		<tr>
 		</tr><tr>

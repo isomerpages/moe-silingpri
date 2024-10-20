@@ -27,7 +27,7 @@ variant: markdown
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MRS THAM-CHIN MEI LING
 				</span><br><span style="font-size:12px"><strong>ST Science</strong><br>tham-chin_mei_ling@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br><strong>LSP Coordinator</strong><br>lin_yuping@moe.edu.sg<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM LIN YUPING<br>lin_yuping@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 				</tr><tr>
@@ -63,7 +63,7 @@ variant: markdown
 			</td>
 			<td style="width:249px"><span style="font-size:12px">MDM NORASHIKIN BINTE MOHD SAID<br>
 				<strong>LH Mathematics</strong><br>norashikin_mohamed_said@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MS ROSAMUND CHONG<br>chong_wen_shan_rosamund<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MS ROSAMUND CHONG<br>chong_wen_shan_rosamund@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:160px"><span style="font-size:12px">6 Perserverance</span></td>
@@ -82,7 +82,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px">6 Respect</span></td>
 			<td style="width:249px"><span style="font-size:12px">MR ASHRI BIN SHUKRI<br>
 				<strong>HOD Science</strong><br>ashri_b_shukri@moe.edu.sg<br></span></td>
-			<td style="width:251px"><span style="font-size:12px">MDM NURASHIKIN BINTE <br>MOHAMED SHARIF<br>nurashikin_mohamed_sharif<br></span></td>
+			<td style="width:251px"><span style="font-size:12px">MDM NURASHIKIN BINTE <br>MOHAMED SHARIF<br>nurashikin_mohamed_sharif@moe.edu.sg<br></span></td>
 		</tr>
 		<tr>
 			<td style="width:106px"><span style="font-size:12px">6 Integrity</span></td>
