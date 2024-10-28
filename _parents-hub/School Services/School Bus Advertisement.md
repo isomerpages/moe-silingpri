@@ -33,4 +33,4 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Nearest MRT:** Woodlands MRT (NS9 line) – 10 minutes walking distance. &nbsp;
 
-**Bus number:** 912 / 912B / 912M from Woodlands Bus Interchange (Berth 12)
+**Bus number:** 912 / 912B / 912M from Woodlands Bus Interchange 
