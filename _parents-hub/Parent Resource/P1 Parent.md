@@ -9,6 +9,7 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- | 
+|[P1 Orientation 2025](/files/P1_Orientation_FOR_2025_P1__8_Nov_compressed.pdf)| 8 Nov 2024 
 |[Term 4 COE Letter](/files/Term_4_Letter.pdf)| 9 Sept 2024
 |[Term 3 COE Letter](/files/2024_TERM_3_COE_LETTER.pdf)| 25 Jun 2024 
 |[Term 2 COE Letter](/files/2024_TERM_2_COE_LETTER__1_.pdf)| 18 Mar 2024
