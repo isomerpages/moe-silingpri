@@ -126,15 +126,11 @@ variant: markdown
         MR JOHAN BIN RIDWAN LOO<br>
         johan_ridwan_loo@moe.edu.sg
       </td>
-      <td>
-		</td></tr>
-		<tr>
-			<td></td>
 			<td>
         MR JASHANAN S/O KASINATHAN<br>
         <strong>Year Head P3 &amp; P4</strong><br>
         jashanan_kasinathan@moe.edu.sg
-      </td>
-    </tr>
+      </td><td>
+    </td></tr>
   </tbody>
 </table>
