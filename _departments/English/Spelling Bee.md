@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: English
 ---
-<h1>Spelling Bee</h1>
+### **Spelling Bee**
 <h4>Term 1</h4>
 <img style="width:500px;margin-left:-55px;margin-right:-35px" align="left" src="/images/spelling_bee_awards.png">
 <p>The English Department sparked excitement for the love of English by launching
