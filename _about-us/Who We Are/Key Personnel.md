@@ -19,10 +19,10 @@ variant: markdown
     padding: 5px;
   }
   .aligned-table td:first-child {
-    width: 40%;
+    width: 50%;
   }
   .aligned-table td:nth-child(2) {
-    width: 60%;
+    width: 50%;
   }
   .school-leaders-table img {
     width: 150px;
@@ -79,7 +79,7 @@ variant: markdown
 </tbody></table>
 		
 ### 		**School Staff Developer**
-<table class="school-staff-table">
+ <table class="school-staff-table aligned-table">
 	<thead>
   <tr>
     <th>NAME</th>
