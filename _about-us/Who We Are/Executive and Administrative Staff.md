@@ -7,76 +7,108 @@ variant: markdown
 ---
 ### **Executive and Administrative Staff**
 
+<style>
+  .staff-table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .staff-table th, .staff-table td {
+    text-align: left;
+    padding: 5px;
+    vertical-align: top;
+  }
+  .staff-table th {
+    font-weight: bold;
+  }
+  .staff-table td:first-child {
+    width: 50%;
+  }
+  .staff-table td:nth-child(2) {
+    width: 50%;
+  }
+</style>
+
 ##### 		**Administrative Department**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
+<table class="staff-table">
+	<thead>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS VERONICA YAT</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>Administration Manager</strong></span></span></td>
-	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SILVIATY BINTE BIDIN</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Administrative Executive</strong></span></td>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS NUR HAZIRAH BINTE ISMAIL</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Administrative Executive</strong></span></td>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SITI SAKDIAH BINTI ASMURI</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Corporate Support Officer</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM TAN AI LING</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Corporate Support Officer</strong></span></td>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SITI SARAH BINTE MOHD JAMIL</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Corporate Support Officer</strong></span></td>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS FARHANA ISMAIL</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Corporate Support Officer</strong></span></td>
-		</tr><tr>
-		</tr></tbody></table>
+  <tbody><tr>
+    <td>MS VERONICA YAT</td>
+    <td><strong>Administration Manager</strong></td>
+  </tr>
+  <tr>
+    <td>MDM SILVIATY BINTE BIDIN</td>
+    <td><strong>Administrative Executive</strong></td>
+  </tr>
+  <tr>
+    <td>MS NUR HAZIRAH BINTE ISMAIL</td>
+    <td><strong>Administrative Executive</strong></td>
+  </tr>
+  <tr>
+    <td>MDM SITI SAKDIAH BINTI ASMURI</td>
+    <td><strong>Corporate Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MDM TAN AI LING</td>
+    <td><strong>Corporate Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MDM SITI SARAH BINTE MOHD JAMIL</td>
+    <td><strong>Corporate Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MS FARHANA ISMAIL</td>
+    <td><strong>Corporate Support Officer</strong></td>
+  </tr>
+</tbody></table>
+
 		
 ##### **Operations Department**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
+<table class="staff-table">
+	<thead>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR CHEE SANG FOK</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Operational Manager</strong></span></td>
-	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM PARUWATHY PRATHAYYA</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Operations Support Officer</strong></span></td>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR KERANAH BIN TENGKU ABDULLAH</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Operations Support Officer</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM ASIAH BTE SAUT</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Operations Support Officer</strong></span></td>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM CHOONG BING LAI</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Operations Support Officer</strong></span></td>
-		</tr><tr>
-		</tr></tbody></table>
+  <tbody><tr>
+    <td>MR CHEE SANG FOK</td>
+    <td><strong>Operational Manager</strong></td>
+  </tr>
+  <tr>
+    <td>MDM PARUWATHY PRATHAYYA</td>
+    <td><strong>Operations Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MR KERANAH BIN TENGKU ABDULLAH</td>
+    <td><strong>Operations Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MDM ASIAH BTE SAUT</td>
+    <td><strong>Operations Support Officer</strong></td>
+  </tr>
+  <tr>
+    <td>MDM CHOONG BING LAI</td>
+    <td><strong>Operations Support Officer</strong></td>
+  </tr>
+</tbody></table>
 		
 ##### **ICT Department**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
+<table class="staff-table">
+	<thead>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR LEE HO YIN</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>ICT Manager</strong></span></td>
-	</tr><tr>
-		</tr></tbody></table>
+  <tbody><tr>
+    <td>MR LEE HO YIN</td>
+    <td><strong>ICT Manager</strong></td>
+  </tr>
+</tbody></table>

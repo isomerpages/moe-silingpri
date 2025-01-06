@@ -9,18 +9,14 @@ variant: markdown
 
 **Dear Parents/Guardians**,
 
-As we embark on this academic journey, I am excited to highlight some remarkable accomplishments from the past year. Thanks to the collaborative efforts of our dedicated teachers, hardworking students, and supportive parents, Si Ling Primary has achieved notable successes.
+We concluded 2024 on a high note, with the school achieving remarkable success. The PSLE results from the past two years have been a great source of encouragement! In 2024, many of our students excelled and earned spots in their preferred secondary schools. This accomplishment is a testament to the hard work of our teachers and the unwavering support of our students’ families.
 
-Our students not only demonstrated academic excellence with a 100% pass rate in PSLE 2023 but also excelled in various extracurricular activities. Whether winning sports championships or earning recognition in the arts, our students have brought immense pride to Si Ling Primary. These achievements underscore our commitment to providing a well-rounded education.
+Our students have not only excelled in their studies but also on the sports field and in their various CCAs. They have embraced challenges, supported each other with kindness, and celebrated one another’s achievements. Each of them has contributed to making our school a better place!
 
-Our devoted team of teachers has been instrumental in these triumphs. They adeptly utilize EdTech to foster 21st-century skills and shape the future of learning. Their passion for teaching, innovative approaches, and tireless dedication have fostered an environment where students can flourish academically and personally. These endeavors have played a crucial role in the holistic development of our students and have positioned Si Ling Primary favorably.
+The passion, innovation, and dedication of our teachers have fostered an environment where students are motivated to give their best.
 
-For instance, on 22 April 2024, SLPS hosted international delegates participating in the 14th International Summit on the Teaching Profession (ISTP).  This prestigious event, held annually by invitation only, gathers representatives from 34 countries, including Austria, Canada, China, Finland, Japan, Norway, Republic of Korea, Switzerland, and the United States, to share best practices and discuss strategies aimed at enhancing the teaching profession and improving student achievement.
-
-SLPS is among the few select schools designated by the MOE to demonstrate the future of learning in schools. During their visit, delegates experienced firsthand how SLPS teachers promote engaged learning among students. They also learn about the school's approach to fostering future-ready competencies through its unique school program, innovative teaching methods, and immersive learning environments.
-
-As we move forward into the rest of the school year, I am confident that we will not only build on our current accomplishments but also strive for greater achievements. Together, as a unified school community, we will continue to cultivate an environment that fosters excellence, curiosity, and the pursuit of knowledge.
+Let us continue to collaborate in inspiring our students and celebrating their successes. I am looking forward to the new adventures and opportunities that lie ahead.
 
 Mr Koe Ee Tiong<br>
 Principal<br>
-23 Apr 2024
+6 Jan 2025

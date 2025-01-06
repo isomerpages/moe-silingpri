@@ -6,41 +6,58 @@ description: ""
 third_nav_title: Who We Are
 ---
 ### **Allied Educators**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Name</span></span></th>
-			<th scope="col" style="text-align:left; width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Designation</span></span></th>
-		</tr>
+<style>
+  .allied-educators-table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+  .allied-educators-table th, .allied-educators-table td {
+    text-align: left;
+    vertical-align: top;
+    padding: 5px;
+  }
+</style>
+
+<table class="allied-educators-table">
+	<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM PARAMESWARI JAYARAM</span><br>parameswari_jayaram@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>School Counsellor</strong></span></td>
-</tr>
-<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NOORHAYATI MAHMOOD KHAN @ YATS KHAN</span><br>noorhayati_mahmood_khan@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>School Counsellor</strong></span></td>
-</tr>
-			<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NUR KHAIRIAH SAIFUL JOHAN</span><br>nur_khairiah_saiful_johan@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Student Welfare Officer</strong></span></td>
-</tr>
-			<tr><td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR CHAN HO FONG</span><br>chan_ho_fong@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Senior Special Education Needs Officer</strong></span></td>
-</tr>
-			<tr>
-<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR MUHAMMAD HILMI</span><br>muhammad_hilmi_abu_bakar@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Special Education  
-Needs Officer</strong></span></td>
-</tr>
-			<tr>
-				</tr><tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM WOON BEE ENG</span><br>woon_bee_eng@moe.edu.sg<br></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Teaching and Learning</strong></span></td>
-</tr>
-			<tr>
-		</tr>
-	</tbody>
-</table>
-<p>&nbsp;</p>
+  <tbody><tr>
+    <td>
+      NOORHAYATI MAHMOOD KHAN @ YATS KHAN<br>
+      noorhayati_mahmood_khan@moe.edu.sg
+    </td>
+    <td><strong>School Counsellor</strong></td>
+  </tr>
+  <tr>
+    <td>
+      NUR KHAIRIAH SAIFUL JOHAN<br>
+      nur_khairiah_saiful_johan@moe.edu.sg
+    </td>
+    <td><strong>Student Welfare Officer</strong></td>
+  </tr>
+  <tr>
+    <td>
+      MR CHAN HO FONG<br>
+      chan_ho_fong@moe.edu.sg
+    </td>
+    <td><strong>Senior Special Education Needs Officer</strong></td>
+  </tr>
+  <tr>
+    <td>
+      MR MUHAMMAD HILMI<br>
+      muhammad_hilmi_abu_bakar@moe.edu.sg
+    </td>
+    <td><strong>Special Education Needs Officer</strong></td>
+  </tr>
+  <tr>
+    <td>
+      MDM WOON BEE ENG<br>
+      woon_bee_eng@moe.edu.sg
+    </td>
+    <td><strong>Teaching and Learning</strong></td>
+  </tr>
+</tbody></table>

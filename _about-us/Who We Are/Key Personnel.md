@@ -6,134 +6,152 @@ third_nav_title: Who We Are
 variant: markdown
 ---
 ### **School Leaders**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
-	</thead>
-<tbody>
-		<tr>
-			<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/SY5_3313___Headshot.jpg"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Principal</strong> </span></td>
-</tr><tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mdm_azian.png"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</span></td>
-	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
-	</tr><tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mr_raj.png"></span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</span></td>
-	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
-	</tr><tr>
-	</tr><tr>
-		</tr></tbody></table>
+
+<style>
+  .school-staff-table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 100%;
+  }
+  .school-staff-table th, .school-staff-table td {
+    text-align: left;
+    vertical-align: top;
+    padding: 5px;
+  }
+  .aligned-table td:first-child {
+    width: 50%;
+  }
+  .aligned-table td:nth-child(2) {
+    width: 50%;
+  }
+  .school-leaders-table img {
+    width: 150px;
+    display: block;
+  }
+</style>
+
+
+<table class="school-staff-table school-leaders-table">
+  <tbody><tr>
+    <th></th>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
+  <tr>
+    <td><img alt="MR KOE EE TIONG" src="/images/SY5_3313___Headshot.jpg"></td>
+    <td><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</td>
+    <td><strong>Principal</strong></td>
+  </tr>
+  <tr>
+    <td><img alt="MDM NURAZIAN BAJURI" src="/images/About%20Us/Mdm_Azian.png"></td>
+    <td><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</td>
+    <td><strong>Vice - Principal ( Academic )</strong></td>
+  </tr>
+  <tr>
+    <td><img alt="MR RAJ KUMAR" src="/images/About%20Us/Mr_Raj.png"></td>
+    <td><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</td>
+    <td><strong>Vice - Principal ( Academic )</strong></td>
+  </tr>
+</tbody></table>
 		
 ### 		**Year Heads**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
-	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR SETHU RAJAGOPAL</strong><br>sethu_rajagopal@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P1 &amp; P2 </strong></span></td>
-	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR JASHANAN KASINATHAN</strong><br>jashanan_kasinathan@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P3 &amp; P4</strong></span></td>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ABDUL JALIL B YUNUS</strong><br>abdul_jalil_b_yunus@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Year Head P5 &amp; P6</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM RITA ASHIKYN</strong><br>rita_ashikyn_marhajas@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>Assistant Year Head P5 &amp; P6</strong></span></td>
-	</tr><tr>
-		</tr></tbody></table>
+<table class="school-staff-table aligned-table">
+  <tbody><tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
+  <tr>
+    <td><strong>MR SETHU RAJAGOPAL</strong><br>sethu_rajagopal@moe.edu.sg</td>
+    <td><strong>Year Head P1 &amp; P2</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR JASHANAN KASINATHAN</strong><br>jashanan_kasinathan@moe.edu.sg</td>
+    <td><strong>Year Head P3 &amp; P4</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR ABDUL JALIL B YUNUS</strong><br>abdul_jalil_b_yunus@moe.edu.sg</td>
+    <td><strong>Year Head P5 &amp; P6</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MDM RITA ASHIKYN</strong><br>rita_ashikyn_marhajas@moe.edu.sg</td>
+    <td><strong>Assistant Year Head P5 &amp; P6</strong></td>
+  </tr>
+</tbody></table>
 		
 ### 		**School Staff Developer**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
+ <table class="school-staff-table aligned-table">
 	<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:251px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION </span></span></th>
-</tr>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-	<tbody>
-		<tr>
-			<td style="width:249px"><span style="font-size:12px"><strong>MR GARY TEO TIAN SOON</strong><br>
-			teo_tian_soon_gary@moe.edu.sg</span></td>
-			<td style="width:251px"><span style="font-size:12px"><strong>School Staff Developer</strong></span></td>
-			</tr><tr>
-		</tr>
-			</tbody>
-</table>
+  <tbody><tr>
+    <td><strong>MR GARY TEO TIAN SOON</strong><br>teo_tian_soon_gary@moe.edu.sg</td>
+    <td><strong>School Staff Developer</strong></td>
+  </tr>
+</tbody></table>
+
 
 ### **Head Of Departments**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
+<table class="school-staff-table aligned-table">
+	<thead>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM EMILIA RAZALI</strong><br>emilia_razali@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD English Language</strong></span></td>
-	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MRS NG-HENG MUI GEK</strong><br>heng_mui_gek@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mathematics</strong></span></td>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR ASHRI SHUKRI</strong><br>ashri_b_shukri@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD Science</strong></span></td>
-	</tr><tr>
-	</tr><tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM XU YONGHUA</strong><br>xu_yonghua@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD Mother Tongue</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD PE &amp; Aesthetics</strong></span></td>
-	</tr><tr>
-	</tr>
-	<tr>
-		</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR KOH CHIN SHENG</strong><br>koh_chin_sheng@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>HOD Student Management</strong></span></td>
-	</tr><tr>
-	</tr><tr>
-	</tr><tr>
-	</tr>
-		</tbody></table>
+  <tbody><tr>
+    <td><strong>MDM EMILIA RAZALI</strong><br>emilia_razali@moe.edu.sg</td>
+    <td><strong>HOD English Language</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MRS NG-HENG MUI GEK</strong><br>heng_mui_gek@moe.edu.sg</td>
+    <td><strong>HOD Mathematics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR ASHRI SHUKRI</strong><br>ashri_b_shukri@moe.edu.sg</td>
+    <td><strong>HOD Science</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MDM XU YONGHUA</strong><br>xu_yonghua@moe.edu.sg</td>
+    <td><strong>HOD Mother Tongue</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR MOHAMED FAHMEE B BUANG</strong><br>mohamed_fahmee_buang@moe.edu.sg</td>
+    <td><strong>HOD PE &amp; Aesthetics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR KOH CHIN SHENG</strong><br>koh_chin_sheng@moe.edu.sg</td>
+    <td><strong>HOD Student Management</strong></td>
+  </tr>
+</tbody></table>
+
+
 		
 ### **Level Heads &amp; Subjects Heads**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:200px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">NAME</span></span></th>
-			<th scope="col" style="text-align:left; width:249px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">DESIGNATION</span></span></th>
-		</tr>
+
+<table class="school-staff-table aligned-table">
+	<thead>
+  <tr>
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM NORASHIKIN MOHD SAID</strong><br>norashikin_mohamed_said@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>LH Mathematics</strong></span></td>
-	</tr><tr>
-	</tr><tr>
-			</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MR SAIFUL SAPARI</strong><br>saiful_sapari@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>SH Malay Language</strong></span></td>
-	</tr><tr>
-		</tr><tr>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MDM TERRENZ HUANG</strong><br>huang_yihui_terrenz@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>SH ICT</strong></span></td>
-	</tr><tr>
-	</tr><tr><td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</span></span></td>
-			<td style="width:106px"><span style="font-size:12px"><strong>SH Science</strong></span></td>
-	</tr><tr>
-		</tr></tbody></table>
+  <tbody><tr>
+    <td><strong>MDM NORASHIKIN MOHD SAID</strong><br>norashikin_mohamed_said@moe.edu.sg</td>
+    <td><strong>LH Mathematics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MR SAIFUL SAPARI</strong><br>saiful_sapari@moe.edu.sg</td>
+    <td><strong>SH Malay Language</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MDM TERRENZ HUANG</strong><br>huang_yihui_terrenz@moe.edu.sg</td>
+    <td><strong>SH ICT</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</td>
+    <td><strong>SH Science</strong></td>
+  </tr>
+</tbody></table>
