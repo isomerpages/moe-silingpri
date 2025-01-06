@@ -18,29 +18,27 @@ variant: markdown
     vertical-align: top;
     padding: 5px;
   }
-  .school-staff-table td:first-child {
+  .aligned-table td:first-child {
     width: 40%;
   }
-  .school-staff-table td:nth-child(2) {
-    width: 30%;
+  .aligned-table td:nth-child(2) {
+    width: 60%;
   }
-  .school-staff-table td:nth-child(3) {
-    width: 30%;
-  }
-  .school-staff-table img {
+  .school-leaders-table img {
     width: 150px;
     display: block;
   }
 </style>
 
-<table class="school-staff-table">
+
+<table class="school-staff-table school-leaders-table">
   <tbody><tr>
     <th></th>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
   <tr>
-    <td><img align="" alt="MR KOE EE TIONG" src="/images/SY5_3313___Headshot.jpg"></td>
+    <td><img alt="MR KOE EE TIONG" src="/images/SY5_3313___Headshot.jpg"></td>
     <td><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</td>
     <td><strong>Principal</strong></td>
   </tr>
@@ -57,14 +55,12 @@ variant: markdown
 </tbody></table>
 		
 ### 		**Year Heads**
-<table class="school-staff-table">
-	<thead>
-  <tr>
+<table class="school-staff-table aligned-table">
+  <tbody><tr>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
-	</thead>
-  <tbody><tr>
+  <tr>
     <td><strong>MR SETHU RAJAGOPAL</strong><br>sethu_rajagopal@moe.edu.sg</td>
     <td><strong>Year Head P1 &amp; P2</strong></td>
   </tr>
@@ -81,9 +77,6 @@ variant: markdown
     <td><strong>Assistant Year Head P5 &amp; P6</strong></td>
   </tr>
 </tbody></table>
-
-
-
 		
 ### 		**School Staff Developer**
 <table class="school-staff-table">
@@ -101,7 +94,7 @@ variant: markdown
 
 
 ### **Head Of Departments**
-<table class="school-staff-table">
+<table class="school-staff-table aligned-table">
 	<thead>
   <tr>
     <th>NAME</th>
@@ -133,10 +126,12 @@ variant: markdown
     <td><strong>HOD Student Management</strong></td>
   </tr>
 </tbody></table>
+
+
 		
 ### **Level Heads &amp; Subjects Heads**
 
-<table class="school-staff-table">
+<table class="school-staff-table aligned-table">
 	<thead>
   <tr>
     <th>NAME</th>
