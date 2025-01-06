@@ -20,7 +20,7 @@ variant: markdown
 			<td style="width:106px"><span style="font-size:12px"><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>Principal</strong> </span></td>
 </tr><tr>
-	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/new_mdm_azian.png"></span></span></td>
+	<td style="width:106px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><img align="left" style="width:150px" src="/images/About%20Us/Mdm_Azian.png"></span></span></td>
 			<td style="width:106px"><span style="font-size:12px"><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</span></td>
 	<td style="width:106px"><span style="font-size:12px"><strong>Vice - Principal ( Academic )</strong> </span></td>
 	</tr><tr>
