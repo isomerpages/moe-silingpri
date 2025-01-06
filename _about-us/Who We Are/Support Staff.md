@@ -19,7 +19,7 @@ variant: markdown
 			<td style="width:250px"><span style="font-size:12px"><strong>Library Assistant</strong></span></td>
 </tr>
 			<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS ADIBAH ROSMAN</span></span></td>
+			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR CHUA YUHANG</span></span></td>
 			<td style="width:250px"><span style="font-size:12px"><strong>ICT Trainer</strong></span></td>
 </tr>
 			<tr>
