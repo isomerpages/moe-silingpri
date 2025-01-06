@@ -6,33 +6,41 @@ third_nav_title: Who We Are
 variant: markdown
 ---
 ### **Support Staff**
-<table border="0" cellpadding="0" cellspacing="0" style="width:624px">
-<thead>
-		<tr>
-			<th scope="col" style="text-align:left; width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Name</span></span></th>
-			<th scope="col" style="text-align:left; width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">Designation</span></span></th>
-		</tr>
+<style>
+  .support-staff-table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+  .support-staff-table th, .support-staff-table td {
+    text-align: left;
+    vertical-align: top;
+    padding: 5px;
+  }
+</style>
+
+<table class="support-staff-table">
+	<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
 	</thead>
-<tbody>
-		<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MDM SHIRLEY CHEAN</span></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Library Assistant</strong></span></td>
-</tr>
-			<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR CHUA YUHANG</span></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>ICT Trainer</strong></span></td>
-</tr>
-			<tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MS MASSWERA WAHYUNE</span></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Desktop Engineer</strong></span></td>
-</tr>
-			<tr>
-				</tr><tr>
-			<td style="width:250px"><span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif">MR DINI FIKRI BIN UMAR</span></span></td>
-			<td style="width:250px"><span style="font-size:12px"><strong>Desktop Engineer</strong></span></td>
-</tr>
-			<tr>
-		</tr>
+	<tbody>
+  <tr>
+    <td>MDM SHIRLEY CHEAN</td>
+    <td><strong>Library Assistant</strong></td>
+  </tr>
+  <tr>
+    <td>MR CHUA YUHANG</td>
+    <td><strong>ICT Trainer</strong></td>
+  </tr>
+  <tr>
+    <td>MS MASSWERA WAHYUNE</td>
+    <td><strong>Desktop Engineer</strong></td>
+  </tr>
+  <tr>
+    <td>MR DINI FIKRI BIN UMAR</td>
+    <td><strong>Desktop Engineer</strong></td>
+  </tr>
 	</tbody>
 </table>
-<p>&nbsp;</p>
