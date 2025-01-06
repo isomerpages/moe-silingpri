@@ -23,10 +23,10 @@ variant: markdown
     font-weight: bold;
   }
   .staff-table td:first-child {
-    width: 40%;
+    width: 50%;
   }
   .staff-table td:nth-child(2) {
-    width: 60%;
+    width: 50%;
   }
 </style>
 
