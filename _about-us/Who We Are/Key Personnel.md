@@ -33,11 +33,13 @@ variant: markdown
 
 <table class="school-staff-table school-leaders-table">
   <tbody>
+		</tbody><thead>
 		<tr>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
-  <tr>
+	</thead>
+  <tbody><tr>
     <td><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</td>
     <td><strong>Principal</strong></td>
   </tr>
@@ -53,11 +55,14 @@ variant: markdown
 		
 ### 		**Year Heads**
 <table class="school-staff-table aligned-table">
-  <tbody><tr>
+  <tbody>
+		</tbody><thead>
+		<tr>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
-  <tr>
+	</thead>
+  <tbody><tr>
     <td><strong>MR SETHU RAJAGOPAL</strong><br>sethu_rajagopal@moe.edu.sg</td>
     <td><strong>Year Head P1 &amp; P2</strong></td>
   </tr>
