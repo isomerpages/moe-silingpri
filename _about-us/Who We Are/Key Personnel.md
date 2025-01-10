@@ -24,14 +24,10 @@ variant: markdown
   .aligned-table td:nth-child(2) {
     width: 50%;
   }
-  .school-leaders-table img {
-    width: 150px;
-    display: block;
-  }
 </style>
 
 
-<table class="school-staff-table school-leaders-table">
+<table class="school-staff-table aligned-table">
   <tbody>
 		</tbody><thead>
 		<tr>
