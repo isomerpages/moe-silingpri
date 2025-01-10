@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ### Principal's Message
- <img src="/images/SY5_3357___Halfbody.jpg" style="width:270px;margin-right:15px;" align="left">  
 
 **Dear Parents/Guardians**,
 
