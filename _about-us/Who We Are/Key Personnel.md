@@ -24,31 +24,26 @@ variant: markdown
   .aligned-table td:nth-child(2) {
     width: 50%;
   }
-  .school-leaders-table img {
-    width: 150px;
-    display: block;
-  }
 </style>
 
 
-<table class="school-staff-table school-leaders-table">
-  <tbody><tr>
-    <th></th>
+<table class="school-staff-table aligned-table">
+  <tbody>
+		</tbody><thead>
+		<tr>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
-  <tr>
-    <td><img alt="MR KOE EE TIONG" src="/images/SY5_3313___Headshot.jpg"></td>
+	</thead>
+  <tbody><tr>
     <td><strong>MR KOE EE TIONG</strong><br>koe_ee_tiong@moe.edu.sg</td>
     <td><strong>Principal</strong></td>
   </tr>
   <tr>
-    <td><img alt="MDM NURAZIAN BAJURI" src="/images/About%20Us/Mdm_Azian.png"></td>
     <td><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
   <tr>
-    <td><img alt="MR RAJ KUMAR" src="/images/About%20Us/Mr_Raj.png"></td>
     <td><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
@@ -56,11 +51,14 @@ variant: markdown
 		
 ### 		**Year Heads**
 <table class="school-staff-table aligned-table">
-  <tbody><tr>
+  <tbody>
+		</tbody><thead>
+		<tr>
     <th>NAME</th>
     <th>DESIGNATION</th>
   </tr>
-  <tr>
+	</thead>
+  <tbody><tr>
     <td><strong>MR SETHU RAJAGOPAL</strong><br>sethu_rajagopal@moe.edu.sg</td>
     <td><strong>Year Head P1 &amp; P2</strong></td>
   </tr>
