@@ -97,10 +97,8 @@ from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115307.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115412.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115414.png">
 </div>
-<p><strong>Primary 6</strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115506.png">
