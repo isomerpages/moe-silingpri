@@ -30,8 +30,8 @@ variant: markdown
     <tr>
       <td>3 Solidarity</td>
       <td>
-        MRS LOO CHWAN ING<br>
-        loo_chwan_ing@moe.edu.sg
+        MS JAZMINE KONG<br>
+        jazmine_kong_kit_min_a@moe.edu.sg
       </td>
       <td>
         MDM MUMTAJ BEHOM<br>
