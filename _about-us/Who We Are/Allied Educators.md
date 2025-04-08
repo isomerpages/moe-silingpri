@@ -48,13 +48,6 @@ third_nav_title: Who We Are
   </tr>
   <tr>
     <td>
-      MR MUHAMMAD HILMI<br>
-      muhammad_hilmi_abu_bakar@moe.edu.sg
-    </td>
-    <td><strong>Special Education Needs Officer</strong></td>
-  </tr>
-  <tr>
-    <td>
       MDM WOON BEE ENG<br>
       woon_bee_eng@moe.edu.sg
     </td>
