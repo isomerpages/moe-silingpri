@@ -41,8 +41,8 @@ third_nav_title: Who We Are
   </tr>
   <tr>
     <td>
-      MR CHAN HO FONG<br>
-      chan_ho_fong@moe.edu.sg
+      MDM JUNAINAH BINTE SADAR<br>
+      junainah_sadar@moe.edu.sg
     </td>
     <td><strong>Senior Special Education Needs Officer</strong></td>
   </tr>
