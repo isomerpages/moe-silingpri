@@ -23,7 +23,10 @@ Choir members also perform and showcase what they have learn on various platform
 
 Through these activities, our members build self-confidence, learn about commitment and teamwork, and foster strong relationships with their choir-mates and teachers-in-charge.&nbsp;Woodgrove National Day Celebration Dinner&nbsp;
 
-  
+**Achievements:**  
+
+* Participated in Singapore Arts Festival "Busk It" 2023
+* Woodgrove CC National Day Dinner 2023
 
 **Teachers-In-Charge:**&nbsp;     Mrs Tham-Chin Mei Ling, Mdm Faradilah Bte Mohd Yaakop, Mr Keith Kok Shan Hwee
 
@@ -46,7 +49,7 @@ In the process of practicing and performing together, our pupils also learn the 
 *   School’s National Day Celebration 2019
 *   School’s Recognition Day 2019
 
-**Teachers-In-Charge:**&nbsp;Ms Chong Leng Cher, Mdm Sathasivan Ruthra,&nbsp;Ms Lee Mei Cheng
+**Teachers-In-Charge:** Ms Lee Mei Cheng, Mdm Norashikin Bte Mohamed Said, Ms Jazmine Kong Kit Min
 
 #### Guitar Ensemble
 
@@ -56,4 +59,4 @@ The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
-**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo, Mr Muhammad Amir Samuel
+**Teachers-In-Charge:** Ms Chong Leng Cher, Mr Johan Bin Ridwan Loo
