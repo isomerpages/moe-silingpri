@@ -67,4 +67,7 @@ Mdm Katijah Beevi D/O Auwlia M, Hazline Binte Buang, Ms Chong Wen Shan Rosamund,
 
 We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.
 
+**Achievements:** 21st Elementz Science Competition
+* Certificate of Commedation for Primary 4 Students
+
 **Teachers-in-charge:**&nbsp; Ms Anita D/O Selvam, Mdm Jayaraman Chitra, Ms Lin Yuping, Mdm Quah Yee Wen
