@@ -19,7 +19,13 @@ variant: markdown
 *   provide students with platform and opportunities to showcase talents and become confident speakers of their work of Art (Exposure)
 *   provide opportunities for students to participate in competitions (Excellence)
 
-**Teachers-in-charge:**&nbsp; Mdm Fadlinah Binte Saban, Ms Nadyah Binte Azman, Ms Chong Wen Shan Rosamund 
+**Achievement:**    PARTICIPATED IN SYF ART EXHIBITION 2024
+
+*   Certificate of participation for Category B (P3-P4)
+*   Certificate of Participation &amp; Recognition (and framed display at SYF Exhibition) for Category C (P5-P6)
+
+**Teachers-in-charge:**
+Ms Nadyah Binte Azman, Mdm Noor Aisya Binte Buang, Phee Min En Quesheth
 
 ### Brownies
 
