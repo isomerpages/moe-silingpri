@@ -36,7 +36,13 @@ Ms Nadyah Binte Azman, Mdm Noor Aisya Binte Buang, Phee Min En Quesheth
 *   We learn new skills
 *   We join competitions
 
-**Teachers-in-charge:**&nbsp;Ruth Yaap Yong Siew&nbsp;, Josephine Loh
+**Achievements:**
+
+* Attained Third Place for North Division Games (World Thinking Day 2023)
+* Wide Game Plogathon with Goosechase application Theme: Our World, Our Peaceful Future
+
+**Teachers-in-charge:**
+Ms Siti Nur Atiqa bte Zahrin, Josephine Loh
 
 ### Infocomm Club
 
