@@ -71,5 +71,5 @@ We aim to inspire joy in the learning of science through experimentation and exp
 * Certificate of Commedation for Primary 4 Students
 * Bronze Award for  Primary 5 and Primary 6 students
 
-
-**Teachers-in-charge:**&nbsp; Ms Anita D/O Selvam, Mdm Jayaraman Chitra, Ms Lin Yuping, Mdm Quah Yee Wen
+**Teachers-in-charge:**
+Mdm Quah Yee Wen, Ms Anita D/O Selvam, Mdm Jayaraman Chitr, Mdm Chee Lily
