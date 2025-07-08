@@ -69,6 +69,7 @@ We aim to inspire joy in the learning of science through experimentation and exp
 
 **Achievements:** 21st Elementz Science Competition
 * Certificate of Commedation for Primary 4 Students
-* 
+* Bronze Award for  Primary 5 and Primary 6 students
+
 
 **Teachers-in-charge:**&nbsp; Ms Anita D/O Selvam, Mdm Jayaraman Chitra, Ms Lin Yuping, Mdm Quah Yee Wen
