@@ -25,7 +25,7 @@ Through these activities, our members build self-confidence, learn about commitm
 
   
 
-**Teachers-In-Charge:**&nbsp;     Ms Aw Jie Shi, Mdm Tan Boon Fong Sharon Grace, Ms Nurul Anisah Bte Rizal
+**Teachers-In-Charge:**&nbsp;     Mrs Tham-Chin Mei Ling, Mdm Faradilah Bte Mohd Yaakop, Mr Keith Kok Shan Hwee
 
 #### Dance Club
 
@@ -56,4 +56,4 @@ The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
-**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo, Mr Muhammad Amir Samuel 
+**Teachers-In-Charge:**&nbsp;Cher Wei Shan, Tham-Chin Mei Ling, Johan Bin Ridwan Loo, Mr Muhammad Amir Samuel
