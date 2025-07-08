@@ -58,7 +58,8 @@ Ms Siti Nur Atiqa bte Zahrin, Josephine Loh
 *   Singapore Youth Festival (SYF) 2019 Exhibition
  
 
-**Teachers-in-charge:**&nbsp;Mdm Hazline Buang, Mdm Chee Lily, Mdm Shanom Farsa Binte Sarsy
+**Teachers-in-charge:**
+Mdm Katijah Beevi D/O Auwlia M, Hazline Binte Buang, Ms Chong Wen Shan Rosamund, Mr Chua Yuhang
 
 ### SciEinsteins Club
 
