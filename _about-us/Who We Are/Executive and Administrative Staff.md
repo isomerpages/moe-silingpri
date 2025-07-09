@@ -38,7 +38,12 @@ variant: markdown
     <th>DESIGNATION</th>
   </tr>
 	</thead>
-  <tbody><tr>
+  <tbody>
+		<tr>
+    <td>MS VERONICA YAT</td>
+    <td><strong>Administration Manager</strong></td>
+  </tr>
+		<tr>
     <td>MS MICHELLE TAN SIYING</td>
     <td><strong>Administration Manager</strong></td>
   </tr>
