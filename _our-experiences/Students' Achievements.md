@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="452" width="617" src="https://lh7-us.googleusercontent.com/GJSURYrUeRIQmEMUym9HXortvKiIceh3m0Ld5HZvrcqm9hpsufDf04YAtTw3t8oQ71GxsNAjkI4PJ2XBe78o-1VEpncRZW7a30z_NTbW3k_FofmesyBAaQWXQtwlaV_b-a5PgvWcsZ4BMtR2vb1J7w">
-</div>
 <p>At Si Ling Primary School, we are committed to providing high-quality,
 engaged learning for our students. We employ school-wide pedagogy and customizable
 common resources to ensure a high baseline for effective teaching and learning.
