@@ -29,3 +29,9 @@ third_nav_title: Our Alumni Our Pride
 **Current School: Anderson Secondary School**
 
 <img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/Lua_Si_Tong.png">"My time in Si Ling Primary School has been filled with deep gratitude and joy. From fun recess memories and performing with the Guitar Ensemble, to earning the role of Assistant Head Prefect, my years in Si Ling were filled with growth, laughter, and learning. The school gave me meaningful opportunities like the SwimSafer programme and P5 camp and encouraged me to step out of my comfort zone and gain confidence. Most importantly, my teachers—each in their own way—supported, inspired, and believed in me, helping me build resilience and character. All these experiences that the school provided me has shaped me to who I am today. Si Ling will always hold a special place in my heart, and I hope current students treasure every moment just like I do."
+
+##### Wilding Rafi Amari
+
+**Current School: Anglo-Chinese School (Barker Road)**
+
+<img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/WILDING_RAFI_AMARI.png">"SLPS has provided me a truly memorable educational student experience, especially through my role as CCA Leader in the Football Club, where I not only improved my skills on the field but also built strong friendships. The school provided a supportive environment and unique teaching approaches that helped me grow both academically and personally. With the encouragement of dedicated teachers—particularly in Math and Science—I was able to do well in PSLE and pursue my dream of becoming a footballer, inspired by my experience in the National School Games. From fun times during the P6 Chillax to meaningful classroom moments, SLPS gave me the confidence, values, and direction I carry with me today."
