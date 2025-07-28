@@ -30,15 +30,18 @@ variant: markdown
     <tr>
       <td>3 Solidarity</td>
       <td>
+				MDM MUMTAJ BEHOM<br>
+        <strong>Tamil Coordinator</strong><br>
+        mumtaj_behom@moe.edu.sg
+      </td>
+      <td>
         MS JAZMINE KONG<br>
         jazmine_kong_kit_min_a@moe.edu.sg
       </td>
       <td>
-        MDM MUMTAJ BEHOM<br>
-        <strong>Tamil Coordinator</strong><br>
-        mumtaj_behom@moe.edu.sg
-      </td>
-      <td></td>
+				Ms MARIE TEO KAH ZHI<br>
+				marie_teo_kah_zhi@moe.edu.sg
+			</td>
     </tr>
     <tr>
       <td>3 Perseverance</td>

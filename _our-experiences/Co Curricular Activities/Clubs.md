@@ -19,7 +19,13 @@ variant: markdown
 *   provide students with platform and opportunities to showcase talents and become confident speakers of their work of Art (Exposure)
 *   provide opportunities for students to participate in competitions (Excellence)
 
-**Teachers-in-charge:**&nbsp; Mdm Fadlinah Binte Saban, Ms Nadyah Binte Azman, Ms Chong Wen Shan Rosamund 
+**Achievement:**    PARTICIPATED IN SYF ART EXHIBITION 2024
+
+*   Certificate of participation for Category B (P3-P4)
+*   Certificate of Participation &amp; Recognition (and framed display at SYF Exhibition) for Category C (P5-P6)
+
+**Teachers-in-charge:**
+Ms Nadyah Binte Azman, Mdm Noor Aisya Binte Buang, Phee Min En Quesheth
 
 ### Brownies
 
@@ -30,7 +36,13 @@ variant: markdown
 *   We learn new skills
 *   We join competitions
 
-**Teachers-in-charge:**&nbsp;Ruth Yaap Yong Siew&nbsp;, Josephine Loh
+**Achievements:**
+
+* Attained Third Place for North Division Games (World Thinking Day 2023)
+* Wide Game Plogathon with Goosechase application Theme: Our World, Our Peaceful Future
+
+**Teachers-in-charge:**
+Ms Siti Nur Atiqa bte Zahrin, Josephine Loh
 
 ### Infocomm Club
 
@@ -46,12 +58,18 @@ variant: markdown
 *   Singapore Youth Festival (SYF) 2019 Exhibition
  
 
-**Teachers-in-charge:**&nbsp;Mdm Hazline Buang, Mdm Chee Lily, Mdm Shanom Farsa Binte Sarsy
+**Teachers-in-charge:**
+Mdm Katijah Beevi D/O Auwlia M, Hazline Binte Buang, Ms Chong Wen Shan Rosamund, Mr Chua Yuhang
 
 ### SciEinsteins Club
 
 <img src="/images/Scieinsteins.png" style="width:400px;margin-right:-15px;margin-left:-44px" align="left"> 
 
-We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.&nbsp;
+We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.
 
-**Teachers-in-charge:**&nbsp; Ms Anita D/O Selvam, Mdm Jayaraman Chitra, Ms Lin Yuping, Mdm Quah Yee Wen
+**Achievements:** 21st Elementz Science Competition
+* Certificate of Commendation for Primary 4 students
+* Bronze Award for  Primary 5 and Primary 6 students
+
+**Teachers-in-charge:**
+Mdm Quah Yee Wen, Ms Anita D/O Selvam, Mdm Jayaraman Chitr, Mdm Chee Lily
