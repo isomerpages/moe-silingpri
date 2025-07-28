@@ -5,54 +5,27 @@ variant: markdown
 description: ""
 third_nav_title: Our Alumni Our Pride
 ---
-<h3>2024 Graduates</h3>
-<blockquote>
-<p>Raahat Shaikh Mohammad
-<br>
-</p>
-</blockquote>
-<p><strong>Current School: </strong>SWISS COTTAGE SECONDARY SCHOOL</p>
-<p>&lt;img src="/images/partners/Raahat.png"</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/2024 Graduates/Raahat.png">
-</div>
-<p>style="width:200px;margin-right:15px" align="left"&gt;</p>
-<p>"Si Ling Primary provided ample opportunities for self-expression and
-growth, including participation in prestigious events such as the SYF competition
-and Math Olympiad.</p>
-<p>Winning the Silver award in the APMOS Math Olympiad was a defining moment
-that fueled my interest in mathematics and sparked aspirations for a related
-career path. &amp;nbsp; School Leaders and Form Teachers fostered camaraderie
-during class bonding sessions, undoubtedly created many long lasting memories.</p>
-<p>##### Nur Aqidah Damia binte Asha'ari</p>
-<p><strong>Current School: &amp;nbsp;Woodgrove Secondary School</strong>
-</p>
-<p>&lt;img src="/images/Nur_Aqidah.png" style="width:200px;margin-right:15px"
-align="left"&gt;</p>
-<p>"I had put a lot of hard work into my studies and CCA and my efforts paid
-off! It made me feel so proud to go on stage during award ceremonies and
-see the beaming faces of my parents' and teachers', all filled with pride.</p>
-<p>Si Ling Primary provided a platform for holistic development, offering
-initiatives such as the Young Entrepreneur program and visits to the elderly,
-which broadened my perspective and nurtured empathy and compassion."</p>
-<p>##### Anne Ujjwal Chowdary</p>
-<p><strong>Current School: &amp;nbsp;Victoria School</strong>
-</p>
-<p>&lt;img src="/images/Anne_Ujjwal.png" style="width:200px;margin-right:15px"
-align="left"&gt;"Si Ling Primary not only offered academic opportunities
-but also encouraged personal growth. I cherished the chances to explore
-diverse interests, seek assistance from teachers, and utilize the accessible
-school library for both research and leisure reading.</p>
-<p>Among the many treasured memories, my P5 camp stands out as a time of
-friendship and discovery, where I formed lasting bonds with classmates.</p>
-<p>"</p>
-<p>##### Maria Dabus Davinsa Danggus</p>
-<p><strong>Current School: &amp;nbsp;Marsiling Secondary School</strong>
-</p>
-<p>&lt;img src="/images/Maria.png" style="width:200px;margin-right:15px"
-align="left"&gt;" The encouragement and mentorship provided by my teachers
-were instrumental in nurturing my confidence and empowering me to reach
-my full potential. Si Ling Primary School is more than just an educational
-institution—it is a nurturing community where every individual is valued
-and supported.</p>
-<p>"</p>
+### 2024 Graduates
+
+##### Raahat Shaikh Mohammad
+**Current School: Swiss Cottage Secondary School**
+
+<img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/Raahat.png"> "My time at Si Ling Primary School (SLPS) was a truly transformative journey that shaped me from a curious student into a confident and compassionate leader. With the unwavering support of my dedicated teachers, countless leadership opportunities, and the strong friendships I built, I developed important life skills like communication, teamwork, and perseverance. From serving as Head Prefect and chairing the Infocomm Club to emceeing major school events, each experience helped shape my character and sparked a deep passion for teaching. Looking back, I am deeply grateful for the nurturing environment at SLPS, which empowered me to grow, overcome challenges, and pursue excellence with resilience and purpose."
+
+##### Chai Xin Lyn
+
+**Current School: Chij St. Nicholas Girls' School - Integrated Programme**
+
+<img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/Chai_Xin_Lyn.jpg">"As a proud alumna of Si Ling Primary School, my time there was a deeply enriching and memorable journey. The caring teachers, nurturing environment, and wide range of opportunities helped shape me into who I am today. Through CCAs, school events, competitions, and leadership roles, I gained important life skills such as teamwork, discipline, and perseverance, while also forming lasting friendships that I still cherish. Whether it was bonding at camp, performing in a storytelling competition, or enjoying Post-PSLE activities, every experience taught me valuable lessons and left me with unforgettable memories. Si Ling Primary truly laid a strong foundation for my future, and I’m grateful for all the support and encouragement I received from the school community."
+
+##### Chen Mofan
+
+**Current School: Hwa Chong Institution**
+
+<img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/Chen_Mofan.png">"As I look back on my time at Si Ling Primary School with deep appreciation and fondness. SLPS was more than just a place of learning—it was where I made lasting friendships, gained confidence, and received unwavering support from my teachers. They not only helped me grow academically but also instilled in me important values that shaped who I am today. I’m proud of achievements like winning the Spelling Bee and achieving Gold Award in the SASMO Math Olympiad, which were made possible through the school’s many enriching opportunities and fun events. Above all, it was the encouragement and dedication of my teachers that inspired me to keep pushing forward. I will always treasure my time at SLPS—it truly lays the foundation for my future."
+
+##### Lua Si Tong 
+
+**Current School: Anderson Secondary School**
+
+<img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/Lua_Si_Tong.png">"My time in Si Ling Primary School has been filled with deep gratitude and joy. From fun recess memories and performing with the Guitar Ensemble, to earning the role of Assistant Head Prefect, my years in Si Ling were filled with growth, laughter, and learning. The school gave me meaningful opportunities like the SwimSafer programme and P5 camp and encouraged me to step out of my comfort zone and gain confidence. Most importantly, my teachers—each in their own way—supported, inspired, and believed in me, helping me build resilience and character. All these experiences that the school provided me has shaped me to who I am today. Si Ling will always hold a special place in my heart, and I hope current students treasure every moment just like I do."
