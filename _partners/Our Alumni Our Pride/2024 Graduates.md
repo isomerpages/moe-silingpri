@@ -60,12 +60,6 @@ third_nav_title: Our Alumni Our Pride
 
 <img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/SHARIFAH_ELLY_NADYA_BINTE_SYED_ZULKIFLEE.png">"My experience at Si Ling Primary School was amazing. I made beautiful friendships with my classmates and my kind-hearted teachers. My proudest moment was when I received my PSLE. I did not expect that I would have done well. This was only made possible with my patient and wonderful teachers. Si Ling Primary gave me the opportunity to demonstrate my leadership qualities by being a Prefect since Primary 3. The dedication and passion my teachers have shown me has sparked my interest in being a teacher when I grow up. They have inspired me to be the best that I can be."
 
-##### Hoe Yi Rou
-
-**Current School: Nan Hua High School**
-
-"Looking back, I’m deeply grateful for my enriching journey at SLPS. From being a part of the Basketball Girls team and serving as a prefect, to discovering my love for creative writing through a National Writing Competition, I was given many meaningful opportunities to grow. The school’s nurturing environment and caring teachers who supported me during a tough start in Primary 6—played a big part in building my confidence and shaping who I am today. Whether it was representing the school at the National School Games or enjoying Post-PSLE trips and activities with my classmates, every experience helped me develop valuable life skills and lasting friendships. Si Ling Primary gave me a strong foundation—not just in academics, but also in character and personal growth—and I’ll always be thankful for that."
-
 ##### Ramkumar Jaswant
 
 **Current School: Riverside Secondary School**
@@ -77,3 +71,9 @@ third_nav_title: Our Alumni Our Pride
 **Current School: Crescent Girls' School**
 
 <img align="left" style="width:200px;margin-right:15px" src="/images/Partners/2024%20Graduates/KARTHIK_SRINIDHI.png">"I reflect fondly on my time at SLPS where I was part of 6 Perseverance, participated in International Dance, and served as both prefect and CCA leader. My proudest achievement was when I did very well in PSLE, a testament to my perseverance during a challenging year. I cherish the lasting friendships formed at Si Ling, the leadership opportunities, and participation in Math Olympiads which ignited my passion for Mathematics. I particularly treasure memories of Primary 5 Camp and Post-PSLE activities, while expressing deep gratitude for teachers whose guidance and encouragement—including consultation periods during recess or after class—significantly impacted my development and set me on a path to success. "
+
+##### Hoe Yi Rou
+
+**Current School: Nan Hua High School**
+
+"Looking back, I’m deeply grateful for my enriching journey at SLPS. From being a part of the Basketball Girls team and serving as a prefect, to discovering my love for creative writing through a National Writing Competition, I was given many meaningful opportunities to grow. The school’s nurturing environment and caring teachers who supported me during a tough start in Primary 6—played a big part in building my confidence and shaping who I am today. Whether it was representing the school at the National School Games or enjoying Post-PSLE trips and activities with my classmates, every experience helped me develop valuable life skills and lasting friendships. Si Ling Primary gave me a strong foundation—not just in academics, but also in character and personal growth—and I’ll always be thankful for that."
