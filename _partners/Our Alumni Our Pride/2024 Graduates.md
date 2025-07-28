@@ -5,12 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Our Alumni Our Pride
 ---
-<p>### 2023 Graduates</p>
-<p>##### Gan Jin</p>
-<p><strong>Current School: &amp;nbsp;Hwa Chong Institution</strong>
+<h3>2024 Graduates</h3>
+<blockquote>
+<p>Raahat Shaikh Mohammad
+<br>
 </p>
-<p>&lt;img src="/images/Gan_Jin.png" style="width:200px;margin-right:15px"
-align="left"&gt;</p>
+</blockquote>
+<p><strong>Current School: </strong>SWISS COTTAGE SECONDARY SCHOOL</p>
+<p>&lt;img src="/images/partners/Raahat.png"</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/2024 Graduates/Raahat.png">
+</div>
+<p>style="width:200px;margin-right:15px" align="left"&gt;</p>
 <p>"Si Ling Primary provided ample opportunities for self-expression and
 growth, including participation in prestigious events such as the SYF competition
 and Math Olympiad.</p>
