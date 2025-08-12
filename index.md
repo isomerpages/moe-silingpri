@@ -22,6 +22,16 @@ sections:
           description: Contact Us
           url: /contact-us/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 12 August 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
