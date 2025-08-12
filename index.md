@@ -25,9 +25,8 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
+        - title: New AnnouncementEdusave Character Award 2025
           date: 12 August 2025
           announcement: Announcement content
           link_text: ""
