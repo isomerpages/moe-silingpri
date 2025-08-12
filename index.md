@@ -26,9 +26,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: New AnnouncementEdusave Character Award 2025
+        - title: Edusave Character Award 2025
           date: 12 August 2025
-          announcement: Announcement content
+          announcement: Please click on the link below to find out more
           link_text: ""
           link_url: ""
   - infopic:
