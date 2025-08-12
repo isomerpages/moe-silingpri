@@ -22,6 +22,15 @@ sections:
           description: Contact Us
           url: /contact-us/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Edusave Character Award 2025
+          date: 12 August 2025
+          announcement: For more details, click the link below
+          link_text: Click here
+          link_url: /all-levels/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
