@@ -28,9 +28,9 @@ sections:
       announcement_items:
         - title: Edusave Character Award 2025
           date: 12 August 2025
-          announcement: Please click on the link below to find out more
-          link_text: ""
-          link_url: ""
+          announcement: For more details, click the link below
+          link_text: Click here
+          link_url: /for-all-level/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
