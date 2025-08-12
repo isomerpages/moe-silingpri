@@ -30,7 +30,7 @@ sections:
           date: 12 August 2025
           announcement: For more details, click the link below
           link_text: Click here
-          link_url: /for-all-level/
+          link_url: /all-levels/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
