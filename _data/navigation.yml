@@ -99,4 +99,9 @@ links:
       - title: Our Alumni Our Pride
         url: /partners/our-alumni-our-pride/overview/
   - title: Join Us
-    url: /canteen-stall-vendor-application/
+    url: /permalink
+    sublinks:
+      - title: Be a Canteen Stall Vendor
+        url: /canteen-stall-vendor-application/
+      - title: Join us as an Alumni
+        url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
