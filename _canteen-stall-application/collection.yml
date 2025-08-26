@@ -1,0 +1,4 @@
+collections:
+  canteen-stall-application:
+    output: true
+    order: []
