@@ -1,4 +1,5 @@
 collections:
   canteen-stall-application:
     output: true
-    order: []
+    order:
+      - Canteen Stall Application.md
