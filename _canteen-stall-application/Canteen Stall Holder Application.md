@@ -37,7 +37,7 @@ We are currently accepting applications for the following cuisine types:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Others (Halal or Non-Halal, open to proposal)</p>
+<p>Others (Non-Halal, open to proposal)</p>
 </li>
 </ul>
 </td>
