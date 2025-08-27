@@ -64,10 +64,6 @@ variant: markdown
     <td><strong>Corporate Support Officer</strong></td>
   </tr>
   <tr>
-    <td>MDM SITI SARAH BINTE MOHD JAMIL</td>
-    <td><strong>Corporate Support Officer</strong></td>
-  </tr>
-  <tr>
     <td>MS FARHANA ISMAIL</td>
     <td><strong>Corporate Support Officer</strong></td>
   </tr>
