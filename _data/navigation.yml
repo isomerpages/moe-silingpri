@@ -101,9 +101,9 @@ links:
   - title: Join Us
     url: /canteen-stall-vendor-application/
     sublinks:
-      - title: Be a Canteen Stall Vendor
-        url: /canteen-stall-vendor-application/
-      - title: Join us as an Alumni
-        url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
       - title: Get In Touch
         url: /contact-us/
+      - title: Join us as an Alumni
+        url: https://docs.google.com/forms/d/e/1FAIpQLSeL5_A3Yz3mLm2nzaSzjzef-vx1b0bn_hs8i8CMZVKPoPrsNA/viewform
+      - title: Be a Canteen Stall Vendor
+        url: /canteen-stall-vendor-application/
