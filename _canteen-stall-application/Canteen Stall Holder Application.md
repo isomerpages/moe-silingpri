@@ -29,7 +29,7 @@ We are currently accepting applications for the following cuisine types:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Asian Cuisine (Non-Halal)</p>
+<p>Asian Cuisine (Halal or Non-Halal)</p>
 </li>
 </ul>
 <p></p>
@@ -37,7 +37,7 @@ We are currently accepting applications for the following cuisine types:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Others (Non-Halal, open to proposal)</p>
+<p>Others (Halal or Non-Halal, open to proposal)</p>
 </li>
 </ul>
 </td>
