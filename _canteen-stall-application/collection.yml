@@ -2,4 +2,4 @@ collections:
   canteen-stall-application:
     output: true
     order:
-      - Canteen Stall Vendor Application.md
+      - Canteen Stall Holder Application.md
