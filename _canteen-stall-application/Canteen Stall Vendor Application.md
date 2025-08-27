@@ -4,8 +4,9 @@ permalink: /canteen-stall-vendor-application/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>Recruitment of New Canteen Stall Holder</u></strong></h3>
-<p>We are looking for new canteen stall holders to open the following:</p>
+<h3><strong><u>Canteen Stall Opportunities</u></strong></h3>
+<p>We are looking for passionate food vendors to join our school's canteen.
+We are currently accepting applications for the following cuisine types:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
