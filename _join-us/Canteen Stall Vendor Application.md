@@ -69,7 +69,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the Application Form (click <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>). You
-may also request a hard copy from the School’s General TOffice.</p>
+may also request a hard copy from the School’s General Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
@@ -161,11 +161,11 @@ environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must posses the Food Safety
+<p>Successful applicant and stall assistant(s) must possess the Food Safety
 Course Level 1 conducted by SkillsFuture Singapore approved training providers.</p>
 </li>
 <li>
-<p>Succesful applicant is required to apply for a food stall license from
+<p>Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
