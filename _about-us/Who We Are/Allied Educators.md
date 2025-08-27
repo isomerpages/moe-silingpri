@@ -32,7 +32,7 @@ third_nav_title: Who We Are
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IRIS TAN TECK MEIN
+<p>MS IRIS TAN TECK MEIN
 <br>iris_tan_teck_mein@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
