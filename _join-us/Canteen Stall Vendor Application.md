@@ -140,8 +140,8 @@ will be determined in consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines.</p>
+set by the Health Promotion Board (HPB) under the "<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">Healthy Meals in Schools Programme (HMSP)</a>"
+guidelines.</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
