@@ -68,8 +68,8 @@ description: ""
 <h4><strong><u>Application Procedure</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click here). You may also
-request a hard copy from the School’s General TOffice.</p>
+<p>Download and complete the Application Form (click <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>). You
+may also request a hard copy from the School’s General TOffice.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
