@@ -32,6 +32,16 @@ third_nav_title: Who We Are
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>IRIS TAN TECK MEIN
+<br>iris_tan_teck_mein@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MISS NUR KHAIRIAH SAIFUL JOHAN
 <br>nur_khairiah_saiful_johan@moe.edu.sg</p>
 </td>
