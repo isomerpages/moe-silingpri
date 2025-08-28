@@ -40,10 +40,6 @@ variant: markdown
 	</thead>
   <tbody>
 		<tr>
-    <td>MS VERONICA YAT</td>
-    <td><strong>Administration Manager</strong></td>
-  </tr>
-		<tr>
     <td>MS MICHELLE TAN SIYING</td>
     <td><strong>Administration Manager</strong></td>
   </tr>
@@ -61,10 +57,6 @@ variant: markdown
   </tr>
   <tr>
     <td>MDM TAN AI LING</td>
-    <td><strong>Corporate Support Officer</strong></td>
-  </tr>
-  <tr>
-    <td>MDM SITI SARAH BINTE MOHD JAMIL</td>
     <td><strong>Corporate Support Officer</strong></td>
   </tr>
   <tr>
