@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Connect With Us/.keep
       - Canteen Stall Holder Application.md
       - Staff Recognition.md
       - Principal's Message.md
