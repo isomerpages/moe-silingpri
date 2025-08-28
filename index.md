@@ -26,11 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Edusave Character Award 2025
-          date: 12 August 2025
-          announcement: Deadline for submission is over.
-          link_text: ""
-          link_url: ""
+        - title: Canteen Stall Opportunities
+          date: 28 August 2025
+          announcement: Intereseted to find out more, click on link below
+          link_text: More information
+          link_url: /about-us/connect-with-us/canteen-stall-holder-application/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
