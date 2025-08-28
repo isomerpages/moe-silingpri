@@ -1,72 +1,19 @@
 ---
 title: Canteen Stall Holder Application
 permalink: /canteen-stall-holder-application/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Connect With Us
 ---
 <h3><strong><u>Canteen Stall Opportunities</u></strong></h3>
 <p>We are looking for passionate food vendors to join our school's canteen.
 We are currently accepting applications for the following cuisine types:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Asian Cuisine (Halal or Non-Halal)</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_143609.png">
+</div>
 <p></p>
-<p>OR</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Others (Non-Halal, open to proposal)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Japanese / Korean Rice and Noodles</p>
-</li>
-</ul>
-<p></p>
-<p>OR</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chicken or duck rice and noodles (roasted and/or</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p>24 October 2025</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
+<h4></h4>
 <h4><strong><u>Application Procedure</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
