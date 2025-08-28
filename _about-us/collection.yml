@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Connect with Us.md
       - Staff Recognition.md
       - Principal's Message.md
       - Our School/.keep
