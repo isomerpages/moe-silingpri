@@ -28,7 +28,7 @@ sections:
       announcement_items:
         - title: Canteen Stall Opportunities
           date: 28 August 2025
-          announcement: Intereseted to find out more, click on link below
+          announcement: "Interested to find out more? Click below:"
           link_text: More information
           link_url: /about-us/connect-with-us/canteen-stall-holder-application/
   - infopic:
