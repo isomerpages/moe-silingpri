@@ -109,7 +109,7 @@ variant: markdown
     <td><strong>ICT Manager</strong></td>
   </tr>
 	<tr>
-    <td>MS NUR ZULIYANA MOHANMED ROHAIDZAT</td>
+    <td>MS NUR ZULIYANA BINTE MOHAMED ROHAIDZAT</td>
     <td><strong>ICT Associate</strong></td>
   </tr>
 </tbody></table>

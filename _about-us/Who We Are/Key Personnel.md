@@ -145,10 +145,6 @@ variant: markdown
     <td><strong>SH Malay Language</strong></td>
   </tr>
   <tr>
-    <td><strong>MDM TERRENZ HUANG</strong><br>huang_yihui_terrenz@moe.edu.sg</td>
-    <td><strong>SH ICT</strong></td>
-  </tr>
-  <tr>
     <td><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</td>
     <td><strong>SH Science</strong></td>
   </tr>
