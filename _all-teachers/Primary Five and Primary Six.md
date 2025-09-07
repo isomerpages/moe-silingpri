@@ -98,11 +98,6 @@ variant: markdown
     <tr>
       <td>6 Perseverance</td>
       <td>
-        MDM HUANG YIHUI TERRENZ<br>
-        <strong>SH ICT</strong><br>
-        huang_yihui_terrenz@moe.edu.sg
-      </td>
-      <td>
         MDM LIN YUPING<br>
         lin_yuping@moe.edu.sg
       </td>
