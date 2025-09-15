@@ -35,7 +35,7 @@ variant: markdown
     <td><strong>ICT Trainer</strong></td>
   </tr>
   <tr>
-    <td>MS MASSWERA WAHYUNE</td>
+    <td>MISS MASSWERA WAHYUNE</td>
     <td><strong>Desktop Engineer</strong></td>
   </tr>
   <tr>
