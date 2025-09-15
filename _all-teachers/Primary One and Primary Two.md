@@ -42,7 +42,7 @@ variant: markdown
     <tr>
       <td>1 Perseverance</td>
       <td>
-        MS ANITA D/O SELVAM<br>
+        MISS ANITA D/O SELVAM<br>
         <strong>SH Science</strong><br>
         anita_doselvam@moe.edu.sg
       </td>
@@ -55,7 +55,7 @@ variant: markdown
     <tr>
       <td>1 Innovation</td>
       <td>
-        MISS JULIANA LIM<br>
+        MS JULIANA LIM<br>
         lim_ching_yen_juliana@moe.edu.sg
       </td>
       <td>
@@ -78,7 +78,7 @@ variant: markdown
     <tr>
       <td>2 Solidarity</td>
       <td>
-        MS HAFIZAH BINTE MAHMUD<br>
+        MDM HAFIZAH BINTE MAHMUD<br>
         hafizah_mahmud@moe.edu.sg
       </td>
       <td>
@@ -100,7 +100,7 @@ variant: markdown
         <tr>
           <td>2 Innovation</td>
           <td>
-            MS SITI NUR ATIQA BTE ZAHRIN<br>
+            MDM SITI NUR ATIQA BTE ZAHRIN<br>
             siti_nur_atiqa_zahrin@moe.edu.sg
           </td>
               <td>
