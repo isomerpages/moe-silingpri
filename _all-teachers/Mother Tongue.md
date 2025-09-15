@@ -32,7 +32,7 @@ variant: markdown
     <th>Teachers</th>
     <th>Email</th>
   </tr>
-  <tr><td>MISS CECILIA ONG</td><td>ong_soo_hoon_cecilia@moe.edu.sg</td></tr>
+  <tr><td>MS CECILIA ONG</td><td>ong_soo_hoon_cecilia@moe.edu.sg</td></tr>
   <tr><td>MDM LIN YUPING</td><td>lin_yuping@moe.edu.sg</td></tr>
   <tr><td>MISS LEE MEI CHENG</td><td>lee_mei_cheng@moe.edu.sg</td></tr>
   <tr><td>MISS YU SHEAU HUEY</td><td>yu_sheau_huey@moe.edu.sg</td></tr>
