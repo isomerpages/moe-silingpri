@@ -28,9 +28,9 @@ sections:
       announcement_items:
         - title: Caring Teacher Awards (CTA) 2026
           date: 15 September 2025
-          announcement: "Help us celebrate our dedicated teachers. Nominate a deserving
-            educator today! Click below to find out more:"
-          link_text: Nominate Now
+          announcement: "Help us celebrate our dedicated teachers by nominating them for
+            CTA today!  Click below:"
+          link_text: More information
           link_url: /caring-teacher-awards-cta-2026/
         - title: Canteen Stall Opportunities
           date: 28 August 2025
