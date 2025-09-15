@@ -52,7 +52,7 @@ variant: markdown
   <tr><td>MDM NURASHIKIN M SHARIFF</td><td>nurashikin_mohamed_sharif@moe.edu.sg</td></tr>
   <tr><td>MDM SHANOM FARSA BINTE SARRY</td><td>shanom_farsa_sarry@moe.edu.sg</td></tr>
   <tr><td>MDM FARADILAH BTE MOHD YAAKOP</td><td>faradilah_mohd_yaakop@moe.edu.sg</td></tr>
-  <tr><td>MDM NOOR AISYA</td><td>noor_aisya_buang@moe.edu.sg</td></tr>
+  <tr><td>MDM NOOR AISYA BINTE BUANG</td><td>noor_aisya_buang@moe.edu.sg</td></tr>
   <tr><td>MDM SITI NUR ATIQA BINTE ZAHRIN</td><td>siti_nur_atiqa_zahrin@moe.edu.sg</td></tr>
 </tbody></table>
 
