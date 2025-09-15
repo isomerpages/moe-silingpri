@@ -49,7 +49,7 @@ In the process of practicing and performing together, our pupils also learn the 
 *   School’s National Day Celebration 2019
 *   School’s Recognition Day 2019
 
-**Teachers-In-Charge:** Ms Lee Mei Cheng, Mdm Norashikin Bte Mohamed Said, Ms Jazmine Kong Kit Min
+**Teachers-In-Charge:** Ms Lee Mei Cheng, Mdm Norashikin Bte Mohamed Said, Miss Jazmine Kong Kit Min
 
 #### Guitar Ensemble
 
@@ -59,4 +59,4 @@ The Si Ling Guitar Ensemble, led by instructor Mr Oilver Chan, is a vibrant part
 
 We play a variety of genres of music from pop songs such as Faded to classical pieces such as Ainsty Suite. In 2018, we took part in our first SYF presentation and came away with a certificate of accomplishment.
 
-**Teachers-In-Charge:** Ms Chong Leng Cher, Mr Johan Bin Ridwan Loo
+**Teachers-In-Charge:** Ms Chong Leng Cher
