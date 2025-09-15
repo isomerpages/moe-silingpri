@@ -44,16 +44,16 @@ variant: markdown
     <tr>
       <td>5 Perseverance</td>
       <td>
-        MDM RITA ASHIKYN BTE MARHAJAS**<br>
+        MDM RITA ASHIKYN BTE MARHAJAS<br>
         <strong>Assistant Year Head P5 &amp; P6</strong><br>
         rita_ashikyn_marhajas@moe.edu.sg
       </td>
       <td>
-        MS YU SHEAU HUEY<br>
+        MISS YU SHEAU HUEY<br>
         yu_sheau_huey@moe.edu.sg
       </td>
       <td>
-				Mr KEITH KOK SHAN HWEE <br>
+				MR KEITH KOK SHAN HWEE <br>
 				keith_kok_shan_hwee@moe.edu.sg
 			</td>
     </tr>
@@ -115,7 +115,7 @@ variant: markdown
         tham-chin_mei_ling@moe.edu.sg
       </td>
       <td>
-        MR XU YONGHUA<br>
+        MDM XU YONGHUA<br>
         xu_yonghua@moe.edu.sg
       </td>
       <td></td>

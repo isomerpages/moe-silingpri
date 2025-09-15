@@ -38,7 +38,7 @@ Strategies for games such as attacking and defending are taught to the pupils as
 
 *   Our school sent a team of Senior Girls and a team of Junior Girls for the National School Games Competition in 2024.&nbsp; Both the Girls team did our school proud by becoming the Champion in the Tier 2 Competition.
 
-**Teachers-in-charge:**&nbsp;Ms Tan Si Chin Janice, Ms Yu Sheau Huey, Ms Chew Suet San
+**Teachers-in-charge:**&nbsp;Ms Tan Si Chin Janice, Ms Yu Sheau Huey, Mdm Chew Suet San
 
 #### Floorball (Boys)
 
@@ -48,7 +48,7 @@ We provide opportunities and a safe environment for every pupil to enjoy floorba
 Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 &nbsp;
 
-**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Ms Huang Yihui Terrenz, Mdm Rita Ashikyn Bte Marhajas
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Rita Ashikyn Bte Marhajas
 
 
 #### Floorball (Girls)
@@ -63,7 +63,7 @@ Girls will learn to react, to respond in game like situations as well as to mast
 
 *      2nd place in National School Games 2024 Tier 2;  
 
-**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Ms Huang Yihui Terrenz, Mdm Rita Ashikyn Bte Marhajas
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Rita Ashikyn Bte Marhajas
 
 #### Football Boys
 
@@ -73,4 +73,4 @@ Football (Boys) is made up of Primary 3 to 6 boys who are interested and passion
 
 The teachers-in-charge aim to create a positive environment based upon mutual respect as well as instilling good sportsmanship in our students.
 
-**Teachers-in-charge:**&nbsp;Mr Dennis Tuan Yun Leng, Mdm Nurashikin Bte Mohamed Shariff, Mr Saiful Sapari, Ms Hafizah Binte Mahmud
+**Teachers-in-charge:**&nbsp;Mr Dennis Tuan Yun Leng, Mdm Nurashikin Bte Mohamed Shariff, Mr Saiful Sapari, Mdm Hafizah Binte Mahmud

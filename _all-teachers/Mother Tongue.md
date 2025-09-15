@@ -32,7 +32,7 @@ variant: markdown
     <th>Teachers</th>
     <th>Email</th>
   </tr>
-  <tr><td>MISS CECILIA ONG</td><td>ong_soo_hoon_cecilia@moe.edu.sg</td></tr>
+  <tr><td>MS CECILIA ONG</td><td>ong_soo_hoon_cecilia@moe.edu.sg</td></tr>
   <tr><td>MDM LIN YUPING</td><td>lin_yuping@moe.edu.sg</td></tr>
   <tr><td>MISS LEE MEI CHENG</td><td>lee_mei_cheng@moe.edu.sg</td></tr>
   <tr><td>MISS YU SHEAU HUEY</td><td>yu_sheau_huey@moe.edu.sg</td></tr>
@@ -52,7 +52,7 @@ variant: markdown
   <tr><td>MDM NURASHIKIN M SHARIFF</td><td>nurashikin_mohamed_sharif@moe.edu.sg</td></tr>
   <tr><td>MDM SHANOM FARSA BINTE SARRY</td><td>shanom_farsa_sarry@moe.edu.sg</td></tr>
   <tr><td>MDM FARADILAH BTE MOHD YAAKOP</td><td>faradilah_mohd_yaakop@moe.edu.sg</td></tr>
-  <tr><td>MDM NOOR AISYA</td><td>noor_aisya_buang@moe.edu.sg</td></tr>
+  <tr><td>MDM NOOR AISYA BTE BUANG</td><td>noor_aisya_buang@moe.edu.sg</td></tr>
   <tr><td>MDM SITI NUR ATIQA BINTE ZAHRIN</td><td>siti_nur_atiqa_zahrin@moe.edu.sg</td></tr>
 </tbody></table>
 
