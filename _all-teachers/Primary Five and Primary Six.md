@@ -44,7 +44,7 @@ variant: markdown
     <tr>
       <td>5 Perseverance</td>
       <td>
-        MDM RITA ASHIKYN BTE MARHAJAS**<br>
+        MDM RITA ASHIKYN BTE MARHAJAS<br>
         <strong>Assistant Year Head P5 &amp; P6</strong><br>
         rita_ashikyn_marhajas@moe.edu.sg
       </td>
