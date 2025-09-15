@@ -35,7 +35,7 @@ variant: markdown
         mumtaj_behom@moe.edu.sg
       </td>
       <td>
-        MS JAZMINE KONG<br>
+        MISS JAZMINE KONG<br>
         jazmine_kong_kit_min_a@moe.edu.sg
       </td>
       <td>
@@ -124,10 +124,6 @@ variant: markdown
         MR SAIFUL BIN SAPARI<br>
         <strong>SH Malay Language</strong><br>
         saiful_sapari@moe.edu.sg
-      </td>
-      <td>
-        MR JOHAN BIN RIDWAN LOO<br>
-        johan_ridwan_loo@moe.edu.sg
       </td>
 			<td>
         MR JASHANAN S/O KASINATHAN<br>
