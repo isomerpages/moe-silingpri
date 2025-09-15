@@ -48,7 +48,7 @@ We provide opportunities and a safe environment for every pupil to enjoy floorba
 Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 &nbsp;
 
-**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Ms Huang Yihui Terrenz, Mdm Rita Ashikyn Bte Marhajas
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Rita Ashikyn Bte Marhajas
 
 
 #### Floorball (Girls)
@@ -63,7 +63,7 @@ Girls will learn to react, to respond in game like situations as well as to mast
 
 *      2nd place in National School Games 2024 Tier 2;  
 
-**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Ms Huang Yihui Terrenz, Mdm Rita Ashikyn Bte Marhajas
+**Teachers-in-charge:**&nbsp;Ms Chua Lynn Anthea, Mdm Rita Ashikyn Bte Marhajas
 
 #### Football Boys
 
