@@ -20,4 +20,10 @@ contacts:
       - email: ""
       - other: ""
     title: General Office
+  - content:
+      - phone: ""
+      - email: slps@moe.edu.sg
+      - other: ""
+    title: "Send us your compliments and feedback here:"
+feedback: https://form.gov.sg/646da974e1a15d001221ba28
 ---
