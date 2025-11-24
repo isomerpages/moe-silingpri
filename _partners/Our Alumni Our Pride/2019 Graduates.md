@@ -3,13 +3,10 @@ title: 2019 Graduates
 permalink: /our-experiences/our-alumni-our-pride/2019/
 description: 2019 Alumni Testimonials
 third_nav_title: Our Alumni Our Pride
+variant: markdown
 ---
 ### 2019 Graduates
 
-#### Shivaani Jeyakumar
-**Current School: St Margaret’s Secondary School**
-
-<img src="/images/at11.png" style="width:180px;height:180px;margin-right:15px;" align="left"> “Whenever I think of Si Ling Primary, I always feel like it is my second home. From extremely friendly, dedicated and caring teachers, to my amazing friends and the conducive environment provided for all students, I certainly do not regret being a student of Si Ling Primary. I was always able to showcase my talents during CCA and out of CCA too. I was given many opportunities to show leadership and also to learn new things. Si Ling Primary also recognized my achievements, which made me all the more determined to excel further in academics and also in other aspects. All in all, I am with no doubt proud to say that I was from Si Ling Primary, a garden where scholars bloom."
 
 #### Chen Shu Heng
 **Current School: Nan Hua High School**
