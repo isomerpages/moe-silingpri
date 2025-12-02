@@ -26,6 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Letter to Parents
+          date: 02 December 2025
+          announcement: Information for Parents
+          link_text: Letter can be found here
+          link_url: parents-hub/parent-resource/all-levels/
         - title: Caring Teacher Awards (CTA) 2026
           date: 15 September 2025
           announcement: "Help us celebrate our dedicated teachers by nominating them for
