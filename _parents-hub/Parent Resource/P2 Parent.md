@@ -9,4 +9,3 @@ variant: markdown
 
 | **Topic** | **Date**
 | -------- | -------- |
-|[Term 1 Letter to Parents](/files/2025_COE_Letter_TERM_1.pdf)| 8 Jan 2025
