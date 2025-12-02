@@ -26,10 +26,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Letter to Parents
+        - title: Key Updates for 2026
           date: 02 December 2025
           announcement: Information for Parents
-          link_text: Letter can be found here
+          link_text: More information
           link_url: parents-hub/parent-resource/all-levels/
         - title: Caring Teacher Awards (CTA) 2026
           date: 15 September 2025
@@ -37,11 +37,6 @@ sections:
             CTA today!  Click below:"
           link_text: More information
           link_url: /caring-teacher-awards-cta-2026/
-        - title: Canteen Stall Opportunities
-          date: 28 August 2025
-          announcement: "Interested to find out more? Click below:"
-          link_text: More information
-          link_url: /about-us/connect-with-us/canteen-stall-holder-application/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
