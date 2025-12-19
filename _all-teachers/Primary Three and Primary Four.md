@@ -102,35 +102,33 @@ variant: markdown
         nalini_john@moe.edu.sg
       </td>
       <td>
-        MDM HENG MUI GEK<br>
-        <strong>HOD Mathematics</strong><br>
-        heng_mui_gek@moe.edu.sg
+        MDM CHEW SUET SAN<br>
+        chew_suet_san@moe.edu.sg
       </td>
       <td></td>
     </tr>
     <tr>
       <td>4 Innovation</td>
       <td>
-        MR MUHAMMAD AMIR SAMUEL<br>
-        muhammad_amir_samuel@moe.edu.sg
+        MS NADYAH BINTE AZMAN<br>
+       nadyah_azman@moe.edu.sg
       </td>
       <td>
-        MS YEO MAY CHEN MELANIE<br>
-        yeo_may_chen_melanie@moe.edu.sg
+        MR ASHRI B SHUKRI<br>
+				<strong>HOD Science</strong><br>
+        ashri_b_shukri@moe.edu.sg
       </td>
       <td></td>
     </tr>
     <tr>
       <td>4 Respect</td>
       <td>
-        MR SAIFUL BIN SAPARI<br>
-        <strong>SH Malay Language</strong><br>
-        saiful_sapari@moe.edu.sg
+        MR MUHAMMAD AMIR SAMUEL<br>
+        muhammad_amir_samuel@moe.edu.sg
       </td>
 			<td>
-        MR JASHANAN S/O KASINATHAN<br>
-        <strong>Year Head P3 &amp; P4</strong><br>
-        jashanan_kasinathan@moe.edu.sg
+        MS CECILIA ONG<br>
+        ong_soo_hoon_cecilia@moe.edu.sg
       </td><td>
     </td></tr>
   </tbody>
