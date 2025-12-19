@@ -75,20 +75,7 @@ variant: markdown
         MR SO SIONG TENG<br>
         so_siong_teng@moe.edu.sg
       </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4 Solidarity</td>
-      <td>
-        MDM KATIJAH BEEVI D/O AUWLIA M<br>
-        katijah_beevi_auwlia_m@moe.edu.sg
-      </td>
-      <td>
-        MRS CHEE LILY<br>
-        <strong>ST Mathematics</strong><br>
-        chee_lily@moe.edu.sg
-      </td>
-			      <td>
+			<td>
         MR JASHANAN S/O KASINATHAN<br>
         <strong>Year Head P3 &amp; P4</strong><br>
         jashanan_kasinathan@moe.edu.sg
@@ -96,10 +83,23 @@ variant: markdown
       <td></td>
     </tr>
     <tr>
+      <td>4 Solidarity</td>
+      <td>
+        MS CHONG WEN SHAN, ROSAMUND<br>
+        chong_wen_shan_rosamund@moe.edu.sg
+      </td>
+      <td>
+        MS TAN SI CHIN, JANICE<br>
+        tan_si_chin_janicel@moe.edu.sg
+      </td>
+      <td></td>
+    </tr>
+    <tr>
       <td>4 Perseverance</td>
       <td>
-        MS LEE MEI CHENG<br>
-        lee_mei_cheng@moe.edu.sg
+        MDM NALINI JOHN<br>
+				<strong>ST English Language</strong><br>
+        nalini_john@moe.edu.sg
       </td>
       <td>
         MDM HENG MUI GEK<br>
