@@ -31,54 +31,52 @@ variant: markdown
     <tr>
       <td>5 Solidarity</td>
       <td>
-        MDM NORASHIKIN BTE MOHAMED SAID<br>
-        <strong>LH Mathematics</strong><br>
-        norashikin_mohamed_said@moe.edu.sg
+        MDM LIN YUPING<br>
+        lin_yuping@moe.edu.sg
       </td>
       <td>
-        MS QUAH YEE WEN<br>
-        quah_yee_wen@moe.edu.sg
+        MDM EMILIA BTE RAZALI<br>
+				<strong>HOD English Language</strong><br>
+        emilia_razali@moe.edu.sg
       </td>
       <td></td>
     </tr>
     <tr>
       <td>5 Perseverance</td>
       <td>
-        MDM RITA ASHIKYN BTE MARHAJAS<br>
-        <strong>Assistant Year Head P5 &amp; P6</strong><br>
-        rita_ashikyn_marhajas@moe.edu.sg
+        MRS THAM-CHIN MEI LING<br>
+        <strong>ST Science</strong><br>
+        tham-chin_mei_ling@moe.edu.sg
       </td>
       <td>
-        MISS YU SHEAU HUEY<br>
-        yu_sheau_huey@moe.edu.sg
+        MR ABDUL JALIL B YUNUS<br>
+				<strong>Year Head P5 &amp; 6</strong><br>
+        abdul_jalil_b_yunus@moe.edu.sg
       </td>
-      <td>
-				MR KEITH KOK SHAN HWEE <br>
-				keith_kok_shan_hwee@moe.edu.sg
-			</td>
     </tr>
     <tr>
       <td>5 Innovation</td>
       <td>
-        MR NG HAN PO<br>
-        ng_han_po@moe.edu.sg
+        MR SAIFUL BIN SAPARI<br>
+				<strong>SH Malay Language</strong><br>
+        saiful_sapari@moe.edu.sg
       </td>
       <td>
-        MS NADYAH BINTE AZMAN<br>
-        nadyah_azman@moe.edu.sg
+       MISS JAZMINE KONG<br>
+       jazmine_kong_kit_min_a@moe.edu.sg
       </td>
       <td></td>
     </tr>
     <tr>
       <td>5 Respect</td>
       <td>
-        MR KOH CHIN SHENG<br>
-        <strong>HOD Student Management</strong><br>
-        koh_chin_sheng@moe.edu.sg
+        MDM HAZLINE BINTE BUANG<br>
+        hazline_buang@moe.edu.sg
       </td>
       <td>
-        MDM NURASHIKIN BTE MOHAMED SHARIFF<br>
-        nurashikin_mohamed_shariff@moe.edu.sg
+        MR MOHAMED FAHMEE B BUANG<br>
+				<strong>HOD PE / Aesthetics / CCA</strong><br>
+        mohamed_fahmee_buang@moe.edu.sg
       </td>
       <td></td>
     </tr>
