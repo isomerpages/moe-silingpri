@@ -48,7 +48,7 @@ variant: markdown
       <td>
         MDM MUMTAJ BEHOM<br>
 				<strong>Tamil Coordinator</strong><br>
-        mumtaj\_behom@moe.edu.sg
+        mumtaj_behom@moe.edu.sg
       </td>
       <td></td>
     </tr>
