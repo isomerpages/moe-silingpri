@@ -30,29 +30,25 @@ variant: markdown
     <tr>
       <td>3 Solidarity</td>
       <td>
-				MDM MUMTAJ BEHOM<br>
-        <strong>Tamil Coordinator</strong><br>
-        mumtaj_behom@moe.edu.sg
+				MR GARY TEO TIAN SOON<br>
+        <strong>School Staff Developer</strong><br>
+        teo_tian_soon_gary@moe.edu.sg
       </td>
       <td>
-        MISS JAZMINE KONG<br>
-        jazmine_kong_kit_min_a@moe.edu.sg
+        MR JEFFREY LOW KOK WAH<br>
+        low_kok_wah_jeffrey@moe.edu.sg
       </td>
-      <td>
-				Ms MARIE TEO KAH ZHI<br>
-				marie_teo_kah_zhi@moe.edu.sg
-			</td>
     </tr>
     <tr>
       <td>3 Perseverance</td>
       <td>
-        MDM NALINI JOHN<br>
-        <strong>ST English Language</strong><br>
-        nalini_john@moe.edu.sg
+        MS YEO MAY CHEN MELANIE<br>
+				yeo_may_chen_melanie@moe.edu.sg
       </td>
       <td>
-        MS CHONG WEN SHAN, ROSAMUND<br>
-        chong_wen_shan_rosamund@moe.edu.sg
+        MDM MUMTAJ BEHOM<br>
+				<strong>Tamil Coordinator</strong><br>
+        mumtaj\_behom@moe.edu.sg
       </td>
       <td></td>
     </tr>
@@ -63,20 +59,21 @@ variant: markdown
         dennis_tuan_yun_leng@moe.edu.sg
       </td>
       <td>
-        MDM SHANOM FARSA BTE SARRY<br>
-        shanom_farsa_sarry@moe.edu.sg
+        MS LEE MEI CHENG<br>
+        lee_mei_cheng@moe.edu.sg
       </td>
       <td></td>
     </tr>
     <tr>
       <td>3 Respect</td>
+			<td>
+        MRS CHEE LILY<br>
+				<strong>ST Mathematics</strong><br>
+        chee_lily@moe.edu.sg
+      </td>
       <td>
         MR SO SIONG TENG<br>
         so_siong_teng@moe.edu.sg
-      </td>
-      <td>
-        MDM NOOR AISYA BTE BUANG<br>
-        noor_aisya_buang@moe.edu.sg
       </td>
       <td></td>
     </tr>
@@ -90,6 +87,11 @@ variant: markdown
         MRS CHEE LILY<br>
         <strong>ST Mathematics</strong><br>
         chee_lily@moe.edu.sg
+      </td>
+			      <td>
+        MR JASHANAN S/O KASINATHAN<br>
+        <strong>Year Head P3 &amp; P4</strong><br>
+        jashanan_kasinathan@moe.edu.sg
       </td>
       <td></td>
     </tr>
