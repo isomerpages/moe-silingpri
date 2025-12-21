@@ -24,6 +24,7 @@ variant: markdown
       <th>Class</th>
       <th>Form Teacher 1</th>
       <th>Form Teacher 2</th>
+			 <th>Form Teacher 3</th>
     </tr>
   </thead>
   <tbody>
@@ -116,6 +117,10 @@ variant: markdown
 					<td>
             MDM NOOR AISYA BTE BUANG<br>
         noor_aisya_buang@moe.edu.sg
+      </td>
+					<td>
+            Ms MARIE TEO KAH ZHI<br>
+        marie_teo_kah_zhi@moe.edu.sg
       </td>
         </tr>
   </tbody>
