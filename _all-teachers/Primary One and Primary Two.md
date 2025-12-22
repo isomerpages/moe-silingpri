@@ -26,8 +26,7 @@ variant: markdown
       <th>Form Teacher 2</th>
 			 <th>Form Teacher 3</th>
     </tr>
-  </thead>
-  <tbody>
+  </thead><tbody>
     <tr>
       <td>1 Solidarity</td>
       <td>
