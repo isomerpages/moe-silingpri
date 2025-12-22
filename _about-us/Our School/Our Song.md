@@ -6,6 +6,6 @@ third_nav_title: Our School
 variant: markdown
 ---
 ### Our Song
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-zFiQqpzgXA?si=_Tc6CPVyq_hKPieq" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rkZw0iG2Cqw?si=FFOqUqvy0qCRTRPP" height="315" width="560"></iframe>
 
 ![School song sheet](/images/About%20Us/schoolsong.png)
