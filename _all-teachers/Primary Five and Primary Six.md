@@ -58,6 +58,7 @@ variant: markdown
       <td>5 Innovation</td>
 			<td>
         MS HUANG YI HUI TERRENZ<br>
+				<strong>SH ICT</strong><br>
         huang_yihui_terrenz@moe.edu.sg
       </td>
       <td>
