@@ -45,7 +45,7 @@ variant: markdown
   </tr>
 		  <tr>
     <td><strong>MS JASMINE LIM</strong><br>lim_tze_ting_jasmine@moe.edu.sg</td>
-    <td><strong>Vice - Principal ( Academic )</strong></td>
+    <td><strong>Vice - Principal ( Education Officer )</strong></td>
   </tr>
 </tbody></table>
 		
@@ -155,5 +155,9 @@ variant: markdown
 		<tr>
     <td><strong>MS TAN SI JIN, JANICE</strong><br>tan_si_chin_janicel@moe.edu.sg</td>
     <td><strong>SH PE</strong></td>
+  </tr>
+				<tr>
+    <td><strong>MS HUANG YIHUI TERRENZ</strong><br>huang_yihui_terrenz@moe.edu.sg</td>
+    <td><strong>SH ICT</strong></td>
   </tr>
 </tbody></table>
