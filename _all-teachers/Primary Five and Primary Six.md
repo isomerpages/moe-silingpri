@@ -89,6 +89,7 @@ variant: markdown
       <td>6 Solidarity</td>
       <td>
         MS QUAH YEE WEN<br>
+				<strong>SH Student Management</strong><br>
         quah_yee_wen@moe.edu.sg
       </td>
       <td>
