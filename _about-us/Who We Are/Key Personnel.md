@@ -44,7 +44,7 @@ variant: markdown
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
 		  <tr>
-    <td><strong>MS JASMINE LIM</strong><br>lim_tze_jing_jasmine</td>
+    <td><strong>MS JASMINE LIM</strong><br>lim_tze_ting_jasmine@moe.edu.sg</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
 </tbody></table>
@@ -147,5 +147,13 @@ variant: markdown
   <tr>
     <td><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</td>
     <td><strong>SH Science</strong></td>
+  </tr>
+				<tr>
+    <td><strong>MS QUAH YEE WEN</strong><br>quah_yee_wen@moe.edu.sg</td>
+    <td><strong>SH Student Management</strong></td>
+  </tr>
+		<tr>
+    <td><strong>MS TAN SI JIN, JANICE</strong><br>tan_si_chin_janicel@moe.edu.sg</td>
+    <td><strong>SH PE</strong></td>
   </tr>
 </tbody></table>
