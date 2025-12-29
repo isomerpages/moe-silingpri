@@ -42,6 +42,7 @@ variant: markdown
       <td>1 Perseverance</td>
       <td>
         MS LIM TAU WEI MAY<br>
+				<strong>ST Social Studies</strong><br>
         lim_tau_wei_may@moe.edu.sg
       </td>
       <td>
