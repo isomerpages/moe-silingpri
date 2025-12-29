@@ -40,11 +40,11 @@ variant: markdown
     <td><strong>Principal</strong></td>
   </tr>
   <tr>
-    <td><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</td>
+    <td><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
-  <tr>
-    <td><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</td>
+		  <tr>
+    <td><strong>MS JASMINE LIM</strong><br>lim_tze_jing_jasmine</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
 </tbody></table>
