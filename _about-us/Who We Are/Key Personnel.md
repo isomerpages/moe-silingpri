@@ -40,12 +40,12 @@ variant: markdown
     <td><strong>Principal</strong></td>
   </tr>
   <tr>
-    <td><strong>MDM NURAZIAN BAJURI</strong><br>nurazian_bajuri@moe.edu.sg</td>
-    <td><strong>Vice - Principal ( Academic )</strong></td>
-  </tr>
-  <tr>
     <td><strong>MR RAJ KUMAR</strong><br>Raj_Kumar_V_SIVALINGAM@moe.edu.sg</td>
     <td><strong>Vice - Principal ( Academic )</strong></td>
+  </tr>
+		  <tr>
+    <td><strong>MS JASMINE LIM</strong><br>lim_tze_ting_jasmine@moe.edu.sg</td>
+    <td><strong>Vice - Principal ( Education Officer )</strong></td>
   </tr>
 </tbody></table>
 		
@@ -147,5 +147,17 @@ variant: markdown
   <tr>
     <td><strong>MS ANITA D/O SELVAM</strong><br>anita_doselvam@moe.edu.sg</td>
     <td><strong>SH Science</strong></td>
+  </tr>
+				<tr>
+    <td><strong>MS QUAH YEE WEN</strong><br>quah_yee_wen@moe.edu.sg</td>
+    <td><strong>SH Student Management</strong></td>
+  </tr>
+		<tr>
+    <td><strong>MS TAN SI JIN, JANICE</strong><br>tan_si_chin_janicel@moe.edu.sg</td>
+    <td><strong>SH PE</strong></td>
+  </tr>
+				<tr>
+    <td><strong>MS HUANG YIHUI TERRENZ</strong><br>huang_yihui_terrenz@moe.edu.sg</td>
+    <td><strong>SH ICT</strong></td>
   </tr>
 </tbody></table>
