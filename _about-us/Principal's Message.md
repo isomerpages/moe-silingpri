@@ -8,14 +8,18 @@ variant: markdown
 
 **Dear Parents/Guardians**,
 
-We concluded 2024 on a high note, with the school achieving remarkable success. The PSLE results from the past two years have been a great source of encouragement! In 2024, many of our students excelled and earned spots in their preferred secondary schools. This accomplishment is a testament to the hard work of our teachers and the unwavering support of our students’ families.
+I am delighted to welcome you back as we begin a new term together. It is wonderful to see our school community reunited and ready for the year ahead.
 
-Our students have not only excelled in their studies but also on the sports field and in their various CCAs. They have embraced challenges, supported each other with kindness, and celebrated one another’s achievements. Each of them has contributed to making our school a better place!
+A new term brings fresh beginnings and new opportunities. To our students — whether you are returning or joining us for the first time — this is a new chapter. As you start the term, we encourage you to approach your learning with **resilience**, staying positive and persevering even when challenges arise.
 
-The passion, innovation, and dedication of our teachers have fostered an environment where students are motivated to give their best.
+At our school, learning goes beyond the classroom. It happens when we act with **integrity** — doing the right thing even when no one is watching — and when we show **empathy**, caring for and respecting one another in our words and actions. It also grows through **solidarity**, as we support our friends, classmates, and teammates, and move forward together as one community.
 
-Let us continue to collaborate in inspiring our students and celebrating their successes. I am looking forward to the new adventures and opportunities that lie ahead.
+I would like to acknowledge our teachers, whose dedication and commitment create a supportive and nurturing environment for our students. Their guidance helps our students grow not only academically, but also in character.
+
+As we embark on this new term, let us live out our values each day — in our classrooms, CCAs, on the sports field, and in our interactions with one another. Together, let us continue to build a school where everyone feels supported, respected, and inspired to do their best.
+
+I wish everyone a meaningful, fulfilling, and successful term ahead. Thank you.
 
 Mr Koe Ee Tiong<br>
 Principal<br>
-6 Jan 2025
+2 Jan 2026
