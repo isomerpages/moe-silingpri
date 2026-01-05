@@ -88,7 +88,7 @@ variant: markdown
           <td>
             MISS ANITA D/O SELVAM<br>
 						        <strong>SH Science</strong><br>
-						lim_tau_wei_may@moe.edu.sg
+						anita_doselvam@moe.edu.sg
           </td>
           <td>
             MR SETHU S/O RAJAGOPAL<br>
