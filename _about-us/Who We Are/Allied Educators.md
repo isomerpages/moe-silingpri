@@ -70,16 +70,6 @@ third_nav_title: Who We Are
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM WOON BEE ENG
-<br>woon_bee_eng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teaching and Learning</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
