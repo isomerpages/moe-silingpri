@@ -30,7 +30,7 @@ sections:
           date: 02 December 2025
           announcement: Information for Parents
           link_text: More information
-          link_url: parents-hub/parent-resource/all-levels/
+          link_url: parents hub/parent resource/all-levels/
         - title: Caring Teacher Awards (CTA) 2026
           date: 15 September 2025
           announcement: "Help us celebrate our dedicated teachers by nominating them for
