@@ -28,9 +28,10 @@ sections:
       announcement_items:
         - title: Key Updates for 2026
           date: 02 December 2025
-          announcement: Information for Parents
-          link_text: More information
-          link_url: https://www.silingpri.moe.edu.sg/all-levels/
+          announcement: Please refer to the Parents Gateway app for the latest resources
+            and updates.
+          link_text: ""
+          link_url: ""
         - title: Caring Teacher Awards (CTA) 2026
           date: 15 September 2025
           announcement: "Help us celebrate our dedicated teachers by nominating them for
