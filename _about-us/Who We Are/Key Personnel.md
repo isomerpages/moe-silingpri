@@ -153,7 +153,7 @@ variant: markdown
     <td><strong>SH Student Management</strong></td>
   </tr>
 		<tr>
-    <td><strong>MS TAN SI JIN, JANICE</strong><br>tan_si_chin_janicel@moe.edu.sg</td>
+    <td><strong>MS TAN SI JIN, JANICE</strong><br>tan_si_chin_janice@moe.edu.sg</td>
     <td><strong>SH PE</strong></td>
   </tr>
 				<tr>
