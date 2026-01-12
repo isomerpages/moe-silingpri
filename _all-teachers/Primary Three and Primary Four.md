@@ -91,7 +91,7 @@ variant: markdown
       <td>
         MS TAN SI CHIN, JANICE<br>
 				<strong>SH PE</strong><br>
-        tan_si_chin_janicel@moe.edu.sg
+        tan_si_chin_janice@moe.edu.sg
       </td>
       <td></td>
     </tr>
