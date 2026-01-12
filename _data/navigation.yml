@@ -22,35 +22,35 @@ links:
   - title: Signature Programmes
     url: /signature-programmes/grit-slps
     sublinks:
+      - title: P1 Transition Programme
+        url: /signature-programmes/p1transitionprogramme
+      - title: F.L.Y Programme
+        url: /signature-programmes/fly-programme
       - title: G.R.I.T. @ SLPS
         url: /signature-programmes/grit-slps
+      - title: ALP (Environmental Science)
+        url: /signature-programmes/alp-environmentalscience/
       - title: EL Monthly Odyssey (E.L.M.O)
         url: /signature-programmes/ELMO
       - title: Play and Learn Math (P.A.L.M)
         url: /signature-programmes/PALM
-      - title: P1 Transition Programme
-        url: /signature-programmes/p1transitionprogramme
-      - title: ALP (Environmental Science)
-        url: /signature-programmes/alp-environmentalscience/
-      - title: F.L.Y Programme
-        url: /signature-programmes/fly-programme
   - title: Our Experiences
     url: /our-experiences/
     sublinks:
-      - title: Co-Curricular Activities (CCA)
-        url: /our-experiences/Co-Curricular-Activities/overview/
-      - title: Learning for Life programme
-        url: /our-experiences/learningforlifeprogramme/
-      - title: Lead Our Lives with Purpose
-        url: /our-experiences/lol/
-      - title: Programme for Active Learning
-        url: /our-experiences/programme-for-active-learning/
-      - title: SLPS Gallery
-        url: /slps-gallery/2026/
       - title: Discovering Si Ling
         url: https://docs.google.com/forms/d/e/1FAIpQLSdRFd2m4RlXCAdchVKWlM5CxxW8yxw7aQkqSgSqeLEztuT_uA/viewform
       - title: Students' Achievements
         url: /students-achievements/
+      - title: SLPS Gallery
+        url: /slps-gallery/2026/
+      - title: Lead Our Lives with Purpose
+        url: /our-experiences/lol/
+      - title: Programme for Active Learning
+        url: /our-experiences/programme-for-active-learning/
+      - title: Learning for Life programme
+        url: /our-experiences/learningforlifeprogramme/
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/Co-Curricular-Activities/overview/
   - title: Departments
     url: /departments/english/
     sublinks:
