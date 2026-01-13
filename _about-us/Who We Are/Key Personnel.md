@@ -45,7 +45,7 @@ variant: markdown
   </tr>
 		  <tr>
     <td><strong>MS JASMINE LIM</strong><br>lim_tze_ting_jasmine@moe.edu.sg</td>
-    <td><strong>Vice - Principal ( Education Officer )</strong></td>
+    <td><strong>Vice - Principal ( Academic )</strong></td>
   </tr>
 </tbody></table>
 		
