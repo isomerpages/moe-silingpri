@@ -35,7 +35,7 @@ variant: markdown
     <td><strong>ICT Trainer</strong></td>
   </tr>
   <tr>
-    <td>MISS MASSWERA WAHYUNE</td>
+    <td>MR MOHAMAD IZZ ADHAM BIN MOHD ALWI</td>
     <td><strong>Desktop Engineer</strong></td>
   </tr>
   <tr>
