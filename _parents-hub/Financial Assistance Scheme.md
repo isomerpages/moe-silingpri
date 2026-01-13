@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Financial Assistance Scheme</h3>
-<p><strong>MOE Financial Assistance Scheme (MOE FAS) for Year</strong>
+<p><strong>MOE Financial Assistance Scheme (MOE FAS)</strong>
 </p>
 <p>The objective of the MOE FAS is to help financially needy Singapore students
 in Government and Government-aided schools to meet basic schooling expenses.&nbsp;</p>
@@ -14,3 +14,5 @@ in Government and Government-aided schools to meet basic schooling expenses.&nbs
 | MOE</a>)</p>
 <p>Parents/Guardian may submit your application online via this link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
 </p>
+<p>For other non-government financial support, please refer to the attached
+list:</p>
