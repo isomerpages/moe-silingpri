@@ -34,6 +34,8 @@ links:
         url: /signature-programmes/ELMO
       - title: Play and Learn Math (P.A.L.M)
         url: /signature-programmes/PALM
+      - title: Learning for Life Programme
+        url: signature-programmes/learningforlifeprogramme/
   - title: Our Experiences
     url: /our-experiences/
     sublinks:
@@ -47,8 +49,6 @@ links:
         url: /our-experiences/lol/
       - title: Programme for Active Learning
         url: /our-experiences/programme-for-active-learning/
-      - title: Learning for Life programme
-        url: /our-experiences/learningforlifeprogramme/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/Co-Curricular-Activities/overview/
   - title: Departments

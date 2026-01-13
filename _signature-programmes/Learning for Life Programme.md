@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /our-experiences/learningforlifeprogramme/
+permalink: /signature-programmes/learningforlifeprogramme/
 description: ""
 variant: tiptap
 ---
