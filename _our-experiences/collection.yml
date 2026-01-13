@@ -2,8 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Students' Achievements/Students' Achievements.md
-      - Students' Achievements/.keep
       - Overview.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
@@ -14,3 +12,5 @@ collections:
       - Lead Our Lives (LOL) with Purpose.md
       - Programme for Active Learning.md
       - English/.keep
+      - Students' Achievements/.keep
+      - Students' Achievements/Students' Achievements.md
