@@ -11,10 +11,14 @@ For Alumni Registration, click&nbsp;[here](https://forms.gle/6pAy3QUkcdp4K99c8)!
   
 To read more testimonials by more recent graduation cohorts, check out the links by graduation cohort year on the sidebar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_kvCPIzHqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br>
+<iframe style="width:100%; aspect-ratio:16 / 9; border:0;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/x_kvCPIzHqY">
+</iframe><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1kPZjiWCnJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br>
+<iframe style="width:100%; aspect-ratio:16 / 9; border:0;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/1kPZjiWCnJY">
+</iframe><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WXkrrqraoY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br>
+<iframe style="width:100%; aspect-ratio:16 / 9; border:0;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/WXkrrqraoY8">
+</iframe><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Gxp1OBRNaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe style="width:100%; aspect-ratio:16 / 9; border:0;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/2Gxp1OBRNaQ">
+</iframe><br>
