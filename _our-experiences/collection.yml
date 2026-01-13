@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Hear From Our Alumni.md
       - Overview.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
