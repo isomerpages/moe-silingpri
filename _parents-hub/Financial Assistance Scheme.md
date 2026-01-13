@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Financial Assistance Scheme</h3>
-<p><strong>MOE Financial Assistance Scheme (MOE FAS) for Year 2026</strong>
+<p><strong>MOE Financial Assistance Scheme (MOE FAS) for Year</strong>
 </p>
 <p>The objective of the MOE FAS is to help financially needy Singapore students
 in Government and Government-aided schools to meet basic schooling expenses.&nbsp;</p>
