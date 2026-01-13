@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Learning for Life Programme.md
       - GRIT @ SLPS.md
       - English Language Monthly Odyssey (ELMO).md
       - Play and Learn Math (PALM).md
