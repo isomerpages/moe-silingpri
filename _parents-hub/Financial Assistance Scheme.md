@@ -15,4 +15,5 @@ in Government and Government-aided schools to meet basic schooling expenses.&nbs
 <p>Parents/Guardian may submit your application online via this link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
 </p>
 <p>For other non-government financial support, please refer to the attached
-list:</p>
+list: <a href="https://www.silingpri.moe.edu.sg/files/Non_Government_Financial_Assistance.pdf" rel="noopener nofollow" target="_blank">Non-Government Financial Assistance</a>
+</p>
