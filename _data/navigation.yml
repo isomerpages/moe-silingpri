@@ -3,22 +3,22 @@ links:
   - title: About Us
     url: /about-us/principals-message
     sublinks:
-      - title: Our School
-        url: /about-us/Our-School/history
-      - title: Who We Are
-        url: /about-us/who-we-are/key-personnel/
-      - title: Location Map
-        url: /about-us/location-map/
-      - title: Privacy Statement
-        url: /privacy/
       - title: Principal's Message
         url: /about-us/principals-message
+      - title: Our School
+        url: /about-us/Our-School/history
       - title: Our Rules and Attire
         url: /about-us/our-rules-and-attire
+      - title: Who We Are
+        url: /about-us/who-we-are/key-personnel/
       - title: Our School Advisory Committee
         url: /about-us/our-school-advisory-committee
       - title: Connect With Us
         url: /about-us/connect-with-us/join-us-as-an-alumni/
+      - title: Location Map
+        url: /about-us/location-map/
+      - title: Privacy Statement
+        url: /privacy/
   - title: Signature Programmes
     url: /signature-programmes/grit-slps
     sublinks:
