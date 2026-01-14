@@ -25,7 +25,7 @@ variant: markdown
 *   Certificate of Participation &amp; Recognition (and framed display at SYF Exhibition) for Category C (P5-P6)
 
 **Teachers-in-charge:**
-Ms Nadyah Binte Azman, Mdm Noor Aisya Binte Buang, Phee Min En Quesheth
+Ms Nadyah Binte Azman, Mdm Noor Aisya Binte Buang, Phee Min En Quesheth, Miss Cathy Lo Sik Yuen
 
 ### Brownies
 
@@ -59,7 +59,7 @@ Ms Siti Nur Atiqa bte Zahrin, Josephine Loh
  
 
 **Teachers-in-charge:**
-Mdm Katijah Beevi D/O Auwlia M, Hazline Binte Buang, Ms Chong Wen Shan Rosamund, Mr Chua Yuhang
+Mdm Katijah Beevi D/O Auwlia M, Ms Chong Wen Shan Rosamund, Ms Quah Yee Wen, Mr Chua Yuhang
 
 ### SciEinsteins Club
 
@@ -72,4 +72,4 @@ We aim to inspire joy in the learning of science through experimentation and exp
 * Bronze Award for  Primary 5 and Primary 6 students
 
 **Teachers-in-charge:**
-Mdm Quah Yee Wen, Ms Anita D/O Selvam, Mdm Jayaraman Chitr, Mdm Chee Lily
+Ms Anita D/O Selvam, Mdm Jayaraman Chitr, Mdm Chee Lily, Mdm Hazline Binte Buang
