@@ -44,7 +44,7 @@ sections:
       description: Brace yourself for an incredible time filled with laughter,
         learning and endless fun.
       button: Click to begin
-      url: https://forms.gle/Ap9GWxDaoas3gF4i7
+      url: https://www.silingpri.moe.edu.sg/discovering-si-ling/
       alt: Stand together
       image: /images/stand together-02.png
   - infopic:
