@@ -90,19 +90,19 @@ from sexuality-related risks.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>At Si Ling Primary School, the following</strong>&nbsp;<strong>Sexuality Education lessons will be taught in&nbsp;2025:</strong>
+<p><strong>At Si Ling Primary School, the following</strong>&nbsp;<strong>Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115307.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Part1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115414.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Part2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Part1.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_14_115506.png">
-</div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <ol start="8">
@@ -113,8 +113,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Sexuality_Education_lessons_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 03/02/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Sexuality_Education_lessons_opt_out_form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 62698832 &nbsp;for discussion or to
