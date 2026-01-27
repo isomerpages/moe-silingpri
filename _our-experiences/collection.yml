@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Students' Achievements.md
       - Overview.md
       - Discovering Si Ling.md
       - Staff Recognition.md
