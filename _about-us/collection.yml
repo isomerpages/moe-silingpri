@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Achievements.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/History.md
@@ -19,7 +18,8 @@ collections:
       - Who We Are/Support Staff.md
       - Teachers In Action.md
       - Our School Advisory Committee.md
+      - Staff Achievements.md
+      - Connect With Us/.keep
       - Connect With Us/Caring Teacher Awards (CTA) 2026.md
       - Connect With Us/Join us as an Alumni.md
-      - Connect With Us/.keep
       - Location Map.md
