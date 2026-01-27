@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Achievements/Staff Recognition.md
       - Achievements/.keep
       - Overview.md
       - Discovering Si Ling.md
