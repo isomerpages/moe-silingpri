@@ -13,6 +13,8 @@ links:
         url: /about-us/who-we-are/key-personnel/
       - title: Our School Advisory Committee
         url: /about-us/our-school-advisory-committee
+      - title: Staffs' Achievements
+        url: /about-us/staff-achievements/
       - title: Connect With Us
         url: /about-us/connect-with-us/join-us-as-an-alumni/
       - title: Location Map
@@ -41,7 +43,9 @@ links:
     sublinks:
       - title: Discovering Si Ling
         url: /discovering-si-ling/
-      - title: Students' Achievements
+      - title: Staff Recognition
+        url: /staffrecognition/
+      - title: Achievements
         url: /students-achievements/
       - title: SLPS Gallery
         url: /slps-gallery/2026/
