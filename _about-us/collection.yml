@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Achievements.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/History.md
