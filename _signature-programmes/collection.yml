@@ -1,0 +1,14 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - P1 Transition Programme.md
+      - FLY Programme.md
+      - GRIT @ SLPS.md
+      - ALP (Environmental Science)/.keep
+      - ALP (Environmental Science)/Overview.md
+      - ALP (Environmental Science)/3H Approach.md
+      - ALP (Environmental Science)/ESP Activities.md
+      - English Language Monthly Odyssey (ELMO).md
+      - Play and Learn Math (PALM).md
+      - Learning for Life Programme.md

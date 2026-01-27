@@ -1,0 +1,49 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English/.keep
+      - English/Overview.md
+      - English/English Language Monthly Odyssey (ELMO).md
+      - English/STELLAR.md
+      - English/Writing.md
+      - English/Reading.md
+      - English/Spelling Bee.md
+      - Mathematics/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Curriculum and Approach.md
+      - Mathematics/PALM (Play and Learn Math).md
+      - Mathematics/Support for Mathematics Learning.md
+      - Mathematics/Stretching our High progressing learners.md
+      - Science/.keep
+      - Science/Overview.md
+      - Science/Our Curriculum Approach.md
+      - Science/Our Programmes.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Aesthetics/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Our Curriculum.md
+      - Aesthetics/Our Programmes.md
+      - Character Education/.keep
+      - Character Education/Overview.md
+      - Character Education/School Core Values.md
+      - Character Education/National Education.md
+      - Character Education/Education Career Guidance (ECG).md
+      - Character Education/Social Studies.md
+      - Character Education/Values in Action.md
+      - Infocomm Technology/.keep
+      - Infocomm Technology/Overview.md
+      - Infocomm Technology/Our Unique Programmes.md
+      - Physical Education/.keep
+      - Physical Education/Overview.md
+      - Physical Education/Physical Education Curriculum.md
+      - Physical Education/Our Programmes.md
+      - Student Development/.keep
+      - Student Development/Overview.md
+      - Student Development/Student Leadership.md
+      - Student Development/LLP (Community and Student Leadership).md
+      - Student Development/Discipline.md

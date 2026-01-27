@@ -1,0 +1,24 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our School/.keep
+      - Our School/History.md
+      - Our School/Our Crest.md
+      - Our School/Our Song.md
+      - Our School/Our Vision, Mission and Values.md
+      - Our Rules and Attire.md
+      - Our People/.keep
+      - Who We Are/.keep
+      - Who We Are/Key Personnel.md
+      - Who We Are/All Teachers.md
+      - Who We Are/Executive and Administrative Staff.md
+      - Who We Are/Allied Educators.md
+      - Who We Are/Support Staff.md
+      - Teachers In Action.md
+      - Our School Advisory Committee.md
+      - Connect With Us/.keep
+      - Connect With Us/Caring Teacher Awards (CTA) 2026.md
+      - Connect With Us/Join us as an Alumni.md
+      - Location Map.md

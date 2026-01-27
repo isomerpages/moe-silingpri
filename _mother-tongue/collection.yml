@@ -1,0 +1,21 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Overview.md
+      - Chinese/.keep
+      - Chinese/Overview.md
+      - Chinese/Activities and Programme.md
+      - Chinese/Cultural Programme.md
+      - Chinese/Competitions and Awards.md
+      - Chinese/Resources for Parents.md
+      - Malay/.keep
+      - Malay/Overview.md
+      - Malay/Extensive Reading Programme.md
+      - Malay/Malay Language Links.md
+      - Tamil/.keep
+      - Tamil/Overview.md
+      - Tamil/Curriculum Approach.md
+      - Tamil/Department Programmes.md
+      - Tamil/Cultural Programmes.md
+      - Tamil/Mother Tongue Fortnight.md

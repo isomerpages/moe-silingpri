@@ -1,0 +1,106 @@
+logo: /images/About Us/slplogo.png
+links:
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our School
+        url: /about-us/Our-School/history
+      - title: Our Rules and Attire
+        url: /about-us/our-rules-and-attire
+      - title: Who We Are
+        url: /about-us/who-we-are/key-personnel/
+      - title: Our School Advisory Committee
+        url: /about-us/our-school-advisory-committee
+      - title: Staffs' Achievements
+        url: /about-us/staff-achievements/
+      - title: Connect With Us
+        url: /about-us/connect-with-us/join-us-as-an-alumni/
+      - title: Location Map
+        url: /about-us/location-map/
+      - title: Privacy Statement
+        url: /privacy/
+  - title: Signature Programmes
+    url: /signature-programmes/grit-slps
+    sublinks:
+      - title: P1 Transition Programme
+        url: /signature-programmes/p1transitionprogramme
+      - title: F.L.Y Programme
+        url: /signature-programmes/fly-programme
+      - title: G.R.I.T. @ SLPS
+        url: /signature-programmes/grit-slps
+      - title: ALP (Environmental Science)
+        url: /signature-programmes/alp-environmentalscience/
+      - title: EL Monthly Odyssey (E.L.M.O)
+        url: /signature-programmes/ELMO
+      - title: Play and Learn Math (P.A.L.M)
+        url: /signature-programmes/PALM
+      - title: Learning for Life Programme
+        url: /signature-programmes/learningforlifeprogramme/
+  - title: Our Experiences
+    url: /our-experiences/
+    sublinks:
+      - title: Discovering Si Ling
+        url: /discovering-si-ling/
+      - title: Staff Recognition
+        url: /staffrecognition/
+      - title: Students' Achievements
+        url: /students-achievements/
+      - title: SLPS Gallery
+        url: /slps-gallery/2026/
+      - title: Lead Our Lives with Purpose
+        url: /our-experiences/lol/
+      - title: Programme for Active Learning
+        url: /our-experiences/programme-for-active-learning/
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/Co-Curricular-Activities/overview/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /department/mathematics/
+      - title: Science
+        url: /departments/science/overview/
+      - title: Mother Tongue
+        url: /mothertongue/overview/
+      - title: Aesthetics
+        url: /departments/aesthetics/overview/
+      - title: CCE
+        url: /departments/character-education/overview/
+      - title: Infocomm technology
+        url: /departments/infocomm-technology/overview/
+      - title: Physical Education
+        url: /departments/physical-education/overview/
+      - title: Student Development
+        url: /departments/student-development/overview/
+  - title: Parents' Hub
+    url: /parents-hub/parents-gateway-app/
+    sublinks:
+      - title: Calendar
+        url: /parents-hub/calendar
+      - title: School Services
+        url: /parents-hub/school-services/
+      - title: Parents Gateway App
+        url: /parents-hub/parents-gateway-app/
+      - title: Parent Resource
+        url: /parents-hub/parent-resource/p1parent/
+      - title: Financial Assistance Scheme
+        url: /parents-hub/financial-assistance-scheme/
+      - title: Homework Policy
+        url: /parents-hub/homework-policy/
+      - title: Sexuality Education
+        url: /parents-hub/sexuality-education/
+      - title: Cyber Wellness
+        url: /parents-hub/cyber-wellness/overview/
+      - title: Online Learning Resources
+        url: /students-hub/online-learning-resources/google-workspace/
+  - title: Partners
+    url: /partners/parents-in-partnership/
+    sublinks:
+      - title: Our Alumni Our Pride
+        url: /partners/our-alumni-our-pride/overview/
+      - title: Parents in Partnership
+        url: /partners/parents-in-partnership/
