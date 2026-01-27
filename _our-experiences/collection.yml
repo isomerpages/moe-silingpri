@@ -3,12 +3,8 @@ collections:
     output: true
     order:
       - Staff Recognition.md
-      - Achievements/.keep
       - Overview.md
       - Discovering Si Ling.md
-      - Students' Achievements/Overview.md
-      - Students' Achievements/Hear From Our Alumni.md
-      - Students' Achievements/.keep
       - Lead Our Lives (LOL) with Purpose.md
       - Programme for Active Learning.md
       - Co Curricular Activities/.keep
