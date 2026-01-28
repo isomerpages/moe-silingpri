@@ -5,33 +5,76 @@ description: ""
 third_nav_title: Chinese
 variant: tiptap
 ---
-### Chinese
-
-**远景**
-
-&nbsp;培养学生自信熟练地使用母语进行沟通，并展现优良品格。
- 
-**华文部教学规划**
-
-<img src="/images/chi1.png" style="width:80%">
-
-围绕语言学习的四个技能：“听、说、读、写”，华文部门根据教育部课标和学生的具体学习需要，制订了从小一到小六完整的华语学习计划。 华语的学习特点，听、说、读、写四大技能，很多时候是融合并行，不能单独分开来进行。
-
-**听说教学**
-**一至四年级:**&nbsp;紧跟课本和教材，进行多样化听说活动，如“你说我说”“情境表演”“儿歌演唱”等。&nbsp;**五至六年级:**&nbsp;结合课本不同主题，制定专业配套，利用“5W1H”调动学生感官参与，从而培养学生自信熟练地运用华语进行沟通交流。
-
-<img src="/images/chi2.png" style="width:80%">
-<img src="/images/chi3.png" style="width:80%">
-
-**阅读计划**
-
-众所周知，语言的学习，离不开阅读。为了引发学生学习华文的兴趣，养成阅读华文故事书的习惯，从而最终在华文学习中受益。华文部门制订了一套完整的阅读计划，计划如下
-
-<img src="/images/chi4.png" style="width:80%">
-
-**写作计划**
-1.  从写句子-写段-写篇步步层进。
-2.  写作方法“5W1H”贯穿始终。
-3.  按学生低、中、高年级不同，采用多样的差异教学。
-
-<img src="/images/chi5.png" style="width:80%">
+<h3>Chinese</h3>
+<p><strong>Vision <em>(远景)</em></strong>
+</p>
+<p>Pupils to be confident and proficient communicators in their Mother Tongue
+languages and exhibit good values</p>
+<p>培养学生自信熟练地使用母语进行沟通，并展现优良品格。</p>
+<p></p>
+<p><strong>Chinese Language Department</strong>
+</p>
+<p><strong>Curriculum Focus</strong>
+</p>
+<p>Aligned with the Ministry of Education (MOE) Chinese Language Syllabus,
+the Chinese Language Department implements a coherent and progressive curriculum
+from Primary 1 to Primary 6, designed to meet students’ learning needs.
+The curriculum emphasises the integrated development of the four language
+skills — Listening, Speaking, Reading and Writing, recognising that effective
+language learning occurs through the concurrent application of these skills.</p>
+<p></p>
+<p>Listening and Speaking</p>
+<p>Primary 1 to Primary 4:
+<br>Instruction is closely aligned with the prescribed textbooks and curriculum
+materials. A range of structured listening and speaking activities, including
+guided oral practice, situational role-play and songs, are incorporated
+to support students’ early language development.</p>
+<p>Primary 5 to Primary 6:
+<br>Learning is organised around thematic units, supported by targeted instructional
+resources. The 5W1H framework is employed to engage students actively in
+learning and to strengthen their confidence and competence in using Mandarin
+for purposeful communication.</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi3.png">
+</div>
+<p><strong>Reading Programme</strong>
+</p>
+<p>It is widely recognised that language learning is closely linked to reading.
+To spark students’ interest in learning Chinese Language and to cultivate
+the habit of reading Chinese storybooks, the Chinese Language Department
+has developed a comprehensive and structured reading programme. Through
+sustained engagement with age-appropriate texts, students are able to benefit
+meaningfully in their overall Chinese Language learning.</p>
+<p>In addition, students at the&nbsp;lower primary levels&nbsp;participate
+in the Ministry of Education’s&nbsp;Mother Tongue Language SOAR Programme&nbsp;(“Spark
+Interest, Open Minds, Appreciate Cultural Roots, Rise as a Bilingual Reader”).
+This programme aims to nurture students’ interest in reading, broaden their
+perspectives, deepen their appreciation of cultural roots, and develop
+them into confident bilingual readers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi4.png">
+</div>
+<p></p>
+<p><strong>Writing Programme</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; Writing instruction adopts a progressive and scaffolded
+approach, guiding students step by step from sentence writing to&nbsp;paragraph
+writing, and eventually to&nbsp;<s>extended </s>compositions.</p>
+<p>2.&nbsp;&nbsp;&nbsp; The&nbsp;5W1H&nbsp;writing strategy is consistently
+applied across all levels to help students organise ideas and express themselves
+clearly and effectively.</p>
+<p>3.&nbsp;&nbsp;&nbsp; Differentiated teaching strategies are implemented
+across the&nbsp;lower, middle, and upper primary levels&nbsp;to cater to
+students’ varying abilities and learning needs.</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi5.png">
+</div>
+<p></p>
