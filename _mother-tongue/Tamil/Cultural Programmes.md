@@ -14,7 +14,7 @@ The aim is to teach our Indian students the background and significance
 of celebrating the Pongal festival. Items related to Pongal are displayed
 in the classroom. Competitions related to Pongal are conducted for the
 students. The students enthusiastically participate in activities such
-as colouring, making greeting cards, and creating e- Pongal advertisements.</p>
+as colouring, making greeting cards, and creating e-Pongal advertisements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes_Classroom.png">
