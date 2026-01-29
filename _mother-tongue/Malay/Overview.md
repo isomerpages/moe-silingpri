@@ -6,11 +6,11 @@ third_nav_title: Malay
 variant: tiptap
 ---
 <h3>Malay</h3>
-<p><strong>Visi (Vision)</strong>
+<p><strong>Vision <em>(Visi)</em></strong>
 </p>
-<p>Kami percaya murid-murid kami akan menjadi murid-murid yang dapat berkomunikasi
-dengan yakin dalam Bahasa Melayu serta menunjukkan nilai-nilai yang murni.</p>
-<p><em>(We believe that our students will become learners who can communicate confidently in the Malay language and demonstrate noble values.)</em>
+<p><em>We believe that our students will become learners who can communicate confidently in the Malay language and demonstrate noble values.</em>
+</p>
+<p><em>(Kami percaya murid-murid kami akan menjadi murid-murid yang dapat berkomunikasi dengan yakin dalam Bahasa Melayu serta menunjukkan nilai-nilai yang murni.)</em>
 </p>
 <p></p>
 <p><strong>Kemahiran Bahasa</strong>
