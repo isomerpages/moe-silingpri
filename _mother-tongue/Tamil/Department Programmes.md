@@ -82,13 +82,11 @@ and the <em>Sutti Mayil</em> monthly magazine.</p>
 <img style="width:120%" height="auto" width="100%" src="/images/Tamil_qoute_.png">
 </div>
 <p>"Just as the body needs exercise, the mind needs reading" – Sigmund Freud</p>
-<h4><strong>Pongal Celebration</strong></h4>
+<h4>வாருங்கள் பேசலாம்</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motivatinal_talk_Media_corp.png">
 </div>
-<p>Every year, it is customary for the school to hold a Pongal celebration.
-The aim is to teach our Indian students the background and significance
-of celebrating the Pongal festival. Items related to Pongal are displayed
-in the classroom. Competitions related to Pongal are conducted for the
-students. The students enthusiastically participate in activities such
-as colouring, making greeting cards, and creating e- Pongal advertisements.</p>
+<p>ஒலி 96.8 லிருந்து அறிவிப்பாளர்கள் திரு ரஃபி,திரு காதர் ஆகியோர் மாணவர்களுடன்
+சிற்சில நடவிக்கைகளை நடந்தி அவர்களைத் தமிழில் பேசவும் விடையளிக்கவும் வாய்ப்பை
+ஏற்படுத்திக் கொடுத்தனர். மாணவர்கள் குதூகலத்துடன் இந்நிகழ்ச்சியில் கலந்தகொண்டு
+தமிழின் பெருமையையும் நம் முன்னோர் நாட்டிற்கு ஆற்றிய பங்கையும் அறிந்துகொண்டனர்.</p>
