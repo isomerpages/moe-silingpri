@@ -3,38 +3,59 @@ title: Cultural Programmes
 permalink: /mother-tongue/Tamil/cultural-programmes/
 description: ""
 third_nav_title: Tamil
-variant: markdown
+variant: tiptap
 ---
-### **பொங்கல்  கொண்டாட்டம்** 
-![](/images/Cultural_programmes__1.png)
-ஒவ்வொரு ஆண்டும் பள்ளியில் பொங்கல் கொண்டாட்டம் நடைபெறுவது வழக்கம். நம் இந்திய மாணவர்களுக்குப் பொங்கல் பண்டிகை கொண்டாடுவதன் பின்னனியைக் கற்பிப்பதே அதன் நோக்கமாகும். வகுப்பறையில் பொங்கல் தொடர்பான பொருள்கள் காட்சிக்கு வைக்கப்படும்.  
-
-#### வகுப்பறையில் பொங்கல் கொண்டாட்டம்
-
-மாணவர்களுக்குப் பொங்கல் தொடர்பான போட்டிகள் நடைபெறும். வண்ணம் தீட்டுதல், வாழ்த்து அட்டை தயாரித்தல், கணினியில் பொங்கல் விளம்பரங்கள் தயாரித்தல் போன்ற நடவடிக்கைகளில் மாணவர்கள் ஆர்வத்துடன் கலந்துகொண்டு பரிசுகள் பெறுவர். 
-
-![](/images/Cultural_programmes_Classroom.png)
-
-#### இடைவேளை நடவடிக்கைகள்  
-![](/images/Cultural_programmes__Recess_Activity.png)
-#### கற்றல் பயணம்
-
-மாணவர்கள் உமர் புலவர் தமிழ்மொழி நிலையத்தில் நடைப்பெற்ற தமிழ் மாத நிகழ்ச்சியில் கலந்து கொண்டனர்.
-
-**மாணவர்கள்:** 
-
-* தமிழரின் மரபுக் கலைகளைப்பற்றி அறிமுகம் பெறுவதோடு செயல்வழியாகக் கற்றுக்கொள்ளும் வாய்ப்பையும் பெறுவர்
-
-* மொழி, பண்பாடுசார்ந்த கற்றல் அனுபவங்கள், வகுப்பறைக்கு அப்பாலும் சிறப்பாகவும் மகிழ்ச்சியாகவும் கலந்துகொண்டு சிறப்பிப்பர்.
-
-![](/images/Cultural_programmes__learning_Journey.png)
-
-#### தீபாவளி கொண்டாட்டம்
-
-வாழ்வில் இருள் அகன்று ஒளி வீசும் என்ற கருப்பொருளை உள்ளடக்கி பள்ளியின் விழுமியங்களையும் அதோடு இணைத்து மாணவர்களுக்கு தீபாவளியின் சிறப்பை  எடுத்துரைத்தது தீபாவளி கலைநிகழ்ச்சி.
-
-![](/images/Deepavali_Hall.png)
-
-
-#### இடைவேளை நடவடிக்கைகள்
-![](/images/Deepavali_Recess_Activities.png)
+<h3><strong>Pongal Celebration</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes__1.png">
+</div>
+<p>Every year, it is customary for the school to hold a Pongal celebration.
+The aim is to teach our Indian students the background and significance
+of celebrating the Pongal festival. Items related to Pongal are displayed
+in the classroom. Competitions related to Pongal are conducted for the
+students. The students enthusiastically participate in activities such
+as colouring, making greeting cards, and creating e- Pongal advertisements.</p>
+<h4>வகுப்பறையில் பொங்கல் கொண்டாட்டம்</h4>
+<p>மாணவர்களுக்குப் பொங்கல் தொடர்பான போட்டிகள் நடைபெறும். வண்ணம் தீட்டுதல்,
+வாழ்த்து அட்டை தயாரித்தல், கணினியில் பொங்கல் விளம்பரங்கள் தயாரித்தல் போன்ற
+நடவடிக்கைகளில் மாணவர்கள் ஆர்வத்துடன் கலந்துகொண்டு பரிசுகள் பெறுவர்.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes_Classroom.png">
+</div>
+<h4>இடைவேளை நடவடிக்கைகள்</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes__Recess_Activity.png">
+</div>
+<h4><strong>Learning Journey</strong></h4>
+<p>The students participated in the Tamil Month programme held at the Umar
+Pulavar Tamil Language Centre.</p>
+<p><strong>Students:</strong>
+</p>
+<ul>
+<li>
+<p>Gained an introduction to the traditional arts of the Tamil community
+and also had opportunities to learn through hands-on activities.</p>
+</li>
+<li>
+<p>Took part in language and culture based learning experiences beyond the
+classroom in an engaging and enjoyable manner.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes__learning_Journey.png">
+</div>
+<h4><strong>Deepavali Celebration</strong></h4>
+<p>The Deepavali cultural performance highlighted the significance of Deepavali
+to the students by incorporating the theme of <em>darkness giving way to light</em> and
+linking it with the school’s values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="94" width="154" alt="Text Box:">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deepavali_Hall.png">
+</div>
+<h4><strong>Recess Activities</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deepavali_Recess_Activities.png">
+</div>
+<p></p>
