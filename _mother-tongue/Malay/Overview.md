@@ -13,8 +13,6 @@ variant: tiptap
 <p><em>(Kami percaya murid-murid kami akan menjadi murid-murid yang dapat berkomunikasi dengan yakin dalam Bahasa Melayu serta menunjukkan nilai-nilai yang murni.)</em>
 </p>
 <p></p>
-<p><strong>Kemahiran Bahasa</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/malay1.png">
 </div>
