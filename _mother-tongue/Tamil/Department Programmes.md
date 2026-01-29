@@ -3,73 +3,92 @@ title: Department Programmes
 permalink: /mother-tongue/Tamil/department-programmes/
 description: ""
 third_nav_title: Tamil
-variant: markdown
+variant: tiptap
 ---
-### **தமிழ்த் துறையின் நடவடிக்கைகள்:**
-
-நம் மாணவர்கள் வகுப்பறையில் மட்டுமல்லாமல் வகுப்பறைக்கு அப்பாலும் பல வளமூட்டும் நடவடிக்கைகளில் ஈடுபடுகிறார்கள்.
-
-![](/images/Department_Programme.png)
-
-#### தமிழில் சங்கமம்
-
-மாணவர்கள் தங்கள் மொழி வளத்தைப் பெருக்கிக் கொண்டு சரளமாகவும் தன்னம்பிக்கையுடனும பேசி பன்முகக் கலைகளிலும் தங்கள் திறனை வெளிப்படுத்தும் ஒரு நிகழ்வு தமிழில் சங்கமம்.
-
-**வகுப்பு ஒன்று: எதிர்காலத்தில் நான்** 
-
-ஒன்றாம் வகுப்பு மாணவர்கள் தம்மைப் பற்றியோ தங்கள் உடன் பிறந்தவர்கள் பற்றியோ, குடும்பத்தினர் பற்றியோ தங்களுக்கு பிடித்தமானவற்றைப் பற்றியோ வகுப்பில் அனைவர் முன்னிலையிலும் தயக்கமின்றித் தன்னம்பிக்கையுடனும்  ஊக்கத்துடனும் பேசுவதற்கான பயிற்சியைப் பெறுவர். இதன்வழி மாணவர்கள் தமிழில் சரளமாகப் பேசுபவராகவும்  கருத்துப் பரிமாற்றம் செய்பவராகவும் உருவாகுவார்கள் என்பது நிச்சயம். 
-
-![](/images/Primary_1.png)
-
-**வகுப்பு இரண்டு: பாட்டு பாடுவோம் வாரீர்** 
-
-இரண்டாம் வகுப்பு மாணவர்கள் பாடல்கள் வழி சொல் வளத்தைப் பெருக்குவதோடு அவற்றின் பொருள் உணர்ந்து உடல் அசைவுகளோடு மகிழ்ச்சியான சூழலில் பாடுவர்.
-
-![](/images/Primary_2.png)
-
-**வகுப்பு மூன்று: கதைக் கூறுவோம் வாரீர்**
-
-மாணவர்கள் மாதத்திற்கு ஒருமுறை பொருத்தமான கதைகளை வாசித்த பிறகு அவற்றைச் சுருக்கிக் கூறுதல், விமர்சனம் செய்தால்,புதிய சொற்களை அறிதல் கதையை மாற்றி அமைத்தல்,புதிய கதைகளை உருவாக்குதல் போன்ற நடவடிக்கைகளை மேற்கொள்வர்.
-
-
-![](/images/Primary_3.png)
-
-**வகுப்பு நான்கு: அறிமுகம் செய்வோம் அறிந்து கொள்வோம்**
-
-மாணவர்கள் மாதத்திற்கு ஒருமுறை யாரேனும் ஒரு பிரபலத்தைப் பற்றி வகுப்பில் எல்லார் முன்னிலையிலும் அறிமுகம் செய்வார்கள். மாணவர்களின் படைப்பு ஆக்கத்தையும் புத்தாக்கத்தையும் சிந்தனைத் திறனையும் வளர்ப்பது இந்த நடவடிக்கையின் நோக்கம் ஆகும். இந்த பயிற்சி ‘விளம்பரம் செய்வோம்!’என்ற போட்டிக்கு மாணவர்களைத் தயார் செய்ய உதவுவதோடு ஆர்வமூட்டும் வகையில் தமிழை கற்கவும் உதவும்.
-
-
-
-![](/images/Primary_4.png)
-
-**வகுப்பு ஐந்து: அடுக்குமொழி தயாரிப்போம்! பாடுவோம்!**
-
-ஐந்தாம் வகுப்பு மாணவர்கள் இரு மாதத்திற்கு ஒரு முறை ஏதேனும் ஒரு கருப்பொருளை ஒட்டி பாடல் வரிகள் தயாரிப்பார்கள். இப்பாடல் வரிகள் பல நல்ல கருத்துக்களையும், விழுமியங்களையும் வெளிப்படுத்தும் வகையில் அமையவேண்டும். மாணவர்கள் தாங்கள் எழுதிய பாடலுக்கு மெட்டமைத்துப் பாடிப் பயிற்சி செய்வார்கள்.
-
-
-
-![](/images/Primary_5.png)
-
-**வகுப்பு ஆறு: கூறுகிறேன் கேளுங்கள்!**
-
-மாணவர்கள் தாங்கள் படித்த கதைகளைப் பற்றியோ, செய்தி துணுக்குகள் பற்றியோ தயாரித்து படைப்பார்கள். இம்மாதிரியான படைப்புகளை மாணவர்கள் தவணைக்கு ஒருமுறை தயாரித்துப் படைப்பார்கள். இந்நடவடிக்கை மாணவர்களின் பேச்சுத் திறனை மேம்படுத்த உதவும்.  இந்த அனுபவம் அவர்கள் தன்னம்பிக்கையுடன் பேசுப்போட்டியில் கலந்துகொள்ள உறுதுணையாக அமையும்.
-
-
-![](/images/Primary_6.png)
-
-#### வாசிப்போம் வாரீர்
-
-ஒன்றாம் இரண்டாம் வகுப்பு மாணவர்களுக்கு ஆசிரியர் பெரிய புத்தகம் வாயிலாகக் கதைக் கூறுவார். மாணவர்கள் அதன் தொடர்பான உரையாடுதல் நடித்தல் போன்ற மகிழ்வான சூழலில் அமைந்த நடவடிக்கைகளில் உற்சாகமாக ஈடுப்படுவர்.
-
-<img src="/images/Culutral_Programmes__Reading__.png">
-
-மூன்றாம் வகுப்பு முதல் ஆறாம் வகுப்பு மாணவர்கள் வாசிப்பு நடவடிக்கைகளில்     இருவாரத்திற்கு ஒருமுறை ஈடுபடுவர். அவர்கள் கதை நூல்கள் சுட்டிமயில் மாத இதழ் போன்ற வளங்களைப் பயன்படுத்துவர்.
-
-<img style="width:120%" src="/images/Tamil_qoute_.png">
-
-#### வாருங்கள் பேசலாம்
-
-![](/images/Motivatinal_talk_Media_corp.png)
-
-ஒலி 96.8 லிருந்து அறிவிப்பாளர்கள் திரு ரஃபி,திரு காதர் ஆகியோர் மாணவர்களுடன் சிற்சில  நடவிக்கைகளை நடந்தி அவர்களைத் தமிழில் பேசவும் விடையளிக்கவும் வாய்ப்பை ஏற்படுத்திக் கொடுத்தனர். 
-மாணவர்கள் குதூகலத்துடன்  இந்நிகழ்ச்சியில் கலந்தகொண்டு தமிழின் பெருமையையும் நம் முன்னோர் நாட்டிற்கு ஆற்றிய பங்கையும் அறிந்துகொண்டனர்.
+<h3><strong>Activities of the Tamil Department:</strong></h3>
+<p>Our students take part in many enriching activities not only in the classroom
+but also beyond it.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Programme.png">
+</div>
+<h4><strong>Tamizhilil Sangamam</strong></h4>
+<p><em>Tamizhilil Sangamam</em> is an event where students enrich their language
+skills, speak fluently and confidently, and showcase their talents in various
+art forms.</p>
+<p><strong>Primary One: My Future</strong>
+</p>
+<p>Primary One students start their journey sharing about themselves, their
+siblings, their family members, persons they like confidently, without
+hesitation and with enthusiasm in front of the class. Through this, students
+will certainly develop into fluent Tamil speakers who are able to communicate
+their ideas effectively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_1.png">
+</div>
+<p><strong>Primary Two: Come, Let Us Sing</strong>
+</p>
+<p>Primary Two students will expand their vocabulary through songs and, by
+understanding their meanings, sing them with actions in a joyful environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_2.png">
+</div>
+<p><strong>Primary Three: Come, Let Us Tell Stories</strong>
+</p>
+<p>Once a month, students will read suitable stories and then take part in
+activities such as summarizing them, giving reviews, learning new vocabulary,
+modifying the story and creating new stories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_3.png">
+</div>
+<p><strong>Primary Four: Let Us Introduce and Get to Know</strong>
+</p>
+<p>Once a month, students will introduce a well-known personality in front
+of the class. The aim of this activity is to develop students’ creativity,
+innovation, and thinking skills. This practice also helps prepare students
+for the “Let Us Advertise!” competition and encourages interest in learning
+Tamil in an engaging way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_4.png">
+</div>
+<p><strong>Primary Five: Let’s Create Jingles! Let’s &nbsp;Sing!</strong>
+</p>
+<p>Once every two months, Primary Five students will compose song lyrics
+based on a chosen theme. These lyrics should convey positive ideas and
+values. Students will then set their lyrics to a tune and practice singing
+the songs they have written.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_5.png">
+</div>
+<p><strong>Primary Six: Listen, for I speak with purpose</strong>
+</p>
+<p>Students will create once a term presentations based on stories they have
+read or news excerpts. This activity helps improve students’ speaking skills
+and gives them the confidence to participate in oratorical &nbsp;competitions
+with self-assurance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_6.png">
+</div>
+<h4><strong>Let’s&nbsp; Read</strong></h4>
+<p>For Primary One and Two students, the teacher will narrate stories using
+a big book. Students will actively participate with enthusiasm in related
+activities set in a joyful environment, such as discussions and dramatizations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Culutral_Programmes__Reading__.png">
+</div>
+<p>Students from Primary Three to Primary Six will participate in reading
+activities once every two weeks. They will use resources such as storybooks
+and the <em>Sutti Mayil</em> monthly magazine.</p>
+<div class="isomer-image-wrapper">
+<img style="width:120%" height="auto" width="100%" src="/images/Tamil_qoute_.png">
+</div>
+<p>"Just as the body needs exercise, the mind needs reading" – Sigmund Freud</p>
+<h4><strong>Pongal Celebration</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motivatinal_talk_Media_corp.png">
+</div>
+<p>Every year, it is customary for the school to hold a Pongal celebration.
+The aim is to teach our Indian students the background and significance
+of celebrating the Pongal festival. Items related to Pongal are displayed
+in the classroom. Competitions related to Pongal are conducted for the
+students. The students enthusiastically participate in activities such
+as colouring, making greeting cards, and creating e- Pongal advertisements.</p>
