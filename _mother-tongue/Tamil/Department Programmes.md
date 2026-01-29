@@ -27,7 +27,7 @@ their ideas effectively.</p>
 </div>
 <p><strong>Primary Two: Come, Let Us Sing</strong>
 </p>
-<p>Primary Two students will expand their vocabulary through songs and, by
+<p>Primary Two students will expand their vocabulary through songs and by
 understanding their meanings, sing them with actions in a joyful environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_2.png">
