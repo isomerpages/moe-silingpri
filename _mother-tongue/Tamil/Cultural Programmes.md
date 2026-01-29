@@ -49,9 +49,6 @@ classroom in an engaging and enjoyable manner.</p>
 to the students by incorporating the theme of <em>darkness giving way to light</em> and
 linking it with the school’s values.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="94" width="154" alt="Text Box:">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deepavali_Hall.png">
 </div>
 <h4><strong>Recess Activities</strong></h4>
