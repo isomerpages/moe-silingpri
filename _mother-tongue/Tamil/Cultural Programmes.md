@@ -15,16 +15,9 @@ of celebrating the Pongal festival. Items related to Pongal are displayed
 in the classroom. Competitions related to Pongal are conducted for the
 students. The students enthusiastically participate in activities such
 as colouring, making greeting cards, and creating e- Pongal advertisements.</p>
-<h4>வகுப்பறையில் பொங்கல் கொண்டாட்டம்</h4>
-<p>மாணவர்களுக்குப் பொங்கல் தொடர்பான போட்டிகள் நடைபெறும். வண்ணம் தீட்டுதல்,
-வாழ்த்து அட்டை தயாரித்தல், கணினியில் பொங்கல் விளம்பரங்கள் தயாரித்தல் போன்ற
-நடவடிக்கைகளில் மாணவர்கள் ஆர்வத்துடன் கலந்துகொண்டு பரிசுகள் பெறுவர்.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes_Classroom.png">
-</div>
-<h4>இடைவேளை நடவடிக்கைகள்</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_programmes__Recess_Activity.png">
 </div>
 <h4><strong>Learning Journey</strong></h4>
 <p>The students participated in the Tamil Month programme held at the Umar
