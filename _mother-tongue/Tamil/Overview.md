@@ -6,8 +6,10 @@ third_nav_title: Tamil
 variant: tiptap
 ---
 <h3>Tamil</h3>
-<p><strong>குறிக்கோள் :</strong>
+<p><strong>Vision <em>(குறிக்கோள்)</em>:</strong>
 </p>
+<p>Students to be confident and proficient communicators in the Tamil Language
+and exhibit good values.</p>
 <p>சீ லிங் தொடக்கப்பள்ளி மாணவர்கள் சிந்திக்கும் ஆற்றலுடன் தமிழ் மொழியில்
 திறமைப் பெற்றுப் பண்புமிக்கக் குடிமக்களாகத் திகழ்வர்.</p>
 <p></p>
