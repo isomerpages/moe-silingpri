@@ -3,55 +3,73 @@ title: Mother Tongue Fortnight
 permalink: /mother-tongue/Tamil/fornight/
 description: ""
 third_nav_title: Tamil
-variant: markdown
+variant: tiptap
 ---
-### தமிழ் மொழி வார நடவடிக்கைகள் :
-
-இந்த நடவடிக்கைகள் மாணவர்களுக்குத் தமிழ் மீது உள்ள ஆர்வத்தை மேலும் பலப்படுத்தவும் தமிழ் கற்றலை மேலும் சுவைமிக்கதாக்கவும் நடத்தப்படுகின்றன.அதுமட்டுமல்லாமல் நமது பண்பாடு, கலாச்சாரம், பாரம்பரியம் ஆகியவற்றையும் அறிந்துகொள்ள அவை உதவுகின்றன.
-
-![](/images/Fortnight1.png)
-
-#### சிறுவர் பாடல்கள்
-
-ஒன்றாம் வகுப்பு மாணவர்கள் பாடல் பட்டறையில் கலந்து கொண்டனர். குழந்தை பாடல்கள் அளவில் சிறியதாகவும் அவற்றில் இடம்பெறும் சொற்கள் திரும்பத் திரும்பச் சொல்லக்கூடியதாகவும் இருக்கின்றன. மேலும் குழந்தைகள் வார்த்தைகளுக்கு ஏற்ப உடல் அசைவுகளை இணைத்து பாடலில் ஈடுபடுகின்றனர். 
-
-வார்த்தைகள் மற்றும் சொற்றொடர்களை திரும்பத் திரும்பச் சொல்வது மொழித் திறனை வலுப்படுத்த உதவுகிறது. இந்த  அணுகுமுறையானது கேட்கும் திறன் மற்றும் ஒட்டுமொத்த மொழிப் புரிதலுக்குச் சுவாரஸ்யமாகவும் உயிரோட்டமாகவும் அமைகிறது.
-
-![](/images/MT_Fortnight2.png)
-
-#### நாடகம்
-
-இரண்டாம் வகுப்பு மாணவர்கள் நாடகப் பட்டறையில் கலந்துகொண்டார்கள். அவர்கள் கதைகளுக்கு ஏற்ப நடித்து மகிழ்ந்தார்கள். படைப்பாற்றல் மற்றும் சுய வெளிப்பாடு ஆகியவற்றை ஊக்குவிப்பதுடன் நம்பிக்கையுடனும் பேசுவதற்கு நாடகம் குழந்தைகளை உற்சாகப்படுத்துகிறது. 
-
-
-![](/images/MT_Fortnight3.png)
-#### உணவே  மருந்து
-
-மூன்றாம் வகுப்பு மாணவர்கள் இந்திய உணவில் இருக்கும் மருத்துவத் தன்மையைப் பற்றி விளக்கும் பட்டறையில் கலந்துகொண்டனர். மாணவர்கள் வெற்றிலை, கொத்தமல்லி, புதினா, கறிவேப்பிலை போன்ற பொருள்களைத் தொட்டுப் பார்த்தது மட்டுமல்லாமல் அவற்றில் அடங்கியிருக்கும் மருத்துவ குணங்களையும் அறிந்துகொண்டனர்.
-
-<img src="/images/Mother_Tongue_Fortnight__2.png">
-
-மாணவர்கள் சமையலுக்குப் பயன்படும் வாசனைப் பொருள்களைப் பற்றியும் அவற்றின் மருத்துவ குணங்களையும் அவற்றைச் சாப்பிடுவதன் முக்கியத்துவத்தையும் புரிந்துகொண்டனர்.
-
-
-#### தாய்மொழி நடவடிக்கை நாள் 
-
-நான்காம் வகுப்பு மாணவர்கள் ஒருநாள் தாய்மொழி நடவடிக்கை நாளில் கலந்துகொண்டு இந்திய கலாசாரம் மற்றும் பண்பாடு பற்றிப் பல தகவல்களை அறிந்துகொண்டனர்.
-
-<img style="width:100%" src="/images/Mother_Tongue_Fortnight__1.png">
-
-அவர்களிடம் உள்ள கலைத்திறனை வெளிப்படுத்த கைவினைப்பொருட்கள் செய்தல் ,வண்ணம் தீட்டுதல் மேலும் பாரம்பரிய நடனம், விளையாட்டு  ஆகியவற்றில் உற்சாகத்துடன் ஈடுபட்டு வெளிப்படுத்தினர்.
-
-#### மின்னிலக்கச் சித்திரம்
-
-ஐந்தாம் வகுப்பு மாணவர்கள் மின்னிலக்க கேலிச்சித்திரம் என்ற பட்டறையில் கலந்துகொண்டனர். அவர்கள் ஒரு கதை உருவாக்கி சில செயலிகளின் வாயிலாக கேலிச்சித்திரங்களின் உதவியோடு கதாப்பாத்திரங்களுக்கு உயிரூட்டி வகுப்பின் முன் படைத்தனர். மாணவர்கள் தகவல் தொழில் நுட்ப  திறன்களுடன் படைப்பாக்கத்திறனையும் வெளிப்படுத்தினர்.
-
-![](/images/MT_Fortnight4.png)
-
-#### தமிழும் செயற்கை நுண்ணறிவும்
-
-ஆறாம் வகுப்பு மாணவர்கள் தமிழும் நுண்ணறிவும் என்ற பட்டறையில் கலந்து கொண்டு ‘நுண்ணறிவின்’ நுணுக்கங்களைக் கற்றனர். பின் குழுக்களாகக் கதை உருவாக்கி தன்னம்பிக்கையுடன் வகுப்பின் முன் படைத்தனர். தகவல் தொழில் நுட்பத்  திறன்களுடன் புத்தாக்கச் சிந்தனையும் படைப்பாக்கத்திறனையும் வெளிப்படுத்தினர்.
-
-![](/images/MT_Fortnight5.png)
-
-மாணவர்களுக்குத் தமிழ் மீது ஆர்வம் பெருக இந்த இரு வார தமிழ்மொழி வார நடவடிக்கைககள் ஒரு நல்ல முயற்சியாக அமைகிறது.
+<h3><strong>Mother Tongue Fortnight Activities:</strong></h3>
+<p>These activities are conducted to further strengthen students’ interest
+in the Tamil language and to make the learning of Tamil more enjoyable.
+In addition, they help students learn about our culture, heritage and traditions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fortnight1.png">
+</div>
+<h4><strong>Children’s Songs</strong></h4>
+<p>Primary One students participated in a song workshop. Children’s songs
+are short in length, and the words used in them are repetitive and easy
+to repeat. In addition, children engage in the songs by incorporating body
+movements that match the words.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="76" width="117" alt="Text Box:">
+</div>
+<p>Repeating words and phrases helps to strengthen language skills. This
+approach makes listening skills and overall language comprehension more
+interesting and lively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Fortnight2.png">
+</div>
+<h4><strong>Drama</strong></h4>
+<p>Primary Two students participated in a drama workshop. They enjoyed acting
+according to the stories. Drama encourages creativity and self-expression
+and also motivates children to speak with confidence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Fortnight3.png">
+</div>
+<h4><strong>Food as Medicine</strong></h4>
+<p>Primary Three students participated in a workshop that explained the medicinal
+properties found in Indian cuisine. The students not only touched and examined
+ingredients such as betel leaves, coriander, mint, and curry leaves but
+also learned about the health benefits contained in them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Mother_Tongue_Fortnight__2.png">
+</div>
+<p>The students gained an understanding of the aromatic ingredients used
+in cooking, their medicinal properties, and the importance of consuming
+them.</p>
+<h4><strong>Mother Tongue Activity Day</strong></h4>
+<p>Primary Four students participated in a one-day Mother Tongue Activity
+Day, during which they learned many things about Indian culture and traditions</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/Mother_Tongue_Fortnight__1.png">
+</div>
+<p>They expressed their artistic talents by engaging enthusiastically in
+activities such as making handicrafts, colouring, as well as participating
+in traditional dance and games.</p>
+<h4><strong>Digital Cartooning</strong></h4>
+<p>Primary Five students participated in a workshop on digital cartooning.
+They created a story and, using various applications, brought the characters
+to life with the help of cartoons and presented their work in front of
+the class. The students demonstrated both their creativity and their information
+technology skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Fortnight4.png">
+</div>
+<h4><strong>Tamil and Artificial Intelligence</strong></h4>
+<p>Primary Six students participated in a workshop titled <em>Tamil and Artificial Intelligence</em>,
+where they learned the fundamentals of artificial intelligence. They then
+worked in groups to create stories and confidently presented them in front
+of the class. The students demonstrated innovative thinking, creativity
+and information technology skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Fortnight5.png">
+</div>
+<p>These two-week Tamil Language Week activities serve as a meaningful effort
+to further increase students’ interest in the Tamil language.</p>

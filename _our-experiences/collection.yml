@@ -2,9 +2,12 @@ collections:
   our-experiences:
     output: true
     order:
-      - Staff Recognition.md
       - Overview.md
       - Discovering Si Ling.md
+      - Staff Recognition.md
+      - Students' Achievements/.keep
+      - Students' Achievements/Overview.md
+      - Students' Achievements/Hear From Our Alumni.md
       - Lead Our Lives (LOL) with Purpose.md
       - Programme for Active Learning.md
       - Co Curricular Activities/.keep
@@ -12,4 +15,3 @@ collections:
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs.md
       - Co Curricular Activities/Sports.md
-      - English/.keep
