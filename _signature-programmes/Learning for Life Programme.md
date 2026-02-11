@@ -10,7 +10,9 @@ Posner’s <em>The Leadership Challenge</em>. By understanding the five domains
 outlined in the framework, students at SLPS are guided to develop and demonstrate
 key leadership traits.</p>
 <p></p>
-<p>&lt;Diagram&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
+</div>
 <p></p>
 <h4><strong>Student Leadership Framework</strong></h4>
 <p>At Si Ling Primary School, we believe that <strong>every student is a leader</strong>.
@@ -106,8 +108,10 @@ engagement.</p>
 <p>Through this structured and developmental approach, Si Ling Primary School
 nurtures confident, values-driven leaders who are prepared to serve, inspire
 others, and make a positive difference—both in school and beyond.</p>
-<p>&nbsp;</p>
-<p>&lt;Diagram&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <p></p>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Students Voice Forum</strong>
@@ -131,8 +135,19 @@ Voice initiative. This collaboration provided an opportunity for cluster
 schools to learn from SLPS’ experience in infusing 21CC in the LLP, and
 explore ways to adapt the initiative in their own contexts.</p>
 <p></p>
-<p>&lt;Image&gt;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26.png">
+</div>
 <p><strong>Kindergarten Outreach (Si Ling School Experience)</strong>
 </p>
 <p>All Level 3 Student Leaders—including Prefects, CCA Leaders, and Environment
@@ -145,5 +160,10 @@ to serve as school guides for the campus tour. Positive feedback was received
 from the visiting kindergartens, participating parents, and our own student
 leaders. Through this programme, student leaders developed essential 21st-century
 competencies, particularly in collaboration and communication.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
+</div>
 <p></p>
-<p>&lt;Image&gt;</p>
