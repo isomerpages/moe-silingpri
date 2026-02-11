@@ -135,7 +135,6 @@ Voice initiative. This collaboration provided an opportunity for cluster
 schools to learn from SLPS’ experience in infusing 21CC in the LLP, and
 explore ways to adapt the initiative in their own contexts.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/23.png">
 </div>
@@ -146,7 +145,7 @@ explore ways to adapt the initiative in their own contexts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/25.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26.png">
 </div>
 <p><strong>Kindergarten Outreach (Si Ling School Experience)</strong>
 </p>
