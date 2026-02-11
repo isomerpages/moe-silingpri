@@ -146,7 +146,7 @@ explore ways to adapt the initiative in their own contexts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/25.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_2026.png">
 </div>
 <p><strong>Kindergarten Outreach (Si Ling School Experience)</strong>
 </p>
