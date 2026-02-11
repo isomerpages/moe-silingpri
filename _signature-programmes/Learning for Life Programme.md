@@ -148,6 +148,9 @@ explore ways to adapt the initiative in their own contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_2026.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26.png">
+</div>
 <p><strong>Kindergarten Outreach (Si Ling School Experience)</strong>
 </p>
 <p>All Level 3 Student Leaders—including Prefects, CCA Leaders, and Environment
@@ -160,9 +163,6 @@ to serve as school guides for the campus tour. Positive feedback was received
 from the visiting kindergartens, participating parents, and our own student
 leaders. Through this programme, student leaders developed essential 21st-century
 competencies, particularly in collaboration and communication.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
 </div>
