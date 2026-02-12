@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **P1 Transition Programme**
 
-<img align="right" style="width:80%;margin-right:-55px;margin-left:-50px" src="/images/P1_Transitional_Programme.png"> 
+<img align="right" style="width:80%;margin-right:-55px;margin-left:-50px" src="/images/1_transiton.png"> 
 
 P1 students do not start their formal curriculum in the first week. They have Orientation Week.
 
@@ -89,7 +89,7 @@ P1 students do not start their formal curriculum in the first week. They have Or
 	<li>Video on Canteen Etiquette (to be shown before recess)</li>
 	<li>Icebreaker Games with classmates </li>
 </ul>
-<img align="right" style="width:80%;margin-right:-127px; margin-left:-95px" src="/images/P1_day_1.png">
+<img align="right" style="width:80%;margin-right:-127px; margin-left:-95px" src="/images/2_transition.png">
 
 ##### Day 2
 
