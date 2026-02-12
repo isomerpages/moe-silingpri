@@ -17,12 +17,10 @@ In addition, they help students learn about our culture, heritage and traditions
 are short in length, and the words used in them are repetitive and easy
 to repeat. In addition, children engage in the songs by incorporating body
 movements that match the words.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="76" width="117" alt="Text Box:">
-</div>
 <p>Repeating words and phrases helps to strengthen language skills. This
 approach makes listening skills and overall language comprehension more
 interesting and lively.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Fortnight2.png">
 </div>

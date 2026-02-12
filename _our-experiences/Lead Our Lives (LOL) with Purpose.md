@@ -4,7 +4,7 @@ permalink: /our-experiences/lol/
 description: ""
 variant: markdown
 ---
-<img style="width:80%;margin-left:auto" align="right" src="/images/LOL__1.png">
+<img style="width:80%;margin-left:auto" align="right" src="/images/30_LOL_P.png">
 
 #### **L**ead 
 #### **O**ur
@@ -18,7 +18,7 @@ Through a series of activities and learning experiences, these students will be 
 
 
 **Pupils will develop social emotional competencies:**
-	<img style="width:60%;margin-left:-50px" align="left" src="/images/LOL___2_.png">
+	<img style="width:60%;margin-left:-50px" align="left" src="/images/31_LOL_P.png">
 	
 ✅ Self-Awareness  
 ✅Social Awareness  
@@ -37,7 +37,7 @@ Through a series of activities and learning experiences, these students will be 
 
 			
 **Approach:**
-<img style="width:70%;margin-left:-50px" align="right" src="/images/LOL___3.png">
+<img style="width:70%;margin-left:-50px" align="right" src="/images/32_LOL_P.png">
 	
 ✅ Interactive games and activities  
 ✅Motivational talks &amp; videos&nbsp;  
