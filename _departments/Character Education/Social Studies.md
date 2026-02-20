@@ -31,7 +31,7 @@ Our Primary Four pupils visited the Kreta Ayer Heritage Gallery as part of their
 
 <img src="/images/49.png">
 
-**MBL&nbsp;to**&nbsp;**to interactive Heritage Trail – Primary Five**  
+**MBL&nbsp;to**&nbsp;**Indian Heritage Centre – Primary Five**  
   
 
 Our Primary Five pupils embarked on their Museum-Based Learning to Indian Heritage Centre, as part of their Social Studies curriculum on "Life in Southeast Asia Today", students explored how cultures and traditions connect countries in the region. Through engaging exhibits, students explored how festivals, traditional attire, music and food reflect Indian heritage and connect cultures across Southeast Asia, contributing to Singapore’s multicultural identity.
@@ -40,10 +40,10 @@ The experience deepened their appreciation of shared heritage and cultural diver
 
 <img src="/images/50.png">
 
-**MBL to Bukit Chandu – Asian Civilisations Museum**
+**MBL to Asian Civilisations Museum – Primary Six**
 
 Our Primary 6 students explored the Asian Civilisations Museum (ACM) as part of their Social Studies curriculum on "Legacies of Ancient Civilisations". Through artefacts and interactive exhibits from ancient China, India and Southeast Asia, students examined how early civilisations made significant contributions in areas such as writing systems, trade networks, art and architecture. They discovered how these achievements continue to shape societies and influence our world today.
 
 The visit also encouraged them to think critically, ask questions, and appreciate the importance of heritage preservation in understanding our shared Asian identity.
 
-<img src="/images/51.png">
+<img src="/images/51_1.png">
