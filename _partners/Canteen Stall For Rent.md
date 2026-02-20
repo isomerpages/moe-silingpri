@@ -40,17 +40,17 @@ etc</p>
 email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 61 Woodlands Ave 1, Singapore 739067</p>
+<p><strong>Address:</strong> 61 Woodlands Ave 1, Singapore 739067</p>
 </li>
 <li>
-<p>Contact No: 6269 8832</p>
+<p><strong>Contact No:</strong> 6269 8832</p>
 </li>
 <li>
-<p>Email: <a href="mailto:slps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">slps@moe.edu.sg</a>
+<p><strong>Email:</strong>  <a href="mailto:slps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">slps@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Ms. Michelle Tan</p>
+<p><strong>Contact Person:</strong> Ms. Michelle Tan</p>
 </li>
 </ul>
 </li>
@@ -58,11 +58,11 @@ email OR to the School's General Office.</p>
 <h4><strong>How to Get There</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Woodlands MRT</p>
+<p><strong>Nearest MRT:</strong> Woodlands MRT</p>
 </li>
 <li>
-<p>Bus from Woodlands Bus Interchange: 912 from Berth 12 (3 stops and alight
-opposite school)</p>
+<p><strong>Bus from Woodlands Bus Interchange:</strong> 912 from Berth 12
+(3 stops and alight opposite school)</p>
 </li>
 </ul>
 <h4><strong>Interested applicants must meet the following criteria:</strong></h4>
