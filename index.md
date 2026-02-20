@@ -26,6 +26,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Canteen Stall Opportunity
+          date: 20 February 2026
+          announcement: Interested in running a canteen stall in our school? Click below
+            to find out more.
+          link_text: More information
+          link_url: https://www.silingpri.moe.edu.sg/canteen-stall-opportunity/
         - title: Key Updates for 2026
           date: 02 December 2025
           announcement: Please refer to the Parents Gateway app for the latest resources

@@ -1,7 +1,7 @@
 ---
 title: Canteen Stall Opportunity
 permalink: /canteen-stall-opportunity/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
