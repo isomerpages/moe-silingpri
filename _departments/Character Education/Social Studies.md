@@ -3,6 +3,7 @@ title: Social Studies
 permalink: /our-experiences/Character-Education/social-studies/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
 ### Social Studies
 
@@ -15,32 +16,34 @@ FBL is part of the Social Studies curriculum where students explore, construct n
 
 **FBL to National Orchid Garden – Primary Two**
 
-Our Primary 2 students went for their first Field-Based Learning (FBL) to National Orchid Garden. FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about our National Symbols and develop an appreciation for the diverse communities in Singapore.
-<img src="/images/About%20Us/social%20studies%201.png">
+Our Primary Two pupils went for their first Field-Based Learning (FBL) to National Orchid Garden. FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about our National Symbols and develop an appreciation for the diverse communities in Singapore.
+<img src="/images/47.png">
 
-**FBL to Singapore Zoo – Primary Three**
+**MBL to Geylang Serai Heritage Gallery – Primary Three**
 
-Our Primary Three pupils visited the Singapore Zoo as part of their Field-based learning experience, in collaboration with Science Department. ICT tools like IPads are used during the learning journey to capture picturesque moments.
+Our Primary Three pupils embarked on their first Museum-Based learning to Geylang Serai Heritage Gallery. Through a guided tour of the vibrant Geylang Serai Market, they explored traditional Malay Kampung houses, local cuisines, clothing and spices. The students also discovered the rich history of Geylang Serai and gained deeper insights into the architectural heritage and cultural practices of the Malay-Muslim community in Singapore.
 
-<img src="/images/cce17.png" style="width:55%">
+<img src="/images/48_1.png">
 		 
-**FBL to**&nbsp;**National Gallery of Singapore**&nbsp;**– Primary Four**
+**MBL to**&nbsp;**Kreta Ayer Heritage Gallery**&nbsp;**– Primary Four**
 
-Our Primary Four pupils visited the National Gallery of Singapore as part of of their Field-based learning experience, in collaboration with Arts Department. They are assigned a theme and did a diorama based on their research and experiences visiting the museum.
+Our Primary Four pupils visited the Kreta Ayer Heritage Gallery as part of their Social Studies Museum-Based Learning experience. At the gallery, they explored the rich history of the Kreta Ayer area and learnt about key Chinese cultural art forms such as Chinese opera, Nanyin music, Chinese puppetry, calligraphy and tea appreciation through photos, artefacts and stories that reflect the community's heritage and traditions.
 
-<img src="/images/cce18.png" style="width:55%">
+<img src="/images/49.png">
 
-**FBL&nbsp;to**&nbsp;**to interactive Heritage Trail – Primary Five**  
+**MBL&nbsp;to**&nbsp;**Indian Heritage Centre – Primary Five**  
   
 
-Our Primary Five pupils went on an interactive Heritage Trail as part of their Social Studies field-based learning. Using ‘Jigsaw Strategy’, each class was split into three teams to explore and experience Kampong Glam, Little India and Chinatown simultaneously. Pupils were given the opportunity to make explicit meaningful connections between classroom experiences and the environment, using the affordances of wireless and mobile technologies.&nbsp;
+Our Primary Five pupils embarked on their Museum-Based Learning to Indian Heritage Centre, as part of their Social Studies curriculum on "Life in Southeast Asia Today", students explored how cultures and traditions connect countries in the region. Through engaging exhibits, students explored how festivals, traditional attire, music and food reflect Indian heritage and connect cultures across Southeast Asia, contributing to Singapore’s multicultural identity.
 
-At the end of the trail, the pupils returned to their class to share with their peers on the cultural and practices that they have learnt at each site. By engaging their senses of sight, touch and hearing through the trail, we hope the pupils can foster a greater sense of pride and belonging to our rich Singapore heritage.
+The experience deepened their appreciation of shared heritage and cultural diversity, bringing classroom learning to life while nurturing respect and cross-cultural understanding.
 
-<img src="/images/cce19.png" style="width:55%">
+<img src="/images/50.png">
 
-**FBL to Bukit Chandu – Primary Six**
+**MBL to Asian Civilisations Museum – Primary Six**
 
-Our Primary 6 students went for their Museum-Based Learning (MBL) to Reflections at Bukit Chandu. MBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn more about the Malay Regiment, the stories of their courage and sacrifice in the Battle of Pasir Panjang during World War II, as well as the history of Bukit Chandu.
+Our Primary Six pupils explored the Asian Civilisations Museum (ACM) as part of their Social Studies curriculum on "Legacies of Ancient Civilisations". Through artefacts and interactive exhibits from ancient China, India and Southeast Asia, students examined how early civilisations made significant contributions in areas such as writing systems, trade networks, art and architecture. They discovered how these achievements continue to shape societies and influence our world today.
 
-<img src="/images/About%20Us/social%20studies%20learning%20journey.png">
+The visit also encouraged them to think critically, ask questions, and appreciate the importance of heritage preservation in understanding our shared Asian identity.
+
+<img src="/images/51_1.png">
