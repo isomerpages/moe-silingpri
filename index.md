@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banners/SLPS_Banner__4_.png
+      background: /images/Hero Banners/SLPS_Banner__5_.png
       key_highlights:
         - title: SLS
           description: Student Learning Space
