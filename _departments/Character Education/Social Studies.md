@@ -23,7 +23,7 @@ Our Primary 2 students went for their first Field-Based Learning (FBL) to Nation
 
 Our Primary Three pupils embarked on their first Museum-Based learning to Geylang Serai Heritage Gallery. Through a guided tour of the vibrant Geylang Serai Market, they explored traditional Malay Kampung houses, local cuisines, clothing and spices. The students also discovered the rich history of Geylang Serai and gained deeper insights into the architectural heritage and cultural practices of the Malay-Muslim community in Singapore.
 
-<img src="/images/48.png">
+<img src="/images/48_1.png">
 		 
 **MBL to**&nbsp;**Kreta Ayer Heritage Gallery**&nbsp;**– Primary Four**
 
