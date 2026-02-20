@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Canteen Stall For Rent.md
       - Our Alumni Our Pride/.keep
       - Our Alumni Our Pride/Overview.md
       - Our Alumni Our Pride/2024 Graduates.md
@@ -15,3 +14,4 @@ collections:
       - Our Alumni Our Pride/2017 Graduates.md
       - Our Alumni Our Pride/2016 Graduates.md
       - Parents in Partnership.md
+      - Canteen Stall For Rent.md
