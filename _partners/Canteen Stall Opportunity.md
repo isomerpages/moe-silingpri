@@ -36,7 +36,7 @@ etc</p>
 </ul>
 </li>
 <li>
-<p>Submit the completed application form and documents by closing date via
+<p>Submit the completed application form and documents via
 email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
