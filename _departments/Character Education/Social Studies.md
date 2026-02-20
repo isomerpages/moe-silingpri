@@ -16,7 +16,7 @@ FBL is part of the Social Studies curriculum where students explore, construct n
 
 **FBL to National Orchid Garden – Primary Two**
 
-Our Primary 2 students went for their first Field-Based Learning (FBL) to National Orchid Garden. FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about our National Symbols and develop an appreciation for the diverse communities in Singapore.
+Our Primary Two pupils went for their first Field-Based Learning (FBL) to National Orchid Garden. FBL is part of the Social Studies curriculum where students explore, construct new knowledge and make connections to the topic being studied. Through this inquiry and authentic learning experience, students learn about our National Symbols and develop an appreciation for the diverse communities in Singapore.
 <img src="/images/47.png">
 
 **MBL to Geylang Serai Heritage Gallery – Primary Three**
@@ -42,7 +42,7 @@ The experience deepened their appreciation of shared heritage and cultural diver
 
 **MBL to Asian Civilisations Museum – Primary Six**
 
-Our Primary 6 students explored the Asian Civilisations Museum (ACM) as part of their Social Studies curriculum on "Legacies of Ancient Civilisations". Through artefacts and interactive exhibits from ancient China, India and Southeast Asia, students examined how early civilisations made significant contributions in areas such as writing systems, trade networks, art and architecture. They discovered how these achievements continue to shape societies and influence our world today.
+Our Primary Six pupils explored the Asian Civilisations Museum (ACM) as part of their Social Studies curriculum on "Legacies of Ancient Civilisations". Through artefacts and interactive exhibits from ancient China, India and Southeast Asia, students examined how early civilisations made significant contributions in areas such as writing systems, trade networks, art and architecture. They discovered how these achievements continue to shape societies and influence our world today.
 
 The visit also encouraged them to think critically, ask questions, and appreciate the importance of heritage preservation in understanding our shared Asian identity.
 
