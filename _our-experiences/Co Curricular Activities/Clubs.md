@@ -11,7 +11,7 @@ variant: markdown
 
 ### Art Club
 
-<img src="/images/Art.png" style="width:400px;margin-right:-25px;margin-left:-40px" align="left"> 
+<img src="/images/Our%20Experiences/11_art.png" style="width:400px;margin-right:-25px;margin-left:-40px" align="left"> 
 
 **Through Art, we hope to:**&nbsp;
 
@@ -46,7 +46,7 @@ Ms Siti Nur Atiqa bte Zahrin, Josephine Loh
 
 ### Infocomm Club
 
-<img src="/images/Infocomm.png" style="width:450px;margin-right:-30px;margin-left:-34px" align="left"> 
+<img src="/images/Our%20Experiences/13_ict.png" style="width:450px;margin-right:-30px;margin-left:-34px" align="left"> 
 
 **Infocomm Club:**  
 
@@ -63,7 +63,7 @@ Mdm Katijah Beevi D/O Auwlia M, Ms Chong Wen Shan Rosamund, Ms Quah Yee Wen, Mr 
 
 ### SciEinsteins Club
 
-<img src="/images/Scieinsteins.png" style="width:400px;margin-right:-15px;margin-left:-44px" align="left"> 
+<img src="/images/Our%20Experiences/14__sci.png" style="width:400px;margin-right:-15px;margin-left:-44px" align="left"> 
 
 We aim to inspire joy in the learning of science through experimentation and exploration.&nbsp;We uncover mysteries behind how everyday things work and discover new facts about the environment around us.&nbsp;We also learn to show respect and care for the earth and provide opportunities for our pupils to lead one another.
 
