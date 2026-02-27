@@ -17,7 +17,7 @@ and energy, followed by a delightful surprise finale dance by the teachers.
 Laughter, applause, and smiles filled the air as the entire school community
 came together to celebrate the joy and traditions of the Lunar New Year.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CNY_Celebrations__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/39_mt.png">
 </div>
 <p><strong>Mother Tongue Fortnight</strong>
 </p>
