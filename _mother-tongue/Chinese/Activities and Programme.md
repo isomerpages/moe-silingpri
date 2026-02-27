@@ -31,7 +31,7 @@ them to participate actively in the learning process. In a relaxed and
 supportive classroom environment, students are able to experience the joy
 of learning and gradually achieve their learning objectives step by step.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Chinese_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/37_mt.png">
 </div>
 <p><strong>iPad-Assisted Learning</strong>
 </p>
