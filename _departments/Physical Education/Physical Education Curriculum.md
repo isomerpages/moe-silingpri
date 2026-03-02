@@ -9,7 +9,7 @@ variant: markdown
 
 
 ##### PE Curriculum
-<img src="/images/Our%20Experiences/Physical%20Education/PE_Curriculum_Overview.png" style="width:70%;margin-right:-45px;" align="right">
+<img src="/images/60_pe.png" style="width:70%;margin-right:-45px;" align="right">
 
 The Physical Education (PE) programme is an integral component of Singapore’s school curriculum. 
 
@@ -22,7 +22,7 @@ There are seven learning areas that facilitate learning in every student:
 *   Athletics (from Primary 3)  
     
 *   Dance  
-    <img src="/images/Our%20Experiences/Physical%20Education/PE_Curriculum.png" style="width:75%;margin-right:-45px;" align="right">
+    <img src="/images/61_pe.png" style="width:75%;margin-right:-45px;" align="right">
 *   Games and Sports  
     
 *   Gymnastics  
