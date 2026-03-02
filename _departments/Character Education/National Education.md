@@ -61,6 +61,6 @@ Our school commemorated International Friendship Day (IFD) to emphasize the impo
 
 In line with this year's focus country, the Philippines, our pupil emcees shared engaging presentations featuring its demographics, places of interest, festivals, food and rich cultural heritage. The assembly concluded on a high note with a lively cultural performance that showcased the vibrancy and traditions of the Filipino community.
 
-Beyond the assembly, students were immersed in Filipino culture through a variety of recess activities. They sampled popular Filipino treats prepared by our canteen vendors, participated in hands-on craft activities, and captured memorable moments at a themed photo booth featuring traditional costumes and accessories. An interactive online quiz via iPads further tested their knowledge, while CCE lessons deepened their understanding of ASEAN and Singapore's role within the region.
+Beyond the assembly, students were immersed in Filipino culture through a variety of recess activities. They participated in hands-on craft activities and had the opportunity to don traditional Filipino costumes and accessories, experiencing the culture in a meaningful and engaging way. An interactive online quiz via iPads further tested their knowledge, while CCE lessons deepened their understanding of ASEAN and Singapore's role within the region.
 
 It was truly an enriching and memorable experience, equipping our students with a stronger appreciation of cultural diversity and the importance of building meaningful connections in a complex world.
