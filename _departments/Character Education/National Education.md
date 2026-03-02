@@ -55,10 +55,12 @@ The school celebrated National Day with a vibrant and meaningful programme that 
 
 **International Friendship Day**  
 
-Our school commemorated International Friendship Day (IFD) to emphasize the importance for Singapore to maintain good relations with our neighbouring ASEAN countries and the theme for this year is “**Connected Communities**”. The ASEAN country, which we focused on, was Vietnam. Our talented pupil emcees shared pictures and videos about Vietnam, such as the demographics, places of interest, festivals, food and culture. The assembly ended beautifully with three of our parent volunteers performing a traditional Vietnamese dance for our pupils.
+Our school commemorated International Friendship Day (IFD) to emphasize the importance for Singapore to maintain good relations with our neighbouring ASEAN countries. This year's theme,  “**Forging Friendships in a Complex World**”, highlights the importance of international cooperation in an increasingly interconnected and rapidly evolving global landscape. Through IFD, our students gained greater awareness of Singapore's geopolitical realities and reflected on the value of friendship, collaboration among diverse communities, cross-cultural skills, and developing a global mindset.
 
 <img src="/images/46_ce.png">
 
-In order to encourage our pupils to celebrate the diversity and vibrancy of the different cultures of people from different backgrounds, particularly Vietnam, we create opportunities for our pupils to be immersed in Vietnamese culture through various activities during recess. Our pupils had the opportunity to try Vietnamese food such as glass noodle, spring rolls and mango sticky rice, prepared by our canteen vendors. They also had fun creating paper fans and took photos of themselves donning the Vietnamese costumes and accessories at the photo booth. There was also an online quiz through the use of iPad to test their knowledge about Vietnam. CCE lessons were also carried out to enable pupils to build their knowledge and understanding on ASEAN.
+In line with this year's focus country, the Philippines, our pupil emcees shared engaging presentations featuring its demographics, places of interest, festivals, food and rich cultural heritage. The assembly concluded on a high note with a lively cultural performance that showcased the vibrancy and traditions of the Filipino community.
 
-It was indeed an enjoyable and memorable week for our pupils!
+Beyond the assembly, students were immersed in Filipino culture through a variety of recess activities. They sampled popular Filipino treats prepared by our canteen vendors, participated in hands-on craft activities, and captured memorable moments at a themed photo booth featuring traditional costumes and accessories. An interactive online quiz via iPads further tested their knowledge, while CCE lessons deepened their understanding of ASEAN and Singapore's role within the region.
+
+It was truly an enriching and memorable experience, equipping our students with a stronger appreciation of cultural diversity and the importance of building meaningful connections in a complex world.
