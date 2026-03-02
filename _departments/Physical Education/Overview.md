@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Physical Education
 
-![](/images/Our%20Experiences/Physical%20Education/PE_Overview_01.png)
+![](/images/59_pe.png)
 ##### Vision
 
 Students to be active and enjoy a lifetime of active, healthy living
