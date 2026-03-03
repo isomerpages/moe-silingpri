@@ -8,7 +8,7 @@ variant: markdown
 ### Learning for Life Programme
 
 **LLP: Community and Student Leadership**
-<img src="/images/17.png">
+<img src="/images/71_sd.png">
 The school’s LLP programme on Community and Student Leadership sees an integration of student leadership in the community – beginning with self and family, through our school’s key programmes.
 
 
@@ -33,10 +33,10 @@ Students learn to look out for opportunities to serve the school community by pr
 
 
 **Appreciation Projects for Non-teaching (Admin) and Cleaning Staff.**
-<img src="/images/Our%20Experiences/Student%20Development/LLP_Non_teaching_staff.png">
+<img src="/images/72_sd.png">
 
 **Students' Suggestions**
-<img src="/images/18.png">
+<img src="/images/73_sd.png">
 **Primary 5 and 6 - External Community**
 Students serve the external community by being a part of our school’s outreach efforts like the kindergarten outreach programme where they teach or impart basic skills sets to kindergarteners.
-<img src="/images/19.png">
+<img src="/images/74_sd.png">
