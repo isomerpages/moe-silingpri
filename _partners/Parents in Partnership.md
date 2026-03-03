@@ -22,13 +22,13 @@ snapshots of activities for our parents and children.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_parent_engagement.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/75_parent.png">
 </div>
 <p><strong>PARENT - CHILD BONDING</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Parent_Bonding.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/76_parent.png">
 </div>
 <p><strong>SUPPORT FROM PARENT VOLUNTEERS</strong>
 </p>
@@ -47,6 +47,6 @@ Our teacher-in-charge will contact you on this.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Fun_Week.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/77_parent.png">
 </div>
 <p></p>
