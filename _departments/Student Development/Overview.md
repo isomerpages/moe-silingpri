@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Student Development**
 
-<img src="/images/Student_development.png">
+<img src="/images/70_sd.png">
 
 ##### Our Mission Statement
 

@@ -49,7 +49,12 @@ and equip them with strategies on how to solve challenging problems.</p>
 These competitions provide a platform for pupils to demonstrate their mathematics
 skills learnt and also motivate them to strive for excellence in the learning
 of mathematics.</p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -57,7 +62,7 @@ of mathematics.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_olympiad_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31_math.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>

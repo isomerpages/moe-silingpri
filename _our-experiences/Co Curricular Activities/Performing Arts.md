@@ -14,8 +14,7 @@ variant: markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ST3UG2o1fgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Choir
-
-<img src="/images/Choir_.png" style="width:400px;margin-right:-15px;margin-left:-24px" align="left"> 
+<img src="/images/Our%20Experiences/8_choir.png" style="width:400px;margin-right:-15px;margin-left:-24px" align="left"> 
 
 In Si Ling, choir members will learn singing skills such as voice projection and pitching, be exposed to a repertoire of songs, and develop an appreciation for choral music. 
 
@@ -32,7 +31,7 @@ Through these activities, our members build self-confidence, learn about commitm
 
 #### Dance Club
 
-<img src="/images/Dance.png" style="width:400px;margin-right:-20px;margin-left:-42px" align="left"> 
+<img src="/images/Our%20Experiences/9_dance_club.png" style="width:400px;margin-right:-20px;margin-left:-42px" align="left"> 
 
 The Dance CCA aspires to groom and bring out the best in each pupil in the area of performing arts. Through dance, pupils learn the skills of coordination, flexibility and sense of rhythm.&nbsp;  
 
