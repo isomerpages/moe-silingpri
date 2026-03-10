@@ -67,44 +67,6 @@ to handle children with extra needs. Thank you!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM JOSEPHINE LOH</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Mdm Loh is a very responsible, caring, concern and hardworking teacher.
-She has taught both my kids since P1. My girl who does not know how to
-read when she joined P1 is now excellent in reading and spelling. She also
-gave out some gifts for the students to bring home just to boost their
-mood and encourage them to work harder. She also has a motherly character
-that I have seen towards the students, being extra concern about their
-studies more than I do as a mom. She has also given the chance for my elder
-daughter to show her leadership, from a monitor to a prefect now that my
-girl has developed and overcome her fear. I strongly nominated her as a
-good role model to other teachers, someone who did not give up especially
-to handle children with extra needs. Thank you!"</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MDM JOSEPHINE LOH</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Mdm Loh is a very responsible, caring, concern and hardworking teacher.
-She has taught both my kids since P1. My girl who does not know how to
-read when she joined P1 is now excellent in reading and spelling. She also
-gave out some gifts for the students to bring home just to boost their
-mood and encourage them to work harder. She also has a motherly character
-that I have seen towards the students, being extra concern about their
-studies more than I do as a mom. She has also given the chance for my elder
-daughter to show her leadership, from a monitor to a prefect now that my
-girl has developed and overcome her fear. I strongly nominated her as a
-good role model to other teachers, someone who did not give up especially
-to handle children with extra needs. Thank you!"</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>MDM SITI NUR ATIQA BTE ZAHRIN</strong>
 </p>
 </td>
@@ -162,7 +124,7 @@ excellent teacher, and the Best Year Head I could ask for."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Mdm Emelia is one teacher who was strict and supportive. My son sometime
+<p>"Mdm Emilia is one teacher who was strict and supportive. My son sometime
 I too felt a bit stiffled but eventually we both understood she had the
 best interest of my son. Thanks to her I got to know so much about how
 to navigate the PSLE and my son also learnt discipline matters. Thank you
@@ -185,11 +147,11 @@ I want to nominate her."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS CHEE LILY</strong>
+<p><strong>MRS LILYTAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I would like to recommend the most caring award for Ms Lily Tan. My daughter
+<p>I would like to recommend the most caring award for Mrs Lily Tan. My daughter
 name of Clarissa Mok has been under her tutelage for 4 years. She has shown
 her students with care, Patience and love under her charge as Form teachers
 or subjects teacher. She keep parents update promptly of their performance
