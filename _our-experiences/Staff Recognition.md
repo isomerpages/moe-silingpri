@@ -48,8 +48,7 @@ others to do the same.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM JOSEPHINE LOH</strong>
-</p>
+<p>MDM JOSEPHINE LOH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Mdm Loh is a very responsible, caring, concern and hardworking teacher.
