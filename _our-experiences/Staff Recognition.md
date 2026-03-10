@@ -151,18 +151,18 @@ I want to nominate her."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I would like to recommend the most caring award for Mrs Lily Tan. My daughter
-name of Clarissa Mok has been under her tutelage for 4 years. She has shown
-her students with care, Patience and love under her charge as Form teachers
-or subjects teacher. She keep parents update promptly of their performance
-in school. Asides from that, Mrs Tan always stretch out a helping hand
-when I need her help in school for my daughter. That's one incident that
-my daughter had an episodes of nose bleeding. She immediately informed
-the parents. Helping to calm her mood down and did simple first aid for
-her. She ensure the students returned home safely and check on the condition
-of the students as well. We are very fortunate and feel secured to be under
-Mrs Lily Tan for the few years. Hoping she can be recognize for her passion
-and caring towards her students.</p>
+<p>"I would like to recommend the most caring award for Mrs Lily Tan. My
+daughter name of Clarissa Mok has been under her tutelage for 4 years.
+She has shown her students with care, Patience and love under her charge
+as Form teachers or subjects teacher. She keep parents update promptly
+of their performance in school. Asides from that, Mrs Tan always stretch
+out a helping hand when I need her help in school for my daughter. That's
+one incident that my daughter had an episodes of nose bleeding. She immediately
+informed the parents. Helping to calm her mood down and did simple first
+aid for her. She ensure the students returned home safely and check on
+the condition of the students as well. We are very fortunate and feel secured
+to be under Mrs Lily Tan for the few years. Hoping she can be recognize
+for her passion and caring towards her students."</p>
 </td>
 </tr>
 </tbody>
