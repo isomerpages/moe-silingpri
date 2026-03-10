@@ -161,7 +161,7 @@ I want to nominate her."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS LILYTAN</strong>
+<p><strong>MRS LILY TAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
