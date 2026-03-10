@@ -123,7 +123,7 @@ excellent teacher, and the Best Year Head I could ask for."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Emilia has been my form teacher since 2024 in Primary Five. As an
+<p>"Mdm Emilia has been my form teacher since 2024 in Primary Five. As an
 amazing English Teacher, my English improved even more. She was very welcoming
 and caring. I never knew who she was, yet she treated me like one of the
 other students who she had known since Primary 3. She will share inspiring
@@ -136,7 +136,7 @@ Whenever exam period is close, she won't hesitate to give us a break and
 have some fun activities. If we happen to be sick, she will check in on
 us and make sure we are okay. If we feel stressed about exams or anything,
 she will ask if we are okay. She treats everyone fairly and can be very
-funny at times. This is why I think she deserves this award.</p>
+funny at times. This is why I think she deserves this award."</p>
 <hr>
 <p>"Mdm Emilia is one teacher who was strict and supportive. My son sometime
 I too felt a bit stiffled but eventually we both understood she had the
