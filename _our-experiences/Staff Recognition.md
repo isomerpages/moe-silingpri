@@ -63,6 +63,7 @@ daughter to show her leadership, from a monitor to a prefect now that my
 girl has developed and overcome her fear. I strongly nominated her as a
 good role model to other teachers, someone who did not give up especially
 to handle children with extra needs. Thank you!"</p>
+<p></p>
 <p><em>- Ms Fadilah</em>
 </p>
 </td>
@@ -147,7 +148,7 @@ us and make sure we are okay. If we feel stressed about exams or anything,
 she will ask if we are okay. She treats everyone fairly and can be very
 funny at times. This is why I think she deserves this award."</p>
 <p></p>
-<p><em>- Sophia</em>
+<p><em>- Sophia (Student)</em>
 </p>
 <hr>
 <p>"I am nominating Mdm Emilia for the Caring Teacher Awards because of her
