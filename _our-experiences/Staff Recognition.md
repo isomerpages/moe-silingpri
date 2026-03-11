@@ -48,7 +48,8 @@ others to do the same.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM JOSEPHINE LOH</p>
+<p><strong>MDM JOSEPHINE LOH</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Mdm Loh is a very responsible, caring, concern and hardworking teacher.
@@ -62,6 +63,8 @@ daughter to show her leadership, from a monitor to a prefect now that my
 girl has developed and overcome her fear. I strongly nominated her as a
 good role model to other teachers, someone who did not give up especially
 to handle children with extra needs. Thank you!"</p>
+<p><em>- Ms Fadilah</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,6 +90,9 @@ potential and dediction as a teacher. However, I might notice that she
 is rather a quiet teacher. Therefore, I am giving this write up to her
 to nominate her for the teachers' award. I truly hope she wins. Good luck
 Madam Atiqa."</p>
+<p></p>
+<p><em>- Ms Mazlina</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,6 +121,9 @@ can stay fit and motivated after these setbacks, we can too. Mr Jalil is
 a motivational and inspiring teacher that I adore. I am sure his positive
 vibe and aura that he brings to school brightens pupils' day. He is an
 excellent teacher, and the Best Year Head I could ask for."</p>
+<p></p>
+<p><em>- Ms Toh</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,12 +146,9 @@ have some fun activities. If we happen to be sick, she will check in on
 us and make sure we are okay. If we feel stressed about exams or anything,
 she will ask if we are okay. She treats everyone fairly and can be very
 funny at times. This is why I think she deserves this award."</p>
-<hr>
-<p>"Mdm Emilia is one teacher who was strict and supportive. My son sometime
-I too felt a bit stiffled but eventually we both understood she had the
-best interest of my son. Thanks to her I got to know so much about how
-to navigate the PSLE and my son also learnt discipline matters. Thank you
-for being invested in him ma'am."</p>
+<p></p>
+<p><em>- Sophia</em>
+</p>
 <hr>
 <p>"I am nominating Mdm Emilia for the Caring Teacher Awards because of her
 genuine compassion towards the students' wellbeing. I first came to know
@@ -157,6 +163,9 @@ learn and grow. Once, she sort of handled a bullying case by bringing it
 out to the class and sought ways and taught us that bullying is wrong.
 She is not only thoughtful, but indelibly kind and full of wisdom. Hence
 I want to nominate her."</p>
+<p></p>
+<p><em>- Mr Teo</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -177,6 +186,9 @@ aid for her. She ensure the students returned home safely and check on
 the condition of the students as well. We are very fortunate and feel secured
 to be under Mrs Lily Tan for the few years. Hoping she can be recognize
 for her passion and caring towards her students."</p>
+<p></p>
+<p><em>- Ms Teo</em>
+</p>
 </td>
 </tr>
 </tbody>
