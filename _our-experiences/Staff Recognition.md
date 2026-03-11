@@ -153,10 +153,10 @@ She keeps parents promptly updated on their children’s progress and performanc
 in school. Beyond this, Ms Tan is always willing to extend a helping hand
 whenever I seek her support regarding my child. On one occasion, my child
 experienced a nosebleed in school. Ms Tan immediately informed us, calmly
-gave reassurance, administered basic first aid, ensured that my child returned
-home safely. I feel very fortunate and reassured to have Ms Tan care for
-my child over the years. I sincerely hope she will be recognised for her
-dedication, compassion, and genuine care for her students."</p>
+gave reassurance, administered basic first aid and ensured that my child
+returned home safely. I feel very fortunate and reassured to have Ms Tan
+care for my child over the years. I sincerely hope she will be recognised
+for her dedication, compassion, and genuine care for her students."</p>
 <p></p>
 <p><em>- Ms Teo</em>
 </p>
