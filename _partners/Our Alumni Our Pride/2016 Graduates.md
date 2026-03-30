@@ -14,4 +14,5 @@ variant: markdown
 
 #### Isha Chandra Gowda
 **St Margaret’s Secondary School**
+
 <img src="/images/at25.png" style="width:180px;height:180px;margin-right:15px;" align="left"> “The dedicated and caring teachers at Si Ling Primary School have really helped me grow as a person academically and morally. They have always emphasised on the importance of right moral values and how to be a person with integrity and respect for others. My entire primary school experience was well-rounded and I couldn't be more proud to say I was a student of SLPS. Certainly, Si Ling has changed my life and I cannot thank the teachers enough for their unconditional love, care and support for an amazing six years. Thank you, SLPS!"
