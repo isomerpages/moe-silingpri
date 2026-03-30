@@ -3,11 +3,12 @@ title: 2022 Graduates
 permalink: /our-experiences/our-alumni-our-pride/permalink/
 description: ""
 third_nav_title: Our Alumni Our Pride
+variant: markdown
 ---
 ### 2022 Graduates 
 
 #### Feronica Iin
-**Current School: Raffles Girls' Schools**
+**Raffles Girls' Schools**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PN_68mOaJaA" height="315" width="560"></iframe>
 	 
 <img src="/images/alumni%20pictures%20(3).png" style="width:200px;height:180px;margin-right:15px;" align="left">&nbsp;"My experience as a student here was amazing! The teachers, friends and non-teaching staff here were really kind and helpful. 
@@ -19,7 +20,7 @@ I would not have been able to perform well without the help and support of my te
 Si Ling Primary School has provided me with many opportunities for me to develop myself, such as ‘I am a Young Entrepreneur’ and Sports Day. These activities developed me holistically."
 
 #### Juhi Vora 
-**Current School: Singapore Chinese Girls' School**
+**Singapore Chinese Girls' School**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/51p7nPfwDY0" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/juhi%20vora%20picture.png" style="width:200px;height:180px; margin-right:15px;" align="left">&nbsp;"Throughout my wonderful journey in SLPS, not only did I pick up many moral values and life skills along the way but I also fully enjoyed myself at every moment of it. I had very supportive friends and my teachers were very helpful. 
@@ -29,7 +30,7 @@ They would always be ready to help me clear my doubts, even after school. SLPS a
 I am sure that every student will thrive in Si Ling Primary School's friendly and nurturing environment and lastly, I would like to say that I am very grateful to  SLPS  for teaching me to strive to be the best that I can be."
 
 #### Thivyana Shre Vikashini Gunase 
-**Current School:Anderson Secondary School**
+**Anderson Secondary School**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8d3lIqEdeKQ" height="315" width="560"></iframe>
 <img src="/images/About%20Us/thivyana.png" style="width:200px;height:200px; margin-right:15px;" align="left">
 
@@ -38,7 +39,7 @@ I am sure that every student will thrive in Si Ling Primary School's friendly an
 SLPS has provided me with many opportunities to develop my strengths and overcome my weaknesses. I would like to thank all my teachers, especially my Primary 6 teachers for supporting me throughout the tough year."
 
 #### Kje Pyu Shin 
-**Current School: Chung Cheng High School (Yishun)**
+**Chung Cheng High School (Yishun)**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2KzF_-nDSVM" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/kje%20phyu%20shin%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">&nbsp;"My experience in Si Ling was truly unforgettable. I was provided with several new and exciting opportunities. I would like to thank all the teachers who have taught me since I joined the Si Ling family. 
@@ -46,7 +47,7 @@ SLPS has provided me with many opportunities to develop my strengths and overcom
 They not only helped me academically but also instilled good values, such as perseverance and solidarity, which helped me become a better person. They have always believed in me and guided me patiently. Even though my journey in Si Ling has come to an end, I will always cherish the memories and experiences I had there."
 
 #### Arun Rajesh Lekhashree
-**Current School: Anderson Secondary School**
+**Anderson Secondary School**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9OZmuPRQkr8" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/arun%20rajeesh%20lekhashree.jpeg" style="width:190px;height:200px; margin-right:15px;" align="left">
@@ -60,7 +61,7 @@ It gave me a sense of responsibility and to be a good role model to my peers.
 Si Ling Primary School helped me hone my leadership skills. It helped me find the potential in me. Si Ling also taught me many invaluable life lessons and values which are still useful for secondary school and for my future."
 
 #### Lamin May Thu 
-**Current School: Nan Hua High School**
+**Nan Hua High School**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I7w5DlAqGXo" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/lamin%20alumni%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
@@ -72,7 +73,7 @@ Si Ling Primary School allowed me to develop leadership qualities as I had been 
 A defining moment in Si Ling Primary School which helped me realise what I wanted to be when I grew up was when I first found out that I had a knack for math. So, at that time, I started to love math and I loved studying. So, at that moment, I wanted to be an engineer when I grew up."
 
 #### Phyo Thet Pai 
-**Current School: Saint Joseph's Institution (IP) Programme**
+**Saint Joseph's Institution (IP) Programme**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Nze97qA3jq4" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/phyo%20thet%20pai.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
@@ -83,7 +84,7 @@ My proudest moment in SLPS was when I performed for Recognition Day.  I performe
 My love for Maths blossomed further when I was selected to participate in the  Math Olympiad. It was truly a wonderful opportunity."
 
 #### Lim Si Tong 
-**Current School:Nanyng Girls' High**
+**Nanyng Girls' High**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/svkqXsK5KD4" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/lim%20si%20tong%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
@@ -91,7 +92,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 &nbsp;"My experience as a student in Si Ling Primary School was very fulfilling and exciting. I made many memories with my friends and teachers, especially after PSLE. My proudest moment was when I became the Assistant Head Prefect. I was given many opportunities to develop myself as a leader. I led my peers and planned events for the school like Teachers Day. Although it may be tough sometimes, I know that I have my classmates and teachers to fall back on."
 
 #### Yan Xin Yi 
-**Current School: Chung Cheng High School (Yishun)**
+**Chung Cheng High School (Yishun)**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YlUVlTmQEr4" height="315" width="560"></iframe>
 
 <img src="/images/About%20Us/yan%20xinyi.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
@@ -100,7 +101,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 
 
 #### Lukas Cher
-**Current School: Chung Cheng High School (Yishun)**
+**Chung Cheng High School (Yishun)**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d-8eZXizdx4" height="315" width="560"></iframe>
 <img src="/images/About%20Us/lukas%20cher%20alumni.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left"> 
 
@@ -108,7 +109,7 @@ My love for Maths blossomed further when I was selected to participate in the  M
 One beautiful memory I had in Si Ling Primary was the trip to the Singapore Discovery Centre after PSLE. Over there, there were many fun and exciting activities like Laser Tag and the Escape Room. We also learnt about Singapore's history after all the games."
 
 #### Zara Sophia
-**Current School:Raffles Girls' Secondary School**
+**Raffles Girls' Secondary School**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KtI8i7XwkB0" height="315" width="560"></iframe>
 <img src="/images/About%20Us/zara%20sophia%20.jpeg" style="width:200px;height:200px; margin-right:15px;" align="left">
 
