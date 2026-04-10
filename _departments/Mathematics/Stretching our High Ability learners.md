@@ -1,12 +1,12 @@
 ---
-title: Stretching our High progressing learners
-permalink: /departments/mathematics/high-progressing-learners/
+title: Stretching our High Ability learners
+permalink: /departments/mathematics/high-ability-learners/
 description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<h3><strong>Stretching our High-Progressing Learners</strong></h3>
-<p>In Si Ling, high-progressing learners can participate in enrichment programmes
+<h3><strong>Stretching our High-Ability Learners</strong></h3>
+<p>In Si Ling, high-ability learners can participate in enrichment programmes
 and activities that ignite their interests in Mathematics and develop their
 reasoning and communication skills.</p>
 <h4>Excellence 2000 (E2K) Mathematics Programme</h4>
