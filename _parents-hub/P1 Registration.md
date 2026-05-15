@@ -17,9 +17,37 @@ during the Phase 1 registration period from <strong>9 a.m. on 30 June 2026 to 4.
 who are not Singapore Citizens (SC) or Permanent Residents (PR) seeking
 admission to a mainstream primary school.</p>
 <p>Please submit an <strong>Indication of Interest</strong> to register your
-child for Primary 1 through an online form on MOE's website from 9<strong> a.m. on Tuesday, 19 May 2026 to 4.30 p.m. on Monday, 25 May 2026</strong>. <em>Admission for international students (IS) is not guaranteed as priority will be given to SC and PR children.</em>
+child for Primary 1 through an online form on MOE's website.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From</strong>
 </p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ends</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 May 2026, Tuesday</p>
+<p>9:00 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 May 2026, Monday</p>
+<p>4.30 PM</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Admission for international students (IS) is not guaranteed as priority will be given to SC and PR children.</em>
+</p>
 <h2><strong><u>Other Phases</u></strong></h2>
 <p>For other phases, please look out for the dates &amp; other information
 below:</p>
