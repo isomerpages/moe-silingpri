@@ -10,8 +10,53 @@ description: ""
 (PR) child born between 2 January 2020 and 1 January 2021 (both dates inclusive)
 and has an older sibling currently studying in our primary school.</p>
 <p>Parents who are registering their child under Phase 1 are to register
-during the Phase 1 registration period from <strong>9 a.m. on 30 June 2026 to 4.30 p.m. on 2 July 2026</strong>.</p>
+during the Phase 1 registration period below.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 June 2026, Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>End:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 July 2026, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.30 PM</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><em>For International Students (IS)</em></h4>
 <p>Primary 1 (P1) registration for international students (IS) is for children
 who are not Singapore Citizens (SC) or Permanent Residents (PR) seeking
