@@ -19,10 +19,16 @@ admission to a mainstream primary school.</p>
 <p>Please submit an <strong>Indication of Interest</strong> to register your
 child for Primary 1 through an online form on MOE's website from 9<strong> a.m. on Tuesday, 19 May 2026 to 4.30 p.m. on Monday, 25 May 2026</strong>. <em>Admission for international students (IS) is not guaranteed as priority will be given to SC and PR children.</em>
 </p>
+<p></p>
+<h2><strong><u>Other Phases</u></strong></h2>
+<p>For other phases, please look out for the dates &amp; other information
+below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_P1_registration_phases_and_dates.jpg">
+</div>
+<p></p>
 <p>You may refer to the resources below for more information:</p>
 <p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="" target="_self">MOE P1 Website</a>
-</p>
-<p><a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="" target="_self">Dates for different phases of P1</a>
-</p>
-<p><a href="https://www.moe.gov.sg/primary/p1-registration/international-students" rel="" target="_self">P1 Registration for International Students (IS)</a>
+<br><a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="" target="_self">Dates for different phases of P1</a>
+<br><a href="https://www.moe.gov.sg/primary/p1-registration/international-students" rel="" target="_self">P1 Registration for International Students (IS)</a>
 </p>
