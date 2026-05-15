@@ -44,12 +44,6 @@ sections:
             and updates.
           link_text: ""
           link_url: ""
-        - title: Caring Teacher Awards (CTA) 2026
-          date: 15 September 2025
-          announcement: "Help us celebrate our dedicated teachers by nominating them for
-            CTA today!  Click below:"
-          link_text: More information
-          link_url: /caring-teacher-awards-cta-2026/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
