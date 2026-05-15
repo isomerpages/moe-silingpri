@@ -26,6 +26,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: P1 Registration 2027
+          date: 15 May 2026
+          announcement: Phase 1 registration is starting soon. Click below to read up on
+            the registration phases, dates and what to prepare.
+          link_text: More information
+          link_url: https://www.silingpri.moe.edu.sg/p1-registration
         - title: Canteen Stall Opportunity
           date: 20 February 2026
           announcement: Interested in running a canteen stall in our school? Click below
@@ -38,12 +44,6 @@ sections:
             and updates.
           link_text: ""
           link_url: ""
-        - title: Caring Teacher Awards (CTA) 2026
-          date: 15 September 2025
-          announcement: "Help us celebrate our dedicated teachers by nominating them for
-            CTA today!  Click below:"
-          link_text: More information
-          link_url: /caring-teacher-awards-cta-2026/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
