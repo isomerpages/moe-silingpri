@@ -26,24 +26,30 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: New Online Forms for MTL Applications and Appeals
+          date: 25 June 2026
+          announcement: From 6 July 2026, parents can submit Mother Tongue Language (MTL)
+            applications and appeals through FormSG.
+          link_text: More information
+          link_url: https://silingpri.moe.edu.sg/mtl-appplications-and-appeals/
         - title: P1 Registration 2027
           date: 15 May 2026
           announcement: Phase 1 registration is starting soon. Click below to read up on
             the registration phases, dates and what to prepare.
           link_text: More information
           link_url: https://www.silingpri.moe.edu.sg/p1-registration
-        - title: Canteen Stall Opportunity
-          date: 20 February 2026
-          announcement: Interested in running a canteen stall in our school? Click below
-            to find out more.
-          link_text: More information
-          link_url: https://www.silingpri.moe.edu.sg/canteen-stall-opportunity/
         - title: Key Updates for 2026
           date: 02 December 2025
           announcement: Please refer to the Parents Gateway app for the latest resources
             and updates.
           link_text: ""
           link_url: ""
+        - title: Canteen Stall Opportunity
+          date: 20 February 2026
+          announcement: Interested in running a canteen stall in our school? Click below
+            to find out more.
+          link_text: More information
+          link_url: https://www.silingpri.moe.edu.sg/canteen-stall-opportunity/
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive

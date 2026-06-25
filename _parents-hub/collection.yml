@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Mother Tongue Language (MTL) Appplications and Appeals.md
       - P1 Registration.md
       - Calendar.md
       - School Services/.keep
