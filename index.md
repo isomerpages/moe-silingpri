@@ -44,6 +44,13 @@ sections:
             and updates.
           link_text: ""
           link_url: ""
+        - title: New Online Forms for MTL Applications and Appeals
+          date: 25 June 2026
+          announcement: From 6 July 2026, parents can submit Mother Tongue Language (MTL)
+            applications and appeals through FormSG. Click below to find out
+            more.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Discovering Si Ling
       subtitle: Where learning comes alive
