@@ -45,8 +45,75 @@ or QR codes below.</p>
 <p>Once you have submitted the form, the school will be notified and will
 process your application or appeal. The school will then inform you of
 the outcome.</p>
-<h4><strong>Need Help?</strong></h4>
-<p>If you are unable to submit via FormSG, please approach our school directly
-for assistance.</p>
+<h4><strong>Unable to submit online?</strong></h4>
+<p>If you are unable to submit via FormSG, please visit our General Office
+and our staff will assist you with the necesary forms.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Form Code</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Application</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 1 - MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To offer an official Mother Tongue Language (Chinese/Malay/Tamil) that
+​is not the student's default MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 2 - EXPT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be exempted from offering MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 3 - NTIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To offer a Non-Tamil Indian Language (NTIL)&nbsp;(Bengali/ Gujarati/ Hindi/
+Punjabi/ Urdu) in lieu of an official MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 4 - CHGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To change from an approved MTL to an official MTL (Chinese/Malay/Tamil)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 5 - AsLFL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To offer an approved Asian Language (Arabic, Burmese, Thai)/ Foreign Language
+(French, German, Japanese) in lieu of an official MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form 6 - REVOKE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To revoke MTL exemption</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
