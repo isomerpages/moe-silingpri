@@ -48,22 +48,7 @@ We provide opportunities and a safe environment for every pupil to enjoy floorba
 Floorball is a fast-paced stick and ball sport that is safe, fun, inclusive, and easy to learn.  
 &nbsp;
 
-**Teachers-in-charge:**&nbsp;Mr Jeffrey Low Kok Wah, Mdm Rita Ashikyn Bte Marhajas, Ms Huang Yihui Terrenz, Mdm Shanom Farsa Bte Sarry
-
-
-#### Floorball (Girls)
-
-<img src="/images/Floorball_Girls.png" style="width:450px;margin-right:-15px;margin-left:-20px" align="left"> 
-
-Floorball is a fast paced game that requires skills, stamina and strategies.&nbsp;In this CCA, we provide the space to explore, learn and experience the game in a safe environment.&nbsp;
-
-Girls will learn to react, to respond in game like situations as well as to master their skills in ball control and stick work through the tasks given during training sessions.
-
-**Achievements:**&nbsp;
-
-*      2nd place in National School Games 2024 Tier 2;  
-
-**Teachers-in-charge:**&nbsp;Mr Jeffrey Low Kok Wah, Mdm Rita Ashikyn Bte Marhajas, Ms Huang Yihui Terrenz, Mdm Shanom Farsa Bte Sarry
+**Teachers-in-charge:**&nbsp;Mr Jeffrey Low Kok Wah, Mdm Rita Ashikyn Bte Marhajas, Mdm Shanom Farsa Bte Sarry
 
 #### Football Boys
 
