@@ -71,10 +71,8 @@ reset and unlocking of accounts, as well as queries about lesson assignments.</p
 <br>6269 8832 (General Office), 8.00 am to 4.00 pm during office hours.
 <br>
 <br>SLS Administrator:
-<br>Ms Chong Leng Cher (P1 to P3):</p>
-<p>chong_leng_cher@moe.edu.sg
-<br>Ms Rosamund Chong (P4 to P6):</p>
-<p>chong_wen_shan_rosamund@moe.edu.sg
+<br>Ms Chong Leng Cher (P1 to P3): <a href="mailto:chong_leng_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_leng_cher@moe.edu.sg</a> 
+<br>Ms Rosamund Chong (P4 to P6): <a href="mailto:chong_wen_shan_rosamund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_wen_shan_rosamund@moe.edu.sg</a>
 <br>
 <br>When emailing the SLS Administrator, students should include the full
 name, form class, and a brief description of the issues encountered.
