@@ -56,11 +56,6 @@ variant: markdown
     </tr>
     <tr>
       <td>5 Innovation</td>
-			<td>
-        MS HUANG YIHUI TERRENZ<br>
-				<strong>SH ICT</strong><br>
-        huang_yihui_terrenz@moe.edu.sg
-      </td>
       <td>
         MR SAIFUL BIN SAPARI<br>
 				<strong>SH Malay Language</strong><br>
