@@ -111,6 +111,7 @@ variant: markdown
       <td>6 Innovation</td>
       <td>
         MR NG HAN PO<br>
+				<strong>ST Mathematics</strong><br>
         ng_han_po@moe.edu.sg
       </td>
       <td>
