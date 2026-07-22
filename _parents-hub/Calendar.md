@@ -6,7 +6,6 @@ variant: markdown
 ---
 ### Calendar
 
-[2026 Term 1 Calendar of Event](/files/2026_TERM_1_COE.pdf)
+[2026 Term 3 Calendar of Event](/files/2026_Term_3_COE.pdf)
 
-<iframe style="width:100%; height:1000px; border:0;" src="https://docs.google.com/document/d/e/2PACX-1vTOEoclhLtQa2M8G_uWKhdAMOAo0UDc8dJ1E09ZZUqsLFKEfLzR4nqe21jPuksaYw/pub?embedded=true">
-</iframe>
+![2026 Term 3 COE Part1](/images/Screenshot_2026_07_22_083436.png)![2026 Term 3 COE Part2](/images/Screenshot_2026_07_22_083450.png)
