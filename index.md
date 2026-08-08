@@ -32,7 +32,7 @@ sections:
             (ECHA) 2026 recognises pupils who demonstrate exemplary character
             and outstanding personal qualities.  Nominations are open from 7 to
             23 August 2026.
-          link_text: Find our more and submit your nomination today.
+          link_text: Find out more and submit your nomination today.
           link_url: /edusave-character-award-echa-2026/
         - title: New Online Forms for MTL Applications and Appeals
           date: 25 June 2026
