@@ -26,7 +26,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Edusave Character Award 2026
+        - title: Edusave Character Award (ECHA) 2026
           date: 08 August 2026
           announcement: Know a pupil who inspires others?  The Edusave Character Award
             (ECHA) 2026 recognises pupils who demonstrate exemplary character
