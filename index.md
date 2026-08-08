@@ -26,6 +26,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Edusave Character Award (ECHA) 2026
+          date: 08 August 2026
+          announcement: Know a pupil who inspires others? Nominate them for the Edusave
+            Character Award (ECHA) 2026.  Nominations are open from 7 to 23
+            August 2026.
+          link_text: Find out more and nominate them today.
+          link_url: /edusave-character-award-echa-2026/
         - title: New Online Forms for MTL Applications and Appeals
           date: 25 June 2026
           announcement: From 6 July 2026, parents can submit Mother Tongue Language (MTL)
