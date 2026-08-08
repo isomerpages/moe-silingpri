@@ -45,7 +45,7 @@ cleaner, and happier place.</p>
 </li>
 </ol>
 <h4><strong>How to nominate?</strong></h4>
-<p>Parents, stakeholders, and staff may submit nominations via our <a href="https://form.gov.sg/6882564b6db0f97d95f02389" rel="noopener nofollow" target="_blank">FormSG link</a> from <strong>7 to 23 August 2026</strong>.
+<p>Parents, stakeholders, and staff may submit nominations via our <a href="https://form.gov.sg/6a73585c9407ca4c9e716f2c" rel="noopener nofollow" target="_blank">FormSG link</a> from <strong>7 to 23 August 2026</strong>.
 Please note that <u>incomplete or late submissions will not be considered</u>.</p>
 <p></p>
 <h4><strong>Selection and Endorsement</strong></h4>
