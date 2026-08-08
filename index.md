@@ -26,6 +26,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Edusave Character Award 2026
+          date: 08 August 2026
+          announcement: Know a pupil who inspires others?  The Edusave Character Award
+            (ECHA) 2026 recognises pupils who demonstrate exemplary character
+            and outstanding personal qualities.  Nominations are open from 7 to
+            23 August 2026.
+          link_text: Find our more and submit your nomination today.
+          link_url: https://www.silingpri.moe.edu.sg/
         - title: New Online Forms for MTL Applications and Appeals
           date: 25 June 2026
           announcement: From 6 July 2026, parents can submit Mother Tongue Language (MTL)
